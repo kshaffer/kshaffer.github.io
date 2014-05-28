@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Why grade?"
+date: 2014-03-18 20:21
+comments: true
+categories: 
+tags:
+- pedagogy  
+- grades  
+- assessment  
+- criterion-referenced grading  
+- average-based grading  
+- teaching
+---
+
+I've been thinking about grading a lot lately. Not only am I doing a lot of it—way more than I would like—and supervising grad students who are doing it, but I've been following various debates about Common Core, standardized tests, and the like online. Assessing students is a core part of what I do as a professor, and as I have modified the way I assess over the years, I have seen both positive and negative effects of different ways it can be done, both in my assessments, and in students' attitudes and expectations surrounding assessment based on their past experiences. Poor assessment methods can do real harm to students—financially, as it affects scholarships and post-college prospects, and psychologically, as it shapes their attitudes towards learning and towards specific class activities. As much as we who teach may want to simply blow it off, or do it quickly and think about it as little as possible (or pawn it off on a grad student without much consideration), we need to be careful how we assess if we care about our students' academic success and their general well-being.
+
+With all that in mind, how can we assess students' learning in a way that is helpful and not harmful? Do we need to assess them at all? And do letter grades have anything to do with meaningful assessment? Those are some of the questions I've been thinking through for some time, and with a bit more urgency lately for whatever reason. Below I offer my insights as they currently stand. I'd love to hear more from others who have thought about these things, as well.
+
+## What do grades do? ##
+
+Let's start with letter grades, since that's what most of us think of when we think of academic assessment. What do they do?
+
+Grades do two primary things. First, they provide information after the fact about student knowledge and skills. This is called *summative assessment* (assessing a student's overall, or sum, knowledge/skills at the end of an assignment, unit, or course). Second, they provide information about student progress that can guide future learning. This is called *formative assessment* (assessment that helps form or shape, or simply motivate, plans for future learning activities).
+
+Letter grades do an absolutely horrible job of both of these things.
+
+I could give any number of examples of where letter grades fail at summative and formative assessment, but it really boils down to one simple problem: *human knowledge is too complex to represent with a single letter/percentage/score, no matter how narrow or precise the domain being assessed*. This is obvious when considering an average grade for a 15-week course that covers dozens of concepts, topics, skills, pieces of music. No single letter can represent in any meaningful way what each student knows and can do at the end of that course—let alone what they know and can do years later when a graduate school or prospective employer looks at their transcript! But this is true even for a single assignment carefully constructed to assess knowledge of a single concept—as I and others try to do in our [criterion-referenced, or standards-based assessment](http://kris.shaffermusic.com/tags/criterion-referenced-grading/) practices. Even the students who pass that carefully constructed assessment have different experiences, attitudes, goals, and backgrounds. What mastery of that concept looks like for each of them will differ, and how they will apply that concept in their academic, professional, or personal life afterwards will differ. And because of those differences, I as an instructor cannot rely solely on the results of that and other assessments to guide my subsequent pedagogical choices and the way I interact with those students in the future. How they will apply that concept to our future course activities and materials cannot be represented in the assessment result, but I *need* that information in order to serve them well in my decisions for subsequent coursework.
+
+Since grades cannot sufficiently represent human knowledge when a course of study is over, and if grades cannot provide the information necessary to guide future learning activities, I think we should eliminate them from our pedagogical methods and our institutional policies.
+
+## Should we assess our students? ##
+
+However, that does *not* mean that we should not assess our students. As I said above, I *need* information about my students in order to make sound pedagogical choices. Assessing student knowledge is not bad. Assessing a diverse group of students in the same way, using that assessment to generate a score, and then using that score to sort students (e.g., for scholarships) or to make a single pedagogical plan for all is fallacious at best. 
+
+But even more important is to realize that information about students' current knowledge or skills in the domain we're studying is not full formative assessment. Too many other things play into their ability to wrestle with, and eventually master, the material we're exploring. What are these other factors that play into student learning?
+
+Honestly, everything about a student's life is a factor. What classes have they taken? What do they remember? What skills atrophied over the summer? What is their primary instrument? What music do they listen to regularly? Do they have a crush on the person that usually sits in front of them? How much sleep did they get last night? Do they have another class before mine? Are they in the middle of a personal crisis? What did they have for breakfast? How much did they drink last night? What did they just read on Facebook? What was that noise we all just heard in the hallway? Is their seat comfortable? How bright are the lights? How warm is the room? Do they get along with their roommate? Is their roommate in the class? Is their roommate in another section of the class? Do they have a recital or concert this week? Are they going to break up with their boyfriend/girlfriend tonight?
+
+On any given day, I'd wager that a student's learning depends more on all of these personal factors than on what was covered last semester in the theory sequence. I've said before that too often we plan a course/lesson/textbook chapter assuming that all the students bring A-level knowledge from the previous course/lesson/chapter, when very few students actually do. But even more important, too often we plan a lesson assuming that the main thing that matters is what they bring from the previous lessons. In a way, this is self-centered pedagogy. It's not what I did on Monday that is the primary factor in what students will learn on Wednesday; it's what *they* did between classes (and not just what they did for my class) that determines what they will get out of the next class.
+
+I am *not* talking about stalking all of my students on Facebook and Twitter. However, I think the most important formative assessment we can do as teachers has nothing to do with the course content. We need to get to know our students. I don't need to know everyone's relationship status, but I can definitely serve a student better if I can tell they're bummed about something. I don't need to know every student's living situation, but if I know three of my students are suite mates and one of them has an electric piano in their room, I can recommend specific study strategies for them. 
+
+Let me put this another way: I have tried a wide variety of pedagogical "innovations" these past few years. In those years, two semesters stand out as having the least positive pedagogical effect on my students. They were both my *first semester* at a new university. I certainly did my research, examining syllabuses from the previous year, looking over the textbooks they had been taught from, and where possible talking with their previous instructors. But knowing what material was covered—and in many cases *by good teachers*—and how students performed on their assessments did not prepare me nearly as well as having them in class and getting to know them. Part of what I got to know was their academic side, their musical side. But also getting to know them as people. And they got to know me. And that made all the difference.
+
+Yes, I still use grades. (Ultimately I have to assign final letter grades, and as I have found out this year, my current students really care about grades throughout the course, and I can't break them of that in one fell swoop; it will take time.) And yes, I still use clicker questions, quizzes, and assignments to gather data about student progress. However, I prioritize active work in the classroom, while I walk around the room, observing and interacting. And when I find myself turning down or delaying individual student appointments because of my grading load, I rethink my plans. An hour with a student in my office can easily be worth a month of class meetings, both for me and for the student. How can I turn down an opportunity to get to know a student, just so I can have a little more data? Human minds are incredibly complex things. Until grades can actually tell me something significant about them, grades have to take a backseat.

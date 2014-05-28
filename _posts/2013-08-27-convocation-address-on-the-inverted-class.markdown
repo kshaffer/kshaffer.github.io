@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Convocation address on the inverted class"
+date: 2013-08-27 15:26
+comments: true
+categories: 
+tags:
+- inverted classroom  
+- pedagogy  
+- teaching  
+- CU  
+- music theory  
+- musicianship  
+- aural skills
+---
+
+*The following is a short address I gave to the CU College of Music convocation this morning on the inverted class. It is Creative-Commons-licensed (see bottom of post), so feel free to make tweaks and distribute it or re-use it as you see fit.*
+
+## The inverted music course ##
+
+Two years ago, a student came to my office confused by the comments on his homework. He was putting brackets and asterisks in his harmonic analysis in some very strange places, which led to a low grade. I asked him why, and he showed me in his notebook where he had learned it. During a lecture, I wrote something on the board and put an asterisk while talking to draw attention. Though I remembered writing that, I couldn't for the life of me remember why! He was paying attention, but was confused by the lecture. Though he didn't stop me with a question or find me after class, he did make sure to write down exactly what was on the board. It then went from the notebook to the assignment. Neither of us remembered what that asterisk was for. Other students had written it down, too, and they couldn't remember either!
+
+Wouldn't it be great if we could rewind that lecture and see what was happening in class to refresh our memory? 
+
+It was experiences such as this one that led me to adopt what has been labeled the "inverted" or "flipped" class. I'd love to *show* you all what an inverted class might look like. But since that's impossible in 5–7 minutes, I'll have to settle for talking about it. (Though I am more than happy to entertain visitors to my classes.)
+
+But before I explain the inverted class, let me state loudly that very little about the inverted class is qualitatively new. Not only have I stolen all of my best ideas from other faculty—math, science, and English, in addition to music—but at the core of the inverted classroom is a desire to return to some very old ideas in education: student-centered learning; a focus on deep, critical, conceptual thinking; and an increase in collaborative, personal interactions between students and each other, and students and faculty.
+
+In a nutshell, the inverted classroom takes *information transfer* (lectures, instructor demonstrations) out of the class meeting, so that class time is then devoted to more active student work. The rationale is this: the transfer and memorization of raw information can happen just as well, often better, when students work at their own pace outside of class. On the other hand, the assimilation and application of concepts require much more complex thinking; these activities are best done, or at least best begun, in the presence of peers and the professor. Further, by moving these complex activities into class time, they do not need to be graded in order to ensure they are done. This gives students a supportive environment in which they can develop complex intellectual and musical skills, a place where they can be free to make mistakes and not only learn from them, but learn *how* to learn from them, without penalty—a skill that will serve them in every aspect of their lives. (It also gives instructors a more enjoyable and enriching way to communicate feedback to students: in-person conversation, rather than red-pen comments and letter grades.)
+
+Let me share a couple examples of how this works.
+
+First, by not lecturing, I can ensure that my students get the raw information far better than before. Earlier I asked "Wouldn't it be great if we could rewind a lecture and see what was happening in class to refresh our memory?" When you take lecture out of class, that's exactly what you can do. In my inverted classes, I now communicate information to my students almost entirely through writing and video, hosted on a course website. There's no more missing handouts or cryptic notebooks, only the text as I wrote it. And if I find the students are confused by the assigned reading, *I can change it!* I've even done so in the middle of a class meeting. This has been a huge advantage for my students.
+
+Communicating information with students outside of class via a website—or even a standard textbook—creates great freedom during class time. When first flipping my classes, I simply gave students the same worksheets they had previously had for homework. Because I knew they would do the work, I didn't grade it. And because I wasn't grading it, they could work together. And because I was in the room walking around, helping them, if there was an inappropriate partnership forming—if one student was doing all the work, if conflict was escalating beyond helpful debate—I could swap partners. In an inverted class, we can take advantage of the good things that collaborative student work offers, and easily remedy the downsides of collaboration—things that instructors often consider prohibitive for out-of-class collaboration.
+
+Soon I moved beyond the lecture-at-home, homework-in-class model in favor of something called inquiry-driven learning. In an inquiry-driven class, not only do information transfer and active student work flip places (in or out of class), but they flip their order as well. That is, students begin with analytical work, leading to the formulation of research questions, which guides further analytical work to discover the underlying conceptual logic. For example, imagine replacing a 50-minute lecture on first-species counterpoint with a 50-minute analysis session. Students are given examples of *good* first-species counterpoint and asked to discern the underlying principles of good first-species composition. In other words, what happens all or most of the time in the exemplars? What happens rarely or never in the exemplars? (This is what semester 3 theory students will be doing tomorrow as we begin our review of strict voice-leading!) Such a process leaves students with almost all of the principles I would give them in lecture, except now they *own* those principles because they discovered them themselves. Further, when they move to out-of-class reading, they read with examples in their ears and targeted questions in their minds, which makes their reading more productive, as well.
+
+I'll tell all of you CU music students what I told my students yesterday in our first day of classes, we want your education to return dividends throughout your entire lives—or at least until you make your last student loan payment. That means not simply giving you job skills for 2017, but also giving you tools of learning that will help you to adapt to a changing musical landscape between now and 2070. Research on some aspects of the inverted classroom, and inquiry-driven learning in particular, show that these methods lead to better conceptual understanding and longer retention of information than traditional lecture–homework–test methods. However, collaborative student work and inquiry-driven learning also teach students how to engage new genres of music, new musical activities, and new types of jobs in music—things for which a textbook does not exist. It gives you a *process* you can follow when you engage new material in the wild. 
+
+I mentioned at the beginning that the inverted classroom prioritizes things that are quite old: student-centered learning; a focus on deep, critical, conceptual thinking; and an increase in collaborative, personal interactions between students and faculty. In essence, the inverted classroom is simply a new take on classical, liberal education. It is not about the technology—in fact, it requires none but pencil, paper, and the human body—and maybe a piano. It is also not about the content—getting every student through the textbook relatively unscathed by the end of the semester. And it's certainly not about the instructor and the innovative ideas he or she comes up with. It is about the student. What are our students' goals, and what are the best tools that we as instructors have that can help them reach those goals? Whether or not that question leads to something that is called "inverted" or "flipped" pedagogy, it definitely leads to good pedagogy, because it has our students' success at heart.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
