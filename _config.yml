@@ -41,6 +41,9 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: home
+    url: http://kris.shaffermusic.com/redesign
+    external: true
   - title: About
     url: /bio/
   - title: CV
@@ -59,9 +62,6 @@ links:
     url: /technology-articles/
   - title: contact
     url: /contact/
-  - title: home
-    url: http://kris.shaffermusic.com/redesign
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Denver
