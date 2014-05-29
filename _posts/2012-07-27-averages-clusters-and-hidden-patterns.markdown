@@ -25,16 +25,18 @@ In the process of developing [a Python module for corpus analysis][GithubModule]
 For instance, consider the transitional probabilities for the IV chord in this corpus. The median transitional probabilities for progression away from the IV chord are as follows: IV–I has a median probability of 0.64; IV–V 0.21; and all other transitions 0.00 (see Table 1). 
 
 |   IV–I 	|  IV–II 	|  IV–III 	|  IV–IV 	|   IV–V 	|  IV–VI 	| IV–flat-VII 	|
-| :-----: 	| :-----: 	| :-----: 	| :-----: 	| :-----: 	| :-----: 	| :-----: 	|
-|   0.64 	|   0.00 	|   0.00 	|   0.00 	|   0.21 	|   0.00 	|   0.00 
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|   0.64 	|   0.00 	|   0.00 	|   0.00 	|   0.21 	|   0.00 	|   0.00 |
+{: rules="groups"}
 
 **Table 1.** Median transitional probabilities for progressions away from IV in the CCLI-2011 corpus.
 
 Table 2 illustrates the 95%-confidence intervals for each transition. 
 
 |     IV–I 	|     IV–II 	|    IV–III 	|    IV–IV 	|     IV–V 	|     IV–VI 	|    IV–flat-VII 	|
-|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|
-| 0.52 – 0.76 	| –0.02 – 0.02 	|     0.00 	| –0.02 – 0.02 	| 0.09 – 0.33 	| –0.03 – 0.03 	|     0.00 
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 0.52 – 0.76 	| –0.02 – 0.02 	|     0.00 	| –0.02 – 0.02 	| 0.09 – 0.33 	| –0.03 – 0.03 	|     0.00 |
+{: rules="groups"}
 
 **Table 2.** 95%-confidence intervals for median transitional probabilities for progressions away from IV in the CCLI-2011 corpus.
 
@@ -46,14 +48,16 @@ With these confidence intervals in mind, we cannot conclude that IV progresses t
 The same kind of differentiation is not possible for progressions away from the V chord, however. Tables 3 and 4 show the median transitional probabilities and the confidence intervals for those medians for transitions away from the V chord.
 
 |   V–I 	|  V–II 	|  V–III 	|  V–IV 	|   V–V 	|  V–VI 	| V–flat-VII 	|
-| :----: 	| :----: 	| :----: 	| :----: 	| :----: 	| :----: 	| :----: 	|
-|   0.25 	|  0.00 	|  0.00 	|  0.22 	|  0.00 	|  0.24 	|  0.00 
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|   0.25 	|  0.00 	|  0.00 	|  0.22 	|  0.00 	|  0.24 	|  0.00 |
+{: rules="groups"}
 
 **Table 3.** Median transitional probabilities for progressions away from V in the CCLI-2011 corpus.
 
 |      V–I 	|     V–II 	|    V–III 	|     V–IV 	|      V–V 	|     V–VI 	|    V–flat-VII 	|
-|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|
-| 0.13 – 0.37 	| –0.06 – 0.06 	|     0.00 	|  0.11 – 0.33 	| –0.02 – 0.02 	|  0.12 – 0.36 	| –0.08 – 0.08 
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 0.13 – 0.37 	| –0.06 – 0.06 	|     0.00 	|  0.11 – 0.33 	| –0.02 – 0.02 	|  0.12 – 0.36 	| –0.08 – 0.08  |
+{: rules="groups"}
 
 **Table 4.** 95%-confidence intervals for median transitional probabilities for progressions away from V in the CCLI-2011 corpus.
 
@@ -65,7 +69,7 @@ Though the median transitional probability for V–I (0.25) is greater than that
 It can be tempting, then, to conclude that in this corpus, V chords are equally likely to progress to I, IV, or VI. However, that is not true on a song-by-song basis (see Table 5). There are multiple songs in the corpus where between 90% and 100% of the V chords all progress to the same chord (and for one of those songs, that chord is flat-VII, which had an average probability of 0.00 in the corpus). And few songs actually progress from V to I, IV, or VI an equal number of times. In other words, the average for the corpus doesn't represent the characteristics of any single song, and some are radically different from the average.
 
 |                               Song 	| V-I 	| V-II 	| V-III 	| V-IV 	| V-V 	| V-VI 	| V-flat-VII 	|
-| ---------------------------------: 	| :--: 	| :--: 	| :---: 	| :--: 	| :--: 	| :--: 	| :----: 	|
+|------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |               How Great Is Our God 	| 1.00 	| 0.00 	|  0.00 	| 0.00 	| 0.00 	| 0.00 	|  0.00 
 |                     Mighty To Save 	| 0.24 	| 0.00 	|  0.00 	| 0.53 	| 0.00 	| 0.24 	|  0.00 
 |                            Our God 	| 0.00 	| 0.00 	|  0.00 	| 0.00 	| 0.04 	| 0.96 	|  0.00 
@@ -91,6 +95,7 @@ It can be tempting, then, to conclude that in this corpus, V chords are equally 
 |         Hosanna (Praise Is Rising) 	| 0.14 	| 0.00 	|  0.00 	| 0.38 	| 0.00 	| 0.48 	|  0.00 
 |                          The Stand 	| 0.00 	| 0.00 	|  0.00 	| 0.09 	| 0.00 	| 0.91 	|  0.00 
 |                       We Fall Down 	| 0.40 	| 0.00 	|  0.00 	| 0.20 	| 0.00 	| 0.40 	|  0.00 
+{: rules="groups"}
 
 **Table 5.** Transitional probabilities for progressions away from V in each song of the CCLI-2011 corpus.
 
@@ -103,7 +108,7 @@ To divide the CCLI-2011 corpus into sub-corpora, I used the *k-means* clustering
 For the CCLI-2011 corpus, I directed it to form five clusters and make 10,000 attempts. The result assigned the 25 songs into the following five clusters:
 
 | Song 	| Cluster 	|
-| ---: 	| :------ 	|
+|---:|:------|
 | Here I Am To Worship 	| 0 
 | Jesus Messiah 	| 0 
 | Your Grace Is Enough 	| 0 
@@ -129,13 +134,14 @@ For the CCLI-2011 corpus, I directed it to form five clusters and make 10,000 at
 | In Christ Alone 	| 4 
 | How He Loves 	| 4 
 | Lord I Lift Your Name On High 	| 4 
+{: rules="groups"}
 
 **Table 6.** Five clusters in the CCLI-2011 corpus, based on Euclidean distance and calculated by Michael Eisen's Cluster 3.0 software.
 
 One interesting thing to note from this clustering arrangement is that "Revelation Song," the nearly sole source of flat-VII chords, forms its own cluster. It is the most unique song in the corpus based on its harmonic transitional probability. However, the most important result of this cluster analysis is the differences between each cluster's median transitional probabilities.
 
 | 	|   I 	|  II 	|  III 	|  IV 	|   V 	|  VI 	| flat-VII 	|
-| ----: 	| :---: 	| :---: 	| :---: 	| :---: 	| :---: 	| :---: 	| :---: 	|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |     I 	|  0.00 	|  0.00 	|  0.00 	|  0.35 	|  0.33 	|  0.00 	|  0.00 
 |    II 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
 |   III 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
@@ -143,11 +149,12 @@ One interesting thing to note from this clustering arrangement is that "Revelati
 |     V 	|  0.25 	|  0.00 	|  0.00 	|  0.22 	|  0.00 	|  0.24 	|  0.00 
 |    VI 	|  0.00 	|  0.00 	|  0.00 	|  0.53 	|  0.00 	|  0.00 	|  0.00 
 | flat-VII 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
+{: rules="groups"}
 
 **Table 7.** Median transitional probabilities for the entire CCLI-2011 corpus.
 
 | 	|   I 	|  II 	|  III 	|  IV 	|   V 	|  VI 	| flat-VII 	|
-| ----: 	| :---: 	| :---: 	| :---: 	| :---: 	| :---: 	| :---: 	| :---: 	|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |     I 	|  0.00 	|  0.09 	|  0.00 	|  0.45 	|  0.37 	|  0.00 	|  0.00 
 |    II 	|  1.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
 |   III 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
@@ -155,11 +162,12 @@ One interesting thing to note from this clustering arrangement is that "Revelati
 |     V 	|  0.43 	|  0.03 	|  0.00 	|  0.24 	|  0.00 	|  0.20 	|  0.00 
 |    VI 	|  0.00 	|  0.00 	|  0.00 	|  0.27 	|  0.10 	|  0.00 	|  0.00 
 | flat-VII 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
+{: rules="groups"}
 
 **Table 8.** Median transitional probabilities for Cluster 0 of CCLI-2011 corpus.
 
 | 	|   I 	|  II 	|  III 	|  IV 	|   V 	|  VI 	| flat-VII 	|
-| ----: 	| :---: 	| :---: 	| :---: 	| :---: 	| :---: 	| :---: 	| :---: 	|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |     I 	|  0.00 	|  0.00 	|  0.00 	|  0.10 	|  0.76 	|  0.14 	|  0.00 
 |    II 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
 |   III 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
@@ -167,11 +175,12 @@ One interesting thing to note from this clustering arrangement is that "Revelati
 |     V 	|  0.08 	|  0.00 	|  0.00 	|  0.38 	|  0.00 	|  0.48 	|  0.00 
 |    VI 	|  0.00 	|  0.00 	|  0.00 	|  0.88 	|  0.00 	|  0.00 	|  0.00 
 | flat-VII 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
+{: rules="groups"}
 
 **Table 9.** Median transitional probabilities for Cluster 2 of CCLI-2011 corpus.
 
 | 	|   I 	|  II 	|  III 	|  IV 	|   V 	|  VI 	| flat-VII 	|
-| ----: 	| :---: 	| :---: 	| :---: 	| :---: 	| :---: 	| :---: 	| :---: 	|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |     I 	|  0.11 	|  0.00 	|  0.00 	|  0.49 	|  0.16 	|  0.00 	|  0.00 
 |    II 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
 |   III 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
@@ -179,11 +188,12 @@ One interesting thing to note from this clustering arrangement is that "Revelati
 |     V 	|  0.45 	|  0.00 	|  0.00 	|  0.02 	|  0.00 	|  0.29 	|  0.00 
 |    VI 	|  0.00 	|  0.00 	|  0.00 	|  0.56 	|  0.00 	|  0.00 	|  0.00 
 | flat-VII 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
+{: rules="groups"}
 
 **Table 10.** Median transitional probabilities for Cluster 3 of CCLI-2011 corpus.
 
 | 	|   I 	|  II 	|  III 	|  IV 	|   V 	|  VI 	| flat-VII 	|
-| ----: 	| :---: 	| :---: 	| :---: 	| :---: 	| :---: 	| :---: 	| :---: 	|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |     I 	|  0.00 	|  0.08 	|  0.00 	|  0.66 	|  0.14 	|  0.00 	|  0.00 
 |    II 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  1.00 	|  0.00 	|  0.00 
 |   III 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
@@ -191,32 +201,37 @@ One interesting thing to note from this clustering arrangement is that "Revelati
 |     V 	|  0.25 	|  0.00 	|  0.00 	|  0.63 	|  0.00 	|  0.00 	|  0.00 
 |    VI 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  1.00 	|  0.00 	|  0.00 
 | flat-VII 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
+{: rules="groups"}
 
 **Table 11.** Median transitional probabilities for Cluster 4 of CCLI-2011 corpus.
 
 There are some substantial differences between these five clusters (or four clusters and "Revelation Song"), and between the individual clusters and the whole-corpus averages. Consider the V chord, discussed above. In the whole corpus, it is equally probable that it will progress to I, IV, or VI (see Table 4 and Figure 2 above). In Cluster 0 (Table 12 and Figure 3), there is a similar tendency, but wider variance; in other words, the behavior of V in this cluster is less regular. In Cluster 2 (Table 13 and Figure 4), V progresses equally to IV and VI, less often to I, and not at all to other chord roots. In Cluster 3 (Table 14 and Figure 5), V progresses most often to I and VI, with all other roots overlapping with zero probability. And in Cluster 4 (Table 15 and Figure 6), we can only say with confidence that V progresses with any consistency to IV (though V–I overlaps both V–IV and zero probability).
 
 |      V–I 	|     V–II 	|    V–III 	|     V–IV 	|      V–V 	|     V–VI 	|    V–flat-VII 	|
-|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 0.24 – 0.60 	| –0.07 – 0.13 	|     0.00 	|  0.20 – 0.28 	| –0.10 – 0.10 	| –0.08 – 0.48 	|     0.00 
+{: rules="groups"}
 
 **Table 12.** 95%-confidence intervals for median transitional probabilities for progressions away from V in the CCLI-2011 corpus, Cluster 0.
 
 |      V–I 	|     V–II 	|    V–III 	|     V–IV 	|      V–V 	|     V–VI 	|    V–flat-VII 	|
-|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 0.01 – 0.15 	| –0.03 – 0.03 	|     0.00 	|  0.23 – 0.53 	| –0.01 – 0.01 	|  0.27 – 0.69 	|     0.00 
+{: rules="groups"}
 
 **Table 13.** 95%-confidence intervals for median transitional probabilities for progressions away from V in the CCLI-2011 corpus, Cluster 2.
 
 |      V–I 	|     V–II 	|    V–III 	|     V–IV 	|      V–V 	|     V–VI 	|    V–flat-VII 	|
-|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 0.29 – 0.61 	| –0.18 – 0.18 	|     0.00 	| –0.07 – 0.11 	| –0.02 – 0.02 	|  0.13 – 0.45 	| –0.02 – 0.02 
+{: rules="groups"}
 
 **Table 14.** 95%-confidence intervals for median transitional probabilities for progressions away from V in the CCLI-2011 corpus, Cluster 3.
 
 |      V–I 	|     V–II 	|    V–III 	|     V–IV 	|      V–V 	|     V–VI 	|    V–flat-VII 	|
-|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | –0.15 – 0.65 	| –0.04 – 0.04 	|     0.00 	|  0.21 – 1.05 	|     0.00 	| –0.05 – 0.05 	|     0.00 
+{: rules="groups"}
 
 **Table 15.** 95%-confidence intervals for median transitional probabilities for progressions away from V in the CCLI-2011 corpus, Cluster 4.
 

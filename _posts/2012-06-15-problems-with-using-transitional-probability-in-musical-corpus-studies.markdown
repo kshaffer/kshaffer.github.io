@@ -99,11 +99,12 @@ I IV I V &#124; I – – – &#124;&#124;
 Following is a tally of chord transitions. Each number represents the total number of progressions from a chord on the left to a chord on the top.
 
 | 	|  I 	| IV 	|  V 	| VI 	|
-  :-: 	| :-: 	| :-: 	| :-: 	| :-: 	|
+|:-:|:-:|:-:|:-:|
 |  I 	| —	| 14 	| 40 	| —
 | IV 	| 40 	| —	| —	| —
 |  V 	| 14 	| 11 	| —	| 15 
 | VI 	| —	| 15 	| —	| —
+{: rules="groups"}
 
 **Table 1.** Total number of progressions from chord in left-side column to chord in top row in "Mexico," by Jump Little Children.
 
@@ -122,10 +123,11 @@ Now, let's ignore the rule about back-relating dominants for the moment. I can p
 Again, take the V chord. On the whole, it looks like the V chord progresses in relative freedom, judging by the small differences in transitional probability for progressions to I, IV, or VI (35%, 28%, and 38%, respectively). However, consider how it behaves in different formal units.
 
 | 	|  I 	| IV 	| VI 	|
-  :---: 	| :-: 	| :-: 	| :-: 	|
+|:-:|:-:|:-:|:-:|
 | I/J/O 	|  6 	|  2 	| —
 |   A 	|  6 	|  5 	| 12 
 |   B 	|  2 	|  4 	|  3 
+{: rules="groups"}
 
 **Table 2.** Total number of progressions from V to the chord in the top row in the formal modules given in the left column.
 
@@ -134,10 +136,11 @@ In what Summach calls "auxiliary modules" (intros, outros, codas, and "Janus" mo
 Now consider the tallies obtained when we leave out progressions that cross module boundaries (the last chord of a strophe to the first chord of the following bridge, for example).
 
 | 	|  I 	| IV 	| VI 	|
-  :---: 	| :-: 	| :-: 	| :-: 	|
+|:-:|:-:|:-:|:-:|
 | I/J/O 	|  4 	| —	| —
 |   A 	|  2 	|  4 	| 12 
 |   B 	| —	|  3 	|  3 
+{: rules="groups"}
 
 **Table 3.** Total number of progressions from V to the chord in the top row in the formal modules given in the left column, progressions across module boundaries omitted.
 
