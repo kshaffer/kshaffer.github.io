@@ -68,7 +68,7 @@ links:
 timezone:    America/Denver
 future:      true
 highlighter: pygments
-markdown:    kramdown
+markdown:    redcarpet
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:year/:month/:title/
