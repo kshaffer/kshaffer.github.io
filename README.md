@@ -1,4 +1,4 @@
-This is the personal & professional website for Kris Shaffer.
+This is the personal & professional website for Kris Shaffer, Ph.D.
 
 # So Simple Theme
 
