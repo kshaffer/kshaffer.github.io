@@ -26,7 +26,7 @@ For instance, consider the transitional probabilities for the IV chord in this c
 
 |   IV–I 	|  IV–II 	|  IV–III 	|  IV–IV 	|   IV–V 	|  IV–VI 	| IV–flat-VII 	|
 | :-----: 	| :-----: 	| :-----: 	| :-----: 	| :-----: 	| :-----: 	| :-----: 	|
-|   0.64 	|   0.00 	|   0.00 	|   0.00 	|   0.21 	|   0.00 	|   0.00 |
+|   0.64 	|   0.00 	|   0.00 	|   0.00 	|   0.21 	|   0.00 	|   0.00 
 
 **Table 1.** Median transitional probabilities for progressions away from IV in the CCLI-2011 corpus.
 
@@ -34,7 +34,7 @@ Table 2 illustrates the 95%-confidence intervals for each transition.
 
 |     IV–I 	|     IV–II 	|    IV–III 	|    IV–IV 	|     IV–V 	|     IV–VI 	|    IV–flat-VII 	|
 |  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|
-| 0.52 – 0.76 	| –0.02 – 0.02 	|     0.00 	| –0.02 – 0.02 	| 0.09 – 0.33 	| –0.03 – 0.03 	|     0.00 |
+| 0.52 – 0.76 	| –0.02 – 0.02 	|     0.00 	| –0.02 – 0.02 	| 0.09 – 0.33 	| –0.03 – 0.03 	|     0.00 
 
 **Table 2.** 95%-confidence intervals for median transitional probabilities for progressions away from IV in the CCLI-2011 corpus.
 
@@ -46,14 +46,14 @@ With these confidence intervals in mind, we cannot conclude that IV progresses t
 The same kind of differentiation is not possible for progressions away from the V chord, however. Tables 3 and 4 show the median transitional probabilities and the confidence intervals for those medians for transitions away from the V chord.
 
 |   V–I 	|  V–II 	|  V–III 	|  V–IV 	|   V–V 	|  V–VI 	| V–flat-VII 	|
-| ------ 	| ------ 	| ------ 	| ------ 	| ------ 	| ------ 	| ------ 	|
-|   0.25 	|  0.00 	|  0.00 	|  0.22 	|  0.00 	|  0.24 	|  0.00		|
+| :----: 	| :----: 	| :----: 	| :----: 	| :----: 	| :----: 	| :----: 	|
+|   0.25 	|  0.00 	|  0.00 	|  0.22 	|  0.00 	|  0.24 	|  0.00 
 
 **Table 3.** Median transitional probabilities for progressions away from V in the CCLI-2011 corpus.
 
 |      V–I 	|     V–II 	|    V–III 	|     V–IV 	|      V–V 	|     V–VI 	|    V–flat-VII 	|
 |  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|  :--------: 	|
-| 0.13 – 0.37 	| –0.06 – 0.06 	|     0.00 	|  0.11 – 0.33 	| –0.02 – 0.02 	|  0.12 – 0.36 	| –0.08 – 0.08 |
+| 0.13 – 0.37 	| –0.06 – 0.06 	|     0.00 	|  0.11 – 0.33 	| –0.02 – 0.02 	|  0.12 – 0.36 	| –0.08 – 0.08 
 
 **Table 4.** 95%-confidence intervals for median transitional probabilities for progressions away from V in the CCLI-2011 corpus.
 
