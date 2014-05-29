@@ -8,7 +8,7 @@ share:            true
 # You don't need to specify the protocol if you want it available on http and https. Example: //localhost:4000
 
 # url:				/Users/krisshaffer/Websites/blog-redesign/_site
-url:              http://kris.shaffermusic.com/
+url:              http://kris.shaffermusic.com
 
 # Owner/author information
 owner:
