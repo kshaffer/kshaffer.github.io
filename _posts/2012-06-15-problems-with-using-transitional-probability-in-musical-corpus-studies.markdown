@@ -30,17 +30,17 @@ In what follows, I will present the song, "Mexico," by Jump, Little Children as 
 
 In "Mexico," Jump, Little Children incorporate a supple, versatile chord progression cycle that has come to be called the "Sensitive Female Chord Progression." (The name came about because the chord progression came to prominence in the 1990s with a number of very successful songs by female singer/songwriters like Joan Osborne, Jewel, and Sarah McLachlan.) The SFCP is a four-chord, cyclical progression. And like some, but not all, cyclical progressions, it can be found in multiple rotations. The definitive rotation begins each four-chord (usually two-bar) unit with VI.
 
-> ||: VI IV I V :||
+> &#124;&#124;: VI IV I V :&#124;&#124;
 
 It also commonly appears in a rotation that is offset two chords from the definitive version:
 
-> ||: I V VI IV :||
+> &#124;&#124;: I V VI IV :&#124;&#124;
 
 "With or Without You" by U2 and "Hide and Seek" by Imogen Heap are prime examples of this rotation.
 
 Though there are two other possible rotations, only one other appears with any frequency in pop music:
 
-> ||: IV I V VI :||
+> &#124;&#124;: IV I V VI :&#124;&#124;
 
 This is far less common than the other two, but it does feature prominently in "Mexico."
 
@@ -53,46 +53,46 @@ The specific uses of the SFCP in different ways at different points in the form 
 Here is a chordal analysis of "Mexico," divided by formal section. Four-chord (and occasionally three-chord) units—two-bar subphrases—are marked off by a single vertical line. Four-bar phrases are marked off by two vertical lines.
 
 > Intro (I):  
-I IV I V | I IV I V ||
+I IV I V &#124; I IV I V &#124;&#124;
 
 > Strophe (A1):  
-I IV I V | VI IV I V || I IV I V | VI IV I V || IV I V VI | IV I V ||
+I IV I V &#124; VI IV I V &#124;&#124; I IV I V &#124; VI IV I V &#124;&#124; IV I V VI &#124; IV I V &#124;&#124;
 
 > Janus (Jay Summach's term for an intro with overlap from previous strophe):  
-I IV I V | I IV I V ||
+I IV I V &#124; I IV I V &#124;&#124;
 
 > Strophe (A2):  
-I IV I V | VI IV I V || I IV I V | VI IV I V || IV I V VI | IV I V ||
+I IV I V &#124; VI IV I V &#124;&#124; I IV I V &#124; VI IV I V &#124;&#124; IV I V VI &#124; IV I V &#124;&#124;
 
 > Janus (J):  
-I IV I V |
+I IV I V &#124;
 
 > Bridge (B):  
-IV – I V | VI IV I V || IV – I V |
+IV – I V &#124; VI IV I V &#124;&#124; IV – I V &#124;
 
 > Janus (J):  
-I IV I V |
+I IV I V &#124;
 
 > Strophe (A3):  
-I IV I V | VI IV I V || IV I V VI | IV I V ||
+I IV I V &#124; VI IV I V &#124;&#124; IV I V VI &#124; IV I V &#124;&#124;
 
 > Janus (J):  
-I IV I V |
+I IV I V &#124;
 
 > Bridge (B):  
-IV – I V | VI IV I V || IV – I V |
+IV – I V &#124; VI IV I V &#124;&#124; IV – I V &#124;
 
 > Strophe (Ai, instrumental):  
-I IV I V | VI IV I V || IV I V VI | IV I V ||
+I IV I V &#124; VI IV I V &#124;&#124; IV I V VI &#124; IV I V &#124;&#124;
 
 > Bridge (B):  
-IV – I V | VI IV I V || IV – I V |
+IV – I V &#124; VI IV I V &#124;&#124; IV – I V &#124;
 
 > Strophe (A4):  
-IV I V VI | IV I V VI | IV I V – ||
+IV I V VI &#124; IV I V VI &#124; IV I V – &#124;&#124;
 
 > Outro (O):  
-I IV I V | I – – – ||
+I IV I V &#124; I – – – &#124;&#124;
 
 ## Transitional probability analysis
 
