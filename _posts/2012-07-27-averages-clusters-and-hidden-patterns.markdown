@@ -46,7 +46,7 @@ With these confidence intervals in mind, we cannot conclude that IV progresses t
 The same kind of differentiation is not possible for progressions away from the V chord, however. Tables 3 and 4 show the median transitional probabilities and the confidence intervals for those medians for transitions away from the V chord.
 
 |   V–I 	|  V–II 	|  V–III 	|  V–IV 	|   V–V 	|  V–VI 	| V–flat-VII 	|
-| :----: 	| :----: 	| :----: 	| :----: 	| :----: 	| :----: 	| :----: 	|
+| ------ 	| ------ 	| ------ 	| ------ 	| ------ 	| ------ 	| ------ 	|
 |   0.25 	|  0.00 	|  0.00 	|  0.22 	|  0.00 	|  0.24 	|  0.00		|
 
 **Table 3.** Median transitional probabilities for progressions away from V in the CCLI-2011 corpus.
