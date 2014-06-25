@@ -22,7 +22,7 @@ Traditional textbooks are expensive; the open music theory textbook will be **fr
 Traditional textbooks are heavy and easy to forget; the open music theory textbook will be **fully compatible with mobile devices** and accessible from anywhere with an internet connection.
 
 Traditional textbooks cannot be edited by the instructor when errors are found, theories invented, or new facts discovered; the open music theory textbook will **allow instructors to update their class resources immediately** when changes need to be made.
-Traditional textbooks are based around print, with audio, video, and interactive elements requiring access to a (typically closed) companion website; the open music theory textbook will be **fully multimedia **and **open-access.**
+Traditional textbooks are based around print, with audio, video, and interactive elements requiring access to a (typically closed) companion website; the open music theory textbook will be **fully multimedia *and* open-access.**
 
 Traditional textbooks teach all students the same way; the open music theory textbook will allow instructors to **customize resources** for their course goals, and even offer **multiple resources** on the same topic to accommodate differences in student backgrounds, goals, preferences, and (dis)abilities.
 
