@@ -1,0 +1,59 @@
+---
+layout: post
+title: "Why grade?"
+date: 2014-07-08 12:21
+comments: true
+categories: 
+tags:
+- pedagogy  
+- grades  
+- assessment  
+- criterion-referenced grading  
+- average-based grading  
+- teaching
+---
+
+I've been thinking about grading a lot lately. Not only am I doing a lot of it—way more than I would like—and supervising grad students who are doing it, but I've been following various debates about Common Core, standardized tests, and the like online. Assessing students is a core part of what I do as a professor, and as I have modified the way I assess over the years, I have seen both positive and negative effects of different ways it can be done, both in my assessments, and in students' attitudes and expectations surrounding assessment based on their past experiences. Poor assessment methods can do real harm to students—financially, as it affects scholarships and post-college prospects, and psychologically, as it shapes their attitudes towards learning and towards specific class activities. As much as we who teach may want to simply blow it off, or do it quickly and think about it as little as possible (or pawn it off on a grad student without much consideration), we need to be careful how we assess if we care about our students' academic success and their general well-being.
+
+With all that in mind, how can we assess students' learning in a way that is helpful and not harmful? Do we need to assess them at all? And do letter grades have anything to do with meaningful assessment? Those are some of the questions I've been thinking through for some time, and with a bit more urgency lately for whatever reason. Below I offer my insights as they currently stand. I'd love to hear more from others who have thought about these things, as well.
+
+# Assessment's purpose
+
+> Assessment and standards are elephants in almost every room where discussions of education are underway.  
+> Jesse Stommel, ["MMDU: 'I Would Prefer Not To.'”](http://www.hybridpedagogy.com/page-two/mmdu-prefer/)
+
+Before addressing any questions about assessment, I should clarify my purpose in assessment. No system of academic assessment is intrinsically good, only good for a purpose. That purpose must be established first.
+
+I have no interest in sorting students into categories of [*optimi*, *second optimi*, *inferiores*, and *pejores*. ](http://books.google.com/books?id=R1QH0db2xGsC&pg=PA4&lpg=PA4&dq=optimi+inferiores+pejores+yale&source=bl&ots=hEtfl96o06&sig=lIzK9FIjVjp8W4cutgQ7puZ5Ezs&hl=en&sa=X&ei=hFO8U5nMCoGmyASR8IL4Dg&ved=0CB4Q6AEwAA) Assessment decisions (when and how to assess) serve pedagogical aims. 
+
+That said, my purpose as an educator is largely *not* to instill content knowledge. [My goal is for my students to learn how to learn](http://www.hybridpedagogy.com/journal/open-letter-students), and to gain skills that will allow them to continue learning independently once the course is over. Those skills will certainly require content knowledge or, at least, familiarity, but content is important primarily to the extent that it supports students' intellectual growth within the discipline.
+
+In line with my goal of fostering self-direction and learning how to learn, assessment serves three purposes: 1) assessment determines if a student has sufficiently mastered a concept in order to apply it and build on it in subsequent coursework or professional activity; if not, 2) assessment identifies areas that need correction and provides feedback for improvement; finally 3) *my* assessment guides students to assess *themselves* better, so they can better direct their own learning and work.
+
+Note that purpose 1 aligns somewhat with what educators call *summative assessment* (assessing a student's overall, or sum, knowledge/skills at the end of an assignment, unit, or course) and somewhat with what educators call *formative assessment* (assessment that helps form or shape, or simply motivate, plans for future learning activities). While purpose 1 involves summative assessment, I find that summative assessment only has pedagogical value to the extent that it can be used as formative assessment, and so purpose 1, for me, is primarily focused on formative assessment. Purpose 2 also aligns with formative assessment. Purpose 3 is more-or-less unique to the pedagogical goal of fostering self-direction and self-teaching.
+
+# What can letter grades do? #
+
+Letter grades do an absolutely horrible job of all three of these things.
+
+Consider summative assessment (purpose 1). It boils down to one simple problem: *human knowledge is too complex to represent with a single letter/percentage/score*. This is most obvious when considering an average grade for a 15-week course that covers dozens of concepts, topics, skills, exemplars. No single letter can represent in any meaningful way what each student knows and can do at the end of that course—let alone what they know and can do years later when a graduate school or prospective employer looks at their transcript! This is also true or a unit of study within a course, and even many homework assignments, where multiple concepts or skills are involved in the task assigned.
+ 
+There is a second significant problem with using letter or percentage grades for summative assessment. They are artificial and they distract many students and instructors from the learning process and the content focus of the course. In light of purpose 1 (preparedness to progress to the next unit/course in a sequence), a five-point letter system (or 15-point, with pluses and minuses) or a 100-point percentage system (or 1000- or 10000-point, with decimals) is overdetermined. Preparedness is mainly a binary decision (yes/no), with a third possible "borderline" category, in order to differentiate students who need to retake the course in order to be prepared to succeed later from students who simply need some corrective attention before the beginning of the next semester, for example. Using an overdetermined scale pressures the instructor to rank students unnecessarily. This adds an unhealthy social dynamic to the class, and it shifts the focus of assessment from feedback on progress to reward for a job well (or better) done. We are not employers and students our employees; grades are not wages. Likewise, as instructors our job is to teach, not to rank. Proliferating possible assessment results beyond what is pedagogically necessary only adds to our workload tasks and stress that are irrelevant, and at times distracting or hindering, to our pedagogy. 
+
+When it comes to formative assessment, letters and percentages fall on all the same points: rarely does student progress in a particular domain fall along a linear progression of 5, 15, 100, 1000, or 10000 stages. Whether or not a student has met a precisely defined learning objective is usually a binary decision (yes or not yet). But the student work that demonstrates that mastery could come in a number of different modes (in line with their background, interests, and goals), and the work along the way is complex and individualized even for students working on the same tasks. Most importantly, though, when a student has not yet achieved an objective, that student needs specific, tailored, verbal feedback—not numbers or letters—in order to better guide their studies.
+
+Likewise, in light of purpose 3 (helping students self-assess and self-direct their learning), letter grades are unhelpful, and percentages erroneous. What is a 76%-good self-assessment? And assuming A-level self-assessment is the goal, how does providing a student with a B– on a self-assessment help them improve? (This is a question we should ask about every percentage or letter grade was assign.) In all kinds of formative assessment, ranked grades are ancillary—and potentially distracting or hindering—to the feedback we must provide our students. This is especially true when the goal is an ability to self-assess. 
+
+Further, as long as the instructor has the final word on *grades*, we cannot expect our students to take us seriously when we try to impress upon them the importance and value of self-assessment. Unless their self-assessments have power—either to shape future learning activities, or to change the gradebook—they will not be true self-assessments.
+
+# Assessment strategies #
+
+All that said about grades, the *assessment* of student progress is essential to guiding their learning, especially when students are still on the path towards becoming self-educators who can assess their own skills appropriately. My *ultimate* goal is to give students no top-down assessment, and certainly no top-down grades. But I've found that I need to teach my students to assess themselves just as much as I need to teach them to perform music at sight or analyze sonatas. I can't just throw them in the deep end immediately, as if I were teaching a class at Hogwarts. (I learned this by experience.) Rather, I must include in my classes pedagogical instruction to these would-be self-teachers, in order to help them learn how to self-assess.
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/nAQBzjE-kvI" frameborder="0" allowfullscreen></iframe>
+
+In my teaching, this learning progression often begins with some form of criterion-referenced grading (also called standards-based grading or SBG). [I have implemented this in various ways over the past few years](http://kris.shaffermusic.com/tags/#criterion-referenced%20grading), and it is an excellent first move away from industrial grading practices. By providing students grades regularly, SBG speaks a familiar language (if a different dialect) while helping direct students' attention away from points towards content objectives. Even grade-grubbers are forced to be skill-grubbers, which is a significant improvement in the instructor-student social contract, and starts students on the road to self-assessment in light of those content objectives.
+
+SBG is only a starting point, though, not a satisfactory end in light of my pedagogical goals. Thus, within a course—or even better, a course sequence that I (and other like-minded instructors) oversee—I try to increase student freedom gradually. While a syllabus for Music Theory I may contain a long list of very specific objectives (such as recognizing scales and key signatures quickly, under pressure), Music Theory IV would likely contain a shorter list of broader objectives that provide students with a less detailed rubric and a wider variety of tasks or projects that can demonstrate high-level critical thinking in light of those content areas. This can look a lot like [contract grading,](http://www.hastac.org/blogs/cathy-davidson/how-crowdsource-grading) where students propose a (series of) project(s) that will demonstrate mastery of the course's core content areas, and instructor and student negotiate the contracts in advance of the project work. Again, this is not an end-point, but another stage of the self-assessment learning process, containing a balance between having the student generate a picture of what mastery looks like and providing the student with a clear, instructor-approved rubric in advance of their high-stakes work.
+
+The ultimate goal, though, is not to find the perfect assessment system. The goal is to enable students to think critically about both the content *and* their intellectual development in light of that content. When that happens, I won't be grading at all. While we may not reach that destination before my students leave my class, it is my job to see that they make significant headway in that direction while we're together.
