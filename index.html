@@ -7,6 +7,42 @@ tags: [Jekyll, theme, themes, responsive, blog, minimalism]
 
 <br/><br/><img src="/bio/shaffer-landscape.jpg" />
 
+<script language="JavaScript1.2">
+
+var howOften = 5; //number often in seconds to rotate
+var current = 0; //start the counter at 0
+var ns6 = document.getElementById&&!document.all; //detect netscape 6
+
+// place your images, text, etc in the array elements here
+var items = new Array();
+    items[0]="<img alt='image1' src='/bio/bio1.jpg' height='480' width='640' border='0' />"; 
+    items[1]="<img alt='image2' src='/bio/bio2.jpg' height='480' width='640' border='0' />"; 
+    items[2]="<img alt='image3' src='/bio/bio3.jpg' height='480' width='640' border='0' />"; 
+    items[3]="<img alt='image4' src='/bio/bio4.jpg' height='480' width='640' border='0' />"; 
+    items[4]="<img alt='image5' src='/bio/bio5.jpg' height='480' width='640' border='0' />"; 
+    items[5]="<img alt='image6' src='/bio/bio6.jpg' height='480' width='640' border='0' />"; 
+function rotater() {
+    document.getElementById("placeholder").innerHTML = items[current];
+    current = (current==items.length-1) ? 0 : current + 1;
+    setTimeout("rotater()",howOften*1000);
+}
+
+function rotater() {
+    if(document.layers) {
+        document.placeholderlayer.document.write(items[current]);
+        document.placeholderlayer.document.close();
+    }
+    if(ns6)document.getElementById("placeholderdiv").innerHTML=items[current]
+        if(document.all)
+            placeholderdiv.innerHTML=items[current];
+
+    current = (current==items.length-1) ? 0 : current + 1; //increment or reset
+    setTimeout("rotater()",howOften*1000);
+}
+window.onload=rotater;
+//-->
+</script>
+
 <p>Kris Shaffer, Ph.D. (Yale University, 2011), is Instructor of Music Theory at the <a href="http://music.colorado.edu">University of Colorado, Boulder</a> and Editor for <a href="http://www.hybridpedagogy.com"><i>Hybrid Pedagogy</i></a>, Publishing Division.</p>
 
 <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}</h1>{% endif %}
