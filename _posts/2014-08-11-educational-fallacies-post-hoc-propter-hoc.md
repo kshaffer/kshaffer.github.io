@@ -7,7 +7,7 @@ image:
   feature: 
   credit: 
   creditlink: 
-comments: 
+comments: true
 share: 
 ---
 
