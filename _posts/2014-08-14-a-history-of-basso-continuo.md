@@ -19,7 +19,7 @@ share:
 
 ***insert graphic example***
 
-Building on species counterpoint, *basso continuo* exercises provide a new, more complicated environment in which to practice mediating the demands of smoothness, independence of lines, tonal fusion (now considering triads and seventh chords), variety, and motion. New considerations of performability are introduced, and the presence of dissonances within the core harmonies themselves will call for new approaches to harmonic dissonance in this style.
+Coming after species counterpoint in our studies, *basso continuo* exercises provide a new, more complicated environment in which to practice mediating the demands of smoothness, independence of lines, tonal fusion (now considering triads and seventh chords), variety, and motion. New considerations of performability are introduced, and the presence of dissonances within the core harmonies themselves will call for new approaches to harmonic dissonance in this style.
 
 ### History
 
