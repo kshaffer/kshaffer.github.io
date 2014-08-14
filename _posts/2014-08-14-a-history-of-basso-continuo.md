@@ -17,7 +17,7 @@ share:
 
 *Basso continuo* (It. for "continuous bass" or "thoroughbass") is essentially a chordal version of first-species counterpoint. However, instead of composing a single line above a cantus firmus, one composes a succession of chords (performed in the right hand) above a bass line (performed in the left hand). *Basso continuo* writing, also referred to as *realizing a figured bass*, gives no consideration to melody, only to the use of proper chords and the smoothest voice-leading possible. Thus, *basso continuo* style is a simple place to begin engaging the "fundamental musical problems" that arise when more than two lines are combined. 
 
-***graphic example***
+***insert graphic example***
 
 Building on species counterpoint, *basso continuo* exercises provide a new, more complicated environment in which to practice mediating the demands of smoothness, independence of lines, tonal fusion (now considering triads and seventh chords), variety, and motion. New considerations of performability are introduced, and the presence of dissonances within the core harmonies themselves will call for new approaches to harmonic dissonance in this style.
 
@@ -31,7 +31,7 @@ A good musician could perform this bass line, and with an eye (or ear) on the vo
 
 As this technique grew, publishers began publishing thoroughbass reductions of large-ensemble pieces to support smaller groups of musicians. In these publications, *figures* (numbers above or below the bass line) were included—sometimes only for difficult or non-standard chords, and eventually for most chords, enabling more amateur musicians, as well as students, to make use of the technique. These bass lines with figures became known as "figured bass" lines.
 
-***graphic example (facsimile?)***
+***insert graphic example (facsimile?)***
 
 To this day, harpsichordists performing in Baroque ensembles will often put their left hand to the same "bass" line that the cellos play, and will improvise right-hand chords (with contrapuntally sound embellishment) according to the figures provided with the bass line.
 
