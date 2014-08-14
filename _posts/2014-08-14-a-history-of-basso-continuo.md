@@ -4,9 +4,9 @@ title: "A history of basso continuo"
 modified: 2014-08-14 14:14:54 -0600
 tags: [OMT, pedagogy, teaching, basso continuo, music, music theory]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature: harpsichord.jpg
+  credit: imacgyv0r
+  creditlink: https://flic.kr/p/7WqGGA
 comments: true
 share: 
 ---
