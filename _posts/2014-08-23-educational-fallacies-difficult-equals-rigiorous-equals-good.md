@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Educational fallacies: difficult = rigiorous = good"
+title: "Educational fallacies: difficult = rigorous = good"
 modified: 2014-08-23 20:34:31 +0000
 tags: [pedagogy, teaching, educational fallacies, rigor]
 image:
