@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Educational fallacies: difficult = rigorous = good"
+title: "Educational fallacies: a difficult class is a rigorous class is a good class"
 modified: 2014-08-23 20:34:31 +0000
 tags: [pedagogy, teaching, educational fallacies, rigor]
 image:
-  feature: 
+  feature: IowaLecture.jpg
   credit: 
   creditlink: 
 comments: true
