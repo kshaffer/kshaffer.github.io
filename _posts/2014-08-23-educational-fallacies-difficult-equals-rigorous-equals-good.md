@@ -5,8 +5,8 @@ modified: 2014-08-23 20:34:31 +0000
 tags: [pedagogy, teaching, educational fallacies, rigor]
 image:
   feature: IowaLecture.jpg
-  credit: 
-  creditlink: 
+  credit: Iowa Digital Library
+  creditlink: https://www.flickr.com/photos/uiowa/8047288890/in/photolist-5B4bGA-dg7rav-dg7r7v-dg7sCb-dg7re2-dg7sKL-dg7oTy-aBjT6g-aBjSdV-aBjSxF-aBny8h-aBjSSr-dg6WY8
 comments: true
 share: 
 ---
