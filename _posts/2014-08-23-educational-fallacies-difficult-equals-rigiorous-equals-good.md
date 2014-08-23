@@ -27,7 +27,7 @@ On the other hand, [activities that we might categorize as "play" can be quite r
 
 This kind of rigor is exactly what education should be about: intellectual and social (re)formation. Thus, a rigorous class—defined in this way—is a good class.
 
-It is important to note that not only does difficulty not guarantee this kind of rigor or "good"ness, but to the extent that unrigorous difficulty consumes time and energy that could have been spent on activities that stimulate the intellect, a difficult class is anti-rigorous, anti-educational.
+It is important to note that not only does difficulty not guarantee this kind of rigor or "good"ness, but if that unrigorous difficulty consumes time and energy that could have been spent on activities that stimulate the intellect, that difficult class is anti-rigorous, anti-educational.
 
 What most educators usually mean by a "difficult" or "hard" class is not intellectually rigorous. And what most educators usually mean by "rigorous" is not good for our students' intellectual and social development. So the assumption that a difficult class is a rigorous class is a good class is fallacious. 
 
