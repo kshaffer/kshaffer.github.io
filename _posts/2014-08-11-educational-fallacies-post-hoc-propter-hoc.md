@@ -2,7 +2,7 @@
 layout: post
 title: "Educational fallacies: post hoc, propter hoc"
 modified: 2014-08-11 09:50:16 -0600
-tags: [pedagogy, teaching, learninng, educational fallacies]
+tags: [pedagogy, teaching, learning, educational fallacies]
 image:
   feature: 
   credit: 
