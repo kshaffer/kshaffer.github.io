@@ -7,7 +7,7 @@ image:
   feature: gradeOne.jpg
   credit: Yvonne Thompson
   creditlink: https://www.flickr.com/photos/yvonnert/4782496500/
-comments: 
+comments: true
 share: 
 ---
 
