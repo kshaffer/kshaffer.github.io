@@ -4,9 +4,9 @@ title: "Starting off with critical pedagogy"
 modified: 2014-09-21 21:41:42 +0000
 tags: [pedagogy, teaching, critical pedagogy]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature: cones.jpg
+  credit: Roberto Vinicius
+  creditlink: https://www.flickr.com/photos/robvini/2184671155
 comments: true
 share: 
 ---
