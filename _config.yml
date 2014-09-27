@@ -57,7 +57,6 @@ links:
 #    url: /software/
   - title: courses
     url: "http://courses.shaffermusic.com"
-	external: true
   - title: church music
     url: /worship-music/
   - title: contact
