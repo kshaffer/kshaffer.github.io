@@ -114,6 +114,7 @@ John F. Enders Fellowship (Yale University Graduate School), 2010
 University of Colorado–Boulder
 
 - Music Cognition (doctoral seminar), 2014  
+- Harmony and Form in Pop/Rock Music: A Computational Approach (cross-listed in music & computer science; vertically integrated), 2014  
 - Semester 1 Theory, 2014  
 - Semester 4 Theory (co-coordinator), 2014  
 - Semester 4 Aural Skills (coordinator), 2014  

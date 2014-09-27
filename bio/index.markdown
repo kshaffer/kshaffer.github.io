@@ -8,7 +8,7 @@ title: Bio
 wordpress_id: 248
 ---
 
-Kris Shaffer, Ph.D. (Yale University, 2011), is Instructor of Music Theory at the [University of Colorado, Boulder](http://music.colorado.edu) and Contributing Editor for [*Hybrid Pedagogy*](http://www.hybridpedagogy.com). He previously held the position of Assistant Professor of Music at [Charleston Southern University](http://www.csuniv.edu/music/index.asp).
+Kris Shaffer, Ph.D. (Yale University, 2011), is Instructor of Music Theory at the [University of Colorado, Boulder](http://music.colorado.edu) and Editor for [*Hybrid Pedagogy's*](http://www.hybridpedagogy.com) long-form publishing division. He is also the lead author and editor of [*Open Music Theory*](http://openmusictheory.com), an open-source, interactive "text"book for undergraduate music theory courses.
 
 ![](/bio/shaffer-landscape.jpg)
 
@@ -20,4 +20,4 @@ From 2005 to 2008, Kris served as the editor of Am Steg, an online community and
 
 Kris is also an active performer and church musician. He most recently has freelanced in the Charleston area, performing with the [Charleston Symphony](http://www.charlestonsymphony.org/Home.aspx), [Opera Charleston](http://operacharlestonsc.org), the [Savannah Philharmonic](http://www.savannahphilharmonic.org), [North Charleston Pops](http://www.northcharlestonpops.com), and popular artists such as Jay Clifford. From 2008 to 2011, he directed the Sunday morning music ministry at Trinity Baptist Church in New Haven, Conn. He has also performed with the Berkshire Symphony Orchestra (Williamstown, Mass.), the Illinois Symphony (Springfield, Ill.), and the Green Bay Symphony (Wis.).
 
-In addition to the Ph.D., Kris holds a Master of Philosophy and a Master of Arts in music theory from Yale University, a Master of Music in orchestral performance from the Chicago College of Performing Arts, and a Bachelor of Music in performance (with an honors thesis in music theory) from Lawrence University in Wisconsin.
+In addition to the Ph.D., Kris holds a Master of Philosophy and a Master of Arts in music theory from Yale University, a Master of Music in orchestral performance from the Chicago College of Performing Arts, and a Bachelor of Music in performance (with an honors thesis in music theory) from Lawrence University in Wisconsin. He previously held the position of Assistant Professor of Music at [Charleston Southern University](http://www.csuniv.edu/music/index.asp).
