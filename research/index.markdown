@@ -8,6 +8,8 @@ title: Research
 wordpress_id: 64
 ---
 
+See my [CV](/curriculum-vitae/) for links to published scholarly articles.
+
 [Dissertation](dissertation/) – "'Neither Tonal nor Atonal'?: Harmony and Harmonic Syntax in György Ligeti's Late Triadic Works" (Ph.D. dissertation, Yale University, 2011)
 
 [Conference presentations](conference-presentations/) – text and/or slides from presentations at regional, national, and international music conferences

@@ -168,15 +168,18 @@ Green Bay Symphony Orchestra (WI), substitute second horn, 2003
 
 # Languages #
 
-German  
+German
+
 - Reading and writing: proficient with dictionary  
 - Speaking: functional
 
 Spanish  
+
 - Reading and writing: proficient with dictionary  
 - Speaking: functional
 
 French  
+
 - Reading: proficient with dictionary  
 - Writing and speaking: not proficient
 
