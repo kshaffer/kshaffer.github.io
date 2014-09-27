@@ -45,12 +45,12 @@ links:
   - title: home
     url: http://kris.shaffermusic.com
     external: true
+  - title: archive
+    url: /archive/
   - title: About
     url: /bio/
   - title: CV
     url: /curriculum-vitae/
-  - title: archive
-    url: /archive/
   - title: research
     url: /research/
 #  - title: software
