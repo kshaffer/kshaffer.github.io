@@ -53,10 +53,10 @@ links:
     url: /archive/
   - title: research
     url: /research/
-  - title: software
-    url: /software/
-  - title: courses taught
-    url: /courses-taught/
+#  - title: software
+#    url: /software/
+#  - title: courses taught
+#    url: /courses-taught/
   - title: church music
     url: /worship-music/
   - title: tech articles

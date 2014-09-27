@@ -8,4 +8,5 @@ footer: true
 ---
 
 email: kris DOT shaffer AT gmail DOT com  
-twitter: @krisshaffer
+Twitter: [@krisshaffer](http://twitter.com/krisshaffer)  
+GitHub: [kshaffer](http://github.com/kshaffer)  
