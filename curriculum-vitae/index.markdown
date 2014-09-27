@@ -52,52 +52,64 @@ Contributed by invitation to ["Perspectives, Play, and Pedagogy: The Hybrid Peda
 # Grants and fellowships #
 
 Paul Sacher Stiftung Scholarship, 2012  
->for short-term study in the Ligeti Collection at the Paul Sacher Stiftung, Basel, Switzerland
+
+> for short-term study in the Ligeti Collection at the Paul Sacher Stiftung, Basel, Switzerland
 
 Global Education Grant, Charleston Southern University, 2012  
->for short-term study in the Ligeti Collection
+
+> for short-term study in the Ligeti Collection
 
 John F. Enders Fellowship (Yale University Graduate School), 2010  
->for short-term study in the Ligeti Collection
+
+> for short-term study in the Ligeti Collection
 
 # Conference presentations #
 
 "Hacking the Music Theory Class: Pedagogical Tools that Increase Efficiency and Effectiveness"  
->Society for Music Theory 2013 Annual Meeting, November 2013  
->special session led by Philip Duker, Anna Gawboy, Bryn Hughes, and myself
+
+> Society for Music Theory 2013 Annual Meeting, November 2013  
+> special session led by Philip Duker, Anna Gawboy, Bryn Hughes, and myself
 
 "Open peer-review: a proposal for the future of Music Theory Online"  
->Society for Music Theory 2013 Annual Meeting, November 2013  
->part of panel, "History and Future of Music Theory Online," with Yonatan Malin, Eric Isaacson, Lee Rothfarb, Matthew Shaftel, Tim Koozin, and Karen Bottge
+
+> Society for Music Theory 2013 Annual Meeting, November 2013  
+> part of panel, "History and Future of Music Theory Online," with Yonatan Malin, Eric Isaacson, Lee Rothfarb, Matthew Shaftel, Tim Koozin, and Karen Bottge
 
 "The open-source textbook"
->The Humanities and Technology Camp (THATCamp) Southeast, 9 March 2013
+
+> The Humanities and Technology Camp (THATCamp) Southeast, 9 March 2013
 
 "Introduction to Github"
->The Humanities and Technology Camp (THATCamp) Southeast, 10 March 2013
+
+> The Humanities and Technology Camp (THATCamp) Southeast, 10 March 2013
 
 "Computational Approaches to Music Theory and Analysis: Overview and Hands-On Tutorials"
->Society for Music Theory 2011 Annual Meeting, October 2011  
->special session led by Christopher Ariza, Michael Cuthbert, Morwaread Farbood, Panayotis Mavromatis, Richard Plotkin, Jason Yust, and myself
+
+> Society for Music Theory 2011 Annual Meeting, October 2011  
+> special session led by Christopher Ariza, Michael Cuthbert, Morwaread Farbood, Panayotis Mavromatis, Richard Plotkin, Jason Yust, and myself
 
 "'Neither tonal nor atonal'?: A statistical root-motion analysis of Ligeti's late triadic works"
->Music Theory Society of New York State 2011 Conference, 9 April 2011  
->Music Theory Society of the Mid-Atlantic 2011 Conference, 18 March 2011  
->Indiana University Symposium of Research in Music Theory, 19 February 2011  
->Yale University Department of Music Work-in-Progress Series, 19 November 2010
+
+> Music Theory Society of New York State 2011 Conference, 9 April 2011  
+> Music Theory Society of the Mid-Atlantic 2011 Conference, 18 March 2011  
+> Indiana University Symposium of Research in Music Theory, 19 February 2011  
+> Yale University Department of Music Work-in-Progress Series, 19 November 2010
 
 "Is there more to musical consonance perception than the perception of consonance?"
->The Cognitive Science (Graduate) Workshop at Yale, 23 April 2009
+
+> The Cognitive Science (Graduate) Workshop at Yale, 23 April 2009
 
 # Courses taught #
 
 University of Colorado–Boulder
 
-- Semester 4 Theory (co-coordinator), 2012  
-- Semester 4 Aural Skills (coordinator), 2012  
-- Semester 2 Aural Skills, 2012
-- Semester 3 Theory (co-coordinator), 2013  
-- Semester 3 Aural Skills (coordinator), 2013  
+- Music Cognition (doctoral seminar), 2014  
+- Semester 1 Theory, 2014  
+- Semester 4 Theory (co-coordinator), 2014  
+- Semester 4 Aural Skills (coordinator), 2014  
+- Semester 2 Aural Skills, 2014
+- Semester 3 Theory (co-coordinator), 2013–14  
+- Semester 3 Aural Skills (coordinator), 2013–14  
 - Semester 1 Aural Skills, 2013
 
 Charleston Southern University  
