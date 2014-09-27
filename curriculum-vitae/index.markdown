@@ -25,9 +25,19 @@ Instructor of Music Theory, University of Colorado–Boulder, fall 2013–presen
 
 Assistant Professor of Music Theory, Charleston Southern University, fall 2011–spring 2013
 
-# Publications – peer reviewed #
+# Publications – books
 
-"*Music Theory Online*: A Proposal for Open Peer-Review." In process with [*Music Theory Online*](http://mtosmt.org). Received January 2014.
+[*Open Music Theory*](http://openmusictheory.com), "beta" edition. (An open-source, online textbook for undergraduate music theory courses.) Hybrid Pedagogy Publishing, 2014.
+
+# Publications – peer-reviewed articles
+
+["Problem-Based Learning in Music: A Guide for Instructors, Part 3: Assessing Problem-Based Learning."](http://www.flipcamp.org/engagingstudents2/essays/shaffer.html) In [*Engaging Students: Essays in Music Pedagogy, Vol. 2*](http://www.flipcamp.org/engagingstudents2/index.html), 2014.
+
+["Three Lines of Resistance: Ethics, Critical Pedagogy, and Teaching Underground."](http://www.hybridpedagogy.com/journal/three-lines-resistance-ethics-critical-pedagogy-teaching-underground/) In [*Hybrid Pedagogy*](http://www.hybridpedagogy.com), July 29, 2014.
+
+["The Critical Textbook."](http://www.hybridpedagogy.com/journal/critical-textbook/)  In [*Hybrid Pedagogy*](http://www.hybridpedagogy.com), May 1, 2014.
+
+["*Music Theory Online*: A Proposal for Open Peer-Review."](http://www.mtosmt.org/issues/mto.14.20.1/mto.14.20.1.shaffer.php) In [*Music Theory Online*](http://mtosmt.org) 20/1, February 2014.
 
 ["Pursuing a Social Media Policy that Supports Academic Freedom."](http://www.hybridpedagogy.com/journal/pursuing-social-media-policy-supports-academic-freedom/) In [*Hybrid Pedagogy*](http://www.hybridpedagogy.com), January 31, 2014.
 
@@ -41,7 +51,7 @@ Assistant Professor of Music Theory, Charleston Southern University, fall 2011�
 
 ["Open-source scholarship."](http://www.hybridpedagogy.com/Journal/files/Open_Source_Scholarship.html) In [*Hybrid Pedagogy*](http://hybridpedagogy.com), May 22, 2013.
 
-# Publications – editor reviewed #
+# Publications – editor-reviewed articles
 
 Contributed by invitation to ["Perspectives, Play, and Pedagogy: The Hybrid Pedagogy Virtual Unconference."](http://www.hybridpedagogy.com/Journal/files/Perspectives_Play_and_Pedagogy.html) In [*Hybrid Pedagogy*](http://hybridpedagogy.com), June 5, 2013.
 
@@ -132,7 +142,9 @@ CCPA-Roosevelt University
 
 # Service to profession #
 
-Contributing editor, [*Hybrid Pedagogy*](http://www.hybridpedagogy.com), 2014–present
+Editor, [*Hybrid Pedagogy*](http://www.hybridpedagogy.com), publishing division, 2014–present
+
+Coordinating editor, [*Engaging Students: Essays in Music Pedagogy, Vol. 2*](http://www.flipcamp.org/engagingstudents2/index.html), 2014
 
 Organizer, FlipCamp Music Theory 2014, an unconference on the inverted music theory class, June 2014
 
