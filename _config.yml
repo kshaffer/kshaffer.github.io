@@ -45,7 +45,7 @@ links:
   - title: home
     url: http://kris.shaffermusic.com
     external: true
-  - title: archive
+  - title: posts
     url: /archive/
   - title: About
     url: /bio/
@@ -55,8 +55,9 @@ links:
     url: /research/
 #  - title: software
 #    url: /software/
-#  - title: courses taught
-#    url: /courses-taught/
+  - title: courses
+    url: http://courses.shaffermusic.com
+	external: true
   - title: church music
     url: /worship-music/
   - title: contact
