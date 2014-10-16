@@ -15,7 +15,7 @@ Academic assessments always test more than we think.
 
 For example, recent studies have found that timed quizzes in K–12 math classes measure a student's cognitive working memory load, as well as their ability to make basic calculations quickly. Likewise, these timed tests measure a student's level of anxiety—and in many cases, they contribute to it, as well. (See Jo Boaler's ["Research suggests timed tests cause math anxiety"](http://newsroom.unl.edu/announce/csmce/3499/18149) for more information on these and other studies.)
 
-We use the same kind of timed quizzes in music theory courses to assess student fluency in fundamental concepts of notation and structure. And though no studies hae been done (to my knowledge), I suspect that my timed quizzes have some of the same negative effects. In fact, I'm positive that they do for at least some of my students.
+We use the same kind of timed quizzes in music theory courses to assess student fluency in fundamental concepts of notation and structure. And though no studies have been done (to my knowledge), I suspect that my timed quizzes have some of the same negative effects. In fact, I'm positive that they do for at least some of my students.
 
 So can we do it differently? Can we accomplish the same pedagogical goals without timed quizzes?
 
