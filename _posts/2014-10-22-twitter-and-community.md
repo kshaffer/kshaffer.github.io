@@ -4,16 +4,12 @@ title: "Twitter and community"
 modified: 2014-10-22 22:07:27 -0600
 tags: [Twitter]
 image:
-  feature: 
-  credit: 
-  creditlink: 
-comments: 
-share: 
+  feature: bears.jpg
+  credit: Doug Brown
+  creditlink: https://www.flickr.com/photos/dougbrown47/8567491842/
+comments: true
+share: true
 ---
-
-https://www.flickr.com/photos/kenbondy/2149526252/
-https://www.flickr.com/photos/dansky/9553965123/
-https://www.flickr.com/photos/dougbrown47/8567491842/
 
 [Pete Rorabaugh](https://twitter.com/allistelling) (one of my heroes) gives a great introduction to Twitter for academics. Twitter is a stream. You are a bear. Tweets are fish. As you stand in the stream, you're going to get pummeled by water, and many fish will pass you by. That's okay. You only need to find a few good ones.
 
