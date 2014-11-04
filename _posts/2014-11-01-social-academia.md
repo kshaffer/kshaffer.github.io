@@ -32,3 +32,8 @@ When I write, I'm going to write more on this blog and on [my Known page](http:/
 We'll see how this works. I'm hoping others will join me in writing in more open, more user-controlled domains, as well as in critiquing the corporate tools that we do make use of. And maybe a few of us can band together here and there for a group blog or a more localized "social network." (Tools like Known and BuddyPress make this doable, and not too difficult.)
 
 In my mind, both the advantage and the problem of Twitter are that it is a single platform for writing, reading, sharing links, finding links, social activity, and — unfortunately — anti-social activity. The mixture means a large potential audience for writers and public thinkers. But it also means a poor signal-to-noise ratio, as so many people are using the same service for multiple, and different, purposes. Five years ago, none of us did all these things in one place. Do we need to?
+
+## Related posts
+
+- [Twitter and community](http://kris.shaffermusic.com/2014/10/twitter-and-community/)  
+- [Slow](http://kris.shaffermusic.com/2014/10/slow/)
