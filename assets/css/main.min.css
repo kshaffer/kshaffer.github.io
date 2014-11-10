@@ -56,6 +56,10 @@ img{
 	-ms-interpolation-mode:bicubic
 	}
 
+webmentions:img{
+	max-width: 100px;
+}
+
 #map_canvas img,.google-maps img{
 	max-width:none
 }
