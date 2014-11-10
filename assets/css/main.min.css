@@ -56,7 +56,7 @@ img{
 	-ms-interpolation-mode:bicubic
 	}
 
-img.webmentions{
+.webmentions img{
 	max-width: 100px;
 }
 
