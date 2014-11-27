@@ -3,7 +3,8 @@ layout: post
 title: "Last CSO gig"
 date: 2013-07-10 20:14
 comments: true
-categories: 
+categories: blog
+share: true
 tags: 
 - horn
 - Charleston Symphony Orchestra

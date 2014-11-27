@@ -5,6 +5,8 @@ date: 2012-11-02 08:12:35
 layout: post
 slug: at-home-quizzes
 title: At-home quizzes
+categories: blog
+share: true
 wordpress_id: 618
 tags:
 - inverted classroom

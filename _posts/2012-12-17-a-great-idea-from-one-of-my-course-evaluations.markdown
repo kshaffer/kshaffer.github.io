@@ -5,6 +5,8 @@ date: 2012-12-17 12:37:40
 layout: post
 slug: a-great-idea-from-one-of-my-course-evaluations
 title: A great idea from one of my course evaluations
+categories: blog
+share: true
 wordpress_id: 627
 tags:
 - course evaluations

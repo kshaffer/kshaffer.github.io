@@ -8,7 +8,8 @@ image:
   credit: Iowa Digital Library
   creditlink: https://www.flickr.com/photos/uiowa/8047288890/in/photolist-5B4bGA-dg7rav-dg7r7v-dg7sCb-dg7re2-dg7sKL-dg7oTy-aBjT6g-aBjSdV-aBjSxF-aBny8h-aBjSSr-dg6WY8
 comments: true
-share: 
+categories: blog
+share: true
 ---
 
 *This is the second in my series of posts on educational fallacies. You can read all of them [here](http://kris.shaffermusic.com/tags/#educational%20fallacies).*

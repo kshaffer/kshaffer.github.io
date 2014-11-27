@@ -3,7 +3,8 @@ layout: post
 title: "Breaking up with email&#58; an update"
 date: 2013-10-12 16:39
 comments: true
-categories: 
+categories: blog
+share: true
 tags:
 - email  
 - inbox zero  

@@ -7,8 +7,9 @@ image:
   feature: 
   credit: 
   creditlink: 
-comments: 
-share: 
+comments: true
+categories: blog
+share: true
 ---
 
 I am conducting a crowdfunding campaign to build an **open-source, interactive music theory textbook** that is easy for instructors to use, customize, and augment with their own resources. This will be published by [Hybrid Pedagogy Publishing](http://www.hybridpedagogy.org/#publishing) and built on the [Trinket](http://trinket.io) platform. (Trinket is also a major donor, ***matching dollar-for-dollar the first $2500 of donations from the community***.) For details or to make a contribution, watch the video below and visit [the crowdfunding project page](http://igg.me/at/opentextbook) before July 6.

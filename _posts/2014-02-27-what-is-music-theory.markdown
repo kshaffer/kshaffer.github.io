@@ -3,7 +3,8 @@ layout: post
 title: "What is music theory?"
 date: 2014-02-27 20:58
 comments: true
-categories: 
+categories: blog
+share: true
 tags:
 - music theory
 - aural skills

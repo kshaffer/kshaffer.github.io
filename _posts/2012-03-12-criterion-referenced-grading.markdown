@@ -5,6 +5,8 @@ date: 2012-03-12 18:44:48
 layout: post
 slug: criterion-referenced-grading
 title: Criterion-referenced grading
+categories: blog
+share: true
 wordpress_id: 201
 tags:
 - aural skills

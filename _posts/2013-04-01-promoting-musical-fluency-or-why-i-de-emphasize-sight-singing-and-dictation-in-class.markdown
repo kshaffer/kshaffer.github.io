@@ -6,6 +6,8 @@ layout: post
 slug: promoting-musical-fluency-or-why-i-de-emphasize-sight-singing-and-dictation-in-class
 title: Promoting musical fluency -or- Why I de-emphasize sight-singing and dictation
   in class
+categories: blog
+share: true
 wordpress_id: 784
 tags:
 - assessment

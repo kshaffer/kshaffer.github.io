@@ -5,6 +5,8 @@ date: 2012-07-06 10:32:44
 layout: post
 slug: teaching-subjectivities-rather-than-subjects
 title: Teaching subjectivities rather than subjects
+categories: blog
+share: true
 wordpress_id: 423
 post_format:
 - Standard

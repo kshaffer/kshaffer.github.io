@@ -3,7 +3,8 @@ layout: post
 title: "The freelance university?"
 date: 2014-01-25 20:28
 comments: true
-categories: 
+categories: blog
+share: true
 ---
 
 I pondered some things out loud on Twitter last week. 

@@ -5,6 +5,8 @@ date: 2011-06-02 20:03:05
 layout: post
 slug: histories-and-fallacies
 title: Histories and Fallacies
+categories: blog
+share: true
 wordpress_id: 83
 tags:
 - historiography

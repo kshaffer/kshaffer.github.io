@@ -5,6 +5,8 @@ date: 2012-06-15 11:06:05
 layout: post
 slug: problems-with-using-transitional-probability-in-musical-corpus-studies
 title: Problems with using transitional probability in musical corpus studies
+categories: blog
+share: true
 wordpress_id: 452
 tags:
 - analysis

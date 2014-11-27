@@ -5,6 +5,8 @@ date: 2013-01-12 15:39:24
 layout: post
 slug: harmonic-syntax-in-corpus-studies
 title: Harmonic syntax in corpus studies
+categories: blog
+share: true
 wordpress_id: 665
 tags:
 - analysis

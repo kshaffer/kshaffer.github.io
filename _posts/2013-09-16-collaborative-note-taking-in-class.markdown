@@ -3,7 +3,9 @@ layout: post
 title: "Collaborative note-taking in class"
 date: 2013-09-16 19:53
 comments: true
-categories: 
+categories: blog
+share: true
+tags: 
 - inverted class
 - collaborative notes
 - critical pedagogy

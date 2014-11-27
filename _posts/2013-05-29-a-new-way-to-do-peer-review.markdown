@@ -3,7 +3,8 @@ layout: post
 title: "A new way to do peer review"
 date: 2013-05-29 16:50
 comments: true
-categories: 
+categories: blog
+share: true
 author: Kris Shaffer
 tags: 
 - peer-review

@@ -5,6 +5,8 @@ date: 2012-08-10 09:11:54
 layout: post
 slug: introduction-to-criterion-referenced-grading
 title: Introduction to criterion-referenced grading
+categories: blog
+share: true
 wordpress_id: 560
 tags:
 - criterion-referenced grading

@@ -3,7 +3,8 @@ layout: post
 title: "Academic freedom at CU"
 date: 2013-12-19 23:40
 comments: true
-categories: 
+categories: blog
+share: true
 ---
 
 Interesting things have been happening at CU this week. Conflict has arisen over methods used by sociologist Patti Adler in a course on deviance. Controversy has primarily arisen surrounding a prostitution skit that she has employed in many iterations of this course and the way that administrators have responded to concerns raised. I'm not going to provide any of my own commentary here, but I think it would be helpful to collect and present together many of the articles and statements put out this week. I've heard a lot of misinformation and incomplete information, both of which can be unhelpful, even dangerous. What follows is as complete a picture as I can put together at the moment, and hopefully the juxtaposition of these various statements will help readers to read each statement critically.

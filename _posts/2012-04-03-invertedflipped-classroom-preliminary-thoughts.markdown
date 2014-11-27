@@ -5,6 +5,8 @@ date: 2012-04-03 20:58:29
 layout: post
 slug: invertedflipped-classroom-preliminary-thoughts
 title: 'Inverted/flipped classroom: preliminary thoughts'
+categories: blog
+share: true
 wordpress_id: 288
 tags:
 - inverted classroom

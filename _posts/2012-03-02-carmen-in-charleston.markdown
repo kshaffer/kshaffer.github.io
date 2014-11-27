@@ -5,6 +5,8 @@ date: 2012-03-02 16:02:15
 layout: post
 slug: carmen-in-charleston
 title: Carmen in Charleston
+categories: blog
+share: true
 wordpress_id: 184
 tags:
 - aural skills

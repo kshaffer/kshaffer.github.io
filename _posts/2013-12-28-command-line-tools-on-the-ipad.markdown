@@ -3,7 +3,8 @@ layout: post
 title: "Command-line tools on the iPad"
 date: 2013-12-28 22:55
 comments: true
-categories: 
+categories: blog
+share: true
 tags:
 - command-line  
 - git  

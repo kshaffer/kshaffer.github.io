@@ -3,7 +3,8 @@ layout: post
 title: "Convocation address on the inverted class"
 date: 2013-08-27 15:26
 comments: true
-categories: 
+categories: blog
+share: true
 tags:
 - inverted classroom  
 - pedagogy  

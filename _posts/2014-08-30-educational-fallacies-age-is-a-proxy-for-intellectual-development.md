@@ -8,7 +8,8 @@ image:
   credit: Yvonne Thompson
   creditlink: https://www.flickr.com/photos/yvonnert/4782496500/
 comments: true
-share: 
+categories: blog
+share: true
 ---
 
 *This is the third in my series of posts on educational fallacies. You can read all of them [here](http://kris.shaffermusic.com/tags/#educational%20fallacies).*

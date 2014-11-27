@@ -5,6 +5,8 @@ date: 2012-07-14 13:34:42
 layout: post
 slug: the-goal-of-a-musicianship-sequence
 title: Goals for a musicianship course sequence
+categories: blog
+share: true
 wordpress_id: 499
 tags:
 - average-based grading

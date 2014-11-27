@@ -3,6 +3,8 @@ layout: post
 title: "Crowdsourcing a bibliography on assessment"
 date: 2013-07-03 19:37
 comments: true
+categories: blog
+share: true
 tags: 
 - pedagogy
 - research

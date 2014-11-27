@@ -5,6 +5,8 @@ date: 2012-09-01 19:06:25
 layout: post
 slug: first-week-reflections
 title: First week reflections
+categories: blog
+share: true
 wordpress_id: 597
 tags:
 - average-based grading

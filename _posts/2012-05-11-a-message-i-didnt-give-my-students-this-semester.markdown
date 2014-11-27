@@ -5,6 +5,8 @@ date: 2012-05-11 13:26:41
 layout: post
 slug: a-message-i-didnt-give-my-students-this-semester
 title: A message I didn't give my students this semester
+categories: blog
+share: true
 wordpress_id: 419
 tags:
 - average-based grading

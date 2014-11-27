@@ -3,7 +3,8 @@ layout: post
 title: "Harmony and Form in Pop/Rock Music: A Computational Approach"
 date: 2014-02-28 12:46
 comments: true
-categories: 
+categories: blog
+share: true
 tags:
 - Cathy Davidson
 - contract grading

@@ -3,7 +3,8 @@ layout: post
 title: "MOOCs and the future of liberal education"
 date: 2013-05-30 15:16
 comments: true
-categories: 
+categories: blog
+share: true
 tags:
 - MOOCs
 - liberal education

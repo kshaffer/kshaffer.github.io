@@ -8,7 +8,8 @@ image:
   credit: Roberto Vinicius
   creditlink: https://www.flickr.com/photos/robvini/2184671155
 comments: true
-share: 
+categories: blog
+share: true
 ---
 
 A teacher's first encounter with critical pedagogy can be overwhelming. The ideology is radically (pun intended) different from "traditional" approaches to education, and it can be easy to lose the trees for the forest, so to speak. Critical pedagogues, myself included, like to write sweeping manifestos. And because the movement is heavily ideological and rooted in justice, it can be easy to think that the only way to become a critical pedagogue is to change *absolutely everything* about the way we relate to our students.

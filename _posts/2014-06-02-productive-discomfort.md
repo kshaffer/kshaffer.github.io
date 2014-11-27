@@ -8,7 +8,8 @@ image:
   credit: 
   creditlink: 
 comments: true
-share: 
+categories: blog
+share: true
 ---
 
 I'm giving a keynote address tomorrow morning at the University of Delaware Summer Faculty Institute, titled "Productive Discomfort: Fostering Learning in an Inquiry-Driven Class." It will be followed by a workshop on what I call "rigorous play" in a university class.

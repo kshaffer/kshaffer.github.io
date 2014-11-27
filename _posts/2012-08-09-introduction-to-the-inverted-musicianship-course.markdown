@@ -5,6 +5,8 @@ date: 2012-08-09 10:52:54
 layout: post
 slug: introduction-to-the-inverted-musicianship-course
 title: Introduction to the inverted musicianship course
+categories: blog
+share: true
 wordpress_id: 555
 tags:
 - Analyze–Access–Assimilate–Apply

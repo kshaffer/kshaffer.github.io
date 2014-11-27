@@ -5,6 +5,8 @@ date: 2011-07-11 21:38:47
 layout: post
 slug: the-makings-of-a-great-entree
 title: The makings of a great entrée
+categories: blog
+share: true
 wordpress_id: 111
 tags:
 - bacon

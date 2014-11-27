@@ -5,6 +5,8 @@ date: 2013-01-26 15:28:42
 layout: post
 slug: the-economics-of-the-classroom-or-why-grades-encourage-bad-habits
 title: The economics of the classroom -or- Why grades encourage bad habits
+categories: blog
+share: true
 wordpress_id: 679
 tags:
 - attendance

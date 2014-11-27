@@ -5,6 +5,8 @@ date: 2013-03-15 09:10:35
 layout: post
 slug: the-open-source-textbook-at-thatcamp-southeast
 title: The open-source textbook at THATCamp Southeast
+categories: blog
+share: true
 wordpress_id: 686
 post_format:
 - Standard

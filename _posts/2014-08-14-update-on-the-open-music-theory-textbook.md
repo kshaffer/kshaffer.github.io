@@ -7,9 +7,10 @@ image:
   feature: openBooksOnPath.jpg
   thumb: openBooksOnPath-square.jpg
   credit: muffin9101985
-  creditlink: 
+  creditlink: https://flic.kr/p/5Rv9vo
 comments: true
-share: https://flic.kr/p/5Rv9vo
+categories: blog
+share: true
 ---
 
 Development on the open, interactive music theory textbook is well underway! We have taken on two authors to assist in composing and curating the remaining content: Bryn Hughes (University of Miami) and Brian Moseley (University of Buffalo). I have also been working with the team at [Trinket](http://www.trinket.io) to develop the interactive music notation modules that will be embedded in the textbook. They are nearly ready to go live!

@@ -3,7 +3,8 @@ layout: post
 title: "Sustainable pedagogy"
 date: 2014-04-11 15:35
 comments: true
-categories: 
+categories: blog
+share: true
 tags:
 - pedagogy  
 - sustainability  

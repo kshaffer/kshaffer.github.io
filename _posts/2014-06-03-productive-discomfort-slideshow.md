@@ -8,7 +8,8 @@ image:
   credit: 
   creditlink: 
 comments: true
-share: 
+categories: blog
+share: true
 ---
 
 Today I gave a [keynote presentation](http://ats.udel.edu/institute/category/june-3/) and led a breakout discussion session for the University of Delaware's Faculty Summer Institute. The presentation was titled, "Productive discomfort: Fostering learning in an inquiry-driven class." For those interested, here are my slides, with links to the articles cited. Enjoy!

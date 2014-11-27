@@ -5,6 +5,8 @@ date: 2012-03-22 17:59:33
 layout: post
 slug: clickers-in-the-music-theory-classroom
 title: Clickers in the Music Theory Classroom
+categories: blog
+share: true
 wordpress_id: 261
 tags:
 - clickers

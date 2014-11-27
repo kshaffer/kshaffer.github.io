@@ -3,7 +3,8 @@ layout: post
 title: "Why grade?"
 date: 2014-07-08 12:21
 comments: true
-categories: 
+categories: blog
+share: true
 tags:
 - pedagogy  
 - grades  

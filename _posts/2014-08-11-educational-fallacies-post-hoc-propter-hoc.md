@@ -8,7 +8,8 @@ image:
   credit: 
   creditlink: 
 comments: true
-share: 
+categories: blog
+share: true
 ---
 
 *This weekend, I read [a recent blog post at the Chronicle of Higher Education](http://chronicle.com/blogs/conversation/2014/08/05/the-rise-of-the-helicopter-teacher/) by Steven Conn on the "helicopter teacher." Conn's post is primarily a rant about what many might call "soft" teaching practices. It is filled with hyperbole and fallacies, and lacking both in nuance and in knowledge of the scholarly literature on teaching. I've decided not to post a direct response to such an argument. However, Conn's post, and many of the comments and discussions that have come in response to his post, expose a number of rampant fallacies in the way that we think about teaching, especially in higher education. So I've decided to write a series of blog posts on educational fallacies—things like "I covered it, I assessed it, therefore my students learned it," "a hard class is a rigorous class is a good class," or "what's good for the average is good for all." This is my first post in this series, addressing the fallacy:* 

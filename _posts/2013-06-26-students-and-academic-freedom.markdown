@@ -3,7 +3,9 @@ layout: post
 title: "Students and academic freedom"
 date: 2013-06-26 09:34
 comments: true
-categories: 
+categories: blog
+share: true
+tags:
 - academic freedom
 - pedagogy
 - academia

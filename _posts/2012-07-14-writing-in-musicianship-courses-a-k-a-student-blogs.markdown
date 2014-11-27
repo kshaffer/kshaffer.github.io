@@ -5,6 +5,8 @@ date: 2012-07-14 19:44:04
 layout: post
 slug: writing-in-musicianship-courses-a-k-a-student-blogs
 title: Writing in musicianship courses (a.k.a., student blogs)
+categories: blog
+share: true
 wordpress_id: 506
 tags:
 - learning objectives

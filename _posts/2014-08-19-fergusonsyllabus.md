@@ -8,7 +8,8 @@ image:
   credit: Proctor Archives
   creditlink: https://www.flickr.com/photos/proctorarchives/4748996645
 comments: true
-share: 
+categories: blog
+share: true
 ---
 
 Many teachers and professors have been talking on Twitter about how they can work into their fall classes a discussion of Mike Brown and the events in Ferguson, Mo., after his shooting at the hands of the police. Some are using the hashtag [#FergusonSyllabus](https://twitter.com/search?q=%23FergusonSyllabus) to share ideas for assignments and discussion topics.

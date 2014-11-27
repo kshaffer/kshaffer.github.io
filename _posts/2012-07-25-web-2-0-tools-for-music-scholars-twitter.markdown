@@ -5,6 +5,8 @@ date: 2012-07-25 19:05:07
 layout: post
 slug: web-2-0-tools-for-music-scholars-twitter
 title: 'Web 2.0 tools for music scholars: Twitter'
+categories: blog
+share: true
 wordpress_id: 538
 tags:
 - '#musicon12'

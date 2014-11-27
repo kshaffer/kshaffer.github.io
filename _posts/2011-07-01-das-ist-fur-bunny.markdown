@@ -5,6 +5,8 @@ date: 2011-07-01 12:15:38
 layout: post
 slug: das-ist-fur-bunny
 title: Das ist für Bunny!
+categories: blog
+share: true
 wordpress_id: 89
 tags:
 - Basel

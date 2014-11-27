@@ -3,7 +3,8 @@ layout: post
 title: "Glorifying God in humanistic scholarship (thoughts from John Piper)"
 date: 2013-07-08 14:41
 comments: true
-categories: 
+categories: blog
+share: true
 tags: 
 - humanities  
 - scholarship  

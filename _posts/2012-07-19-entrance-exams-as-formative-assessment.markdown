@@ -5,6 +5,8 @@ date: 2012-07-19 09:56:49
 layout: post
 slug: entrance-exams-as-formative-assessment
 title: Entrance exams as formative assessment
+categories: blog
+share: true
 wordpress_id: 532
 tags:
 - CSU

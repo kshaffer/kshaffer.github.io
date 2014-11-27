@@ -5,6 +5,8 @@ date: 2012-03-15 12:45:04
 layout: post
 slug: criterion-referenced-evaluation-in-an-average-based-sysem
 title: Criterion-referenced evaluation in an average-based sysem
+categories: blog
+share: true
 wordpress_id: 235
 tags:
 - average-based grading

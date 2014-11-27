@@ -3,7 +3,8 @@ layout: post
 title: "Materials for Semester 3 Theory"
 date: 2013-06-11 10:49
 comments: true
-categories: 
+categories: blog
+share: true
 tags:
 - pedagogy
 - CU–Boulder

@@ -3,7 +3,8 @@ layout: post
 title: "DHThis and academic peer review"
 date: 2013-09-11 15:39
 comments: true
-categories: 
+categories: blog
+share: true
 tags:
 - peer review
 - publishing

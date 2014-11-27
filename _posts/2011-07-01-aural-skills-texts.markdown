@@ -5,6 +5,8 @@ date: 2011-07-01 14:44:54
 layout: post
 slug: aural-skills-texts
 title: Aural Skills Texts
+categories: blog
+share: true
 wordpress_id: 92
 tags:
 - aural skills

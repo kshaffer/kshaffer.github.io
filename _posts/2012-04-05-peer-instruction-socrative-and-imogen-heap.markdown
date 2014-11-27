@@ -5,6 +5,8 @@ date: 2012-04-05 18:43:41
 layout: post
 slug: peer-instruction-socrative-and-imogen-heap
 title: Peer instruction in a music analysis class
+categories: blog
+share: true
 wordpress_id: 297
 tags:
 - clickers

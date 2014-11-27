@@ -8,7 +8,8 @@ image:
   credit: 
   creditlink: 
 comments: true
-share: 
+categories: blog
+share: true
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/OSU_William_Oxley_Thompson_Memorial_Library_Stacks.JPG/800px-OSU_William_Oxley_Thompson_Memorial_Library_Stacks.JPG)

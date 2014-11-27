@@ -5,6 +5,8 @@ date: 2013-01-01 14:49:22
 layout: post
 slug: draft-syllabus-and-unit-i-information-for-musicianship-ii
 title: Draft syllabus and Unit I information for Musicianship II
+categories: blog
+share: true
 wordpress_id: 646
 tags:
 - criterion-referenced grading

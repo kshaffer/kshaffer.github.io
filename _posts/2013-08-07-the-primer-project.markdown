@@ -3,7 +3,8 @@ layout: post
 title: "The primer project"
 date: 2013-08-07 15:29
 comments: true
-categories: 
+categories: blog
+share: true
 tags:
 - pedagogy
 - teaching

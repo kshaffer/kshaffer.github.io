@@ -3,7 +3,8 @@ layout: post
 title: "Publishing with GitHub pages"
 date: 2013-09-25 14:56
 comments: true
-categories: 
+categories: blog
+share: true
 tags:
 - open-access  
 - open-source  

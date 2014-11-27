@@ -3,7 +3,8 @@ layout: post
 title: "Academic blog database update"
 date: 2013-07-03 20:19
 comments: true
-categories: 
+categories: blog
+share: true
 ---
 
 In a [previous post](/2013/06/building-a-database-of-academic-blogs/), I announced a project to create a database of academic blogs. So far, 250 academic bloggers from a number of different fields have added their sites to the database. If you have not, please do so by filling out the Google form on that earlier post.

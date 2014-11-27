@@ -3,7 +3,8 @@ layout: post
 title: "Breaking up with email"
 date: 2013-10-07 20:52
 comments: true
-categories: 
+categories: blog
+share: true
 tags:
 - email  
 - Google Drive  

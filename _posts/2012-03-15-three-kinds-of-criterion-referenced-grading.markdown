@@ -5,6 +5,8 @@ date: 2012-03-15 08:26:07
 layout: post
 slug: three-kinds-of-criterion-referenced-grading
 title: Three kinds of criterion-referenced grading
+categories: blog
+share: true
 wordpress_id: 226
 tags:
 - aural skills

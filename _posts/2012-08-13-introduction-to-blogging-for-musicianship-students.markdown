@@ -5,6 +5,8 @@ date: 2012-08-13 13:46:38
 layout: post
 slug: introduction-to-blogging-for-musicianship-students
 title: Introduction to blogging (for Musicianship students)
+categories: blog
+share: true
 wordpress_id: 570
 tags:
 - learning objectives

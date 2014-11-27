@@ -3,7 +3,8 @@ layout: post
 title: "Critical and Digital Pedagogies: a Virtual Unconference"
 date: 2013-05-15 14:31
 comments: true
-categories: 
+categories: blog
+share: true
 tags:
 - pedagogy
 ---

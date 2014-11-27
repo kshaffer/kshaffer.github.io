@@ -5,6 +5,8 @@ date: 2012-08-15 09:04:55
 layout: post
 slug: licensing-educational-resources-why-an-open-license
 title: 'Licensing educational resources: why an open license?'
+categories: blog
+share: true
 wordpress_id: 581
 tags:
 - copyright

@@ -5,6 +5,8 @@ date: 2012-06-01 08:01:09
 layout: post
 slug: ligeti-balinese-gamelan-and-non-standard-tuning
 title: Ligeti, Balinese gamelan, and non-standard tuning
+categories: blog
+share: true
 wordpress_id: 431
 tags:
 - gamelan

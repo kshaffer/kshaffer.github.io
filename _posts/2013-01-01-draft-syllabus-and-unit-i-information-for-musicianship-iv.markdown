@@ -5,6 +5,8 @@ date: 2013-01-01 19:44:06
 layout: post
 slug: draft-syllabus-and-unit-i-information-for-musicianship-iv
 title: Draft syllabus and Unit I information for Musicianship IV
+categories: blog
+share: true
 wordpress_id: 649
 tags:
 - criterion-referenced grading

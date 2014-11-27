@@ -5,6 +5,8 @@ date: 2012-12-21 16:06:51
 layout: post
 slug: rock-corpus-comparison
 title: Rock corpus comparison
+categories: blog
+share: true
 wordpress_id: 637
 tags:
 - analysis

@@ -5,6 +5,8 @@ date: 2012-05-10 11:57:09
 layout: post
 slug: first-semester-with-criterion-referenced-grading-general-recap
 title: First semester with criterion-referenced grading, general recap
+categories: blog
+share: true
 wordpress_id: 407
 tags:
 - average-based grading

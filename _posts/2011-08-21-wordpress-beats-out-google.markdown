@@ -5,6 +5,8 @@ date: 2011-08-21 19:38:21
 layout: post
 slug: wordpress-beats-out-google
 title: WordPress beats out Google+
+categories: blog
+share: true
 wordpress_id: 142
 tags:
 - aural skills

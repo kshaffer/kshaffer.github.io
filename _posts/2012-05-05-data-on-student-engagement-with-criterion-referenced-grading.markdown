@@ -5,6 +5,8 @@ date: 2012-05-05 20:17:01
 layout: post
 slug: data-on-student-engagement-with-criterion-referenced-grading
 title: Data on student engagement with criterion-referenced grading
+categories: blog
+share: true
 wordpress_id: 365
 tags:
 - average-based grading

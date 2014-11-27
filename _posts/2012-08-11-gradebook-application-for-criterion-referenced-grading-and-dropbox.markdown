@@ -5,6 +5,8 @@ date: 2012-08-11 08:08:57
 layout: post
 slug: gradebook-application-for-criterion-referenced-grading-and-dropbox
 title: Gradebook application for criterion-referenced grading and DropBox
+categories: blog
+share: true
 wordpress_id: 564
 tags:
 - criterion-referenced grading

@@ -5,6 +5,8 @@ date: 2012-05-08 20:33:32
 layout: post
 slug: ligeti-the-serialist-part-1
 title: Ligeti, the Serialist (part 1)
+categories: blog
+share: true
 wordpress_id: 398
 tags:
 - dissertation

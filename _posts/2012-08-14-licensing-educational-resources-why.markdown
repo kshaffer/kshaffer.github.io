@@ -5,6 +5,8 @@ date: 2012-08-14 09:03:04
 layout: post
 slug: licensing-educational-resources-why
 title: 'Licensing educational resources: why?'
+categories: blog
+share: true
 wordpress_id: 573
 tags:
 - OER

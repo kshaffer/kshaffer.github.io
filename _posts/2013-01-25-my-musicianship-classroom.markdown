@@ -5,6 +5,8 @@ date: 2013-01-25 21:04:33
 layout: post
 slug: my-musicianship-classroom
 title: My musicianship classroom
+categories: blog
+share: true
 wordpress_id: 671
 tags:
 - CSU

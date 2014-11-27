@@ -5,6 +5,8 @@ date: 2013-04-30 18:59:40
 layout: post
 slug: april-30-profchat
 title: 'April 30 #profchat'
+categories: blog
+share: true
 wordpress_id: 790
 ---
 

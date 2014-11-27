@@ -5,6 +5,8 @@ date: 2012-04-14 19:09:53
 layout: post
 slug: a-future-full-of-badges
 title: '"A future full of badges"?'
+categories: blog
+share: true
 wordpress_id: 328
 tags:
 - average-based grading

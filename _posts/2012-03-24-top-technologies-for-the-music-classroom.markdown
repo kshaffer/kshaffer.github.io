@@ -5,6 +5,8 @@ date: 2012-03-24 18:46:16
 layout: post
 slug: top-technologies-for-the-music-classroom
 title: Top technologies for the music classroom
+categories: blog
+share: true
 wordpress_id: 274
 tags:
 - aural skills

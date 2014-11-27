@@ -8,7 +8,8 @@ image:
   credit: imacgyv0r
   creditlink: https://flic.kr/p/7WqGGA
 comments: true
-share: 
+categories: blog
+share: true
 ---
 
 *I am currently editing (and expanding) the voice-leading section in our textbook, Open Music Theory, and I need some help. I'm trying to add a little more context (and answers to "why?") for some of the early stages in the text—particularly the "strict," a-stylstic elements in which students often do not perceive relevance, at least not right away. With that in mind I wrote a brief history of basso-continuo style keyboard writing, which is the basis of the four-voice-leading unit. Since it's been a while since I read about this, and since I'm simplifying the story here, I want to make sure I'm not oversimplifying it or putting forward some factual errors. So I'd love feeback on this part: do I make any mistakes (beyond the necessary simplification for a background reading for first-year theory)? Thanks to any who can help out!*

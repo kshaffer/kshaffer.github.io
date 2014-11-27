@@ -5,6 +5,8 @@ date: 2011-07-11 10:32:01
 layout: post
 slug: google-and-the-classroom
 title: Google+ and the classroom
+categories: blog
+share: true
 wordpress_id: 103
 tags:
 - aural skills

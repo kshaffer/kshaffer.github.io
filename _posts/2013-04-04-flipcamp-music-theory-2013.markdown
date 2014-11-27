@@ -5,6 +5,8 @@ date: 2013-04-04 15:02:20
 layout: post
 slug: flipcamp-music-theory-2013
 title: FlipCamp Music Theory 2013
+categories: blog
+share: true
 wordpress_id: 787
 tags:
 - aural skills
