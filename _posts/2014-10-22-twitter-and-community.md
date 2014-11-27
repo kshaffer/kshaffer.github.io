@@ -6,6 +6,7 @@ tags: [Twitter]
 category: blog
 image:
   feature: bears.jpg
+  teaser: bears-teaser.jpg
   credit: Doug Brown
   creditlink: https://www.flickr.com/photos/dougbrown47/8567491842/
 comments: true
