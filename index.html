@@ -4,10 +4,9 @@ title: Home
 headline: Recent articles
 description: "music theorist, professor, writer, performer"
 tags: [Jekyll, theme, themes, responsive, blog, minimalism]
-share: true
 ---
 
-<!--
+
 <script language="JavaScript1.2">
 
 var howOften = 8; //number often in seconds to rotate
@@ -42,11 +41,9 @@ function rotater() {
 }
 window.onload=rotater;
 //-->
-<!--
 </script>
 
 <div style="height: 480px"><layer id="placeholderlayer"></layer><div id="placeholderdiv"></div></div>
--->
 
 <!-- <br/><br/><img src="/bio/shaffer-landscape.jpg" /> -->
 
@@ -54,16 +51,16 @@ window.onload=rotater;
 
 <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
 
-<div class="tiles">
-{% for post in site.categories.blog limit:5 %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
-
-<!--
 <ul class="post-list">
 {% for post in site.posts limit:5 %} 
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
 {% endfor %}
 </ul>
+
+<!--
+<div class="tiles">
+{% for post in site.categories.blog limit:5 %}
+	{% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
 -->
