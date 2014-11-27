@@ -6,6 +6,7 @@ tags: [pedagogy, music, music theory]
 category: blog
 image:
   feature: spiralClock.jpg
+  teaser: spiralClock-teaser.jpg
   credit: Darren Tunnicliff
   creditlink: https://www.flickr.com/photos/darrentunnicliff/4469318003/
 comments: true
