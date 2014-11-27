@@ -8,7 +8,7 @@ image:
   credit: Kristina Alexanderson
   creditlink: https://www.flickr.com/photos/kalexanderson/5905710549
 comments: true
-share: 
+share: true
 ---
 
 > To the growth of the [student] all studies are subservient; they are instruments valued as they serve the needs of growth. Personality, character, is more than subject-matter.  
