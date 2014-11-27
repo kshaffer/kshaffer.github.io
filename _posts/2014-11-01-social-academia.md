@@ -13,9 +13,9 @@ comments: true
 share: true
 ---
 
-<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p><a href="https://twitter.com/TheJLV">@thejlv</a> and finally. I think I&#39;m over &quot;social&quot; &amp; the demands some folks make on my time, space. (related to earlier convos we&#39;ve had)</p>&mdash; Audrey Watters (@audreywatters) <a href="https://twitter.com/audreywatters/status/518475770499309568">October 4, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 Being a "public intellectual" in 2014 typically involves using social media. This brings many advantages for scholars, journalists, and other public thinkers. For example, sharing one's writing on social media tends to increase readership, and being active on a service like Twitter can lead to the forging of many new, mutually beneficial professional relationships. I have certainly benefitted from my social media use in both of these ways. 
+
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p><a href="https://twitter.com/TheJLV">@thejlv</a> and finally. I think I&#39;m over &quot;social&quot; &amp; the demands some folks make on my time, space. (related to earlier convos we&#39;ve had)</p>&mdash; Audrey Watters (@audreywatters) <a href="https://twitter.com/audreywatters/status/518475770499309568">October 4, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 However, as Audrey's tweet suggests, social media scholarship, journalism, etc. have a down-side. In fact, the more I think about it, and the more Twitter and Facebook change the way they work, the less inclined I am to use — or at least rely on — those services. Critical pedagogues stress critical use of technology, freedom for corporate decision-making, and the lack of singular "best practices." If that's our attitude towards textbooks, curricula, and so-called Learning Management Systems, we shouldn't be beholden to a corporate network for our scholarly and social discussions.
 
