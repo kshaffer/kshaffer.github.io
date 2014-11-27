@@ -6,6 +6,7 @@ tags: [social media, twitter, academia, scholarship]
 category: blog
 image:
   feature: socialBookmark.jpg
+  teaser: socialBookmark-teaser.jpg
   credit: Christine (palebluerobot)
   creditlink: https://www.flickr.com/photos/palebluerobot/5440077486/
 comments: true

@@ -6,6 +6,7 @@ tags: [pedagogy, critical pedagogy, humanities]
 category: blog
 image:
   feature: humanity.jpg
+  teaser: humanity-teaser.jpg
   credit: Kevan
   creditlink: https://www.flickr.com/photos/kevandotorg/6453643321
 comments: true
