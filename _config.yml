@@ -46,7 +46,9 @@ links:
     url: http://kris.shaffermusic.com
     external: true
   - title: posts
-    url: /archive/
+    url: /articles/
+  - title: porch
+    url: /porch/
   - title: About
     url: /bio/
   - title: CV
