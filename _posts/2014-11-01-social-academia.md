@@ -3,6 +3,7 @@ layout: post
 title: "Social academia"
 modified: 2014-11-01 20:16:53 -0600
 tags: [social media, twitter, academia, scholarship]
+category: blog
 image:
   feature: socialBookmark.jpg
   credit: Christine (palebluerobot)

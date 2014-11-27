@@ -3,6 +3,7 @@ layout: post
 title: "Twitter and community"
 modified: 2014-10-22 22:07:27 -0600
 tags: [Twitter]
+category: blog
 image:
   feature: bears.jpg
   credit: Doug Brown

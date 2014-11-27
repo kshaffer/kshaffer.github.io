@@ -3,6 +3,7 @@ layout: post
 title: "Ian Quinn presents at CU"
 modified: 2014-11-20 21:46:13 -0700
 tags: [music theory, Ian Quinn]
+category: blog
 image:
   feature: 
   credit: 

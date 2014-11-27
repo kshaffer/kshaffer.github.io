@@ -3,6 +3,7 @@ layout: post
 title: "Timed quizzes and musical fluency"
 modified: 2014-10-14 20:37:33 -0600
 tags: [pedagogy, music, music theory]
+category: blog
 image:
   feature: spiralClock.jpg
   credit: Darren Tunnicliff

@@ -3,6 +3,7 @@ layout: post
 title: "More humanity in the humanities"
 modified: 2014-11-15 21:49:36 -0700
 tags: [pedagogy, critical pedagogy, humanities]
+category: blog
 image:
   feature: humanity.jpg
   credit: Kevan
