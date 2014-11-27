@@ -5,6 +5,7 @@ modified: 2014-11-20 21:46:13 -0700
 tags: [music theory, Ian Quinn]
 category: blog
 image:
+  teaser: iq-teaser.jpg
   feature: 
   credit: 
   creditlink: 
