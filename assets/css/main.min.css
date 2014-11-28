@@ -686,13 +686,6 @@ svg:not(:root){overflow:hidden}
 		font-size:52px;
 		font-size:3.25rem
 		}
-	.tile{
-		width:100%;
-		padding-left:0%;
-		padding-right:0%;
-		font-size:80%;
-		line-height:125%;
-		}
 	}
 
 @media only screen and (min-width:62.5em){
