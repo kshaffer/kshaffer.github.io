@@ -686,6 +686,15 @@ svg:not(:root){overflow:hidden}
 		font-size:52px;
 		font-size:3.25rem
 		}
+	.tile{
+		width:30%;
+		min-height:380px;
+		float:left;
+		padding-left:1%;
+		padding-right:1%;
+		font-size:80%;
+		line-height:125%;
+		}
 	}
 
 @media only screen and (min-width:62.5em){
