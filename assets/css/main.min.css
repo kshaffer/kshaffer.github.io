@@ -715,6 +715,16 @@ svg:not(:root){overflow:hidden}
 		margin-right:auto;
 		margin-left:auto
 		}
+	
+	.tile{
+		width:30%;
+		min-height:380px;
+		float:left;
+		padding-left:1%;
+		padding-right:1%;
+		font-size:80%;
+		line-height:125%;
+	}
 		
 	.entry-content p:first-child{margin-top:0}
 
