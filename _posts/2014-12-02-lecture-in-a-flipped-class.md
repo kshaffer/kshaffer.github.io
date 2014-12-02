@@ -13,7 +13,7 @@ share: true
 categories: blog
 ---
 
-Lecture has been creeping back into more of my classes lately. 
+Lecture has been creeping back into my classes lately. 
 
 I've been a big proponent of the "flipped" or "inverted" class model. However, I've been discovering lately that the value of a flipped class is not so much the [geographical flip](http://www.flipcamp.org/engagingstudents/shafferpt1.html) (doing at home what is typically done in class, and vice versa), it's [the flip in timing](http://www.flipcamp.org/engagingstudents/shafferpt3.html) (explanation first v. activity first).
 
