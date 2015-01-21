@@ -20,13 +20,13 @@ These are, I think, books and articles that all educators should read. At least,
 
 [*Pedagogy of the Oppressed*](http://libcom.org/library/pedagogy-oppressed-paulo-freire), by Paulo Freire
 
-[*Teaching to Transgress: Education as the Practice of Freedom*](https://openlibrary.org/works/OL15053159W/Teaching_to_transgress), by bell hooks
+[*Teaching to Transgress: Education as the Practice of Freedom*](https://openlibrary.org/works/OL15053159W/Teaching_to_transgress), by bell hooks (trad. book, not open-access)
 
 [Critical Digital Pedagogy: a Definition](http://www.hybridpedagogy.com/journal/critical-digital-pedagogy-definition/), by Jesse Stommel
 
 [Beyond Rigor](http://www.hybridpedagogy.com/journal/beyond-rigor/), by Sean Michael Morris, Pete Rorabaugh, and Jesse Stommel
 
-[*Now You See It*](http://www.cathydavidson.com/books/now-you-see-it/), by Cathy Davidson
+[*Now You See It*](http://www.cathydavidson.com/books/now-you-see-it/), by Cathy Davidson (trad. book, not open-access)
 
 [How Schools Kill Creativity](http://www.ted.com/talks/ken_robinson_says_schools_kill_creativity), by Ken Robinson
 
