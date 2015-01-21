@@ -22,6 +22,8 @@ These are, I think, books and articles that all educators should read. At least,
 
 [*Teaching to Transgress: Education as the Practice of Freedom*](https://openlibrary.org/works/OL15053159W/Teaching_to_transgress), by bell hooks (trad. book, not open-access)
 
+[*The Montessori Method*](http://digital.library.upenn.edu/women/montessori/method/method.html), by Maria Montessori
+
 [Critical Digital Pedagogy: a Definition](http://www.hybridpedagogy.com/journal/critical-digital-pedagogy-definition/), by Jesse Stommel
 
 [Beyond Rigor](http://www.hybridpedagogy.com/journal/beyond-rigor/), by Sean Michael Morris, Pete Rorabaugh, and Jesse Stommel
