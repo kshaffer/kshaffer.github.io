@@ -31,11 +31,15 @@ Assistant Professor of Music Theory, Charleston Southern University, fall 2011�
 
 # Publications – peer-reviewed articles
 
+"Hacking the Music Theory Classroom: Standards-Based Grading, Just-in-Time Teaching, and the Inverted Class." Accepted and in process, [*Music Theory Online*](http://www.mtosmt.org).
+
+["Love in the Time of Peer Review."](http://www.hybridpedagogy.com/journal/love-time-peer-review/) In [*Hybrid Pedagogy*](http://www.hybridpedagogy.com), November 22, 2014.
+
 ["Problem-Based Learning in Music: A Guide for Instructors, Part 3: Assessing Problem-Based Learning."](http://www.flipcamp.org/engagingstudents2/essays/shaffer.html) In [*Engaging Students: Essays in Music Pedagogy, Vol. 2*](http://www.flipcamp.org/engagingstudents2/index.html), 2014.
 
 ["Three Lines of Resistance: Ethics, Critical Pedagogy, and Teaching Underground."](http://www.hybridpedagogy.com/journal/three-lines-resistance-ethics-critical-pedagogy-teaching-underground/) In [*Hybrid Pedagogy*](http://www.hybridpedagogy.com), July 29, 2014.
 
-["The Critical Textbook."](http://www.hybridpedagogy.com/journal/critical-textbook/)  In [*Hybrid Pedagogy*](http://www.hybridpedagogy.com), May 1, 2014.
+["The Critical Textbook."](http://www.hybridpedagogy.com/journal/critical-textbook/) In [*Hybrid Pedagogy*](http://www.hybridpedagogy.com), May 1, 2014.
 
 ["*Music Theory Online*: A Proposal for Open Peer-Review."](http://www.mtosmt.org/issues/mto.14.20.1/mto.14.20.1.shaffer.php) In [*Music Theory Online*](http://mtosmt.org) 20/1, February 2014.
 
@@ -52,6 +56,10 @@ Assistant Professor of Music Theory, Charleston Southern University, fall 2011�
 ["Open-source scholarship."](http://www.hybridpedagogy.com/Journal/files/Open_Source_Scholarship.html) In [*Hybrid Pedagogy*](http://hybridpedagogy.com), May 22, 2013.
 
 # Publications – editor-reviewed articles
+
+["Academic Freedom Is for Students, Too."](http://modernlearners.com/academic-freedom-is-for-students-too/) In [*Educating Modern Learners*](http://www.modernlearners.com), January 8, 2015.
+
+["Sustainable Pedagogy."](http://modernlearners.com/sustainable-pedagogy/) In [*Educating Modern Learners*](http://www.modernlearners.com), December 4, 2014.
 
 Contributed by invitation to ["Perspectives, Play, and Pedagogy: The Hybrid Pedagogy Virtual Unconference."](http://www.hybridpedagogy.com/Journal/files/Perspectives_Play_and_Pedagogy.html) In [*Hybrid Pedagogy*](http://hybridpedagogy.com), June 5, 2013.
 
@@ -73,7 +81,24 @@ John F. Enders Fellowship (Yale University Graduate School), 2010
 
 > for short-term study in the Ligeti Collection
 
-# Conference presentations #
+# Presentations #
+
+"The Book As Interface: Critical Textbooks, Open Publishing, and Hybrid Pedagogy"
+
+> Emerging Technologies for Online Learning, April 2015  
+> invited special session, co-led with Robin Wharton, Georgia State University
+
+"The Public Intellectual: Maintaining an Online Scholarly Presence"
+
+> CU–Boulder Music Theory and Musicology Colloquium Series, March 2, 2015
+
+"Assessing Student Learning in the Online Environment"
+
+> Panel discussion at the American Musicological Society & Society for Music Theory joint annual meeting, November 7, 2014
+
+"What Is Digital and Open Scholarship"
+
+> Panel discussion for Academics Online Week, CU–Boulder ASSETT, September 15, 2014
 
 "Hacking the Music Theory Class: Pedagogical Tools that Increase Efficiency and Effectiveness"  
 
