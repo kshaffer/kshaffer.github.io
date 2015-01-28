@@ -138,11 +138,12 @@ John F. Enders Fellowship (Yale University Graduate School), 2010
 
 University of Colorado–Boulder
 
+- Music Cognition (online undergraduate course in psychology), 2015  
 - Music Cognition (doctoral seminar), 2014  
 - Harmony and Form in Pop/Rock Music: A Computational Approach (cross-listed in music & computer science; vertically integrated), 2014  
 - Semester 1 Theory, 2014  
-- Semester 4 Theory (co-coordinator), 2014  
-- Semester 4 Aural Skills (coordinator), 2014  
+- Semester 4 Theory (co-coordinator), 2014–15  
+- Semester 4 Aural Skills (coordinator), 2014–15  
 - Semester 2 Aural Skills, 2014
 - Semester 3 Theory (co-coordinator), 2013–14  
 - Semester 3 Aural Skills (coordinator), 2013–14  
@@ -168,7 +169,7 @@ CCPA-Roosevelt University
 
 # Service to profession #
 
-Editor, [*Hybrid Pedagogy*](http://www.hybridpedagogy.com), publishing division, 2014–present
+Editor, [*Hybrid Pedagogy Publishing*](http://www.hybrid.pub), 2014–present
 
 Coordinating editor, [*Engaging Students: Essays in Music Pedagogy, Vol. 2*](http://www.flipcamp.org/engagingstudents2/index.html), 2014
 
@@ -236,5 +237,3 @@ French
 # Professional organization membership #
 
 Society for Music Theory
-
-College Music Society
