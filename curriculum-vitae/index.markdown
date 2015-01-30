@@ -197,11 +197,11 @@ AmSteg.org, co-editor-in-chief for music theory, co-founder, 2005–2008
 
 # Departmental/university service #
 
-Technology Committee (CU–Boulder School of Music), member, 2013–present
+Technology Committee (CU–Boulder College of Music), member, 2013–present
 
-Undergraduate Studies Committee (CU–Boulder School of Music), member, 2013–present
+Undergraduate Studies Committee (CU–Boulder College of Music), member, 2013–present
 
-Department of Information Science Subcommittee (CU–Boulder), consultant, 2013–present
+Department of Information Science Subcommittee (CU–Boulder), consultant, 2013–2014
 
 Executive Technology Committee (Charleston Southern Univ.), member, 2011–2013
 
