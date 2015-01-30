@@ -31,7 +31,7 @@ Assistant Professor of Music Theory, Charleston Southern University, fall 2011�
 
 # Publications – peer-reviewed articles
 
-"Hacking the Music Theory Classroom: Standards-Based Grading, Just-in-Time Teaching, and the Inverted Class." Accepted and in process, [*Music Theory Online*](http://www.mtosmt.org).
+"Hacking the Music Theory Classroom: Standards-Based Grading, Just-in-Time Teaching, and the Inverted Class." Accepted and in process, [*Music Theory Online*](http://www.mtosmt.org).  Co-authors: Anna Gawboy, Bryn Hughes, Philip Duker.
 
 ["Love in the Time of Peer Review."](http://www.hybridpedagogy.com/journal/love-time-peer-review/) In [*Hybrid Pedagogy*](http://www.hybridpedagogy.com), November 22, 2014.
 
@@ -99,6 +99,10 @@ John F. Enders Fellowship (Yale University Graduate School), 2010
 "What Is Digital and Open Scholarship"
 
 > Panel discussion for Academics Online Week, CU–Boulder ASSETT, September 15, 2014
+
+["Productive Discomfort: Fostering Learning in an Inquiry-Driven Class"](http://ats.udel.edu/institute/dr-kris-shaffer-video-session-notes/)
+
+> University of Delaware, Summer Faculty Institute, June 3, 2014
 
 "Hacking the Music Theory Class: Pedagogical Tools that Increase Efficiency and Effectiveness"  
 
