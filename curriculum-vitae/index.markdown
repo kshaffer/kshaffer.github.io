@@ -102,7 +102,7 @@ John F. Enders Fellowship (Yale University Graduate School), 2010
 
 ["Productive Discomfort: Fostering Learning in an Inquiry-Driven Class"](http://ats.udel.edu/institute/dr-kris-shaffer-video-session-notes/)
 
-> University of Delaware, Summer Faculty Institute, June 3, 2014
+> Keynote address, University of Delaware, Summer Faculty Institute, June 3, 2014
 
 "Hacking the Music Theory Class: Pedagogical Tools that Increase Efficiency and Effectiveness"  
 
