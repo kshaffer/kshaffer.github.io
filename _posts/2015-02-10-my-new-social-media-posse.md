@@ -5,7 +5,7 @@ modified: 2015-02-10 21:06:42 -0700
 tags: [Twitter, social media, publishing, IndieWeb]
 image:
   feature: sheep.jpg
-  feature-teaser: sheep-teaser.jpg
+  teaser: sheep-teaser.jpg
   credit: gwendolen
   creditlink: https://www.flickr.com/photos/ginz/6816885427
 comments: true
