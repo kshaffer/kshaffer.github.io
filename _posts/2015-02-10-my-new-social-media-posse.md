@@ -26,3 +26,9 @@ The other change I've made is installing [Known](https://withknown.com) on my se
 I've found that more targeted reading makes me happier, and more targeted Twitter use means more time for longer-form reading and writing. Further, I really want to control my own content, and doing so makes me more excited about writing (as does having a new publishing toy . . . er . . . platform). 
 
 I'm liking this setup, at least for now. Targeted, meaningful engagement on Twitter, more time to read the longer-form pieces I find there, an easier and more "indie" way to engage, and more motivation to dig in and really write. Good stuff. And no need to leave Twitter just yet.
+
+## Related posts
+
+- [Twitter and community](http://kris.shaffermusic.com/2014/10/twitter-and-community/)  
+- [Slow](http://kris.shaffermusic.com/2014/10/slow/)  
+- [Social academia](http://kris.shaffermusic.com/2014/11/social-academia/)
