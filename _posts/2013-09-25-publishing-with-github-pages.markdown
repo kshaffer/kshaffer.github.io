@@ -19,7 +19,7 @@ This week, I helped the folks at [Hybrid Pedagogy](http://www.hybridpedagogy.com
 
 ## Setting up a blank ebook ##
 
-Since the ebooks I've built have essentially been websites, any host, platform, or design is fine. However, GitHub allows any public project—including websites—to be "forked," or copied for remixing and republishing. The easiest way to publish an ebook, then, is to fork an existing ebook and replace the content. I have a template anyone can copy ([source](http://github.com/kshaffer/GHbook) | [site](http://kris.shaffermusic.com/GHbook)), or you can fork *Engaging Students* ([source](http://github.com/flipcamp/engagingstudents) | [site](http://flipcamp.org/engagingstudents)) or the HP project, *Learner Experiences* ([source](http://github.com/hybrid-pedagogy/LearnerExperiencesInMOOCs) | [site](http://learnerexperiences.hybridpedagogy.com/)).
+Since the ebooks I've built have essentially been websites, any host, platform, or design is fine. However, GitHub allows any public project—including websites—to be "forked," or copied for remixing and republishing. The easiest way to publish an ebook, then, is to fork an existing ebook and replace the content. I have a template anyone can copy ([source](http://github.com/kshaffer/GHbook) \| [site](http://kris.shaffermusic.com/GHbook)), or you can fork *Engaging Students* ([source](http://github.com/flipcamp/engagingstudents) \| [site](http://flipcamp.org/engagingstudents)) or the HP project, *Learner Experiences* ([source](http://github.com/hybrid-pedagogy/LearnerExperiencesInMOOCs) \| [site](http://learnerexperiences.hybridpedagogy.com/)).
 
 ## Google Drive ##
 
