@@ -57,6 +57,8 @@ Assistant Professor of Music Theory, Charleston Southern University, fall 2011â€
 
 # Publications â€“ editor-reviewed articles
 
+["Homework Is a Social Justice Issue."](http://modernlearners.com/homework-is-a-social-justice-issue/) In [*Educating Modern Learners*](http://www.modernlearners.com), February 9, 2015.
+
 ["Academic Freedom Is for Students, Too."](http://modernlearners.com/academic-freedom-is-for-students-too/) In [*Educating Modern Learners*](http://www.modernlearners.com), January 8, 2015.
 
 ["Sustainable Pedagogy."](http://modernlearners.com/sustainable-pedagogy/) In [*Educating Modern Learners*](http://www.modernlearners.com), December 4, 2014.
