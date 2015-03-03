@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The public intellectual: Maintaining an online scholarly presence"
+title: "Maintaining an online scholarly presence"
 modified: 2015-03-02 20:00:16 -0700
 tags: [Twitter, scholarship, social media]
 image:
