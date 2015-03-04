@@ -4,10 +4,10 @@ title: "Sustainable pedagogy"
 modified: 2015-03-04 09:25:18 -0700
 tags: [pedagogy, teaching, educating modern learners]
 image:
-  feature: 
-  teaser: 
-  credit: 
-  creditlink: 
+  feature: sustainable.jpg
+  teaser: sustainable-teaser.jpg
+  credit: AndreasS
+  creditlink: https://www.flickr.com/photos/norue/9840164534
 comments: true
 share: true
 categories: blog
