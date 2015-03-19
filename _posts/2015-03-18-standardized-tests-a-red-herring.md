@@ -2,7 +2,7 @@
 layout: post
 title: "Standardized tests: a red herring"
 modified: 2015-03-18 20:46:42 -0600
-tags: [education, pedagogy, #EDUResist]
+tags: [education, pedagogy, EDUResist]
 image:
   feature: kaplan.jpg
   teaser: kaplan-teaser.jpg
