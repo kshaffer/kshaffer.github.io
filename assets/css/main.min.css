@@ -77,14 +77,14 @@ img{
 }
 
 .webmention-mention {
-	margin: 24px 0 24px 0;	
+	padding: 24px 0 24px 0;	
 	display: block;
 	width: 100%;
 	min-height: 66px;
 }
 
 .webmention-author {
-	margin: 24px 0 24px 0;	
+	padding: 24px 0 24px 0;	
 	width: 35%;
 	float: left;
 	vertical-align: center;
