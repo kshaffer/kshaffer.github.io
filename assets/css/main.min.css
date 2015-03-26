@@ -266,32 +266,36 @@ h1,h2,h3,h4,h5,h6{
 }
 
 a{
-	text-decoration:none
+	text-decoration:none;
 	color:#222
 }
 
 a:visited{
 	color:#222
+	text-decoration: none;
 }
 
 a:hover{
 	color:#222
+	text-decoration: none;
 }
 
 a:focus{
 	outline:thin dotted
 	color:#222
+	text-decoration: none;
 }
 
 a:hover,a:active{
 	outline:0
 	color:#222
+	text-decoration: none;
 }
 
 .link-arrow{
 	font-style:normal;
 	font-weight:100;
-	text-decoration:underline
+	text-decoration: none;
 }
 
 figcaption{
@@ -739,7 +743,7 @@ svg:not(:root){overflow:hidden}
 
 @media only screen and (min-width:48em){.site-logo img{width:150px;height:150px;-webkit-border-radius:150px;-moz-border-radius:150px;border-radius:150px}}
 
-@media only screen and (min-width:62.5em){.site-logo img{width:200px;height:200px;-webkit-border-radius:200px;-moz-border-radius:200px;border-radius:200px}}.site-title{margin-bottom:0;-webkit-animation-delay:.75s;-moz-animation-delay:.75s;-o-animation-delay:.75s;animation-delay:.75s;-webkit-animation-duration:1s;-moz-animation-duration:1s;-o-animation-duration:1s;animation-duration:1s}.site-title a{color:#000}.site-description{margin-top:0;font-family:'volkhov',serif;font-size:16px;font-size:1rem;font-style:italic;font-weight:400;-webkit-animation-delay:1s;-moz-animation-delay:1s;-o-animation-delay:1s;animation-delay:1s;-webkit-animation-duration:1s;-moz-animation-duration:1s;-o-animation-duration:1s;animation-duration:1s}
+@media only screen and (min-width:62.5em){.site-logo img{width:200px;height:200px;-webkit-border-radius:200px;-moz-border-radius:200px;border-radius:200px}}.site-title{margin-bottom:0;-webkit-animation-delay:.75s;-moz-animation-delay:.75s;-o-animation-delay:.75s;animation-delay:.75s;-webkit-animation-duration:1s;-moz-animation-duration:1s;-o-animation-duration:1s;animation-duration:1s}.site-title a{color:#000; text-decoration:none;}.site-description{margin-top:0;font-family:'volkhov',serif;font-size:16px;font-size:1rem;font-style:italic;font-weight:400;-webkit-animation-delay:1s;-moz-animation-delay:1s;-o-animation-delay:1s;animation-delay:1s;-webkit-animation-duration:1s;-moz-animation-duration:1s;-o-animation-duration:1s;animation-duration:1s}
 
 @media only screen and (min-width:48em){.site-description{font-size:20px;font-size:1.25rem}}#main{*zoom:1}#main:before,#main:after{display:table;line-height:0;content:""}#main:after{clear:both}
 	.entry,.hentry{border-bottom:1px solid #ccc;border-bottom:1px solid rgba(0,0,0,0.1);*zoom:1}
@@ -751,7 +755,7 @@ svg:not(:root){overflow:hidden}
 
 @media only screen and (min-width:62.5em){.entry-feature-image{margin-top:-145px}}.entry-header{width:100%;max-width:640px;margin-right:auto;margin-left:auto}
 
-@media only screen and (min-width:62.5em){.entry-header{max-width:100%;margin-right:0;margin-left:0}}.entry-tags{display:block;margin-top:2em;font-size:16px;font-size:1rem;font-weight:600;text-transform:uppercase}.entry-tags a{color:#222}span+.entry-title{margin-top:0}
+@media only screen and (min-width:62.5em){.entry-header{max-width:100%;margin-right:0;margin-left:0}}.entry-tags{display:block;margin-top:2em;font-size:16px;font-size:1rem;font-weight:600;text-transform:uppercase}.entry-tags a{color:#222; text-decoration:none;}span+.entry-title{margin-top:0}
 	.entry-title{
 		font-family:'volkhov',serif;
 		font-size:32px;
@@ -763,7 +767,7 @@ svg:not(:root){overflow:hidden}
 		}
 	.entry-title a{
 		color:#000;
-		text-decoration:underline
+		text-decoration:none
 		}
 
 @media only screen and (min-width:48em){
@@ -792,7 +796,7 @@ svg:not(:root){overflow:hidden}
 	
 @media only screen and (min-width:48em){.entry-wrapper{max-width:760px;padding-right:60px;padding-left:60px}}
 
-@media only screen and (min-width:62.5em){.entry-wrapper{max-width:960px}}.entry-meta{display:block;width:100%;max-width:640px;margin-right:auto;margin-bottom:30px;margin-left:auto;font-size:14px;font-size:.875rem;text-transform:uppercase}.entry-meta a{color:#222}
+@media only screen and (min-width:62.5em){.entry-wrapper{max-width:960px}}.entry-meta{display:block;width:100%;max-width:640px;margin-right:auto;margin-bottom:30px;margin-left:auto;font-size:14px;font-size:.875rem;text-transform:uppercase}.entry-meta a{color:#222; text-decoration:none}
 
 @media only screen and (min-width:62.5em){.entry-meta{float:left;width:150px;padding:0;margin:0 40px 40px 0}}.entry-meta>span{display:inline-block;padding:0 20px 10px 0}
 
