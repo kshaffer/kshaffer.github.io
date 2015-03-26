@@ -77,14 +77,15 @@ img{
 }
 
 .webmention-mention {
-	padding: 24px 0 24px 0;	
-	display: block;
+	margin: 24px 0 24px 0;	
+	display: inline-block;
 	width: 100%;
 	min-height: 66px;
 }
 
 .webmention-author {
-	padding: 24px 0 24px 0;	
+	margin: 24px 0 24px 0;	
+	display: inline-block;
 	width: 35%;
 	float: left;
 	vertical-align: center;
@@ -93,13 +94,13 @@ img{
 
 .webmention-summary {
 	width: 65%;
+	display: inline-block;
 	float: right;
 	vertical-align: center;
 }
 
 .webmention-published {
-	width: 65%;
-	float: right;
+	display: inline;
 }
 
 .webmention-published::before {
