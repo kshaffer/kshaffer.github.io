@@ -66,6 +66,10 @@ img{
 	margin: 0 12px 0 0;
 }
 
+.webmention-author img{
+	display: block;
+}
+
 .webmention-author img:after{
 	content: "\A";
 	white-space: pre;
