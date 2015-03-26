@@ -84,6 +84,7 @@ img{
 }
 
 .webmention-author {
+	margin: 24px 0 24px 0;	
 	width: 35%;
 	float: left;
 	vertical-align: center;
