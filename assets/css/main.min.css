@@ -80,11 +80,10 @@ img{
 	margin: 0px 0 24px 0;	
 	display: inline-block;
 	width: 100%;
-	min-height: 66px;
+	min-height: 60px;
 }
 
 .webmention-author {
-	margin: 0px 0 24px 0;	
 	display: inline-block;
 	width: 35%;
 	float: left;
