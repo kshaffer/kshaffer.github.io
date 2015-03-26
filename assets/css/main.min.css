@@ -164,7 +164,7 @@ textarea{
 	}
 
 	a,a:visited{
-/*		text-decoration:underline */
+		text-decoration: none;
 	}
 
 	a[href]:after{content:" (" attr(href) ")"}
@@ -267,20 +267,25 @@ h1,h2,h3,h4,h5,h6{
 
 a{
 	text-decoration:none
+	color:#222
 }
 
 a:visited{
+	color:#222
 }
 
 a:hover{
+	color:#222
 }
 
 a:focus{
 	outline:thin dotted
+	color:#222
 }
 
 a:hover,a:active{
 	outline:0
+	color:#222
 }
 
 .link-arrow{
@@ -823,6 +828,11 @@ svg:not(:root){overflow:hidden}
 		color:#EE8E3F;
 		text-decoration:none
 	}
+	
+	.post-list a{
+		color: #222;
+	}
+	
 @media only screen and (min-width:62.5em){.entry-content{float:left}}.entry-content p>a,.entry-content li>/*a{border-bottom:1px dotted #a2a2a2}.entry-content p>a:hover,.entry-content li>a:hover{border-bottom-style:solid}*/.post-list li>a{border-bottom-width:0}#disqus_thread{margin-top:2em}.pagination{text-align:center}#home .entry-title,#page .entry-title{max-width:100%;text-align:center}
 
 @media only screen and (min-width:62.5em){#home .entry-content,#page .entry-content{float:none}}.post-list{padding:0;margin:0;list-style-type:none}.post-list li{padding:8px 0;border-bottom:1px solid #ccc;border-bottom:1px solid rgba(0,0,0,0.1);*zoom:1}.post-list li:before,.post-list li:after{display:table;line-height:0;content:""}.post-list li:after{clear:both}.post-list a>span{float:right}.post-list .entry-date{display:none;font-size:14px;font-size:.875rem;text-transform:uppercase}
