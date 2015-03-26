@@ -77,7 +77,7 @@ img{
 }
 
 .webmention-mention {
-	margin: 0 0 24px 0;	
+	margin: 24px 0 24px 0;	
 	display: block;
 	width: 100%;
 	min-height: 66px;
@@ -99,7 +99,6 @@ img{
 .webmention-published {
 	width: 65%;
 	float: right;
-	margin: 0 0 24px 0;	
 }
 
 .webmention-published::before {
