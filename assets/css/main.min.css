@@ -74,7 +74,7 @@ img{
 	min-height: 60px;
 }
 
-@media only screen and (min-width:48em){
+@media only screen and (max-width:64em){
 	.webmention-author {
 		display: inline-block;
 		width: 35%;
