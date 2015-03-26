@@ -67,8 +67,8 @@ img{
 }
 
 .webmentions img:after;{
-	display: block;
-	clear: both;
+	content: "\A";
+	white-space: pre;
 }
 
 .webmentions a{
