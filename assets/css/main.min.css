@@ -95,6 +95,7 @@ img{
 	float: left;
 	vertical-align: center;
 	text-align: center;
+	height: 100%;
 }
 
 .webmention-summary {
