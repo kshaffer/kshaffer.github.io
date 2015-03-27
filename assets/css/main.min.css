@@ -104,7 +104,7 @@ img{
 
 .webmention-summary {
 	max-width: 496px;
-	display: block;
+	display: inline-block;
 	position: relative;
 	left: 24px;
 	text-align: left;
