@@ -68,6 +68,8 @@ img{
 
 .webmention-author img{
 	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .webmention-author img:after{
@@ -94,30 +96,32 @@ img{
 
 .webmention-author {
 	display: inline-block;
-	width: 35%;
+	width: 120px;
 	float: left;
 	vertical-align: center;
-	min-height: 60px;
+	text-align: center;
 }
 
 .webmention-summary {
-	width: 65%;
-	display: inline-block;
-	float: right;
-	vertical-align: center;
+	max-width: 496px;
+	display: block;
+	position: relative;
+	left: 24px;
+	text-align: left;
 }
 
-.webmention-published {
-	width: 65%;
-	float: right;
+a.webmention-published {
+	max-width: 496px;
+	display: block;
+	text-align: left;
+	position: relative;
+	left: 24px;
+	
 }
 
-.webmention-published::before {
-	content: "(";
-}
-
-.webmention-published::after {
-	content: ")";
+.webmention-summary:after {
+	content: "\A";
+	white-space: pre;
 }
 
 #map_canvas img,.google-maps img{
