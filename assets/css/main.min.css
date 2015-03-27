@@ -84,13 +84,13 @@ img{
 
 .webmention-mention {
 	margin: 0px 0 18px 0;	
-	display: inline-block;
+	display: block;
 	width: 100%;
 	min-height: 60px;
 }
 
 .webmention-author {
-	display: inline-block;
+	display: block;
 	width: 100px;
 	float: left;
 	vertical-align: center;
