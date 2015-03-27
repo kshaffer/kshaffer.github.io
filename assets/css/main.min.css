@@ -91,14 +91,14 @@ img{
 
 .webmention-author {
 	display: inline-block;
-	width: 120px;
+	width: 100px;
 	float: left;
 	vertical-align: center;
 	text-align: center;
 }
 
 .webmention-summary {
-	max-width: 496px;
+	max-width: 516px;
 	display: block;
 	position: relative;
 	left: 24px;
