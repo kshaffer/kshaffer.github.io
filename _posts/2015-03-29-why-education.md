@@ -4,10 +4,10 @@ title: "Why education?"
 modified: 2015-03-29 21:36:13 +0000
 tags: [education, ResistEDU, teaching]
 image:
-  feature: 
-  teaser: 
-  credit: 
-  creditlink: 
+  feature: playground.jpg
+  teaser: playground-teaser.jpg
+  credit: Nikolai Vassiliev
+  creditlink: https://www.flickr.com/photos/qwz/5827459914
 comments: true
 share: true
 categories: blog
@@ -27,4 +27,4 @@ I've come up with five overarching purposes of formal public education:
 
 What do I have wrong? What am I missing? And should every stage/aspect of education address all five? (I don't think so.)
 
-*Note: you can reply below, or you can reply to my tweet or Facebook post. This site will gather Twitter and Facebook comments and list them on this page — though not necessarily in chronological order.*
+*Note: you can reply below, or you can reply to my tweet or Facebook post. Thanks to [webmentions](http://indiewebcamp.com/Webmention), this site will gather Twitter and Facebook comments and list them on this page — though not necessarily in chronological order.*
