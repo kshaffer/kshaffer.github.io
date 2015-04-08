@@ -31,7 +31,7 @@ Assistant Professor of Music Theory, Charleston Southern University, fall 2011�
 
 # Publications – peer-reviewed articles
 
-"Hacking the Music Theory Classroom: Standards-Based Grading, Just-in-Time Teaching, and the Inverted Class." Accepted and in process, [*Music Theory Online*](http://www.mtosmt.org).  Co-authors: Anna Gawboy, Bryn Hughes, Philip Duker.
+["Hacking the Music Theory Classroom: Standards-Based Grading, Just-in-Time Teaching, and the Inverted Class."](www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html) In [*Music Theory Online*](http://www.mtosmt.org) 21.1 (2015).  Co-authors: Philip Duker, Anna Gawboy, Bryn Hughes.
 
 ["Love in the Time of Peer Review."](http://www.hybridpedagogy.com/journal/love-time-peer-review/) In [*Hybrid Pedagogy*](http://www.hybridpedagogy.com), November 22, 2014.
 
@@ -175,7 +175,9 @@ CCPA-Roosevelt University
 
 # Service to profession #
 
-Editor, [*Hybrid Pedagogy Publishing*](http://www.hybrid.pub), 2014–present
+Board of Directors, [Hybrid Pedagogy, Inc.](http://www.hybridpedagogy.org), 2015–present
+
+Editor, [Hybrid Pedagogy Publishing](http://www.hybrid.pub), 2014–present
 
 Coordinating editor, [*Engaging Students: Essays in Music Pedagogy, Vol. 2*](http://www.flipcamp.org/engagingstudents2/index.html), 2014
 
