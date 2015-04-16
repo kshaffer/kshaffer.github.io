@@ -85,6 +85,11 @@ John F. Enders Fellowship (Yale University Graduate School), 2010
 
 # Presentations #
 
+“This is Not a Journal: Publishing as Pedagogy”
+
+> 4th Biennial Meeting of the BABEL Working Group – Off the Books: Making, Breaking, Binding, Burning, Leaving, Gathering, October 2015  
+> co-led with Sean Michael Morris, Jesse Stommel, and Robin Wharton
+
 "The Book As Interface: Critical Textbooks, Open Publishing, and Hybrid Pedagogy"
 
 > Emerging Technologies for Online Learning, April 2015  
