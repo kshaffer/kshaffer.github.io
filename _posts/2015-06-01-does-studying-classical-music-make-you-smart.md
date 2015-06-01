@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Does studying classical music make you smart?"
+title: "Does classical music make you smart?"
 modified: 2015-06-01 09:36:45 -0600
 tags: [cognition, music]
 image:
