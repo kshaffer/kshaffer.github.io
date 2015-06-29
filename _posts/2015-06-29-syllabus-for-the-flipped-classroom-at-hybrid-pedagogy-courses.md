@@ -15,6 +15,8 @@ categories: blog
 
 *Starting on July 19, I will be leading a 3-week, intensive online course on the "flipped" or "inverted" classroom. This is the first professional development course offered by [Hybrid Pedagogy](http://www.hybridpedagogy.com) as part of its new [Digital Pedagogy Lab](http://www.digitalpedagogylab.com/). What follows is a draft syllabus for the course. I'm still finalizing the reading list, and will post that once it is set.*
 
+*If you're interested in the course, you can [register here](http://www.digitalpedagogylab.com/blog/course/the-flipped-classroom/). There is a $100 early-bird discount for those who register by July 5.*
+
 # Overview
 
 What does an active, engaged, student-oriented class look like?
