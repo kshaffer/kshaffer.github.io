@@ -5,7 +5,7 @@ modified: 2015-06-29 12:50:40 -0600
 tags: [Digital Pedagogy Lab, Hybrid Pedagogy]
 image:
   feature: jellyfish.jpg
-  feature-teaser: jellyfish-teaser.jpg
+  teaser: jellyfish-teaser.jpg
   credit: Hubert Figuière
   creditlink: https://www.flickr.com/photos/hfiguiere/8981013119
 comments: true
