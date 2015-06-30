@@ -67,6 +67,8 @@ Following is a schedule overview. Full assignment prompts will be provided in th
 **Before Friday morning:** Post comments on at least three other participants' lesson plans.  
 **Before Friday morning:** Blog post: follow-up reflection/"exit ticket".
 
+*I also anticipate having two opportunities for synchronous discussion during Unit I. Schedule and format (Twitter/video-chat/etc.) will be determined by a poll of course participants.*
+
 
 ## Unit II: July 26–August 1
 
@@ -90,6 +92,8 @@ Following is a schedule overview. Full assignment prompts will be provided in th
 **Before Thursday morning:** Blog post: lesson plan (pre-class HW, class activity/content, follow-up HW) based on one or more methods covered in the readings.  
 **Before Friday morning:** Post comments on at least three other participants' lesson plans.  
 **Before Friday morning:** Blog post: follow-up reflection/"exit ticket".
+
+*I also anticipate having two opportunities for synchronous discussion during Unit II. Schedule and format (Twitter/video-chat/etc.) will be determined by a poll of course participants.*
 
 
 ## Unit III: August 2–8
