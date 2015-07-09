@@ -49,4 +49,4 @@ The flipped class *can* be a mere change in technology — a new way to get info
 
 There are many ways to flip a class. But perhaps central to the flipped class is the freedom that it brings to both teachers and students. So if you’re thinking about flipping your class, or you’re intrigued by the idea, don’t sweat the tech. Think about the goals you have for your students — and the goals your students have for themselves. Then let the textbook (or video) do its work, and devote class time to helping students work through the beautiful mess that sits between them and those goals.
 
-*If you want to learn more about flipped pedagogy, join us for a [three-week, intensive course](http://www.digitalpedagogylab.com/blog/course/the-flipped-classroom/) on the flipped classroom for Digital Pedagogy Lab, beginning July 19.*
+*If you want to learn more about flipped pedagogy, join us for a [three-week, intensive, online course](http://www.digitalpedagogylab.com/blog/course/the-flipped-classroom/) on the flipped classroom at Digital Pedagogy Lab, beginning July 19.*
