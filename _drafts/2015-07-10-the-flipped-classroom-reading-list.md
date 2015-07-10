@@ -17,6 +17,8 @@ Here is the reading list for [The Flipped Classroom](http://www.digitalpedagogyl
 
 While this looks like a lot (!), please note that this list contains many short pieces. The estimated total is around 65–70 pages per week, not counting the optional readings. (Not all web content is paginated.)
 
+Also, note that some of these resources are behind a paywall. I am happy to provide a copy of any paywalled resources for study purposes to enrolled participants in the course, if you do not have institutional access. Simply email me at kris@hybridpedagogy.org to request a PDF.
+
 # Week 1 readings
 
 ## Overview
@@ -64,11 +66,38 @@ While this looks like a lot (!), please note that this list contains many short 
 ## Peer instruction & clickers
 
 - Mazur, Eric. ["Confessions of a Converted Lecturer."](https://www.youtube.com/watch?v=WwslBPj8GgI)  
-- 
+- Schell, Julie. 2013. ["From Flipped Classrooms to Flipping with Peer Instruction."](http://blog.peerinstruction.net/2013/11/04/from-flipped-classrooms-to-flipping-with-peer-instruction/) In *Turn to Your Neighbor: The Official Peer Instruction Blog*.  
+- Mazur, Eric and Jessica Watkins. 2009. ["Just-in-Time Teaching and Peer Instruction."](http://mazur.harvard.edu/publications.php?function=display&rowid=634) In *Just-in-time Teaching: Across the Disciplines, Across the Academy*, 39–62.  
+- Deslauriers, et al. 2011. ["Improved Learning in a Large-Enrollment Physics Class."](http://www.sciencemag.org/content/332/6031/862.abstract) In *Science* 332/6031, 862–64.  
+- Caldwell, Jane E. 2007. ["Clickers in the Large Classroom: Current Research and Best-Practice Tips."](http://www.lifescied.org/content/6/1/9.full) In *Life Sciences Education* 6/1, 9–20.  
+- Crouch, Catherine H. and Eric Mazur. 2001. ["Peer Instruction: Ten years of experience and results."](http://web.mit.edu/jbelcher/www/TEALref/Crouch_Mazur.pdf) In *American Journal of Physics* 69/9, 970–77.  
+
+
+### Optional further reading
+
+- Bunce, et al. 2010. ["How Long Can Students Pay Attention in Class? A
+Study of Student Attention Decline Using Clickers."](http://pubs.acs.org/doi/abs/10.1021/ed100409p) In *Journal of Chemical Education* 87/12, 1438–43.  
+- ["Clicker Resource Guide: An Instructors Guide to the Effective Use of Personal Response Systems (Clickers) in Teaching"](http://www.colorado.edu/sei/documents/clickeruse_guide0108.pdf) from CU & UBC.  
+
 
 ## Inquiry-driven learning
 
+- Musallam, Ramsey. 2013. ["A pedagogy-first approach to the flipped classroom."](http://www.cyclesoflearning.com/learning--instruction/a-pedagogy-first-approach-to-the-flipped-classroom) In *Cycles of Learning* blog.  
+- Colletti, Carla R. 2013. ["The Silent Professor: enhancing Student Engagement through the Conceptual Workshop."](http://flipcamp.org/engagingstudents/colletti.html) In *Engaging Students: Essays in Music Pedagogy* 1.  
 
+### Optional further reading
+
+- Karplus, Robert. 1977. ["Science Teaching and the Development of Reasoning."](http://onlinelibrary.wiley.com/doi/10.1002/tea.3660140212/abstract) In *Journal of Research in Science Teaching* 14/2, 169–75.
 
 ## Problem-based learning
 
+- Vega, Vanessa. 2012. ["Project-Based Learning Research Review: Evidence-Based Components of Success."](http://www.edutopia.org/pbl-research-evidence-based-components) In *Edutopia*.  
+- Donaldson, Jonan. 2014. ["The Maker Movement and the Rebirth of Constructionism."](http://www.hybridpedagogy.com/journal/constructionism-reborn/) In *Hybrid Pedagogy*.  
+- Shaffer, Kris. 2014. ["Assessing Problem-Based Learning."](http://flipcamp.org/engagingstudents2/essays/shaffer.html) In *Engaging Students: Essays in Music Pedagogy*.  
+- Strobel, Johannes and Angela van Barneveld. 2009. ["When is PBL More Effective? A Meta-synthesis of Meta-analyses Comparing PBL to Conventional Classrooms."](http://docs.lib.purdue.edu/ijpbl/vol3/iss1/4/) In *Interdisciplinary Journal of Problem-Based Learning* 3/1, 44–58.  
+- Albanese, Mark A. and Susal Mitchell. 1993. ["Problem-based Learning: A Review of Literature on Its Outcomes and Implementation Issues."](http://journals.lww.com/academicmedicine/Abstract/1993/01000/Problem_based_Learning__A_Review_of_Literature_on.20.aspx) In *Academic Medicine* 68/1, 52–81.  
+
+### Optional further reading
+
+- ["Resources for Problem-Based Learning"](http://www.udel.edu/inst/resources/index.html), University of Delaware, Institute for Transforming Undergraduate Education.  
+- Duker et al. 2014. ["Problem-Based Learning in Music: A Guide for Instructors."](http://flipcamp.org/engagingstudents2/essays/dukerShafferStevens.html)  
