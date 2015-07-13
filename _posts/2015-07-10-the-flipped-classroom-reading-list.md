@@ -13,13 +13,16 @@ share: true
 categories: blog
 ---
 
-Here is the reading list for [The Flipped Classroom](http://www.digitalpedagogylab.com/blog/course/the-flipped-classroom/), a three-week, intensive, online course I'm teaching for Digital Pedagogy Lab beginning on July 19. I'm still building the private Canvas site that we'll be using for the course, so I'm offering the reading list here for participants who want to get an early start, or for others who simply want to see what we'll be reading. For more information about the course or to register, see [the course web page](http://www.digitalpedagogylab.com/blog/course/the-flipped-classroom/). I've also posted [a draft syllabus](http://kris.shaffermusic.com/2015/06/syllabus-for-the-flipped-classroom-at-hybrid-pedagogy-courses/) here on my blog.
+Here is the reading list for [The Flipped Classroom](http://www.digitalpedagogylab.com/blog/course/the-flipped-classroom/), a three-week, intensive, online course I'm teaching for Digital Pedagogy Lab beginning on July 19. I'm still building the private Canvas site and discussion forum that we'll be using for the course, so I'm offering the reading list here for participants who want to get an early start, or for others who simply want to see what we'll be reading. For more information about the course or to register, see [the course web page](http://www.digitalpedagogylab.com/blog/course/the-flipped-classroom/). I've also posted [a draft syllabus](http://kris.shaffermusic.com/2015/06/syllabus-for-the-flipped-classroom-at-hybrid-pedagogy-courses/) here on my blog.
 
 While this looks like a lot (!), please note that this list contains many short pieces. The estimated total is around 65–70 pages per week, not counting the optional readings. (Not all web content is paginated.)
 
-Also, note that some of these resources are behind a paywall. I am happy to provide a copy of any paywalled resources for study purposes to enrolled participants in the course, if you do not have institutional access. Simply email me at kris@hybridpedagogy.org to request a PDF.
+Also, note that some of these resources are behind a paywall. I am happy to provide a copy of any paywalled resources for study purposes to enrolled participants in the course, if you do not have institutional access. Simply email me at kris@hybridpedagogy.org to request a PDF. I'll also post them to our Canvas site once I have that up and running.
 
-# Week 1 readings
+# Week 1 readings/videos
+<hr/>
+
+<iframe src="https://player.vimeo.com/video/133381238" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/133381238">The Flipped Classroom - introduction</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Overview
 
@@ -52,7 +55,7 @@ Also, note that some of these resources are behind a paywall. I am happy to prov
 ## Just-in-time teaching
 
 - Duker et al. 2015. ["Hacking the Music Theory Classroom: Standards-Based Grading, Just-in-Time Teaching, and the Inverted Class."](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html) In *Music Theory Online* 21/1. *Sections 4.1–4.10 only.*  
-- Dobson, John L. 2008. ["The use of formative online quizzes to enhance class preparation and scores on summative exams."](he use of formative online quizzes to enhance class preparation and scores on summative exams) In *Advances in Physiology Education* 32/4, 297–302.  
+- Dobson, John L. 2008. ["The use of formative online quizzes to enhance class preparation and scores on summative exams."](http://advan.physiology.org/content/32/4/297) In *Advances in Physiology Education* 32/4, 297–302.  
 - Kibble, Jonathan. 2007. ["Use of unsupervised online quizzes as formative assessment in a medical physiology course: effects of incentives on student participation and performance."](http://advan.physiology.org/content/31/3/253) In *Advances in Physiology Education* 31/3, 253–60.  
 
 ### Optional further reading
@@ -62,6 +65,7 @@ Also, note that some of these resources are behind a paywall. I am happy to prov
 
 
 # Week 2 readings
+<hr/>
 
 ## Peer instruction & clickers
 
@@ -96,6 +100,7 @@ Study of Student Attention Decline Using Clickers."](http://pubs.acs.org/doi/abs
 - Shaffer, Kris. 2014. ["Assessing Problem-Based Learning."](http://flipcamp.org/engagingstudents2/essays/shaffer.html) In *Engaging Students: Essays in Music Pedagogy*.  
 - Strobel, Johannes and Angela van Barneveld. 2009. ["When is PBL More Effective? A Meta-synthesis of Meta-analyses Comparing PBL to Conventional Classrooms."](http://docs.lib.purdue.edu/ijpbl/vol3/iss1/4/) In *Interdisciplinary Journal of Problem-Based Learning* 3/1, 44–58.  
 - Albanese, Mark A. and Susal Mitchell. 1993. ["Problem-based Learning: A Review of Literature on Its Outcomes and Implementation Issues."](http://journals.lww.com/academicmedicine/Abstract/1993/01000/Problem_based_Learning__A_Review_of_Literature_on.20.aspx) In *Academic Medicine* 68/1, 52–81.  
+- Berkson, Laeora. 1993. ["Problem-Based Learning: Have the Expectations Been Met?"](http://journals.lww.com/academicmedicine/Abstract/1993/10000/Problem_based_learning__have_the_expectations_been.53.aspx) In *Academic Medicine* 68/10, 579–88.
 
 ### Optional further reading
 
