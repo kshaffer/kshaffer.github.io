@@ -59,13 +59,15 @@ The course will be divided into three one-week units.
 
 Following is a schedule overview. Full assignment prompts will be provided in the course LMS.
 
-**Due Monday morning:** Blog post: personal introduction.  
-**Due Monday morning:** Blog post: pre-reading reflection.  
-**Due Tuesday morning:** Blog post: reading response.  
-**Due Wednesay morning:** Post comments on at least three other particpants' personal introductions and reading responses.  
-**Due Thursday morning:** Blog post: lesson plan (pre-class HW, class activity/content, follow-up HW) based on one or more methods covered in the readings.  
-**Due Friday morning:** Post comments on at least three other participants' lesson plans.  
-**Due Friday morning:** Blog post: follow-up reflection/"exit ticket".
+**Before Monday morning:** Blog post: personal introduction.  
+**Before Monday morning:** Blog post: pre-reading reflection.  
+**Before Tuesday morning:** Blog post: reading response.  
+**Before Wednesay morning:** Post comments on at least three other particpants' personal introductions and reading responses.  
+**Before Thursday morning:** Blog post: lesson plan (pre-class HW, class activity/content, follow-up HW) based on one or more methods covered in the readings.  
+**Before Friday morning:** Post comments on at least three other participants' lesson plans.  
+**Before Friday morning:** Blog post: follow-up reflection/"exit ticket".
+
+*I also anticipate having two opportunities for synchronous discussion during Unit I. Schedule and format (Twitter/video-chat/etc.) will be determined by a poll of course participants.*
 
 
 ## Unit II: July 26–August 1
@@ -84,17 +86,19 @@ Following is a schedule overview. Full assignment prompts will be provided in th
 
 Following is a schedule overview. Full assignment prompts will be provided in the course LMS.
 
-**Due Monday morning:** Blog post: pre-reading reflection.  
-**Due Tuesday morning:** Blog post: reading response.  
-**Due Wednesay morning:** Post comments on at least three other particpants' personal introductions and reading responses.  
-**Due Thursday morning:** Blog post: lesson plan (pre-class HW, class activity/content, follow-up HW) based on one or more methods covered in the readings.  
-**Due Friday morning:** Post comments on at least three other participants' lesson plans.  
-**Due Friday morning:** Blog post: follow-up reflection/"exit ticket".
+**Before Monday morning:** Blog post: pre-reading reflection.  
+**Before Tuesday morning:** Blog post: reading response.  
+**Before Wednesay morning:** Post comments on at least three other particpants' personal introductions and reading responses.  
+**Before Thursday morning:** Blog post: lesson plan (pre-class HW, class activity/content, follow-up HW) based on one or more methods covered in the readings.  
+**Before Friday morning:** Post comments on at least three other participants' lesson plans.  
+**Before Friday morning:** Blog post: follow-up reflection/"exit ticket".
+
+*I also anticipate having two opportunities for synchronous discussion during Unit II. Schedule and format (Twitter/video-chat/etc.) will be determined by a poll of course participants.*
 
 
 ## Unit III: August 2–8
 
-**Due Friday morning:** Final project.
+**Before Friday morning:** Final project.
 
 Create a full course plan for a real course you intend to teach in the coming year, based on one or more of the inverted-pedagogy practices explord in this course. Post it publicly on your course blog.
 
@@ -102,11 +106,11 @@ Create a complete, detailed syllabus for the course, as well as at least two wee
 
 # Assessment
 
-In general, this is a course with no grades. However, I will provide comments and feedback on all work completed on time. Also, participants will be able to obtain a certificate of completion, if so desired. 
+In general, this is a course with no grades. However, I will provide comments and feedback on all work completed on schedule. Also, participants will be able to obtain a certificate of completion, if so desired. 
 
-To obtain a certificate of completion, participants most complete 85% of the assigned work on time. To obtain a certification *with distinction*, participants must complete 95% of the assigned work on time, *and* draw on optional readings or other non-required materials in at least 50% of the written blog posts (pre-reading reflections, reading responses, and follow-up reflections).
+To obtain a certificate of completion, participants complete 85% of the assigned work. To obtain a certification *with distinction*, participants complete 95% of the assigned work, *and* draw on optional readings or other non-required materials in at least 50% of the written blog posts (pre-reading reflections, reading responses, and follow-up reflections).
 
-To certify completion, make a copy of [this Google Document]() (link forthcoming), which contains a list of all the course assignments. For each assignment completed, insert a link to your blog post (or the blog post on which you commented). At the end of the course, share the document with me (kris@hybridpedagogy.org). Having already commented with feedback on this work during the course, I will use this Google Document to certify completion. 
+To certify completion, make a copy of [this Google Document]() (link forthcoming), which contains a list of all the course assignments. For each assignment completed, insert a link to your blog post (or the blog post on which you commented). At the end of the course, share the document with me (kris@hybridpedagogy.org).
 
 # Contacting the instructor
 
