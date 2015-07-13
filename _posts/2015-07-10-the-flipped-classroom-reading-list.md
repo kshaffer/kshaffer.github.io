@@ -17,7 +17,9 @@ Here is the reading list for [The Flipped Classroom](http://www.digitalpedagogyl
 
 While this looks like a lot (!), please note that this list contains many short pieces. The estimated total is around 65–70 pages per week, not counting the optional readings. (Not all web content is paginated.)
 
-Also, note that some of these resources are behind a paywall. I am happy to provide a copy of any paywalled resources for study purposes to enrolled participants in the course, if you do not have institutional access. Simply email me at kris@hybridpedagogy.org to request a PDF. I'll also post them to our Canvas site once I have that up and running.
+Also, note that some of these resources are behind a paywall. I am happy to provide a copy of any paywalled resources for study purposes to enrolled participants in the course, if you do not have institutional access. Simply email me at [kris@hybridpedagogy.org](mailto:kris@hybridpedagogy.org) to request a PDF. I'll also post them to our Canvas site once I have that up and running.
+
+If you have questions about the course, please email me or — better yet — send me a tweet at [@krisshaffer](http://twitter.com/krisshaffer). Feel free to use the course hashtag: #DPLFlipClass.
 
 # Week 1 readings/videos
 <hr/>
