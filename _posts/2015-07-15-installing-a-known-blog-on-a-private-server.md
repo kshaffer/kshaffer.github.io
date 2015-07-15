@@ -282,4 +282,6 @@ Known will prompt you to create an adminstrator user. Once you've done so, you c
 
 I highly recommend connecting Known with Brid.gy, in order to sync with social media services. You will also need to setup an email connection so that Known can forward notifications. Finally, I recommend the Cherwell theme, since it allows you to include a nice background image.
 
+To cross-post to Facebook, Twitter, Flickr, etc., you can either setup Convoy (a paid service that can be configured within Known), or [download the plugins you want](https://github.com/idno) from GitHub and install them locally. To do so, use wget to download the zip file from GitHub to the server and unzip it (same as with Known itself). Then copy the files into the IdnoPlugins folder in your Known installation, and update the permissions if necessary (see instructions above). Then you can activate then from the Plugins menu within Known.
+
 I hope this tutorial was helpful! At the very least, I now have detailed notes in a single place for the next time I setup a new site!
