@@ -31,13 +31,13 @@ Login to your web host or registrar — wherever you setup your Domain Name Serv
 
 In Blue Host (Digital Pedagogy Lab's web host), the DNS manager looks like this:
 
-![](images/bluehostAdd.png)
+![](/images/bluehostAdd.png)
 
 I enter "flipclass" for the Host Record, and my server's IP address for "Points to" and then click "add record". Note that while it says it will take up to four hours for propagation, a new *subdomain* should be ready to go in a matter of seconds, if the root domain is already active.
 
 The new subdomain should now show up in the ZONE file or the subdomain list.
 
-![](images/bluehostDone.png)
+![](/images/bluehostDone.png)
 
 You can also open a terminal and ping the server to make sure it's working properly.
 
