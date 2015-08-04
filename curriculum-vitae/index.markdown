@@ -41,8 +41,6 @@ Assistant Professor of Music Theory, Charleston Southern University, fall 2011�
 
 ["The Critical Textbook."](http://www.hybridpedagogy.com/journal/critical-textbook/) In [*Hybrid Pedagogy*](http://www.hybridpedagogy.com), May 1, 2014.
 
-["*Music Theory Online*: A Proposal for Open Peer-Review."](http://www.mtosmt.org/issues/mto.14.20.1/mto.14.20.1.shaffer.php) In [*Music Theory Online*](http://mtosmt.org) 20/1, February 2014.
-
 ["Pursuing a Social Media Policy that Supports Academic Freedom."](http://www.hybridpedagogy.com/journal/pursuing-social-media-policy-supports-academic-freedom/) In [*Hybrid Pedagogy*](http://www.hybridpedagogy.com), January 31, 2014.
 
 ["An Open Letter to My Students."](http://www.hybridpedagogy.com/journal/open-letter-students/) In [*Hybrid Pedagogy*](http://www.hybridpedagogy.com), January 6, 2014.
@@ -59,9 +57,13 @@ Assistant Professor of Music Theory, Charleston Southern University, fall 2011�
 
 ["Homework Is a Social Justice Issue."](http://modernlearners.com/homework-is-a-social-justice-issue/) In [*Educating Modern Learners*](http://www.modernlearners.com), February 9, 2015.
 
+> Republished by [Hybrid Pedagogy](http://www.hybridpedagogy.com/journal/homework-is-a-social-justice-issue/), May 19, 2015.
+
 ["Academic Freedom Is for Students, Too."](http://modernlearners.com/academic-freedom-is-for-students-too/) In [*Educating Modern Learners*](http://www.modernlearners.com), January 8, 2015.
 
 ["Sustainable Pedagogy."](http://modernlearners.com/sustainable-pedagogy/) In [*Educating Modern Learners*](http://www.modernlearners.com), December 4, 2014.
+
+["*Music Theory Online*: A Proposal for Open Peer-Review."](http://www.mtosmt.org/issues/mto.14.20.1/mto.14.20.1.shaffer.php) In [*Music Theory Online*](http://mtosmt.org) 20/1, February 2014.
 
 Contributed by invitation to ["Perspectives, Play, and Pedagogy: The Hybrid Pedagogy Virtual Unconference."](http://www.hybridpedagogy.com/Journal/files/Perspectives_Play_and_Pedagogy.html) In [*Hybrid Pedagogy*](http://hybridpedagogy.com), June 5, 2013.
 
@@ -152,13 +154,23 @@ University of Colorado–Boulder
 - Music Cognition (online undergraduate course in psychology), 2015  
 - Music Cognition (doctoral seminar), 2014  
 - Harmony and Form in Pop/Rock Music: A Computational Approach (cross-listed in music & computer science; vertically integrated), 2014  
-- Semester 1 Theory, 2014  
-- Semester 4 Theory (co-coordinator), 2014–15  
-- Semester 4 Aural Skills (coordinator), 2014–15  
-- Semester 2 Aural Skills, 2014
+- Semester 1 Theory, 2014–15  
+- Semester 2 Theory, 2016  
 - Semester 3 Theory (co-coordinator), 2013–14  
-- Semester 3 Aural Skills (coordinator), 2013–14  
-- Semester 1 Aural Skills, 2013
+- Semester 4 Theory (co-coordinator), 2014–15  
+- Semester 3 Theory (coordinator), 2015  
+- Semester 4 Theory (coordinator), 2016  
+- Semester 1 Aural Skills, 2013  
+- Semester 2 Aural Skills, 2014
+- Semester 3 Aural Skills (coordinator), 2013–15  
+- Semester 4 Aural Skills (coordinator), 2014–16  
+
+
+[Digital Pedagogy Lab](http://www.digitalpedagogylab.com) (Hybrid Pedagogy)
+
+- Teaching with Twitter (guest instructor), 2015  
+- The Flipped Classroom (instructor), 2015  
+- DPL Summer Institute, Praxis Track (embedded pedagogue), 2015
 
 Charleston Southern University  
 
@@ -183,6 +195,10 @@ CCPA-Roosevelt University
 Board of Directors, [Hybrid Pedagogy, Inc.](http://www.hybridpedagogy.org), 2015–present
 
 Editor, [Hybrid Pedagogy Publishing](http://www.hybrid.pub), 2014–present
+
+Production editor, [*Engaging Students: Essays in Music Pedagogy, Vol. 3*](http://www.flipcamp.org/engagingstudents3/index.html), 2015
+
+Organizer, Engaging Students, an unconference on classroom music pedagogy, July 2015
 
 Coordinating editor, [*Engaging Students: Essays in Music Pedagogy, Vol. 2*](http://www.flipcamp.org/engagingstudents2/index.html), 2014
 
