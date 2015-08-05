@@ -87,6 +87,10 @@ John F. Enders Fellowship (Yale University Graduate School), 2010
 
 # Presentations #
 
+"Music, Public Scholarship, and the Digital Humanities"
+
+> Two-day residency at UT–Austin, fall 2015 (dates TBA)
+
 “This is Not a Journal: Publishing as Pedagogy”
 
 > 4th Biennial Meeting of the BABEL Working Group – Off the Books: Making, Breaking, Binding, Burning, Leaving, Gathering, October 2015  
