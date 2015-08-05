@@ -226,6 +226,8 @@ AmSteg.org, co-editor-in-chief for music theory, co-founder, 2005–2008
 
 # Departmental/university service #
 
+Advisor to two undergraduate Research Assistantships for CU's Undergraduate Research Opportunities Program (UROP), 2015
+
 Interdisciplinary Opportunities Task Force (CU–Boulder College of Music), 2013–present
 
 Technology Committee (CU–Boulder College of Music), 2013–present
