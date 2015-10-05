@@ -47,16 +47,18 @@ links:
     external: true
   - title: posts
     url: /articles/
-  - title: porch
-    url: /porch/
   - title: About
     url: /bio/
   - title: CV
     url: /curriculum-vitae/
+  - title: sketches
+    external: true
+    url: "http://sketches.shaffermusic.com"
+  - title: lieder project
+    external: true
+    url: "http://liederproject.shaffermusic.com"
   - title: research
     url: /research/
-#  - title: software
-#    url: /software/
   - title: courses
     external: true
     url: "http://courses.shaffermusic.com"
