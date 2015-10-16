@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Music, public scholarship, and the digital humanities at UT–Austin"
+title: "Public scholarship and the digital humanities at UT–Austin"
 modified: 2015-10-07 12:02:00 -0600
 tags: [Twitter]
 image:
