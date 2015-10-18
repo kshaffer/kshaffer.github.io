@@ -20,7 +20,8 @@ Following are abstracts for each of the sessions I'll be leading. If you're in A
 
 ## What Are the Digital Humanities?
 
-**Thursday, October 22, afternoon**
+**Thursday, October 22, 4:00–5:30pm**  
+**MRH 2.614**
 
 What is the difference between "digital" humanities (DH) and traditional scholarly work in the humanities? Are they different in content as well as in form? Or perhaps neither? Are the digital humanities about "building stuff" or "breaking stuff"? Hack or yack? And is digital pedagogy part of DH, or something else entirely?
 
@@ -30,7 +31,8 @@ Kris Shaffer (CU–Boulder & Hybrid Pedagogy Publishing) will lead this open dis
 
 ## Online scholarly collaboration – a mini-unconference
 
-**Friday, October 23, late morning**
+**Friday, October 23, 10:00–11:30am**  
+**MRH 2.614**
 
 Humanities research is usually a solitary affair, but online collaboration opens up new options for inter-institutional and interdisciplinary projects. Collaborative, interdisciplinary, and/or digital projects allow us to engage new kinds of research questions, but they also come with additional challenges. What tools are necessary to foster online collaboration? Who gets credit for a collaborative project in an evaluation system designed around mostly individual scholarship and "first authors"? How do we balance connectivity with privacy online? These are the kinds of questions we will explore in this mini-"unconference": a participant-driven, activity-based session introduced and led by visiting scholar, Kris Shaffer (CU–Boulder & Hybrid Pedagogy Publishing).
 
@@ -38,7 +40,8 @@ Humanities research is usually a solitary affair, but online collaboration opens
 
 ## The Public Intellectual: Online Scholarship in the Humanities
 
-**Friday, October 23, 3pm**  
+**Friday, October 23, 3:00–5:00pm**  
+**MRH 2.604**  
 **Association of Graduate Ethnomusicology and Musicology Students (AGEMS) Colloquium series**
 
 How many people read the average scholarly article? What do people find when they Google your name? 
