@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What are the digital humanities"
+title: "What are the digital humanities?"
 modified: 2015-10-22 09:22:00 -0600
 tags: [Twitter]
 image:
