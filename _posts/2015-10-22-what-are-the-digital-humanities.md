@@ -15,7 +15,7 @@ categories: blog
 
 What Are the Digital Humanities?
 
-That's the topic of discussion for the round-table session I'll be leading at UT–Austin today. If you're in town, join us in MRH 2.614, 4:00–5:30pm CDT. Otherwise, join us on Twitter at the same time, following/tweeting with the hashtag [#PublicScholar.](https://twitter.com/search?f=realtime&q=%23PublicScholar&src=typd)
+That's the topic of discussion for the round-table session I'll be leading at UT–Austin today. If you're in town, please join us in MRH 2.614, 4:00–5:30pm CDT. Otherwise, you join us on Twitter at the same time, following/tweeting with the hashtag [#PublicScholar.](https://twitter.com/search?f=realtime&q=%23PublicScholar&src=typd)
 
 Here is the abstract for the session: 
 
