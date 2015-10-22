@@ -46,3 +46,5 @@ Adeline Koh, [A Letter to the Humanities: DH Will Not Save You](http://www.hybri
 So what do you think? What is DH about? *building? sharing? breaking? big data? cultural analysis? all of the above? something else entirely?*
 
 Join the discussion on Twitter! [#PublicScholar](https://twitter.com/search?f=realtime&q=%23PublicScholar&src=typd)
+
+[Slides available on GitHub.](http://kris.shaffermusic.com/whatisDH/#/)
