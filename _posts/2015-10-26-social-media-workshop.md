@@ -22,7 +22,7 @@ When people Google you or your research area, what do they find?
 > "It is going to happen. Maybe not today or this week, but eventually, you will be Googled. . . . When it happens, you will want content you created to appear early and often in the search results."  
 ["The Googled Graduate Student,"](http://www.cplong.org/2013/09/the-googled-graduate-student/) Christopher P. Long
 
-This isn't just about numbers or *search-engine optimization*, though. It's about connecting with the scholarly, and public, communities of which you are a part.
+This isn't just about numbers or *search-engine optimization*. It's about connecting with the scholarly, and public, communities of which you are a part.
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">On public scholarship: it&#39;s about finding the right audience, not the right size of audience.</p>&mdash; Jesse Stommel (@Jessifer) <a href="https://twitter.com/Jessifer/status/448263789117317120">March 25, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
