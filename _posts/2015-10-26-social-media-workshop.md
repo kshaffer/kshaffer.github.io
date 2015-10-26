@@ -4,10 +4,10 @@ title: "Social media workshop"
 modified: 2015-10-26 12:42:00 -0600
 tags: [Twitter, scholarship, social media, blogging]
 image:
-  feature: pw2.jpg
-  teaser: pw2-teaser.jpg
-  credit: Christiaan Colen
-  creditlink: https://www.flickr.com/photos/132889348@N07/20971563620/
+  feature: binoculars.jpg
+  teaser: binoculars-teaser.jpg
+  credit: Johan Hansson
+  creditlink: https://www.flickr.com/photos/plastanka/14907712197/
 comments: true
 share: true
 categories: blog
