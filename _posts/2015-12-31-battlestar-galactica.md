@@ -4,10 +4,10 @@ title: "Uncanny Number Six (the music of Battlestar Galactica)"
 modified: 2015-12-31 11:22:00 -0700
 tags: [music theory, battlestar galactica]
 image:
-  feature: pw2.jpg
-  teaser: pw2-teaser.jpg
-  credit: Christiaan Colen
-  creditlink: https://www.flickr.com/photos/132889348@N07/20971563620/
+  feature: bsgNumberSix.png
+  teaser: bsgNumberSix-teaser.png
+  credit: Keithinov
+  creditlink: http://www.kethinov.com/bsgepisodes.php?series=3&season=1
 comments: true
 share: true
 categories: blog
