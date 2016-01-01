@@ -11,7 +11,7 @@ Text: Kris Shaffer (2009), based on Romans, Chapters 3 and 5
 Music: Kris Shaffer (2009)  
 Demo recording: Michelle Hixson  
 
-[recording]({{ root_url }}/worship-music/audio/HisByGrace.m4a)
+[recording]({{ site.url }}/worship-music/audio/HisByGrace.m4a)
 
-[lead sheet in D]({{ root_url }}/worship-music/PDFs/HisByGrace-lead-D.pdf)  
-[SAT arrangement in D]({{ root_url }}/worship-music/PDFs/HisByGrace-SAT-D.pdf)  
+[lead sheet in D]({{ site.url }}/worship-music/PDFs/HisByGrace-lead-D.pdf)  
+[SAT arrangement in D]({{ site.url }}/worship-music/PDFs/HisByGrace-SAT-D.pdf)  

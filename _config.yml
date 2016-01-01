@@ -1,94 +1,74 @@
-title:            Kris Shaffer
-description:      music theorist, professor, writer, performer
-logo:             # site-logo.png
-disqus_shortname: 
-search:           true
-share:            true
-# Change url to your domain. Leave localhost server or blank when working locally.
-# You don't need to specify the protocol if you want it available on http and https. Example: //localhost:4000
-
-#url:				/Users/shaffer/Websites/blog/build
-url:              http://kris.shaffermusic.com
-
-# Owner/author information
-owner:
-  name:           Kris Shaffer
-  avatar:         krishead.jpg
-  email:          kris.shaffer@gmail.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter: krisshaffer
-  facebook:
-  github: kshaffer
-  stackexchange:
-  linkedin:
-  instagram:
-  flickr:
-  tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:
-
-# RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
-subscribe_email:
-# RSS feeds can list your email address if you like
-email: kris.shaffer@gmail.com
-
-# Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: home
-    url: http://kris.shaffermusic.com
-    external: true
-  - title: posts
-    url: /articles/
-  - title: About
-    url: /bio/
-  - title: CV
-    url: /curriculum-vitae/
-  - title: sketches
-    external: true
-    url: "http://sketches.shaffermusic.com"
-  - title: lieder project
-    external: true
-    url: "http://liederproject.shaffermusic.com"
-  - title: research
-    url: /research/
-  - title: courses
-    external: true
-    url: "http://courses.shaffermusic.com"
-  - title: church music
-    url: /worship-music/
-  - title: contact
-    url: /contact/
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Denver
-future:      true
+# Jykell configuration
+markdown: redcarpet
 highlighter: pygments
-markdown:    kramdown
+paginate: 10
+language: 'en-us'
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:year/:month/:title/
+# Website info
+name: 'Kris Shaffer'
+description: "Music theorist. Digital humanist. Author. Editor. Coder."
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
+# Author's info
+author: 'Kris Shaffer'
+# edit 'categories' in the front matter of every post to match this username
+nickname: kris
+bio: 'Kris Shaffer, Ph.D. (Yale University, 2011), is Instructor of Music Theory at the <a href="https://music.colorado.edu">University of Colorado–Boulder</a> and Editor for <a href="http://hybrid.pub">Hybrid Pedagogy Publishing</a>. He is also the lead author of <a href="http://openmusictheory.com"><i>Open Music Theory</i></a>.'
+location: 'Boulder, Colo.'
+url: 'http://kris.shaffermusic.com/'
+root_url: 'http://kris.shaffermusic.com/'
+image: 'assets/images/krishead.jpg'
 
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+short_url: 'kris.shaffermusic.com/'
+google_analytics: 
+disqus: 
+# edit baseurl to simply '/' if using as your personal page (instead of a project page)
+baseurl: /
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Gemfile", "Capfile", "README.md", "LICENSE", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+# Permalinks
+permalink:   :year/:month/:title/
+# permalink: /author/:username
+# permalink: /tag/:tag
+
+
+# gems and other configs
+gems: [jekyll-paginate]
+exclude: [vendor]
+
+# Additional settings available on the front-matter
+# Site logo in the index.html (as in demo.ghost.io)
+# Author's page cover in _layouts/author.html
+# The same for page.html and tag.html layouts
+# Post's page cover as a per-post basis _posts/...
+# Disqus comments as a per-post basis
+# ...
+
+
+# Settings for builing master branch with travis-ci
+# with jekyll-travis
+
+# Settings for deploy rake task
+# Username and repo of Github repo, e.g.
+# https://github.com/USERNAME/REPO.git
+# username defaults to ENV['GIT_NAME'] used by Travis
+# repo defaults to USERNAME.github.io
+# Branch defaults to "source" for USERNAME.github.io
+# or "master" otherwise
+safe: false
+lsi: false
+username: kshaffer
+repo: jasper
+branch: gh-pages
+relative_source: ../
+destination: ../
+production_url:  https://kris.shaffermusic.com/
+source_url:      https://github.com/kshaffer/
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
