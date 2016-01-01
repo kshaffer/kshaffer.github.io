@@ -28,6 +28,7 @@
             <!-- author -->
             <a href='{{ site.url }}author/{{ site.nickname }}'>{{ site.author }}</a>
             <!-- [[tags prefix=" on "]] -->
+            <!--
             {% if post.tags.size > 0 %} 
                 on 
                 {% for tag in post.tags %}
@@ -38,6 +39,7 @@
                     {% endif %}   
                 {% endfor %}
             {% endif %}
+        -->
             <time class="post-date" datetime="{{ post.date | date:'%Y-%m-%d' }}">{{ post.date | date_to_string }}</time>
         </footer>
     </article>
