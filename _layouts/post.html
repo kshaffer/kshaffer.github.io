@@ -11,9 +11,9 @@ class: 'post-template'
 <!-- Everything inside the #post tags pulls data from the post -->
 <!-- #post -->
 
-<header class="main-header post-head {% if page.image.feature %}" style="background-image: url({{ site.baseurl }}assets/images/{{ page.image.feature }}) {% else %}" style="background-image: url({{ site.baseurl }}assets/images/type.jpg){% endif %}">
+<header class="main-header post-head {% if page.image.feature %}" style="background-image: url({{ site.url }}assets/images/{{ page.image.feature }}) {% else %}" style="background-image: url({{ site.url }}assets/images/type.jpg){% endif %}">
     <nav class="main-nav {% if page.image.feature %} overlay {% endif %} clearfix">
-        {% if page.logo %}<a class="blog-logo" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}{{ page.logo }}" alt="Blog Logo" /></a>{% endif %}
+        {% if page.logo %}<a class="blog-logo" href="{{ site.url }}"><img src="{{ site.url }}{{ page.logo }}" alt="Blog Logo" /></a>{% endif %}
             <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
     </nav>
 </header>
@@ -25,16 +25,16 @@ class: 'post-template'
         <header class="post-header">
             <h1 class="post-title">{{ page.title }}</h1>
             <section class="post-meta">
-            <!-- <a href='{{ site.baseurl }}{{ page.about }}'>{{ site.author }}</a> -->
+            <!-- <a href='{{ site.url }}{{ page.about }}'>{{ site.author }}</a> -->
             <time class="post-date" datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date_to_string }}</time>
                 <!-- [[tags prefix=" on "]] -->
                 {% if page.tags.size > 0 %} 
                 on 
                 {% for tag in page.tags %}
                     {% if forloop.index == page.tags.size %}
-                       <a href='{{ site.baseurl }}tag/{{ tag }}'>{{ tag | capitalize }}</a>
+                       <a href='{{ site.url }}tag/{{ tag }}'>{{ tag | capitalize }}</a>
                     {% else %}
-                       <a href='{{ site.baseurl }}tag/{{ tag }}'>{{ tag | capitalize }}</a>,
+                       <a href='{{ site.url }}tag/{{ tag }}'>{{ tag | capitalize }}</a>,
                     {% endif %}   
                 {% endfor %}
                 {% endif %}
@@ -54,17 +54,17 @@ class: 'post-template'
 
             {% if site.image %}
             <figure class="author-image">
-                <a class="img" href="{{ site.baseurl }}bio" style="background-image: url({{ site.baseurl }}{{ site.image }})"><span class="hidden">{{ page.author }}'s Picture</span></a>
+                <a class="img" href="{{ site.url }}bio" style="background-image: url({{ site.url }}{{ site.image }})"><span class="hidden">{{ page.author }}'s Picture</span></a>
             </figure>
             {% endif %}
 
             <section class="author">
-                <h4><a href="{{ site.baseurl }}author/{{ site.nickname }}">{{ site.author }}</a></h4>
+                <h4><a href="{{ site.url }}author/{{ site.nickname }}">{{ site.author }}</a></h4>
                 
                 {% if site.bio %}
                     <p> {{ site.bio }}</p>
                 {% else %}
-                    <p>Read <a href="{{ site.baseurl }}author/{{ site.nickname }}">more posts</a> by this author.</p>
+                    <p>Read <a href="{{ site.url }}author/{{ site.nickname }}">more posts</a> by this author.</p>
                 {% endif %}
                 <div class="author-meta">
                     {% if site.location %}<span class="author-location icon-location"> {{ site.location }}</span>{% endif %} 
@@ -105,7 +105,7 @@ class: 'post-template'
 
     <!-- [[! next_post ]] -->{{ post.url | remove: '/' }}
     {% if page.next %}
-        <a class="read-next-story {% if page.next.image.feature %}" style="background-image: url({{ site.baseurl }}assets/images/{{ page.next.image.feature }}){% else %}no-cover{% endif %}" href="{{ site.baseurl }}{{ page.next.url }}">
+        <a class="read-next-story {% if page.next.image.feature %}" style="background-image: url({{ site.url }}assets/images/{{ page.next.image.feature }}){% else %}no-cover{% endif %}" href="{{ site.url }}{{ page.next.url }}">
             <section class="post">
                 <h2>{{ page.next.title }}</h2>
                 <p>{{ page.next.content | truncatewords:15 }}</p>
@@ -115,7 +115,7 @@ class: 'post-template'
     <!-- [[! /next_post ]] -->
     <!-- [[! prev_post ]] -->
     {% if page.previous %}
-        <a class="read-next-story prev {% if page.previous.image.feature %}" style="background-image: url({{ site.baseurl }}assets/images/{{ page.previous.image.feature }}){% else %}no-cover{% endif %}" href="{{ site.baseurl }}{{ page.previous.url }}">
+        <a class="read-next-story prev {% if page.previous.image.feature %}" style="background-image: url({{ site.url }}assets/images/{{ page.previous.image.feature }}){% else %}no-cover{% endif %}" href="{{ site.url }}{{ page.previous.url }}">
             <section class="post">
                 <h2>{{ page.previous.title }}</h2>
                 <p>{{ page.previous.content | truncatewords:15 }}</p>
