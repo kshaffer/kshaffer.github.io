@@ -57,10 +57,10 @@ safe: false
 lsi: false
 username: kshaffer
 repo: jasper
-branch: gh-pages
+branch: master
 relative_source: ../
 destination: ../
-production_url:  https://kris.shaffermusic.com/
+production_url:  http://kris.shaffermusic.com/
 source_url:      https://github.com/kshaffer/
 
 exclude:
