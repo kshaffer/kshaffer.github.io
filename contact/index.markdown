@@ -7,9 +7,8 @@ sharing: true
 footer: true
 ---
 
-email: kris.shaffer@gmail.com  
-PGP Public Key: 740592D79286723033E77A1F51DB07D562AD046  
+email: [kris.shaffer@tutanota.de](mailto:kris.shaffer@tutanota.de)  
 
-Twitter: [@krisshaffer](http://twitter.com/krisshaffer)  
+Twitter: [@krisshaffer](https://twitter.com/krisshaffer)  
 
-GitHub: [kshaffer](http://github.com/kshaffer)  
+GitHub: [kshaffer](https://github.com/kshaffer) | [corpusmusic](https://github.com/corpusmusic)  
