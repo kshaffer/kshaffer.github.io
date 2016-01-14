@@ -5,7 +5,8 @@ date: 2013-08-16 09:46:50
 layout: page
 slug: curriculum-vitae
 title: Curriculum vitae
-wordpress_id: 23
+image:
+  feature: books.jpg
 ---
 
 ## Education 
