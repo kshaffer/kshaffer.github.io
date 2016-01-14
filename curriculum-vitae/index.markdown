@@ -89,7 +89,7 @@ John F. Enders Fellowship (Yale University Graduate School), 2010
 
 "Music, Public Scholarship, and the Digital Humanities"
 
-> Two-day residency at UT–Austin, fall 2015 (dates TBA)
+> Two-day residency at UT–Austin, October 22–23, 2015
 
 “This is Not a Journal: Publishing as Pedagogy”
 
