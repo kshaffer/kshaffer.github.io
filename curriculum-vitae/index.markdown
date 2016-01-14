@@ -8,7 +8,7 @@ title: Curriculum vitae
 wordpress_id: 23
 ---
 
-# Education #
+## Education 
 
 
 Ph.D. in music theory, Yale University, Department of Music, 2011  
@@ -19,17 +19,17 @@ M.Mus. in orchestral studies, Chicago College of Performing Arts – Roosevelt U
 
 B.Mus. in horn performance, *summa cum laude*, Lawrence University (Appleton, Wis.), 2002
 
-# Academic employment #
+## Academic employment 
 
 Instructor of Music Theory, University of Colorado–Boulder, fall 2013–present
 
 Assistant Professor of Music Theory, Charleston Southern University, fall 2011–spring 2013
 
-# Publications – books
+## Publications – books
 
 [*Open Music Theory*](http://openmusictheory.com), "beta" edition. (An open-source, online textbook for undergraduate music theory courses.) Hybrid Pedagogy Publishing, 2014.
 
-# Publications – peer-reviewed articles
+## Publications – peer-reviewed articles
 
 ["Hacking the Music Theory Classroom: Standards-Based Grading, Just-in-Time Teaching, and the Inverted Class."](www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html) In [*Music Theory Online*](http://www.mtosmt.org) 21.1 (2015).  Co-authors: Philip Duker, Anna Gawboy, Bryn Hughes.
 
@@ -53,7 +53,7 @@ Assistant Professor of Music Theory, Charleston Southern University, fall 2011�
 
 ["Open-source scholarship."](http://www.hybridpedagogy.com/Journal/files/Open_Source_Scholarship.html) In [*Hybrid Pedagogy*](http://hybridpedagogy.com), May 22, 2013.
 
-# Publications – editor-reviewed articles
+## Publications – editor-reviewed articles
 
 ["Homework Is a Social Justice Issue."](http://modernlearners.com/homework-is-a-social-justice-issue/) In [*Educating Modern Learners*](http://www.modernlearners.com), February 9, 2015.
 
@@ -71,7 +71,7 @@ Contributed by invitation to ["Perspectives, Play, and Pedagogy: The Hybrid Peda
 
 "Make Stunning Schenker Graphs with GNU Lilypond." In [*Linux Journal*](http://linuxjournal.com) 140, December 2005.
 
-# Grants and fellowships #
+## Grants and fellowships 
 
 Paul Sacher Stiftung Scholarship, 2012  
 
@@ -85,7 +85,7 @@ John F. Enders Fellowship (Yale University Graduate School), 2010
 
 > for short-term study in the Ligeti Collection
 
-# Presentations #
+## Presentations 
 
 "Music, Public Scholarship, and the Digital Humanities"
 
@@ -151,7 +151,7 @@ John F. Enders Fellowship (Yale University Graduate School), 2010
 
 > The Cognitive Science (Graduate) Workshop at Yale, 23 April 2009
 
-# Courses taught #
+## Courses taught 
 
 University of Colorado–Boulder
 
@@ -194,7 +194,7 @@ CCPA-Roosevelt University
 
 - Musicianship I–IV (teaching assistant), 2002–2004
 
-# Service to profession #
+## Service to profession 
 
 Board of Directors, [Hybrid Pedagogy, Inc.](http://www.hybridpedagogy.org), 2015–present
 
@@ -224,7 +224,7 @@ Yale Graduate Music Symposium, website designer, 2009–2010
 
 AmSteg.org, co-editor-in-chief for music theory, co-founder, 2005–2008
 
-# Departmental/university service #
+## Departmental/university service 
 
 Advisor to two undergraduate Research Assistantships for CU's Undergraduate Research Opportunities Program (UROP), 2015
 
@@ -238,7 +238,7 @@ Department of Information Science Subcommittee (CU–Boulder), consultant, 2013�
 
 Executive Technology Committee (Charleston Southern Univ.), 2011–2013
 
-# Performance & other professional experience #
+## Performance & other professional experience 
 
 Savannah Philharmonic Orchestra, substitute third horn, 2012
 
@@ -254,7 +254,7 @@ Illinois Symphony Orchestra, substitute third horn, 2003
 
 Green Bay Symphony Orchestra (WI), substitute second horn, 2003
 
-# Languages #
+## Languages 
 
 German
 
@@ -271,6 +271,6 @@ French
 - Reading: proficient with dictionary  
 - Writing and speaking: not proficient
 
-# Professional organization membership #
+## Professional organization membership 
 
 Society for Music Theory
