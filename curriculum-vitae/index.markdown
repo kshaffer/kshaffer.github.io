@@ -151,6 +151,12 @@ John F. Enders Fellowship (Yale University Graduate School), 2010
 
 > The Cognitive Science (Graduate) Workshop at Yale, 23 April 2009
 
+## Post-Ph.D. Coursework
+
+- [The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools), Johns Hopkins Univ., via Coursera. Completed with distinction, 2015.  
+- [Statistical Thinking for Data Science and Analytics](https://courses.edx.org/courses/course-v1:ColumbiaX+DS101X+3T2015/), Columbia University Data Science Institute, via EdX. Completed 2016.  
+
+
 ## Courses taught 
 
 University of Colorado–Boulder
