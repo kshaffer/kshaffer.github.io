@@ -5,8 +5,7 @@ date: 2013-08-16 09:46:50
 layout: page
 slug: curriculum-vitae
 title: Curriculum vitae
-image:
-  feature: books.jpg
+cover: books.jpg
 ---
 
 ## Education 
