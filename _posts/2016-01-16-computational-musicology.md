@@ -3,8 +3,8 @@ layout: post
 title: "What is computational musicology?"
 modified: 2016-01-16 17:34:00 -0700
 image:
-  feature: bletchley.png
-  teaser: bletchley-teaser.png
+  feature: bletchley.jpg
+  teaser: bletchley-teaser.jpg
   credit: Adam Foster
   creditlink: https://www.flickr.com/photos/twosevenoneonenineeightthreesevenatenzerosix/6655759625/
 share: true
@@ -15,7 +15,7 @@ Computational musicology is a young, growing field ― one in which I find mysel
 
 ## What is computational musicology?
 
-In a nutshell, computational musicology ― more-or-less synonymous with computational music theory or music informatics ― is the use of computational methods and statistics to analyze musical structures (notes, chords, rhythms, etc., and patterns thereof). This combination of computation, statistics, and a domain of knowledge makes computational musicology a form of data science. However, due to the music theoretical aspect, computational musicology sits firmly within the (digital) humanities and focuses on the same kinds of questions as traditional humanities research. (Though, because of the differing methods, the specific questions are often different.) Like other digital humanists, computational musicologists use (and make) digital tools to explore, ask, and answer questions about human artifacts ― in this case, the structural elements of musical works and (meta)data about human interaction with music.
+In a nutshell, *computational musicology* ― more-or-less synonymous with *computational music theory* or *music informatics* ― is the use of computational methods and statistics to analyze musical structures (notes, chords, rhythms, etc., and patterns thereof). This combination of computation, statistics, and a domain of knowledge makes computational musicology a form of *data science*. However, due to the music theoretical aspect, computational musicology sits firmly within the *digital humanities* and focuses on the same kinds of questions as traditional humanities research. (Though, because of the differing methods, the specific questions are often different.) Like other digital humanists, computational musicologists use (and make) digital tools to explore, ask, and answer questions about human artifacts ― in this case, the structural elements of musical works and (meta)data about human interaction with music.
 
 ## Types of computational musicology projects
 
@@ -29,7 +29,7 @@ In a nutshell, computational musicology ― more-or-less synonymous with computa
 
 ## Example projects and resources
 
-That's just a brief overview. For more details, check out some of tbe following projects, resources, and articles.
+That's just a brief overview. For more details, check out some of the following projects, resources, and articles.
 
 Burgoyne, John Ashley. 2011. ["Stochastic Processes & Database-Driven Musicology."](http://oatd.org/oatd/record?record=oai%5C:digitool.library.mcgill.ca%5C:107704) Ph.D. diss., McGill University.
 
