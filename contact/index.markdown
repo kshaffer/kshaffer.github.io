@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-email: [kris.shaffer@tutanota.de](mailto:kris.shaffer@tutanota.de)  
+email: [kris@shaffermusic.com](mailto:kris@shaffermusic.com)  
 
 Twitter: [@krisshaffer](https://twitter.com/krisshaffer)  
 
