@@ -49,11 +49,11 @@ I loaded up the data files my script created in R and created some visualization
 
 I began with the running probability of a word's occurrence given what had been read so far.
 
-![](/assets/images/Potter-overallProb.png)
+![](/assets/images/seuss/Potter-overallProb.png)
 
-![](/assets/imagesLoehr-overallProb.png)
+![](/assets/images/seuss/Loehr-overallProb.png)
 
-![](/assets/imagesSeuss-overallProb.png)
+![](/assets/images/seuss/Seuss-overallProb.png)
 
 Notice that while each book has a noisy band of low-probability words throughout, both of the learn-to-read books have separate bands of high-probability words that occur regularly. This looks to me like evidence of *learning targets* ― words receiving emphasis beyond that of "regular words."
 
@@ -69,29 +69,29 @@ I plotted the distance-since-previous-occurrence and the running-probability-of-
 
 First, as a baseline, the distance-since-previous-occurrence plots showed nothing but noise in *Peter Rabbit*. There was no discernible pattern in terms of how close/far occurrences of words like *peter*, *mcgregor*, *the*, or *and* were from each other. Most of the probability-so-far plots were likewise noisy. But some showed a pattern *opposite* to the proposed learning theory. For example, the probability of reading the word *peter* increases throughout the book.
 
-![](/assets/imagesPotter-peterProb.png)
+![](/assets/images/seuss/Potter-peterProb.png)
 
 On the other hand, I found one word that matched the learning theory hypothesis: *and*.
 
-![](/assets/imagesPotter-andProb.png)
+![](/assets/images/seuss/Potter-andProb.png)
 
 But I'm fairly certain this is an anomaly. :)
 
 *Green Eggs and Ham*, on the other hand, showed evidence of several learning targets following the proposed learning theory. Here are a few of them (running probability of occurrence shown ― an initial spike followed by a gradually descending tail matches the learning theory).
 
-![](/assets/imagesSeuss-eggsProb.png)
+![](/assets/images/seuss/Seuss-eggsProb.png)
 
-![](/assets/imagesSeuss-likeProb.png)
+![](/assets/images/seuss/Seuss-likeProb.png)
 
-![](/assets/imagesSeuss-themProb.png)
+![](/assets/images/seuss/Seuss-themProb.png)
 
 Not all words follow this model, but a number of them do, which makes sense if we assume that the book is meant for readers who already know some of them.
 
 *Dragon Egg* is interesting. It is part of a "step into reading" program from Random House that assigns levels to books based on their difficulty. While that system may help parents and kids identify appropriate books, this one doesn't seem meant to follow the learning theory we see associated with Seuss. In fact, five of the top six words *follow the opposite pattern of that suggested by the learning theory*. Here are a couple...
 
-![](/assets/imagesLoehr-eggProb.png)
+![](/assets/images/seuss/Loehr-eggProb.png)
 
-![](/assets/imagesLoehr-rollsProb.png)
+![](/assets/images/seuss/Loehr-rollsProb.png)
 
 I don't mean this to be a jab at Loehr by any stretch of the imagination. There are many factors that go into word (density) choices when writing a children's book. However, the contrast between these three examples ― for me, anyway ― highlight the choices made by Seuss and the potential benefits they have for young readers.
 
