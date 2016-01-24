@@ -41,7 +41,7 @@ I wanted to test *Green Eggs and Ham*, of course, alongside a lesser-known "lear
 
 ## The script
 
-My work on [The Lieder Project](http://liederproject.shaffermusic.com) gave me a starting place ― code that already does most of what I wanted to do. So I added some tweaks and functions, and created [this script]() for processing a text file. Visit the script and accompanying data (original books omitted for copyright reasons, except for Potter) if you want to dig in yourself.
+My work on [The Lieder Project](http://liederproject.shaffermusic.com) gave me a starting place ― code that already does most of what I wanted to do. So I added some tweaks and functions, and created [this script](https://github.com/kshaffer/seuss) for processing a text file. Visit the script and accompanying data (original books omitted for copyright reasons, except for Potter) if you want to dig in yourself.
 
 ## The fun stuff
 
