@@ -947,7 +947,7 @@ body.nav-opened .nav {
     font-size: 2rem;
     line-height: 1.5em;
     font-weight: 400;
-    font-family: "Merriweather", serif;
+    font-family: "Georgia", "Merriweather", serif;
     letter-spacing: 0.01rem;
     color: rgba(255,255,255,0.8);
 }
@@ -1378,7 +1378,7 @@ body:not(.post-template) .post-title {
 /* Location, website, and link */
 .author-profile .author-meta {
     margin: 2rem 0;
-    font-family: "Merriweather", serif;
+    font-family: "Georgia", "Merriweather", serif;
     letter-spacing: 0.01rem;
     font-size: 1.7rem;
 }
