@@ -5,13 +5,13 @@
     <meta property="og:site_name" content="{{ site.name }}" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="{{ page.title }}" />
-    <meta property="og:description" content="{{ post.content | truncatewords: 26 }}" />
+    <meta property="og:description" content="{{ page.content | truncatewords: 26 }}" />
     <meta property="og:url" content="{{ site.baseurl }}{{ post.url }}" />
     <meta property="og:image" content="{{ site.baseurl }}assets/images/{% if page.image.feature %}{{ page.image.feature }}{% else %}cover-laserNegatives.jpg{% endif %}" />
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="{{ page.title }}" />
-    <meta name="twitter:text:description" content="{{ post.content | truncatewords: 26 }}" />
+    <meta name="twitter:text:description" content="{{ page.content | truncatewords: 26 }}" />
     <meta name="twitter:url" content="{{ site.baseurl }}{{ post.url }}" />
     <meta name="twitter:image:src" content="{{ site.baseurl }}assets/images/{% if page.image.feature %}{{ page.image.feature }}{% else %}cover-laserNegatives.jpg{% endif %}" />
 
