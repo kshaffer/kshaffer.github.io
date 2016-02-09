@@ -21,7 +21,7 @@
         </header>
         <section class="post-excerpt">
             <p><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">{% if post.image.teaser %}<img src="{{ site.url }}assets/images/{{ post.image.teaser }}" alt="teaser" itemprop="image" style="float: right; max-width: 300px; margin: 0 0 12px 12px;">{% endif %}</a>
-                {{ post.content | truncatewords: 26 }} <a class="read-more" href="{{ site.url }}{{ post.url | remove: '/' }}">&raquo;</a></i></b></em></strong></p>
+                {{ post.content | strip_html | truncatewords: 26 }} <a class="read-more" href="{{ site.url }}{{ post.url | remove: '/' }}">&raquo;</a></i></b></em></strong></p>
         </section>
         <footer class="post-meta">
             {% if site.image %}<img class="author-thumb" src="{{ site.url }}{{ site.image }}" alt="Author image" nopin="nopin" />{% endif %}
