@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "So you want to be a music theory professor..."
-modified: 2016-02-08 13:54:00 -0700
+modified: 2016-03-18 13:14:00 -0700
 image:
   feature: piano.jpg
   teaser: piano-teaser.jpg
