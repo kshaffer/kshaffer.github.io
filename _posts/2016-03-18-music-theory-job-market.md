@@ -40,7 +40,7 @@ Of the 116 theory-only jobs on the wiki from the past three years, only 66 list 
 Here is the PhD-granting institution breakdown for candidates winning jobs (tenure-track and non-tenure-track together):
 
 | PhD-granting institution | jobs won by graduates in 2014–16 |
-| -: | :- |
+| ---: | :--- |
 | Eastman | 9 |
 | Florida State University | 8 |
 | CUNY | 7 |
@@ -57,7 +57,7 @@ Here is the PhD-granting institution breakdown for candidates winning jobs (tenu
 And for tenure-track assistant professor (or equivalent) only:
 
 | PhD-granting institution | jobs won by graduates in 2014–16 |
-| -: | :- |
+| ---: | :--- |
 | CUNY | 6 |
 | Eastman | 6 |
 | Florida State University | 5 |
