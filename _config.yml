@@ -14,13 +14,13 @@ author: 'Kris Shaffer'
 nickname: kris
 bio: 'Kris Shaffer, Ph.D. (Yale University, 2011), is Instructor of Music Theory at the <a href="https://music.colorado.edu">University of Colorado–Boulder</a> and Editor for <a href="http://hybrid.pub">Hybrid Pedagogy Publishing</a>. He is also the lead author of <a href="http://openmusictheory.com"><i>Open Music Theory</i></a>.'
 location: 'Boulder, Colo.'
-url: 'http://kris.shaffermusic.com/'
-root_url: 'http://kris.shaffermusic.com/'
+url: 'http://kris.shaffermusic.com'
+root_url: 'http://kris.shaffermusic.com'
 image: 'assets/images/krishead.jpg'
 
-short_url: 'kris.shaffermusic.com/'
-google_analytics: 
-disqus: 
+short_url: 'kris.shaffermusic.com'
+google_analytics:
+disqus:
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
 
@@ -60,7 +60,7 @@ repo: jasper
 branch: master
 relative_source: ../
 destination: ../
-production_url:  http://kris.shaffermusic.com/
+production_url:  http://kris.shaffermusic.com
 source_url:      https://github.com/kshaffer/
 
 exclude:
