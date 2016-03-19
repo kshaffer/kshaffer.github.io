@@ -20,7 +20,7 @@
             <h2 class="post-title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
         </header>
         <section class="post-excerpt">
-            <p><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">{% if post.image.teaser %}<img src="{{ site.url }}assets/images/{{ post.image.teaser }}" alt="teaser" itemprop="image" style="float: right; max-width: 300px; margin: 0 0 12px 12px;">{% endif %}</a>
+            <p><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">{% if post.image.teaser %}<img src="{{ site.baseurl }}assets/images/{{ post.image.teaser }}" alt="teaser" itemprop="image" style="float: right; max-width: 300px; margin: 0 0 12px 12px;">{% endif %}</a>
                 {{ post.content | strip_html | truncatewords: 26 }} <a class="read-more" href="{{ site.url }}{{ post.url | remove: '/' }}">&raquo;</a></i></b></em></strong></p>
         </section>
         <footer class="post-meta">
@@ -29,14 +29,14 @@
             <a href='{{ site.url }}author/{{ site.nickname }}'>{{ site.author }}</a>
             <!-- [[tags prefix=" on "]] -->
             <!--
-            {% if post.tags.size > 0 %} 
-                on 
+            {% if post.tags.size > 0 %}
+                on
                 {% for tag in post.tags %}
                     {% if forloop.index == post.tags.size %}
                        <a href='{{ site.url }}tag/{{ tag }}'>{{ tag | capitalize }}</a>
                     {% else %}
                        <a href='{{ site.url }}tag/{{ tag }}'>{{ tag | capitalize }}</a>,
-                    {% endif %}   
+                    {% endif %}
                 {% endfor %}
             {% endif %}
         -->
