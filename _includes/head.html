@@ -1,19 +1,19 @@
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
     <meta name="referrer" content="origin" />
-    <link rel="next" href="{{ site.url }}page2/" />
+    <link rel="next" href="{{ site.baseurl }}page2/" />
 
     <meta property="og:site_name" content="{{ site.name }}" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:description" content="{{ page.content | strip_html | truncatewords: 26 }}" />
     <meta property="og:url" content="{{ site.url }}{{ post.url }}" />
-    <meta property="og:image" content="{{ site.url }}/assets/images/{% if page.image.feature %}{{ page.image.feature }}{% else %}cover-laserNegatives.jpg{% endif %}" />
+    <meta property="og:image" content="{{ site.baseurl }}assets/images/{% if page.image.feature %}{{ page.image.feature }}{% else %}cover-laserNegatives.jpg{% endif %}" />
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="{{ page.title }}" />
     <meta name="twitter:text:description" content="{{ page.content | strip_html | truncatewords: 26 }}" />
     <meta name="twitter:url" content="{{ site.url }}{{ post.url }}" />
-    <meta name="twitter:image:src" content="{{ site.url }}/assets/images/{% if page.image.feature %}{{ page.image.feature }}{% else %}cover-laserNegatives.jpg{% endif %}" />
+    <meta name="twitter:image:src" content="{{ site.url }}assets/images/{% if page.image.feature %}{{ page.image.feature }}{% else %}cover-laserNegatives.jpg{% endif %}" />
 
     <script type="application/ld+json">
 {
@@ -21,10 +21,10 @@
     "@type": "Website",
     "publisher": "Kris Shaffer",
     "url": "{{ site.url }}{{ page.url }}",
-    "image": "{{ site.url }}/assets/images/cover-laserNegatives.jpg",
+    "image": "{{ site.baseurl }}assets/images/cover-laserNegatives.jpg",
     "description": "{{ site.description }}"
 }
     </script>
 
     <meta name="generator" content="Jekyll 3.0.0" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}rss.xml" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.baseurl }}rss.xml" />
