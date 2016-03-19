@@ -11,7 +11,7 @@ class: 'post-template'
 <!-- Everything inside the #post tags pulls data from the post -->
 <!-- #post -->
 
-<header class="main-header post-head {% if page.image.feature %}" style="background-image: url({{ site.url }}assets/images/{{ page.image.feature }}) {% else %}" style="background-image: url({{ site.url }}assets/images/type.jpg){% endif %}">
+<header class="main-header post-head {% if page.image.feature %}" style="background-image: url({{ site.url }}/assets/images/{{ page.image.feature }}) {% else %}" style="background-image: url({{ site.url }}/assets/images/type.jpg){% endif %}">
     <nav class="main-nav {% if page.image.feature %} overlay {% endif %} clearfix">
         {% if page.logo %}<a class="blog-logo" href="{{ site.url }}"><img src="{{ site.url }}{{ page.logo }}" alt="Blog Logo" /></a>{% endif %}
             <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
@@ -28,14 +28,14 @@ class: 'post-template'
             <!-- <a href='{{ site.url }}{{ page.about }}'>{{ site.author }}</a> -->
             <time class="post-date" datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date_to_string }}</time>
                 <!-- [[tags prefix=" on "]] -->
-                {% if page.tags.size > 0 %} 
-                on 
+                {% if page.tags.size > 0 %}
+                on
                 {% for tag in page.tags %}
                     {% if forloop.index == page.tags.size %}
                        <a href='{{ site.url }}tag/{{ tag }}'>{{ tag | capitalize }}</a>
                     {% else %}
                        <a href='{{ site.url }}tag/{{ tag }}'>{{ tag | capitalize }}</a>,
-                    {% endif %}   
+                    {% endif %}
                 {% endfor %}
                 {% endif %}
             </section>
@@ -44,7 +44,7 @@ class: 'post-template'
         <section class="post-content">
 
             <script async defer src="https://hypothes.is/embed.js"></script>
-            
+
             {{ content }}
 
         </section>
@@ -62,15 +62,15 @@ class: 'post-template'
 
             <section class="author">
                 <h4><a href="{{ site.url }}author/{{ site.nickname }}">{{ site.author }}</a></h4>
-                
+
                 {% if site.bio %}
                     <p> {{ site.bio }}</p>
                 {% else %}
                     <p>Read <a href="{{ site.url }}author/{{ site.nickname }}">more posts</a> by this author.</p>
                 {% endif %}
                 <div class="author-meta">
-                    {% if site.location %}<span class="author-location icon-location"> {{ site.location }}</span>{% endif %} 
-                    {% if site.url %}<span class="author-link icon-link"><a href="{{ site.url }}"> {{ site.short_url }}</a></span>{% endif %} 
+                    {% if site.location %}<span class="author-location icon-location"> {{ site.location }}</span>{% endif %}
+                    {% if site.url %}<span class="author-link icon-link"><a href="{{ site.url }}"> {{ site.short_url }}</a></span>{% endif %}
                 </div>
             </section>
 
@@ -91,11 +91,11 @@ class: 'post-template'
                     <span class="hidden">Google+</span>
                 </a>
             </section>
-            
-            
+
+
             <div>
 				<hr/>
-				
+
 				<h2>Webmentions</h2>
 				<div class="webmentions">
 					<script id="webmention-hosted">
@@ -111,16 +111,16 @@ class: 'post-template'
 				</div>
 				<p style="font-size: 0.85em; font-style: italic; line-height: 1.3em">In order not to send your personal browsing data to a third-party service, this site no longer supports Disqus comments. You may comment to me by sending an email to <a href="mailto:kris.shaffer@tutanota.de">kris.shaffer@tutanota.de</a> or tweeting to <a href="https://twitter.com/krisshaffer">@krisshaffer.</a> If you would like your comments to appear on this site, post them to a public platform that supports <a href="http://indiewebcamp.com/Webmention">webmentions</a>, such as Twitter, Facebook, <a href="https://withknown.com/">Known</a>, or <a href="https://wordpress.org/">WordPress</a> (via <a href="https://wordpress.org/plugins/webmention/">this plugin</a>). You may also use the buttons on the upper right corner of the browser window to highlight or annotate this page using <a href="https://hypothes.is">hypothes.is</a>.</p>
 			</div>
-			
-        
-			
+
+
+
             <!-- Add Disqus Comments -->
 			<!--
             {% if page.disqus %}
                 {% include disqus.html %}
             {% endif %}
             -->
-				
+
         </footer>
 
     </article>
@@ -131,7 +131,7 @@ class: 'post-template'
 
     <!-- [[! next_post ]] -->{{ post.url | remove: '/' }}
     {% if page.next %}
-        <a class="read-next-story {% if page.next.image.feature %}" style="background-image: url({{ site.url }}assets/images/{{ page.next.image.feature }}){% else %}no-cover{% endif %}" href="{{ site.url }}{{ page.next.url }}">
+        <a class="read-next-story {% if page.next.image.feature %}" style="background-image: url({{ site.url }}/assets/images/{{ page.next.image.feature }}){% else %}no-cover{% endif %}" href="{{ site.url }}{{ page.next.url }}">
             <section class="post">
                 <h2>{{ page.next.title }}</h2>
                 <p>{{ page.next.content | truncatewords:15 }}</p>
@@ -141,7 +141,7 @@ class: 'post-template'
     <!-- [[! /next_post ]] -->
     <!-- [[! prev_post ]] -->
     {% if page.previous %}
-        <a class="read-next-story prev {% if page.previous.image.feature %}" style="background-image: url({{ site.url }}assets/images/{{ page.previous.image.feature }}){% else %}no-cover{% endif %}" href="{{ site.url }}{{ page.previous.url }}">
+        <a class="read-next-story prev {% if page.previous.image.feature %}" style="background-image: url({{ site.url }}/assets/images/{{ page.previous.image.feature }}){% else %}no-cover{% endif %}" href="{{ site.url }}{{ page.previous.url }}">
             <section class="post">
                 <h2>{{ page.previous.title }}</h2>
                 <p>{{ page.previous.content | truncatewords:15 }}</p>
