@@ -1,6 +1,6 @@
 # Jykell configuration
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 paginate: 10
 language: 'en-us'
 
