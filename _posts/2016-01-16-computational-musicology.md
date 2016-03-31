@@ -19,7 +19,7 @@ In a nutshell, *computational musicology* ― more-or-less synonymous with *comp
 
 ## Types of computational musicology projects
 
-**Corpus studies.** Corpus studies are possibly the most common type of project in computational musicology. A corpus study uses software to analyze statistical patterns in a large collection ― corpus ― of musical works. It is, essentially, descriptive statistics for musical data. Like text-based corpus studies, musical corpus studies often use n-gram and cluster analysis methods. Unlike text-based corpus studies, musical corpus studies often involve Markov models ― probability analyses for progressions in time, such as how likely is G C-major chord to progress to a D-minor chord in a piece in the key of A minor.
+**Corpus studies.** Corpus studies are possibly the most common type of project in computational musicology. A corpus study uses software to analyze statistical patterns in a large collection ― corpus ― of musical works. It is, essentially, descriptive statistics for musical data. Like text-based corpus studies, musical corpus studies often use n-gram and cluster analysis methods. Unlike text-based corpus studies, musical corpus studies often involve Markov models ― probability analyses for progressions in time, such as how likely is a C-major chord to progress to a D-minor chord in a piece in the key of A minor.
 
 **Modeling.** More recently, computational musicologists have been employing more advanced statistical methods to uncover underlying functions and patterns that contribute to the "surface" musical features of pieces in their corpora. This may involve Bayesian statistics, and more specifically, a hidden Markov model: for example, what are the underlying chordal *functions* in a chord progression, and do the traditional T/S/D functions explain the actual chord progressions observed in a corpus.
 
@@ -33,17 +33,17 @@ That's just a brief overview. For more details, check out some of the following 
 
 Burgoyne, John Ashley. 2011. ["Stochastic Processes & Database-Driven Musicology."](http://oatd.org/oatd/record?record=oai%5C:digitool.library.mcgill.ca%5C:107704) Ph.D. diss., McGill University.
 
-[Music Genre and Spotify Metadata](http://scholarslab.org/uncategorized/music-genre-and-spotify-metadata/)
+[Music Genre and Spotify Metadata](http://scholarslab.org/uncategorized/music-genre-and-spotify-metadata/).
 
 De Clercq, Trevor and David Temperley. 2011. ["A corpus analysis of rock harmony."](http://dx.doi.org/10.1017/S026114301000067X) In *Popular Music* 30/1, pp. 47–70.
 
-Yim, Gary. 2012. ["Affordant Harmony in Popular Music: Do Physical Attributes of the Guitar Influence Chord Sequences?"](http://icmpc―escom2012.web.auth.gr/sites/default/files/papers/1156_Proc.pdf) In *Proceedings of the 12th International Conference on Music Perception and Cognition and the 8th Triennial Conference of the European Society fo the Cognitive Sciences of Music., July 23–28, 2012.
+Yim, Gary. 2012. ["Affordant Harmony in Popular Music: Do Physical Attributes of the Guitar Influence Chord Sequences?"](http://icmpc―escom2012.web.auth.gr/sites/default/files/papers/1156_Proc.pdf) In *Proceedings of the 12th International Conference on Music Perception and Cognition and the 8th Triennial Conference of the European Society for the Cognitive Sciences of Music*, July 23–28, 2012.
 
 [The Lieder Project.](http://liederproject.shaffermusic.com/) A collaborative, computational research project looking at the relationship between the sounds of poetry and the structure of the music it to which it is set. David Lonowski (CU–Boulder), Jordan Pyle (CU–Boulder), Stephen Rodgers (U Oregon), Kris Shaffer (CU–Boulder), Leigh VanHandel (Michigan State U).
 
-[CorpusMusic group on GitHub](http://github.com/corpusmusic)  
+[CorpusMusic group on GitHub](http://github.com/corpusmusic).  
 
-[Python Hidden Markov Model](http://www.cs.colostate.edu/~hamiltom/code.html) ― Michael Hamilton, Colorado State University (the basis for unpublished HMM musical studies by Christopher William White and Ian Quinn, presented at the Society for Music Theory)  
+[Python Hidden Markov Model](http://www.cs.colostate.edu/~hamiltom/code.html) ― Michael Hamilton, Colorado State University (the basis for unpublished HMM musical studies by Christopher William White and Ian Quinn, presented at the Society for Music Theory).  
 
 [The McGill Billboard Project](http://ddmal.music.mcgill.ca/billboard) ― a large data set of harmonic annotations of songs from several decades of the Billboard Top 100 list.  
 
@@ -51,4 +51,4 @@ Yim, Gary. 2012. ["Affordant Harmony in Popular Music: Do Physical Attributes of
 
 [The Million Song Dataset](http://labrosa.ee.columbia.edu/millionsong/) ― "a freely-available collection of audio features and metadata for a million contemporary popular music tracks" (Columbia Univ.).  
 
-[*Empirical Musicology Review.*](http://emusicology.org/)
+[*Empirical Musicology Review*](http://emusicology.org/).
