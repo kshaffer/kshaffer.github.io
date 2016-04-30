@@ -23,7 +23,7 @@ One tool that can help us accomplish this is [hypothes.is.](https://hypothes.is)
 
 Most discussion I've seen about hypothes.is has centered around this feature of page annotation, often discussing ways in which, say, [students in a class can collaboratively annotate](https://hypothes.is/quick-start-guide/) a single page [as they study it together](http://acdigitalpedagogy.org/category/hypothes-is/). However, hypothes.is has other, lesser known features that, in my mind, are both more interesting and more powerful.
 
-## the hypothes.is stream
+## The hypothes.is stream
 
 What I think makes hypothes.is really interesting is the [stream.](https://hypothes.is/stream) Here you can find every public annotation in reverse time order (like Twitter). There is even an RSS feed for this stream. Of course, most people don't want to read *every* annotation, so you can limit the results by user, tag, or search content. You can also send it simple queries in the URL. (Read more about these queries [here.](https://hypothes.is/for-publishers/))
 
