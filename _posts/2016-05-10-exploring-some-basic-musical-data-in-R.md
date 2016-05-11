@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploring some basic musical data in R"
-modified: 2016-04-30 16:25:00 -0600
+modified: 2016-05-10 16:02:00 -0600
 image:
   feature: construction.jpg
   teaser: construction-teaser.jpg
