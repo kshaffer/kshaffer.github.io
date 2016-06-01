@@ -13,13 +13,6 @@ image:
 
 <hr/>
 
----
-layout: page
-title: "#IndieEdTech Annotations with hypothes.is from kris.shaffer."
-modified: 2016-05-31 13:37:00 -0500
-image:
----
-
 [Open Source is losing, SaaS is leading, APIs will win  Point Nine Land  Medium](https://medium.com/point-nine-news/open-source-is-losing-saas-is-leading-apis-will-win-663648d9c8d0)
 
 > APIs are building blocks of software by definitionCompared with SaaS, by nature, they are platforms that allow development on top of them.It brings back the nature of building block that open source has and SaaS lost.APIs businesses focus on solving smaller problems but hard to crackFor that reason, there are higher chances that customers will trust an API provider for their core infrastructure.If this is the only thing those guys do, theres high chances they will do it better than myself.
