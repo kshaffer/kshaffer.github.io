@@ -61,7 +61,7 @@ A function that converts a *share* URL (easy to find in the hypothes.is user int
 
 A function that takes a hypothes.is user name and/or a tag (or list of tags) and generates a well-formed search URL for the hypothes.is API. The format is:
 
-~~~ Python
+~~~ python
 searchurl(user = '', tag = '', tags = [])
 ~~~
 
@@ -69,7 +69,7 @@ The searchurl() function requires at least one search term. It can be either a u
 
 Example searches:
 
-~~~ Python
+~~~ python
 # all annotations from a single user
 searchurl(user = 'kris.shaffer@hypothes.is')
 # or
@@ -89,7 +89,7 @@ searchurl(tags = ['IndieEdTech', 'EdTech'])
 
 ### Example code
 
-~~~ Python
+~~~ python
 # search for all annotations with the tag IndieEdTech and return them in json format.
 s = searchurl(tag = 'IndieEdTech')
 l = retrievelist(s)
@@ -100,7 +100,7 @@ for entry in l:
     print(e.title)
 ~~~
 
-~~~ Python
+~~~ python
 # Using the hyothes.is annotation share URL, retrieve and parse the JSON data for that annotation, then print it.
 t = Annotation(retrieve(apiurl('https://hyp.is/AVOP5R06H9ZO4OKSlTrY/hackeducation.com/2016/03/18/i-love-my-label')))
 print(t.title)
