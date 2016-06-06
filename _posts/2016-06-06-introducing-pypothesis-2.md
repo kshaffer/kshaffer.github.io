@@ -3,10 +3,10 @@ layout: post
 title: "Introducing Pypothesis ― Part 2: a Python module for the hypothes.is API"
 modified: 2016-06-06 14:43:00 -0400
 image:
-  feature: humming.jpg
-  teaser: humming-teaser.jpg
-  credit: Bill Gracey
-  creditlink: https://www.flickr.com/photos/9422878@N08/8761639059/
+  feature: stormdrain.jpg
+  teaser: stormdrain-teaser.jpg
+  credit: darkday
+  creditlink: https://www.flickr.com/photos/drainrat/15783249894/in/faves-131104016@N08/
 share: true
 categories: blog
 ---
