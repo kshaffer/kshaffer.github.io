@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing Pypothesis, Part 1: hypothes.is to MarkDown"
+title: "Introducing Pypothesis ― Part 1: hypothes.is to MarkDown"
 modified: 2016-06-06 13:58:00 -0400
 image:
   feature: oldtype.jpg
@@ -14,6 +14,7 @@ categories: blog
 I've been working and writing a lot lately about using the web annotation tool [hypothes.is](https://hypothes.is) for public scholarship. It has a lot of cool uses ― not only the collaborative annotation of individual web pages, but also the creation of a [public research notebook](http://kris.shaffermusic.com/2016/04/hypothesis-public-research-notebook/), and the possibility of linking hypothes.is with other apps [through the use of their open API](http://kris.shaffermusic.com/2016/05/getting-started-with-the-hypothesis-api/).
 
 Based on that work, I've created two tools to help people make fuller use of hypothes.is in their work as public scholars. This post is the first in a two-part series introducing and explaining those tools.
+
 
 ## hypothes.is to MarkDown
 
@@ -74,4 +75,4 @@ The one downside to this script is that you have to run it regularly ― every t
 
 Please try it out and let me know how it works. I'm sure that as more people use it, they will notice more kinks that need to be worked out. Also, keep checking for updates, as I'll be fixing and enhancing code as things come up. Enjoy!
 
-Check out Part 2 for a description of the full Python module for programmers interested in making use of the hypothes.is API.
+Check out [Part 2](http://kris.shaffermusic.com/2016/06/introducing-pypothesis-2/) for a description of the full Python module for programmers interested in making use of the hypothes.is API.
