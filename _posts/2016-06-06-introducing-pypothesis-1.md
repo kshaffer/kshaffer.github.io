@@ -22,7 +22,7 @@ The first tool is for those who like to blog. This tool is [a simple Python scri
 
 To use the script, download it from the link above, open it in a text editor (not a word processor like MS Word or Apple Pages), and go to the following section near the top of the file:
 
-~~~ Python
+~~~ python
 # adjust these variables for different searches
 # also be sure to adjust the page title in the YAML header section
 user = 'kris.shaffer@hypothes.is'
@@ -38,26 +38,26 @@ filename = 'jekyllOutput.md'
 
 Here's where you define the search you want to perform. For example, if you want to take all of your annotations and add them to a single page on your blog, simply change 'kris.shaffer@hypothes.is' to your user name, and you're done. If you want to gather all of the public annotations *from anyone* marked with a particular tag, change 'IndieEdTech' to the tag in question. Then put a hash symbol (#) at the beginning of the following line:
 
-~~~ Python
+~~~ python
 searchstring = source + usercall + user
 ~~~
 
 and delete the hash symbol and spaces from the line:
 
-~~~ Python
+~~~ python
 searchstring = source + tagcall + tags
 ~~~
 
 If you want to include only *your* public annotations *with a particular tag*, then Update
 
-~~~ Python
+~~~ python
 user = 'kris.shaffer@hypothes.is'
 tags = 'IndieEdTech'
 ~~~
 
 to the user and tag you want, then make sure the only 'searchstring' line without a hash in front of it is:
 
-~~~ Python
+~~~ python
 searchstring = source + usercall + user + conn + tagcall + tags
 ~~~
 
