@@ -8,7 +8,7 @@ title: Bio
 wordpress_id: 248
 ---
 
-Kris Shaffer, Ph.D. (Yale University, 2011), will soon begin a new position as an Instructional Technology Specialist at the [University of Mary Washington](https://academics.umw.edu/dtlt/). He is currently Instructor of Music Theory at the [University of Colorado–Boulder](http://music.colorado.edu) and Editor for [*Hybrid Pedagogy Publishing*](http://www.hybrid.pub). He is also the lead author and editor of [*Open Music Theory*](http://openmusictheory.com), an open-source, interactive "text"book for undergraduate music theory courses.
+Kris Shaffer, Ph.D. (Yale University, 2011), is an Instructional Technology Specialist and Adjunct Instructor of Computer Science at the [University of Mary Washington](https://academics.umw.edu/dtlt/). He is also an Editor for [*Hybrid Pedagogy Publishing*](http://www.hybrid.pub) and the lead author and editor of [*Open Music Theory*](http://openmusictheory.com) ― an open-source, interactive "text"book for undergraduate music theory courses.
 
 ![](/bio/shaffer-landscape.jpg)
 
