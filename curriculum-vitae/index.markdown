@@ -8,7 +8,7 @@ title: Curriculum vitae
 cover: books.jpg
 ---
 
-## Education 
+## Education
 
 
 Ph.D. in music theory, Yale University, Department of Music, 2011  
@@ -19,7 +19,7 @@ M.Mus. in orchestral studies, Chicago College of Performing Arts – Roosevelt U
 
 B.Mus. in horn performance, *summa cum laude*, Lawrence University (Appleton, Wis.), 2002
 
-## Academic employment 
+## Academic employment
 
 Instructor of Music Theory, University of Colorado–Boulder, fall 2013–present
 
@@ -55,6 +55,8 @@ Assistant Professor of Music Theory, Charleston Southern University, fall 2011�
 
 ## Publications – editor-reviewed articles
 
+["Statistical Variance and Transpositional Analysis: A Commentary on Plazak (2016)."](http://emusicology.org/article/view/5299/4404) In [*Empirical Musicology Review*](http://emusicology.org) 11/1, 2016.
+
 ["Homework Is a Social Justice Issue."](http://modernlearners.com/homework-is-a-social-justice-issue/) In [*Educating Modern Learners*](http://www.modernlearners.com), February 9, 2015.
 
 > Republished by [Hybrid Pedagogy](http://www.hybridpedagogy.com/journal/homework-is-a-social-justice-issue/), May 19, 2015.
@@ -71,7 +73,7 @@ Contributed by invitation to ["Perspectives, Play, and Pedagogy: The Hybrid Peda
 
 "Make Stunning Schenker Graphs with GNU Lilypond." In [*Linux Journal*](http://linuxjournal.com) 140, December 2005.
 
-## Grants and fellowships 
+## Grants and fellowships
 
 Paul Sacher Stiftung Scholarship, 2012  
 
@@ -85,7 +87,15 @@ John F. Enders Fellowship (Yale University Graduate School), 2010
 
 > for short-term study in the Ligeti Collection
 
-## Presentations 
+## Presentations
+
+"Demystifying Ed-tech algorithms"
+
+> Workshop at [Digital Pedagogy Lab 2016 Institute](http://digitalpedagogylab.com/institute), August 11, 2016
+
+"Coding for Teachers"
+
+> Workshop at [Digital Pedagogy Lab 2016 Institute](http://digitalpedagogylab.com/institute), August 9, 2016
 
 "Music, Public Scholarship, and the Digital Humanities"
 
@@ -158,7 +168,7 @@ John F. Enders Fellowship (Yale University Graduate School), 2010
 [Statistical Thinking for Data Science and Analytics](https://courses.edx.org/courses/course-v1:ColumbiaX+DS101X+3T2015/), Columbia University Data Science Institute, via EdX. Completed 2016.  
 
 
-## Courses taught 
+## Courses taught
 
 University of Colorado–Boulder
 
@@ -201,7 +211,7 @@ CCPA-Roosevelt University
 
 - Musicianship I–IV (teaching assistant), 2002–2004
 
-## Service to profession 
+## Service to profession
 
 Board of Directors, [Hybrid Pedagogy, Inc.](http://www.hybridpedagogy.org), 2015–present
 
@@ -231,7 +241,7 @@ Yale Graduate Music Symposium, website designer, 2009–2010
 
 AmSteg.org, co-editor-in-chief for music theory, co-founder, 2005–2008
 
-## Departmental/university service 
+## Departmental/university service
 
 Advisor to two undergraduate Research Assistantships for CU's Undergraduate Research Opportunities Program (UROP), 2015
 
@@ -245,7 +255,7 @@ Department of Information Science Subcommittee (CU–Boulder), consultant, 2013�
 
 Executive Technology Committee (Charleston Southern Univ.), 2011–2013
 
-## Performance & other professional experience 
+## Performance & other professional experience
 
 Savannah Philharmonic Orchestra, substitute third horn, 2012
 
@@ -261,7 +271,7 @@ Illinois Symphony Orchestra, substitute third horn, 2003
 
 Green Bay Symphony Orchestra (WI), substitute second horn, 2003
 
-## Languages 
+## Languages
 
 German
 
@@ -278,6 +288,6 @@ French
 - Reading: proficient with dictionary  
 - Writing and speaking: not proficient
 
-## Professional organization membership 
+## Professional organization membership
 
 Society for Music Theory
