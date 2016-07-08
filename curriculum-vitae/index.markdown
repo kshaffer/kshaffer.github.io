@@ -172,8 +172,9 @@ John F. Enders Fellowship (Yale University Graduate School), 2010
 
 University of Colorado–Boulder
 
-- Music Cognition (online undergraduate course in psychology), 2015  
+- Music Cognition (online undergraduate course in psychology), 2015–16  
 - Music Cognition (doctoral seminar), 2014  
+- Computational Music Analysis (cross-listed in music & computer science; vertically integrated), 2016  
 - Harmony and Form in Pop/Rock Music: A Computational Approach (cross-listed in music & computer science; vertically integrated), 2014  
 - Semester 1 Theory, 2014–15  
 - Semester 2 Theory, 2016  
@@ -235,7 +236,7 @@ Signatory on ["Brief of Digital Humanities and Law Scholars as Amici Curiae in A
 
 Reviewer, Music Perception, 2012
 
-Society for Music Theory Networking Committee, member-at-large, 2012–present
+Society for Music Theory Networking Committee, member-at-large, 2012–15
 
 Yale Graduate Music Symposium, website designer, 2009–2010
 
@@ -245,11 +246,11 @@ AmSteg.org, co-editor-in-chief for music theory, co-founder, 2005–2008
 
 Advisor to two undergraduate Research Assistantships for CU's Undergraduate Research Opportunities Program (UROP), 2015
 
-Interdisciplinary Opportunities Task Force (CU–Boulder College of Music), 2013–present
+Interdisciplinary Opportunities Task Force (CU–Boulder College of Music), 2013–16
 
-Technology Committee (CU–Boulder College of Music), 2013–present
+Technology Committee (CU–Boulder College of Music), 2013–16
 
-Undergraduate Studies Committee (CU–Boulder College of Music), 2013–present
+Undergraduate Studies Committee (CU–Boulder College of Music), 2013–16
 
 Department of Information Science Subcommittee (CU–Boulder), consultant, 2013–2014
 
@@ -288,6 +289,12 @@ French
 - Reading: proficient with dictionary  
 - Writing and speaking: not proficient
 
-## Professional organization membership
+## Programming languages  
 
-Society for Music Theory
+- Python  
+- R  
+- PHP  
+- JavaScript  
+- Perl  
+- HTML  
+- CSS  
