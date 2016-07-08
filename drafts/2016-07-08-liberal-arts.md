@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "What is liberal education?"
 modified: 2016-07-08 16:24:00 -0400
 image:
