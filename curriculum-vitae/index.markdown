@@ -21,9 +21,11 @@ B.Mus. in horn performance, *summa cum laude*, Lawrence University (Appleton, Wi
 
 ## Academic employment
 
-Instructor of Music Theory, University of Colorado–Boulder, fall 2013–present
+Instructional Technology Specialist & Adjunct Instructor of Computer Science, University of Mary Washington, 2016–present
 
-Assistant Professor of Music Theory, Charleston Southern University, fall 2011–spring 2013
+Instructor of Music Theory, University of Colorado–Boulder, 2013–16
+
+Assistant Professor of Music Theory, Charleston Southern University, 2011–13
 
 ## Publications – books
 
