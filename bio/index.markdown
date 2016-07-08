@@ -10,7 +10,7 @@ wordpress_id: 248
 
 Kris Shaffer, Ph.D. (Yale University, 2011), is an Instructional Technology Specialist and Adjunct Instructor of Computer Science at the [University of Mary Washington](https://academics.umw.edu/dtlt/). He is also an Editor for [*Hybrid Pedagogy Publishing*](http://www.hybrid.pub) and the lead author and editor of [*Open Music Theory*](http://openmusictheory.com) ― an open-source, interactive "text"book for undergraduate music theory courses.
 
-![](/bio/shaffer-landscape.jpg)
+<img src="/assets/images/krisHeadBanner.jpg" alt="Kris Shaffer headshot in front of Rocky Mountains." />
 
 Kris's research centers around the music of twentieth- and twenty-first-century composers, computational analysis, music pedagogy, education, and new media publishing. His work appears in [Hybrid Pedagogy](http://hybridpedagogy.com), [*Digital Humanities Now*](http://digitalhumanitiesnow.org), [*Music Theory Online*](http://mtosmt.org), [*Engaging Students: Essays in Music Pedagogy*](http://flipcamp.org/engagingstudents) (for which he served as coordinating editor), and [*Educating Modern Learners*](http://modernlearners.com). He has presented at the annual meeting of the [Society for Music Theory](http://societymusictheory.org), [Emerging Technologies for Online Learning](http://olc.onlinelearningconsortium.org/conference/2015/et4online/welcome), [THATCamp Southeast](http://southeast2013.thatcamp.org), Yale University, the University of Colorado–Boulder, the University of Texas–Austin, the University of Delaware, and numerous regional conferences in music theory. Kris has also written on technology for [*Linux Journal*](http://www.linuxjournal.com) and the [Open Source Technology Group](http://www.openmagazine.net).
 
