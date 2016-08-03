@@ -21,17 +21,27 @@ More recently, I've created a WordPress plugin called <a href="https://github.co
 <h2>How it works</h2>
 Hypothes.is aggregator is super-simple. Create a new page or post in WordPress, and as you write, include the following "shortcode":
 
-    [hypothesis]
+~~~
+[hypothesis]
+~~~
 
 Now, that alone won't do anything. You need to feed it some search terms, like one of the following:
 
-    [hypothesis user = 'kris.shaffer']
+~~~
+[hypothesis user = 'kris.shaffer']
+~~~
 
-    [hypothesis tags = 'IndieWeb']
+~~~
+[hypothesis tags = 'IndieWeb']
+~~~
 
-    [hypothesis text = "Domain of One's Own"]
+~~~
+[hypothesis text = "Domain of One's Own"]
+~~~
 
-    [hypothesis user = 'kris.shaffer' tags = 'IndieEdTech']
+~~~
+[hypothesis user = 'kris.shaffer' tags = 'IndieEdTech']
+~~~
 
 Hypothes.is Aggregator accepts <em>user</em>, <em>tags</em>, and <em>text</em> search parameters, on their own or in combination with each other. (Currently it does not support lists of users or tags, but that is in the works for a future version.)
 
