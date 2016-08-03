@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing Pypothesis ― Part 2: a Python module for the hypothes.is API"
+title: "Hypothes.is Aggregator ― A WordPress Plugin"
 modified: 2016-08-03 08:40:00 -0400
 image:
   feature: oldtype.jpg
