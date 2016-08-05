@@ -3,6 +3,10 @@ layout: page
 title: "Coding for Teachers"
 modified: 2016-05-31 13:37:00 -0500
 image:
+  feature: pw2.jpg
+  teaser: pw2-teaser.jpg
+  credit: Christiaan Colen
+  creditlink: https://www.flickr.com/photos/132889348@N07/20971563620/
 ---
 
 ## Playing with Python and Pypothesis
