@@ -63,7 +63,7 @@ Visit [Monkeys writing Shakespeare (or Austen...)](http://kris.shaffermusic.com/
 
 ### Activity
 
-Visit the web app's [project page on GitHub](https://github.com/kshaffer/monkeyswritingshakespeare). Click on the green button to download a zip file containing the code for this web app. Extract that zip file somewhere on your computer. Open the index.html file in a web browser (double-clicking on it should do), and then open both the app.js and index.html files in a plain-text editor (something like Notepad or TextEdit, *not* a word processor like MS Word or Pages ― if you're in the market for a more powerful text editor, I highly recommend TextMate (Mac only) or [Atom](atom.io) (cross-platform)). It will also be helpful to open up your browser's *developer tools* (I'll walk you through this if you can't find it).
+Visit the web app's [project page on GitHub](https://github.com/kshaffer/monkeyswritingshakespeare). Click on the green button to download a zip file containing the code for this web app. Extract that zip file somewhere on your computer. Open the index.html file in a web browser (double-clicking on it should do), and then open both the app.js and index.html files in a plain-text editor (something like Notepad or TextEdit, *not* a word processor like MS Word or Pages ― if you're in the market for a more powerful text editor, I highly recommend TextMate (Mac only) or [Atom](https://atom.io) (cross-platform)). It will also be helpful to open up your browser's *developer tools* (I'll walk you through this if you can't find it).
 
 Once loaded up, take a look at the code and the web page and see if you can get your bearings. We'll take a couple minutes to get oriented to the code's organization together.
 
