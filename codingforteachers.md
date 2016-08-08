@@ -15,7 +15,7 @@ The following is a module created with [Trinket](https://trinket.io). It contain
 
 ### Activity
 
-Ignore the first 100 lines of code for now. (If you installed this module on your computer, you wouldn't have to look at it. It would be embedded in the system.) There are two blocks below the line that says [code]\# test[/code]:
+Ignore the first 100 lines of code for now. (If you installed this module on your computer, you wouldn't have to look at it. It would be embedded in the system.) There are two blocks below the line that says *\# test*:
 
 ~~~python
 # search for all annotations with the tag IndieEdTech and return them in json format.
@@ -55,7 +55,7 @@ What do these blocks of code do? What alterations can you make? What else would 
 
 ### Reflection
 
-After you've played around a bit, take a peek at the code in lines 1-100. Can you figure out what the difference is between the search code in the two blocks? Why does one require a URL? Why does the [code]searchURL()[/code] function not contain a URL?
+After you've played around a bit, take a peek at the code in lines 1-100. Can you figure out what the difference is between the search code in the two blocks? Why does one require a URL? Why does the *searchURL()* function not contain a URL?
 
 ## Playing with text in public using JavaScript
 
