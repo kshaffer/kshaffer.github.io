@@ -1,4 +1,4 @@
-window.onload=function() {
+function load_insult () {
   var animal = new Array('weasel', 'ferret', 'monkey', 'duck', 'platypus', 'chimp', 'beaver', 'ape', 'lizard', 'blowfish');
   var adjective = new Array('bearded', 'topped', 'beaked', 'footed', 'plastered', 'eating', 'breath', 'mangled', 'bottomed', 'whittled', 'splayed');
   var dirty = new Array('turd', 'poop', 'barf', 'hair', 'cheese', 'sewer', 'toilet', 'vomit', 'fungus', 'snot', 'crotch');
