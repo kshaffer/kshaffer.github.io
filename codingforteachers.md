@@ -9,7 +9,7 @@ image:
   creditlink: https://www.flickr.com/photos/132889348@N07/20971563620/
 ---
 
-## Playing with Python and Pypothesis
+## Part 1: Playing with Python and Pypothesis
 
 The following is a module created with [Trinket](https://trinket.io). It contains the code to my [Pypothesis](https://github.com/kshaffer/pypothesis) module for the [Python 3](https://www.python.org/) programming language. The module allows users to write simple queries that collect and display information from public annotations on [hypothes.is](https://hypothes.is). We'll use it to learn a little about Python, API calls, and using existing code to do relatively powerful things with just a little code (and coding knowledge).
 
@@ -57,13 +57,13 @@ What do these blocks of code do? What alterations can you make? What else would 
 
 After you've played around a bit, take a peek at the code in lines 1-100. Can you figure out what the difference is between the search code in the two blocks? Why does one require a URL? Why does the *searchURL()* function not contain a URL?
 
-## Playing with text in public using JavaScript
+## Part 2: Playing with text in public using JavaScript
 
-Visit [Monkeys writing Shakespeare (or Austen...)](http://kris.shaffermusic.com/monkeyswritingshakespeare). This site takes the opening of Jane Austen's *Pride and Prejudice* and randomly replaces words from the text with other words with the same part of speech. We'll use it (and hack it) to learn a little bit about JavaScript, asynchronous programming, and developing playful web apps.
+Visit [Monkeys Writing Shakespeare (or Austen...)](http://kris.shaffermusic.com/monkeyswritingshakespeare). This site takes the opening of Jane Austen's *Pride and Prejudice* and randomly replaces words from the text with other words with the same part of speech. We'll use it (and hack it) to learn a little bit about the [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) programming language, asynchronous programming, and developing playful web apps.
 
 ### Activity
 
-Visit the web app's [project page on GitHub](https://github.com/kshaffer/monkeyswritingshakespeare). Click on the green button to download a zip file containing the code for this web app. Extract that zip file somewhere on your computer. Open the index.html file in a web browser (double-clicking on it should do), and then open both the app.js and index.html files in a plain-text editor (something like Notepad or TextEdit, *not* a word processor like MS Word or Pages ― if you're in the market for a more powerful text editor, I highly recommend TextMate (Mac only) or [Atom](https://atom.io) (cross-platform)). It will also be helpful to open up your browser's *developer tools* (I'll walk you through this if you can't find it).
+Visit the web app's [project page on GitHub](https://github.com/kshaffer/monkeyswritingshakespeare). Click on the green button to download a zip file containing the code for this web app. Extract that zip file somewhere on your computer. Open the index.html file in a web browser (double-clicking on it should do), and then open both the app.js and index.html files in a plain-text editor (something like Notepad or TextEdit, *not* a word processor like MS Word or Pages ― if you're in the market for a more powerful text editor, I highly recommend [TextMate](https://macromates.com/) (Mac only) or [Atom](https://atom.io) (cross-platform)). It will also be helpful to open up your browser's *developer tools* (I'll walk you through this if you can't find it).
 
 Once loaded up, take a look at the code and the web page and see if you can get your bearings. We'll take a couple minutes to get oriented to the code's organization together.
 
@@ -80,3 +80,12 @@ Once we have our bearings, there are a few activities to try. Feel free to tackl
 What ideas does this app give you for your own projects?
 
 What differences do you note between Python and JavaScript? If you were to pick one of the two languages to learn first, which would you pick? Why?
+
+## Follow-up resources
+
+- [Eloquent JavaScript](http://eloquentjavascript.net/index.html) - a free, interactive book aimed at teaching JavaScript.  
+- [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596101992.do) - a print book aimed at being a (relatively) exhaustive resource on JavaScript programming.  
+- [Learning Python](http://shop.oreilly.com/product/0636920028154.do) - a great book for getting started with Python.  
+- [Codecademy](https://codecademy.com/) - not the best pedagogy, especially if you try to use it exclusively, but a good resource for practicing the basics you learn about in the books above.  
+- [Stack Overflow](https://stackoverflow.com/) - *the* place to find answers to questions about coding online. I have yet to come up with a question that hasn't already been asked, and usually there is a good answer here. If you Google your question, most of the good answers high in the search results will be from here.  
+- [W3Schools](http://www.w3schools.com/) - more interactive tutorials (like Codecademy), but focused on web-based programming (HTML, CSS, JavaScript, PHP, etc.).
