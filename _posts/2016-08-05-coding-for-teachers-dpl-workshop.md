@@ -1,7 +1,7 @@
 ---
-layout: page
-title: "Coding for Teachers"
-modified: 2016-05-31 13:37:00 -0500
+layout: post
+title: "Coding for Teachers ― A DPL Workshop"
+modified: 2016-08-08 20:57:00 -0400
 image:
   feature: pw2.jpg
   teaser: pw2-teaser.jpg
