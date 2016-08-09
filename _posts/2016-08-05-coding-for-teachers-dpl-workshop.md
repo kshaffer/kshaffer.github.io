@@ -9,6 +9,8 @@ image:
   creditlink: https://www.flickr.com/photos/132889348@N07/20971563620/
 ---
 
+Following is the outline and resources for my workshop "Coding for Teachers" at Digital Pedagogy Lab's 2016 Institute. If you've been thinking about possibly learning to code, but don't know if it's worth it, or don't know where to start, take a stab at these activities. While they're designed with an in-person group in mind, I think they'll work for (motivated) individuals as well. :)
+
 ## Part 1: Playing with Python and Pypothesis
 
 The following is a module created with [Trinket](https://trinket.io). It contains the code to my [Pypothesis](https://github.com/kshaffer/pypothesis) module for the [Python 3](https://www.python.org/) programming language. The module allows users to write simple queries that collect and display information from public annotations on [hypothes.is](https://hypothes.is). We'll use it to learn a little about Python, API calls, and using existing code to do relatively powerful things with just a little code (and coding knowledge).
