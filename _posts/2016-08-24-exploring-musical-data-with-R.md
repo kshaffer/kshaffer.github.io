@@ -19,6 +19,9 @@ If you're interested in learning statistical analysis of musical data, getting m
 
 ## Learning the basics of R - summaries and plots with the Rolling Stone corpus
 
+[![]({{ site.url }}/media/dtroot.png)]({{ site.url }}/media/dtroot.png)  
+*Frequency of chord root in Temperley’s Rolling Stone analyses. Integers on the X axis represent number of semitones above the song’s tonic pitch.*
+
 This tutorial is built around a cleaned up version of David Temperley's harmonic analyses of 100 'rock' songs for a 2011 article he co-authored with Trevor deClercq: ["A corpus analysis of rock harmony."](http://dx.doi.org/10.1017/S026114301000067X)
 
 Here is [the data file]({{ site.url }}/media/resultsBySong.csv).  
@@ -28,6 +31,9 @@ Assuming you have [RStudio](https://rstudio.com) installed, simply download the 
 
 
 ## Data clean-up, tables, and more plots with the McGill Billboard Dataset
+
+[![]({{ site.url }}/media/bbroot.png)]({{ site.url }}/media/bbroot.png)  
+*Frequency of chord roots in McGill Billboard dataset.*
 
 This tutorial follows on the Temperley/de Clercq tutorial, and is built around the data from the [McGill Billboard dataset](http://ddmal.music.mcgill.ca/billboard) (version 2.0). The McGill Billboard dataset contains information about chords in over 700 songs from the Billboard Hot 100 lists from the late 1950s to the early 1990s, along with timing information and metadata. However, the dataset does not include things like chords roots *relative to the tonic of the key*, which though easily calculated, makes things easier to analyze when included explicitly. So we added that. We also had to clean up some errors in the source file. This R script walks through that process, so you can get some experience with an aspect of data cleanup. (And if memory serves me correctly, leaves in a couple errors for users to find and correct following the same methods.)
 
@@ -39,6 +45,9 @@ Assuming you have [RStudio](https://rstudio.com) installed, simply download the 
 
 
 ## Correlation, Chi-Squared, and ANoVA tests with the Million Song Dataset
+
+[![]({{ site.url }}/media/anova.png)]({{ site.url }}/media/anova.png)  
+*ANoVA for the association of genre song duration in the Million Song Dataset subset.*
 
 This tutorial goes into more detail regarding data prep and statistics, based on a subset of songs from the [Million Song Dataset](http://labrosa.ee.columbia.edu/millionsong/), and corresponding lyric and genre data from [musixmatch database](http://labrosa.ee.columbia.edu/millionsong/musixmatch) and the [Tagtraum genre annotation database](http://www.tagtraum.com/msd_genre_datasets.html). This tutorial walks through the process of combining the musical data from the MSD, with the user-generated genre tags from Tagtraum and the results of a (preliminary) [topic model analysis of song lyrics](https://medium.com/modeling-music/topic-modelling-song-lyrics-from-the-million-song-dataset-3c01a0d79988#.elvtus3i4).
 
