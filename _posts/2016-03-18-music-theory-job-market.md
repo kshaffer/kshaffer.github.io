@@ -8,7 +8,7 @@ image:
   credit: Rick Harris
   creditlink: https://www.flickr.com/photos/rickharris/4141633807/
 share: true
-categories: blog
+categories: musicology
 ---
 
 How many tenure-track professorships are available each year in music theory? How many music theory PhDs graduate and go on the market each year? How many people apply for the typical music theory faculty position?
@@ -24,7 +24,7 @@ But for now, here are some trends we can see on the wiki...
 
 For jobs beginning in the academic years 2014–15, 2015–16, and 2016–17, there are a total of **116 *theory only* jobs** in the US and Canada on the wiki. (To keep things clean, I'm leaving off theory/composition, theory/musicology, and theory/applied positions. While there are a large number of those, a given individual will only qualify for a small subset of them, and will also have additional competition from non-theorists.) That's roughly **39 theory jobs per year.**
 
-But you're after a *tenure-track* position, you say? The good news is that most of those jobs are tenure-track. There are **78 tenure-track jobs** in theory only listed on the wiki (two-thirds of the total jobs). However, that only comes to **26 tenure-track jobs in music theory per year.** 
+But you're after a *tenure-track* position, you say? The good news is that most of those jobs are tenure-track. There are **78 tenure-track jobs** in theory only listed on the wiki (two-thirds of the total jobs). However, that only comes to **26 tenure-track jobs in music theory per year.**
 
 T W E N T Y - S I X
 
@@ -90,8 +90,8 @@ Now there are many reasons why someone might win a tenure-track assistant profes
 
 ## What to do?
 
-Again, this is incomplete data, so please don't base any major life decisions solely on the charts and tables in this post! However, I do strongly encourage anyone pursuing or thinking about pursuing a PhD in music theory — or considering a move to a new job — to get as much of this data as early in the process as possible. I also encourage those who are recruiting and advising graduate students to help them find this information, too. And notice that I left out the theory-and-something-else jobs. There are a large number of those. (Aspiring) theorists who want to brave this market should take time to build cognate skills and forge interdisciplinary collaborations. These will expand the job possibilities within music academia, as well as help you explore other ways to apply your music analysis, writing, and teaching skills in other domains where the jobs may be more plentiful. 
+Again, this is incomplete data, so please don't base any major life decisions solely on the charts and tables in this post! However, I do strongly encourage anyone pursuing or thinking about pursuing a PhD in music theory — or considering a move to a new job — to get as much of this data as early in the process as possible. I also encourage those who are recruiting and advising graduate students to help them find this information, too. And notice that I left out the theory-and-something-else jobs. There are a large number of those. (Aspiring) theorists who want to brave this market should take time to build cognate skills and forge interdisciplinary collaborations. These will expand the job possibilities within music academia, as well as help you explore other ways to apply your music analysis, writing, and teaching skills in other domains where the jobs may be more plentiful.
 
-Let me emphasize that last point. We tend to think of getting a PhD in a field, but not landing a tenure-track gig in that field, as a failure. Nothing could be further from the truth. There are numerous fiscal and political factors that have led to an increasing number of those scenarios in the past few years. It's not true that "all good people get jobs" anymore — if it ever was. Not getting a tenure-track gig doesn't mean you're not "good people." Further, a good PhD program *should* instill skills and modes of thinking that are applicable in a wide range of fields. Finding a job where you make a good living, can choose where you live, and have an appropriate work/life balance is a success, *even if the job is outside the field in which you specialized in grad school.* 
+Let me emphasize that last point. We tend to think of getting a PhD in a field, but not landing a tenure-track gig in that field, as a failure. Nothing could be further from the truth. There are numerous fiscal and political factors that have led to an increasing number of those scenarios in the past few years. It's not true that "all good people get jobs" anymore — if it ever was. Not getting a tenure-track gig doesn't mean you're not "good people." Further, a good PhD program *should* instill skills and modes of thinking that are applicable in a wide range of fields. Finding a job where you make a good living, can choose where you live, and have an appropriate work/life balance is a success, *even if the job is outside the field in which you specialized in grad school.*
 
 Get as much info as you can. If you have students, share it with them. And then keep your options open. Music theorists are, if anything, people who can think creatively and find patterns behind the mystery. Let's use those skills to help ourselves, and each other, make a go of this thing called life after graduate school.
