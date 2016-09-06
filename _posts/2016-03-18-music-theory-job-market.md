@@ -8,7 +8,7 @@ image:
   credit: Rick Harris
   creditlink: https://www.flickr.com/photos/rickharris/4141633807/
 share: true
-categories: musicology
+tags: musicology
 ---
 
 How many tenure-track professorships are available each year in music theory? How many music theory PhDs graduate and go on the market each year? How many people apply for the typical music theory faculty position?
