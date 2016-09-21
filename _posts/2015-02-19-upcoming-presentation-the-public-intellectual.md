@@ -10,7 +10,7 @@ image:
   creditlink: https://www.flickr.com/photos/nanagyei/5199156473
 comments: true
 share: true
-categories: blog
+categories: [public scholarship, presentations]
 ---
 
 I will be giving a presentation at CU on March 2: "The Public Intellectual: Maintaining an Online Scholarly Presence." The presentation will take place live at the College of Music (details below), but will also involve some discussion on Twitter at the hashtag [#PublicScholar](https://twitter.com/search?f=realtime&q=%23PublicScholar&src=typd).

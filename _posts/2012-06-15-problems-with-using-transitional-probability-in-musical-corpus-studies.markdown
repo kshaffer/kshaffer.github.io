@@ -5,7 +5,7 @@ date: 2012-06-15 11:06:05
 layout: post
 slug: problems-with-using-transitional-probability-in-musical-corpus-studies
 title: Problems with using transitional probability in musical corpus studies
-categories: blog
+categories: [musicology, data science]
 share: true
 wordpress_id: 452
 tags:
@@ -104,7 +104,7 @@ Following is a tally of chord transitions. Each number represents the total numb
 |:-:|:-:|:-:|:-:|
 |  I 	| —	| 14 	| 40 	| —
 | IV 	| 40 	| —	| —	| —
-|  V 	| 14 	| 11 	| —	| 15 
+|  V 	| 14 	| 11 	| —	| 15
 | VI 	| —	| 15 	| —	| —
 {: rules="groups"}
 
@@ -127,8 +127,8 @@ Again, take the V chord. On the whole, it looks like the V chord progresses in r
 | 	|  I 	| IV 	| VI 	|
 |:-:|:-:|:-:|:-:|
 | I/J/O 	|  6 	|  2 	| —
-|   A 	|  6 	|  5 	| 12 
-|   B 	|  2 	|  4 	|  3 
+|   A 	|  6 	|  5 	| 12
+|   B 	|  2 	|  4 	|  3
 {: rules="groups"}
 
 **Table 2.** Total number of progressions from V to the chord in the top row in the formal modules given in the left column.
@@ -140,8 +140,8 @@ Now consider the tallies obtained when we leave out progressions that cross modu
 | 	|  I 	| IV 	| VI 	|
 |:-:|:-:|:-:|:-:|
 | I/J/O 	|  4 	| —	| —
-|   A 	|  2 	|  4 	| 12 
-|   B 	| —	|  3 	|  3 
+|   A 	|  2 	|  4 	| 12
+|   B 	| —	|  3 	|  3
 {: rules="groups"}
 
 **Table 3.** Total number of progressions from V to the chord in the top row in the formal modules given in the left column, progressions across module boundaries omitted.

@@ -5,7 +5,7 @@ date: 2012-04-05 18:43:41
 layout: post
 slug: peer-instruction-socrative-and-imogen-heap
 title: Peer instruction in a music analysis class
-categories: blog
+categories: [pedagogy]
 share: true
 wordpress_id: 297
 tags:
@@ -39,6 +39,6 @@ Having multiple low-stakes votes also encourages them to be okay with getting so
 
 Lastly, though it doesn't have to do with peer instruction per se, I think this process of having them wrestle analytically with passages out of context allows them to see how much formal function is tied to the musical features of the passage, not just the order in which things are placed. It also makes it clear which analytical decisions can be done out-of-context, and which need broader hearing to mediate between multiple options.
 
-The peer instruction elements, though, do need some modification relative to their typical use in the sciences. Eric Mazur often contrasts conceptual questions with plug-and-chug type problems, favoring the conceptual ones for the anchor of course material and the peer instruction process. In music theory, it's often the other way around. It's the conceptual that they need to memorize, and it's in the application (which is anything but plug-and-chug) that the real learning happens. 
+The peer instruction elements, though, do need some modification relative to their typical use in the sciences. Eric Mazur often contrasts conceptual questions with plug-and-chug type problems, favoring the conceptual ones for the anchor of course material and the peer instruction process. In music theory, it's often the other way around. It's the conceptual that they need to memorize, and it's in the application (which is anything but plug-and-chug) that the real learning happens.
 
 With this in mind, I'm finding the "inverted classroom" model really helpful: having them engage the conceptual material outside of class and then bring it with them (i.e., open notes) to class where they do the application with me and with their peers nearby. This fosters experimentation, offers opportunities for correction, and ensures that at least some of their questions are answered and errors corrected before they leave to work more out on their own. At least for my students here at CSU, this has made a huge difference in their understanding and their enthusiasm.

@@ -10,14 +10,14 @@ image:
   creditlink: https://www.flickr.com/photos/132889348@N07/20971563620/
 comments: true
 share: true
-categories: blog
+categories: [presentations]
 ---
 
 What Are the Digital Humanities?
 
 That's the topic of discussion for the round-table session I'll be leading at UT–Austin today. If you're in town, please join us in MRH 2.614, 4:00–5:30pm CDT. Otherwise, you join us on Twitter at the same time, following/tweeting with the hashtag [#PublicScholar.](https://twitter.com/search?f=realtime&q=%23PublicScholar&src=typd)
 
-Here is the abstract for the session: 
+Here is the abstract for the session:
 
 > What is the difference between "digital" humanities (DH) and traditional scholarly work in the humanities? Are they different in content as well as in form? Or perhaps neither? Are the digital humanities about "building stuff" or "breaking stuff"? Hack or yack? And is digital pedagogy part of DH, or something else entirely?
 

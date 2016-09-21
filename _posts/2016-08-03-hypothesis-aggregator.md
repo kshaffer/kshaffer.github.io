@@ -8,7 +8,7 @@ image:
   credit: darkday
   creditlink: https://www.flickr.com/photos/drainrat/16786733075/
 share: true
-categories: blog
+categories: [coding]
 ---
 
 *This is a cross-post from the [UMW Division of Teaching and Learning Technologies blog](http://umwdtlt.com/hypothesis-aggregator-wordpress-plugin/).*

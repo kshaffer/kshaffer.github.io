@@ -3,7 +3,7 @@ layout: post
 title: "Breaking up with email"
 date: 2013-10-07 20:52
 comments: true
-categories: blog
+categories: [social media]
 share: true
 tags:
 - email  
@@ -14,7 +14,7 @@ tags:
 
 I need to break up with email. Things just aren't working out. Email is whiny, high-maintenance, and gets in the way of too many more important things in my life. We need to break up.
 
-Of course, the thing is, a lot of my friends are friends with email, too. I'm afraid a sudden break up will mean losing some of them. On the other hand, I know a lot of my friends are just as fed up with email as I am. So I'm working on a plan slowly to phase email out of my life. I know a clean break would be better for me personally. But for the sake of others—both those who will need to get used to the idea of me not being in this relationship anymore, and those who also want to break up with email—I will be moving slowly. Since I'm not the only one looking to dump email, I'm hoping that this can be a collaborative effort. 
+Of course, the thing is, a lot of my friends are friends with email, too. I'm afraid a sudden break up will mean losing some of them. On the other hand, I know a lot of my friends are just as fed up with email as I am. So I'm working on a plan slowly to phase email out of my life. I know a clean break would be better for me personally. But for the sake of others—both those who will need to get used to the idea of me not being in this relationship anymore, and those who also want to break up with email—I will be moving slowly. Since I'm not the only one looking to dump email, I'm hoping that this can be a collaborative effort.
 
 # Beginning the break-up #
 

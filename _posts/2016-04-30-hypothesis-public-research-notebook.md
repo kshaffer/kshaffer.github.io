@@ -8,7 +8,7 @@ image:
   credit: Peter Hopper
   creditlink: https://www.flickr.com/photos/whisperwolf/3675980379/
 share: true
-categories: blog
+categories: [coding]
 ---
 
 Can we do scholarly work in public without relying on for-profit "social" platforms?

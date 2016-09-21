@@ -5,7 +5,7 @@ date: 2012-05-06 15:35:10
 layout: post
 slug: student-feedback-on-criterion-referenced-grading
 title: Student feedback on criterion-referenced grading
-categories: blog
+categories: [pedagogy]
 share: true
 wordpress_id: 379
 tags:

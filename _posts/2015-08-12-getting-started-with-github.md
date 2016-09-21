@@ -10,7 +10,7 @@ image:
   creditlink: https://www.flickr.com/photos/dasprid/8148007408/
 comments: true
 share: true
-categories: blog
+categories: [coding, social media]
 ---
 
 There has been a lot of talk about GitHub at [Digital Pedagogy Lab](http://digitalpedagogylab.com) this week. Following are a few resources for learning and using GitHub for things like collaborative corpus-based projects, website publishing, etc.

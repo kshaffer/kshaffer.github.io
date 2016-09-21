@@ -8,7 +8,7 @@ image:
   credit: Tommy Clark
   creditlink: https://www.flickr.com/photos/tommyscapes/10566021336/
 share: true
-categories: blog
+categories: [pedagogy]
 ---
 
 > The father and pedagogue were both displeased with Seryozha, and indeed he studied very badly. But it was quite impossible to say that he was an incapable boy. On the contrary, he was much more capable than the boys whom the pedagogue held up as examples to Seryozha. As his father saw it, he did not want to learn what he was taught. But in fact, he could not learn it. He could not, because there were demands in his soul that were more exacting for him than those imposed by his father and the pedagogue. These demands were conflicting, and he fought openly with his educators.

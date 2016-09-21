@@ -5,7 +5,7 @@ date: 2012-04-03 20:58:29
 layout: post
 slug: invertedflipped-classroom-preliminary-thoughts
 title: 'Inverted/flipped classroom: preliminary thoughts'
-categories: blog
+categories: [pedagogy]
 share: true
 wordpress_id: 288
 tags:
@@ -19,7 +19,7 @@ tags:
 
 I've been experimenting with flipped classroom or inverted classroom techniques lately. The inverted classroom comes in a lot of flavors, but it essentially means that _information transfer_ happens outside the class and that _active learning_ tasks take place in class. What I've been doing these past few weeks is giving the students a combination of readings and short videos for homework. Class activities either involve individual or group exercises while I am in the room to guide, correct, and answer questions, or they involve _peer instruction_ activities (following Eric Mazur) such as having the students answer questions anonymously using clickers and using those answers as the basis for class or small-group discussion.
 
-The most recent example would be today's class. This week, I introduced the students to voice-leading in contemporary Christian worship music—writing alto and tenor parts to accompany a given melody and chords in a pop-ish (not _popish_, mind you!) style. In preparation for class, I had the students review keyboard-style voice-leading principles we've covered already, then read a five-page document (update: document replaced by [this page](http://kshaffer.github.io/musicianshipResources/popRockVL.html) on Musicianship Resources site) on the particulars of contemporary vocal style harmony, and finally watch a [screencast video](https://vimeo.com/64117108) I made to demonstrate the task of arranging a worship song for melody, alto, and tenor and expose them to a couple of tricky situations they will encounter frequently. 
+The most recent example would be today's class. This week, I introduced the students to voice-leading in contemporary Christian worship music—writing alto and tenor parts to accompany a given melody and chords in a pop-ish (not _popish_, mind you!) style. In preparation for class, I had the students review keyboard-style voice-leading principles we've covered already, then read a five-page document (update: document replaced by [this page](http://kshaffer.github.io/musicianshipResources/popRockVL.html) on Musicianship Resources site) on the particulars of contemporary vocal style harmony, and finally watch a [screencast video](https://vimeo.com/64117108) I made to demonstrate the task of arranging a worship song for melody, alto, and tenor and expose them to a couple of tricky situations they will encounter frequently.
 
 In class today, the entire 80 minutes was dedicated to the students working in partners on their laptops to arrange a worship song for melody, alto, and tenor. I gave them the melody and chords in a blank [MuseScore](http://www.musescore.org) file, and tasked them with transcribing a bass line and composing the alto and tenor parts.
 

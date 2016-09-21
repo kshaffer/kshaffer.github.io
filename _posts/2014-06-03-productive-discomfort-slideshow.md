@@ -4,11 +4,11 @@ title: "Productive Discomfort slideshow"
 modified: 2014-06-03 13:39:42 -0400
 tags: [pedagogy, hybrid pedagogy, slides, presentations, Delaware, inquiry-based learning, inverted classroom]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature:
+  credit:
+  creditlink:
 comments: true
-categories: blog
+categories: [pedagogy, presentations]
 share: true
 ---
 

@@ -5,7 +5,7 @@ date: 2012-05-05 20:17:01
 layout: post
 slug: data-on-student-engagement-with-criterion-referenced-grading
 title: Data on student engagement with criterion-referenced grading
-categories: blog
+categories: [pedagogy]
 share: true
 wordpress_id: 365
 tags:
@@ -22,7 +22,7 @@ One objection that often comes up in response to a criterion-referenced or stand
 
 There are two claims here: first, that students are more likely to do assignments that count toward their final grade (as they do in traditional average-based grading); and second, that students are more likely to master the material and accomplish the course objectives if they do more of the assignments.
 
-I now have some data that speaks to both of those claims. 
+I now have some data that speaks to both of those claims.
 
 (Though, I should note that I don't have _much_ data. So while my data may suggest something about the veracity and validity of these claims, I want to be clear up front that my data is not sufficient basis for any conclusions. If others out there have data of their own to contribute, perhaps a collaborative effort may lead to claims of substance.)
 
@@ -40,7 +40,7 @@ The data-related result is that the quizzes in Theory I have no direct correlate
 
 Okay, now the data.
 
-For each course, I took the number of assignments submitted (including redoes) and tests taken for each student, and divided that by the number of assignments and tests given to obtain a percentage of work performed. For Theory I (average-based grading, one shot per assignment), the mean amount of work submitted by students that finished the semester was 92%; the 95% confidence range was 86%–98%. For Theory II (criterion-referenced grading, redoes allowed), the mean amount of work submitted by students that finished the semester was 87%; the 95% confidence range was 78%–96%. 
+For each course, I took the number of assignments submitted (including redoes) and tests taken for each student, and divided that by the number of assignments and tests given to obtain a percentage of work performed. For Theory I (average-based grading, one shot per assignment), the mean amount of work submitted by students that finished the semester was 92%; the 95% confidence range was 86%–98%. For Theory II (criterion-referenced grading, redoes allowed), the mean amount of work submitted by students that finished the semester was 87%; the 95% confidence range was 78%–96%.
 
 The 95% confidence ranges (represented by error bars on the chart below) are important. They demonstrate that though there is a difference in the mean value for each semester, regular variance from student to student and from semester to semester cannot be ruled out as the cause of that difference. In other words, there is no statistically significant effect of grading system on the amount of work done by students in these courses.
 
@@ -68,7 +68,7 @@ What is the best predictor of student grades for Theory II? Theory I grades. The
 
 But what is the best predictor of student _improvement_ from Theory I to Theory II? The best predictor of student improvement was a low score in Theory I! Theory I grades and grade improvement correlated at rho = -0.61, p < 0.01. Of course, that could just be regression to the mean. Students with As in Theory I can only hold steady or go down, and vice versa.
 
-There were no other significant correlations, but there was one other that was very close (and remember that the p values may not be reliable for such a small sample). Student improvement correlated moderately (rho = 0.46, p < 0.06) with number of redo submissions. Not overall work, not number of first-attempts, but redoes. 
+There were no other significant correlations, but there was one other that was very close (and remember that the p values may not be reliable for such a small sample). Student improvement correlated moderately (rho = 0.46, p < 0.06) with number of redo submissions. Not overall work, not number of first-attempts, but redoes.
 
 This makes sense, and I can think of specific students where this was huge—in one case a student submitting redoes on about a quarter of the assignments improved from a C in Theory I to an A in Theory II. Quality and specificity of instructor comments are important, though, as is student attention to those comments, for redo assignments to effect improvement. I'll save comments on that for another post.
 

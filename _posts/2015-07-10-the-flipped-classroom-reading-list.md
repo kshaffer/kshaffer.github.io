@@ -10,7 +10,7 @@ image:
   creditlink: https://www.flickr.com/photos/danielygo/5393995893/in/faves-131104016@N08/
 comments: true
 share: true
-categories: blog
+categories: [pedagogy]
 ---
 
 Here is the reading list for [The Flipped Classroom](http://www.digitalpedagogylab.com/blog/course/the-flipped-classroom/), a three-week, intensive, online course I'm teaching for Digital Pedagogy Lab beginning on July 19. I'm still building the private Canvas site and discussion forum that we'll be using for the course, so I'm offering the reading list here for participants who want to get an early start, or for others who simply want to see what we'll be reading. For more information about the course or to register, see [the course web page](http://www.digitalpedagogylab.com/blog/course/the-flipped-classroom/). I've also posted [a draft syllabus](http://kris.shaffermusic.com/2015/06/syllabus-for-the-flipped-classroom-at-hybrid-pedagogy-courses/) here on my blog.

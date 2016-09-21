@@ -3,9 +3,9 @@ layout: post
 title: "Collaborative note-taking in class"
 date: 2013-09-16 19:53
 comments: true
-categories: blog
+categories: [pedagogy]
 share: true
-tags: 
+tags:
 - inverted class
 - collaborative notes
 - critical pedagogy
@@ -23,7 +23,7 @@ Of course, having a class scribe isn't exactly collaborative, even if it reduces
 
 Two very interesting things came out of today's collaborative note-taking. First, as discussion heated up and we unfortunately ran out of time, students unable to speak during class put their thoughts on Piazza, and a mini backchannel formed that spilled past the end of class time. ([Jesse Stommel](http://twitter.com/jessifer) and [Sean Morris](http://twitter.com/slamteacher) would be proud.) The second interesting thing that happened is that some students made mistakes in their note-taking. Stop the presses, I know! The interesting thing was that as I caught that after class, I was able to post a correction on Piazza. A [former me](http://kris.shaffermusic.com/2013/08/convocation-address-on-the-inverted-class/) could only have dreamed of an efficient way to ensure that students' notes are correct. Now I've found one!
 
-There are a lot of advantages to collaborative note-taking, as THATCampers and [FlipCampers](http://flipcamp.org) can attest. It frees up some participants to be more actively engaged, impresses upon "scribes" the importance of taking good notes *for the benefit of others*, eliminates the unnecessary redundancy that so often characterizes in-class activities, encourages students to engage the class beyond the boundaries of class time and location, and gives instructors an opportunity to correct student errors before they commit them to memory or base future work on misinformation. Additionally, if using a public forum (which we're not), it can enable a dissolving of the boundary of class membership: others can participate in class activities in some significant way without being physically present. This happens at both THATCamp and FlipCamp, and often the contributions of those not physically present are quite significant. 
+There are a lot of advantages to collaborative note-taking, as THATCampers and [FlipCampers](http://flipcamp.org) can attest. It frees up some participants to be more actively engaged, impresses upon "scribes" the importance of taking good notes *for the benefit of others*, eliminates the unnecessary redundancy that so often characterizes in-class activities, encourages students to engage the class beyond the boundaries of class time and location, and gives instructors an opportunity to correct student errors before they commit them to memory or base future work on misinformation. Additionally, if using a public forum (which we're not), it can enable a dissolving of the boundary of class membership: others can participate in class activities in some significant way without being physically present. This happens at both THATCamp and FlipCamp, and often the contributions of those not physically present are quite significant.
 
 (In fact, I didn't mention above that before the class discussion on the liberal arts, the students and I rode out the Boulder flood by discussing Chris Long's blog post on Piazza *with Chris Long*. It was wonderful to have his participation in our class, and I think it really helped the students better understand what they are doing as they study music in a liberal-arts setting.)
 

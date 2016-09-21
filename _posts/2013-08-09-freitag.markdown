@@ -3,7 +3,7 @@ layout: post
 title: "Freitag, Freitag"
 date: 2013-08-09 14:44
 comments: true
-categories: blog
+categories: [personal news]
 share: true
 tags:
 - Freitag
@@ -14,9 +14,9 @@ Ever since I went to Switzerland for research, I've wanted a [Freitag](http://fr
 
 ![](http://www.ftray.ch/000001202877/000001202877_7_0_U.jpg)
 
-They are ridiculously expensive, however, even in Switzerland when purchasing with Francs. (Standard messenger-style bags run $300–500!) 
+They are ridiculously expensive, however, even in Switzerland when purchasing with Francs. (Standard messenger-style bags run $300–500!)
 
-I have a perfectly good, and almost as stylish, [Timbuk2](http://www.timbuk2.com/tb2/) messenger bag. It has a protective pouch designed for a 15" Powerbook G4 (my old laptop), but it fit the MacBook Pro I had at CSU almost perfectly, as well. It's been my main bag for eight years, and worked very well going to and from Yale on bike. However, at my new job at CU, I'm anticipating not bringing a laptop back-and-forth to work most days. The Timbuk2 bag is much larger and heavier than I need for an iPad and/or a couple Moleskine notebooks. 
+I have a perfectly good, and almost as stylish, [Timbuk2](http://www.timbuk2.com/tb2/) messenger bag. It has a protective pouch designed for a 15" Powerbook G4 (my old laptop), but it fit the MacBook Pro I had at CSU almost perfectly, as well. It's been my main bag for eight years, and worked very well going to and from Yale on bike. However, at my new job at CU, I'm anticipating not bringing a laptop back-and-forth to work most days. The Timbuk2 bag is much larger and heavier than I need for an iPad and/or a couple Moleskine notebooks.
 
 While looking for new bag options, I came across a [blog post](http://eeio.blogspot.com/2004/12/recycled-banner-golden-mean-messenger.html) detailing how someone created a Freitag-style bag out of less than $5 of discarded materials, creatively curated. I decided to give it a try myself, only designing a smaller, much simpler bag.
 
@@ -28,9 +28,9 @@ I also created a paper model of what I wanted to create, based on the size of my
 
 ![](/media/bag/materials2.jpg)
 
-My brother-in-law is quite handy when it comes to projects like this. He even sews! (I think it started with hunting and fishing gear, but he enjoyed sewing enough to take up making dresses for my niece.) We visited them for the Scottish Highland Games on Grandfather Mountain (N.C.), which was a great time to work. 
+My brother-in-law is quite handy when it comes to projects like this. He even sews! (I think it started with hunting and fishing gear, but he enjoyed sewing enough to take up making dresses for my niece.) We visited them for the Scottish Highland Games on Grandfather Mountain (N.C.), which was a great time to work.
 
-I cut the material: 
+I cut the material:
 
 ![](/media/bag/bag1.jpg)
 
@@ -44,7 +44,7 @@ Here's what we ended up with:
 
 ![](/media/bag/bag4.jpg)
 
-We ran out of time and material to finish. However, in the middle of our move from Charleston to Boulder, we spent a little over a week at my parents' house in Chicago. My mom is another expert seamstress (making my brother-in-law a seamster?), and she offered to help me finish. We bought straps, clips, and edging for less than $15 (I'm using the strap from my Timbuk2 bag, since I'll never be using them both simultaneously). She did all the hard work, of course (and remarked during the process, "no wonder they cost $400!"). 
+We ran out of time and material to finish. However, in the middle of our move from Charleston to Boulder, we spent a little over a week at my parents' house in Chicago. My mom is another expert seamstress (making my brother-in-law a seamster?), and she offered to help me finish. We bought straps, clips, and edging for less than $15 (I'm using the strap from my Timbuk2 bag, since I'll never be using them both simultaneously). She did all the hard work, of course (and remarked during the process, "no wonder they cost $400!").
 
 Here's the finished product:
 

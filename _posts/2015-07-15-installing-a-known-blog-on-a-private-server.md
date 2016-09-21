@@ -10,7 +10,7 @@ image:
   creditlink: https://www.flickr.com/photos/drainrat/16539848035/in/faves-131104016@N08/
 comments: true
 share: true
-categories: blog
+categories: [coding, social media]
 ---
 
 I've been really getting into the IndieWeb lately. I've always been a fan of open-source software ([and textbooks!](http://openmusictheory.com)), but there are some cool new tools for [reclaiming your domain](https://reclaimhosting.com/) and taking ownership of your social media data. One thing I've been using a lot lately is the [Known](http://withknown.com) web publishing platform. Back in February, [I wrote a bit about it](http://kris.shaffermusic.com/2015/02/my-new-social-media-posse/):
@@ -19,7 +19,7 @@ I've been really getting into the IndieWeb lately. I've always been a fan of ope
 
 Anyone can set up a Known blog for free at [withknown.com](http://withknown.com), but it has a limited feature set. For the full-featured "Known Pro," you either have to pay for a pro account or download the open-source software for free and install it on your server.
 
-In the past few months, I've installed and maintain several Known sites: [my POSSE site](http://sketches.shaffermusic.com), [a class blog](http://cubouldertheory.shaffermusic.com), [a freelance writing portfolio](http://portfolio.shaffermusic.com) (which I'm having a hard time keeping up-to-date!), and [a collaborative research blog](http://liederproject.shaffermusic.com). Every time I install Known, though, I miss a step — or I find something that I wish where in their documentation. So I thought that while I put together a community blog for my upcoming course on [The Flipped Classroom](http://www.digitalpedagogylab.com/blog/course/the-flipped-classroom/), I'd write up the steps that I go through in installing a Known site. 
+In the past few months, I've installed and maintain several Known sites: [my POSSE site](http://sketches.shaffermusic.com), [a class blog](http://cubouldertheory.shaffermusic.com), [a freelance writing portfolio](http://portfolio.shaffermusic.com) (which I'm having a hard time keeping up-to-date!), and [a collaborative research blog](http://liederproject.shaffermusic.com). Every time I install Known, though, I miss a step — or I find something that I wish where in their documentation. So I thought that while I put together a community blog for my upcoming course on [The Flipped Classroom](http://www.digitalpedagogylab.com/blog/course/the-flipped-classroom/), I'd write up the steps that I go through in installing a Known site.
 
 # Initial setup
 
@@ -77,7 +77,7 @@ Then make sure that everyone can read the files (in order to see the website).
 sudo chmod -R 755 /var/www
 ~~~
 
-Now create a test page to make sure it's working. 
+Now create a test page to make sure it's working.
 
 ~~~ bash
 sudo touch /var/www/flipclass.digitalpedagogylab.com/public_html/index.html
@@ -156,7 +156,7 @@ Next, change the DocumentRoot line:
 DocumentRoot /var/www/flipclass.digitalpedagogylab.com/public_html
 ~~~
 
-Finally, change all instances of 
+Finally, change all instances of
 
 ~~~ bash
 AllowOverride None
@@ -263,7 +263,7 @@ For more details on MySQL users, see this [Digital Ocean tutorial](https://www.d
 
 Now add the database settings you just created into the Known setup page. Then click "Onwards!"
 
-You may receive an error — you *should* receive an error — if your server is setup securely. Known will be unable to write these settings to a new file, and you need to do it manually. 
+You may receive an error — you *should* receive an error — if your server is setup securely. Known will be unable to write these settings to a new file, and you need to do it manually.
 
 ~~~ bash
 sudo touch /var/www/flipclass.digitalpedagogylab.com/public_html/config.ini

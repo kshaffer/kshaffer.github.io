@@ -10,7 +10,7 @@ image:
   creditlink: https://www.flickr.com/photos/mtsofan/9406488541
 comments: true
 share: true
-categories: blog
+categories: [pedagogy]
 ---
 
 These are, I think, books and articles that all educators should read. At least, they have been important in developing my philosophy and practices as an educator. If you're looking to get into critical pedagogy, or simply want to challenge your thinking and your technique as a teacher, give these a read. All are available on the open web unless otherwise noted.
@@ -71,4 +71,3 @@ These are, I think, books and articles that all educators should read. At least,
 [Beyond Part Writing: Modernizing the [Music Theory] Curriculum](http://www.flipcamp.org/engagingstudents2/essays/kulmaNaxer.html), by Meghan Naxer and David Kulma
 
 [On “scuba diving,” or the advantages of a less-is-more approach](http://www.flipcamp.org/engagingstudents2/essays/alegant.html), by Brian Alegant
-

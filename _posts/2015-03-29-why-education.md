@@ -10,7 +10,7 @@ image:
   creditlink: https://www.flickr.com/photos/qwz/5827459914
 comments: true
 share: true
-categories: blog
+categories: [pedagogy]
 ---
 
 I've been thinking a lot lately about the purpose(s) of formal education, especially public education. It's not that I haven't thought about it before! But because of some writing projects, and some committee work at CU, I want to articulate an exhaustive, concise vision of the purpose of education.

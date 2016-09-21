@@ -10,7 +10,7 @@ image:
   creditlink: https://www.flickr.com/photos/kalexanderson/7188710942
 comments: true
 share: true
-categories: blog
+categories: [pedagogy]
 ---
 
 In my experience, students aren't [more likely to have a personal/family tragedy right before an exam](https://www.improbable.com/airchives/paperair/volume5/v5i6/GrandmotherEffect%205-6.pdf). They're more likely to *tell me about it* when there is a major or high-stakes project due soon. In other words, maybe they want to keep it private — which is totally within their rights — but the disproportionate power that grades and high-stakes tests hold over their future don't allow it. When the choice to keep private matters private comes with a grade penalty, grades usually win. And that's a pretty awful state.

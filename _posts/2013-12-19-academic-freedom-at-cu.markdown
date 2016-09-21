@@ -3,7 +3,7 @@ layout: post
 title: "Academic freedom at CU"
 date: 2013-12-19 23:40
 comments: true
-categories: blog
+categories: [higher ed]
 share: true
 ---
 
@@ -16,7 +16,7 @@ Inside Higher Ed, [Too Risky for Boulder?
 
 Daily Camera, [CU-Boulder pulls Patti Adler from 'Deviance' class, but denies forced retirement](http://www.dailycamera.com/cu-news/ci_24737023/cu-boulder-pulls-patti-adler-from-deviance-class), Dec. 16, 2013.
 
-Email from Provost Moore to CU-Faculty (This was also a [public press release](http://www.colorado.edu/news/campus/2013/12/16/message-from-the-provost).), Dec. 16, 2013: 
+Email from Provost Moore to CU-Faculty (This was also a [public press release](http://www.colorado.edu/news/campus/2013/12/16/message-from-the-provost).), Dec. 16, 2013:
 
 > Dear CU-Boulder Faculty, Staff and Students,
 
@@ -32,7 +32,7 @@ Email from Provost Moore to CU-Faculty (This was also a [public press release](h
 
 > To reiterate, Professor Adler has not been fired or forced to retire. As to comments she has made that she might be fired in the future, I should note that any employee at the University – including faculty members – found responsible for violating the University’s sexual harassment policy, is subject to discipline up to and including termination.
 
-> The University fully supports the teaching of controversial subjects, and the ability of faculty to challenge students in the classroom and prompt critical thinking. At no time was the subject of Professor Adler’s course in question. Rather, it was the manner in which the material was presented in one particular classroom exercise and the impact of that manner of presentation on teaching assistants and students. 
+> The University fully supports the teaching of controversial subjects, and the ability of faculty to challenge students in the classroom and prompt critical thinking. At no time was the subject of Professor Adler’s course in question. Rather, it was the manner in which the material was presented in one particular classroom exercise and the impact of that manner of presentation on teaching assistants and students.
 
 > Russell L. Moore, Provost  
 University of Colorado Boulder

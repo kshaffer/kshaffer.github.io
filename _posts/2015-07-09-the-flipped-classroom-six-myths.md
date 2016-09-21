@@ -7,10 +7,10 @@ image:
   feature: personalized.jpg
   teaser: personalized-teaser.jpg
   credit: Joseph McKinley
-  creditlink: https://www.flickr.com/photos/94433617@N02/8596345463/in/photolist-e6Cw1P-HM1dw-4TjdQ-6m6k8k-ieiWeh-4mw6QS-68HML-3HtdWW-dUjaJD-fCUoMV-6RK63D-dUpMj3-fDex85-6eQPYz-fCXgd4-otS52T-fDcgdu-fCUH8g-fCUHea-iNbub-fDchmh-fDcgy5-fCUHu2-fCUGVt-fDcgfS-b8BKca-8apKTA-fDeG8S-5nFMq2-idJxhG-oaBHaJ-oq5rzq-orPZsg-os5NN1-iThgMF-6m6kmz-orUd3w-4kdG13-fDePRf-fCWXbB-fCXgac-os7jHx-5EufkT-8apL3d-dPNQdV-3pHm4N-Avxbu-aibH1u-8amz5k-7BVsHS
+  creditlink: https://www.flickr.com/photos/94433617@N02/8596345463/
 comments: true
 share: true
-categories: blog
+categories: [pedagogy]
 ---
 
 What is the flipped classroom?

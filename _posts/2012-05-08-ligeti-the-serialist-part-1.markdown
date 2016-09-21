@@ -5,7 +5,7 @@ date: 2012-05-08 20:33:32
 layout: post
 slug: ligeti-the-serialist-part-1
 title: Ligeti, the Serialist (part 1)
-categories: blog
+categories: [musicology]
 share: true
 wordpress_id: 398
 tags:
@@ -36,4 +36,3 @@ A final example can be seen in Ligeti’s description of a compositional techniq
 
 
 Bernard’s analysis leads him (rightly, I think) to conclude that “bandwidths”—or intervals between upper and lower boundary pitches—and density are important functional aspects of Ligeti’s music of the 1960s. However, while Bernard takes this as a “reaction” to serialism, it is clear from Ligeti’s description of some distinctly serial problems in 1960 and recent attempted solutions to those problems that the functional properties of bandwidth and density in Ligeti’s music of the 1960s are further attempts on Ligeti’s part to address these same problems, and there is a close connection between his bandwidth technique and Pousseur’s use of the series in his Quintet. We cannot speak of “a reaction to the modernist impulse found in [Ligeti’s] works of the 1950s and 1960s” (Drott 2003, p. 286) without significant qualification. In a very real sense, _Apparitions_, _Artikulation_, _Lontano_, and other works of the late 1950s and 1960s are _serialist_ works, and Ligeti is a _serialist_ composer.
-

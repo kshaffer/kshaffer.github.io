@@ -5,7 +5,7 @@ date: 2013-01-12 15:39:24
 layout: post
 slug: harmonic-syntax-in-corpus-studies
 title: Harmonic syntax in corpus studies
-categories: blog
+categories: [musicology, data science]
 share: true
 wordpress_id: 665
 tags:
@@ -20,11 +20,10 @@ I've been conversing with several different music scholars lately about methodol
 
 The discussion has centered around the proper method of calculating chord transition probabilities from a sample of musical works: given a particular chord, what is the relative probability that some other chord will come next. The standard method, which I've discussed in previous posts ([Rock corpus comparison](/2012/12/rock-corpus-comparison/); [Averages, clusters, and hidden patterns](/2012/07/averages-clusters-and-hidden-patterns/), and [Problems with using transitional probabilities in musical corpus studies](/2012/06/problems-with-using-transitional-probability-in-musical-corpus-studies/)), is to count up all the instances of different types of chord-to-chord transitions in the collection of songs/pieces and assign probability according to their frequency of the entire corpus (by percentage). In a previous post, and in a draft of an article I'm working on which I circulated to a small group of people, I noted three problems:
 
-	
+
 * Long songs that repeat the same chord progression many times exert a disproportionately large influence on the corpus's "average."  
 * Songs which are "outliers" (contain lots of non-standard chords and/or progressions) also exert a disproportionately large influence on the average.  
 * Song-to-song variance is often not ruled out when discerning "effects" (differences between corpora).
-
 
 
 My proposed solution was to calculate each song's own transitional probability table (negating the long-song effect), and use median values for the corpus's songs for each transition as the representative value for the corpus (minimizing the extra influence of outliers), and using confidence intervals to account for variance.

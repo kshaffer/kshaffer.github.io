@@ -4,11 +4,11 @@ title: "Productive Discomfort, a keynote teaser"
 modified: 2014-06-02 17:51:04 +0000
 tags: [pedagogy, teaching, keynote, Hybrid Pedagogy]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature:
+  credit:
+  creditlink:
 comments: true
-categories: blog
+categories: [pedagogy, presentations]
 share: true
 ---
 

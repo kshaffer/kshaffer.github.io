@@ -10,7 +10,7 @@ image:
   creditlink: https://www.flickr.com/photos/norue/9840164534
 comments: true
 share: true
-categories: blog
+categories: [pedagogy]
 ---
 
 What if we focused less on scalable pedagogy and more on sustainable pedagogy?

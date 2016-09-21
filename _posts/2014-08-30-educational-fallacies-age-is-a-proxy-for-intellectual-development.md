@@ -8,8 +8,8 @@ image:
   credit: Yvonne Thompson
   creditlink: https://www.flickr.com/photos/yvonnert/4782496500/
 comments: true
-categories: blog
 share: true
+categories: [pedagogy]
 ---
 
 *This is the third in my series of posts on educational fallacies. You can read all of them [here](http://kris.shaffermusic.com/tags/#educational%20fallacies).*
@@ -20,11 +20,11 @@ As soon as we question these assumptions they fall apart. When we question them,
 
 There are numerous factors that contribute to "developmental appropriateness" for a particular intellectual or physical task, making age a poor proxy for a student's developmental level: a student's biology and physiology, family context, socio-economic background, medical situation, (multi)linguistic context, past educational experience, classroom environment, adult and peer support, etc. None of these, not even the physiological, will be consistent across an age span, and it is *impossible* that *all* of them would be consistent for a class full of students. Even the ideal route through the material differs for individual students. Thus, taking dozens (hundreds, thousands, millions) of students through the same educational experiences, in the same order, at the same time, according to the number of years (+/– .5) since exiting the womb, is kind of ridiculous. (Of course, decisions to educate in this way were never based in pedagogical effectiveness, but only in the expediency of industrialized educational institutions "delivering" education to the masses.)
 
-Unfortunately, this age-based model not only rules American public education, but private schools, homeschool networks and curricula, and even religious education have adopted this student-as-fast-food-hamburger approach, following the public school model. 
+Unfortunately, this age-based model not only rules American public education, but private schools, homeschool networks and curricula, and even religious education have adopted this student-as-fast-food-hamburger approach, following the public school model.
 
 But this use of age as a proxy for intellectual and social development is only an issue because *we assume that people should be educated alongside others at the same stage of development*. This idea is equally baseless, both in evidence and logic.
 
-[As proponents of *peer instruction* (PI) have found](http://mazur.harvard.edu/research/detailspage.php?rowid=8), students often learn concepts better when the explanation comes from someone who recently learned the concept than from someone who learned it years, or decades, ago (their teacher or textbook author). Similarly, students solidify and deepen their understanding of a concept when they are put in a position to explain it to someone else who doesn't yet understand. 
+[As proponents of *peer instruction* (PI) have found](http://mazur.harvard.edu/research/detailspage.php?rowid=8), students often learn concepts better when the explanation comes from someone who recently learned the concept than from someone who learned it years, or decades, ago (their teacher or textbook author). Similarly, students solidify and deepen their understanding of a concept when they are put in a position to explain it to someone else who doesn't yet understand.
 
 These phenomena are not only the basis of recent developments in PI, but they form part of the pedagogical core of [Maria Montessori's method](http://digital.library.upenn.edu/women/montessori/method/method.html), which has been employed in thousands of schools for the last 100 years. In a Montessori classroom (like the one my oldest son attends), students are grouped in three-year segments. Students are given more flexibility regarding when they engage certain concepts. In fact, that flexibility can extend beyond the three-year groupings, as a "second grader" in a class for 6–9-year-olds is free to engage "fifth-grade math" if she is interested, motivated, and ready for those concepts. Further, the wider age groupings means that more advanced or experienced students in the class—who are usually, but not always, the older students—can solidify their learning as they help the younger ones, and the younger ones can learn by receiving not only instruction from their teacher, but the modeling and instruction of their more experienced peers, as well. (Though these techniques were originally based on Montessori's own experience, many have since been verified by [empirical studies in education research](https://openlibrary.org/works/OL8004702W/Montessori).)
 

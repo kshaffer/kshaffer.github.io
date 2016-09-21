@@ -5,7 +5,7 @@ date: 2012-04-11 15:12:04
 layout: post
 slug: video-grading-for-transcription-arranging-projects
 title: Video grading for transcription & arranging projects
-categories: blog
+categories: [pedagogy]
 share: true
 wordpress_id: 318
 tags:

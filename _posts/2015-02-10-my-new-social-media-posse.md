@@ -10,7 +10,7 @@ image:
   creditlink: https://www.flickr.com/photos/ginz/6816885427
 comments: true
 share: true
-categories: blog
+categories: [public scholarship, social media]
 ---
 
 Several of my friends and colleagues have been critical of their social media experience recently — Twitter in particular. One friend left Twitter altogether last week. I'm sympathetic. I'm a serial Facebook quitter, and in the fall, I wrote a few blog posts about my disillusionment with relying on Twitter for social and professional conversations. I even took some time off . . . and enjoyed it.
@@ -23,7 +23,7 @@ First, I'm largely ignoring my Twitter timeline, and instead, I'm following a fe
 
 The other change I've made is installing [Known](https://withknown.com) on my server ([sketches.shaffermusic.com](http://sketches.shaffermusic.com)). Known is a blog-like, social-media-like platform designed with [POSSE](https://indiewebcamp.com/POSSE) in mind: Publish on your Own Site and Syndicate Elsewhere — a growing trend on the [IndieWeb](https://indiewebcamp.com). Known double-publishes on Tiwtter (and other platforms) and uses [webmentions](http://indiewebcamp.com/Webmention) to collect the ensuing conversations onto the original Known site. ([Bridgy](http://www.brid.gy) helps, too.) It also differentiates Tweet-like status updates from Facebook-like mini-blog entires without imposing character limits. It also integrates with social media conversations and @-replies pretty well. In short, it's a pretty smooth way to own and control your content while connecting on proprietary social media networks.
 
-I've found that more targeted reading makes me happier, and more targeted Twitter use means more time for longer-form reading and writing. Further, I really want to control my own content, and doing so makes me more excited about writing (as does having a new publishing toy . . . er . . . platform). 
+I've found that more targeted reading makes me happier, and more targeted Twitter use means more time for longer-form reading and writing. Further, I really want to control my own content, and doing so makes me more excited about writing (as does having a new publishing toy . . . er . . . platform).
 
 I'm liking this setup, at least for now. Targeted, meaningful engagement on Twitter, more time to read the longer-form pieces I find there, an easier and more "indie" way to engage, and more motivation to dig in and really write. Good stuff. And no need to leave Twitter just yet.
 

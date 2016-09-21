@@ -10,7 +10,7 @@ image:
   creditlink: https://www.flickr.com/photos/grocap/15717983867/
 comments: true
 share: true
-categories: blog
+categories: [social media]
 ---
 
 A few months ago, I rejoined Facebook. At the time, I said:

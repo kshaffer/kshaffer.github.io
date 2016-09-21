@@ -8,7 +8,7 @@ image:
   credit: UMW
   creditlink: http://www.umw.edu/news/2015/09/17/umw-board-of-visitors-renames-center-to-honor-hurley/
 share: true
-categories: blog
+categories: [personal news]
 ---
 
 Our time in Boulder is coming to a close. This June I will be joining the [Division of Teaching and Learning Technologies](https://academics.umw.edu/dtlt/) at the [University of Mary Washington](http://www.umw.edu/) as an instructional technology specialist. UMW is a leader when it comes to the critical use of educational technology, especially at a Small Liberal Arts College (SLAC). I'm really excited about the combination of digital technology and the public liberal arts mission, and Mary Washington does it better than just about anyone.

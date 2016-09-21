@@ -5,7 +5,7 @@ date: 2012-03-15 08:26:07
 layout: post
 slug: three-kinds-of-criterion-referenced-grading
 title: Three kinds of criterion-referenced grading
-categories: blog
+categories: [pedagogy]
 share: true
 wordpress_id: 226
 tags:
@@ -29,7 +29,7 @@ So in this post, I want to clear up something that I have left foggy so far. Nam
 
 The first and most common type of criterion-referenced grading means that students are evaluated on assignments, tests, and the like in reference to an established standard. The alternative would be a curve-based system, where students are evaluated in reference to each other. In a purely curve-based system, the approximate number of students who will receive A, B, C, D, and F are set in advance. That means that some students will always fail, but it also protects against grade inflation (passing students that aren't up to snuff). A criterion-referenced or standards-based system allows for the possibility of all students passing or all students failing, but makes it harder to protect against grade inflation or inconsistent grading across instructors and semesters unless very specific criteria are established. Since on the criteria–curve spectrum most music theory and aural skills courses already sit pretty far toward the criteria end, and since I think that's appropriate, I won't say any more about that distinction.
 
-The second way in which the term criterion-referenced grading is typically used means that specific assignments are evaluated against multiple criteria or standards or in light of several categories of study. The alternative would be _holistic_ grading, where each assignment gets a single grade reflecting overall satisfaction of the assignment requirements. Here, most musicianship instructors tend toward holistic grading but provide comments according to multiple criteria for competency on a given assignment. 
+The second way in which the term criterion-referenced grading is typically used means that specific assignments are evaluated against multiple criteria or standards or in light of several categories of study. The alternative would be _holistic_ grading, where each assignment gets a single grade reflecting overall satisfaction of the assignment requirements. Here, most musicianship instructors tend toward holistic grading but provide comments according to multiple criteria for competency on a given assignment.
 
 It seems from the discussions I've had recently that there is a lot of openness to this kind of criterion-referenced evaluation. And I should note that while I don't use the multiple scores such a system gives me to calculate _averages_ for each category at the end of the term, it is possible. In fact, I would advocate that instructors who see a value in average-based (or weighted-average-based) grading would consider abandoning holistic assignment grading in favor of evaluating each assignment in light of multiple grading criteria. (I'll try to put together another post soon with details about what that might look like.)
 

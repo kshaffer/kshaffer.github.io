@@ -8,7 +8,7 @@ image:
   credit:
   creditlink:
 share: true
-categories: blog
+categories: [coding, data science]
 ---
 
 I have to do some Python coding for [The Lieder Project](http://liederproject.shaffermusic.com) that involves Euclidean distance and variance in three-dimensional space. I'm positive that modules for these things exist out there somewhere, but I couldn't find them quickly. So I wrote the code myself. In case you also need to calculate distances between points in three-dimensional space, and/or the mean locations and standard deviation for points in three-dimensional space, here is the code for Python 3.

@@ -5,7 +5,7 @@ date: 2012-06-02 04:41:03
 layout: post
 slug: richard-steinitz-and-ligetis-stylistic-crisis
 title: Richard Steinitz and Ligeti's "stylistic crisis"
-categories: blog
+categories: [musicology]
 share: true
 wordpress_id: 438
 tags:

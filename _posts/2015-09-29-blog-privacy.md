@@ -10,10 +10,10 @@ image:
   creditlink: https://www.flickr.com/photos/nnova/4060530995/
 comments: true
 share: true
-categories: blog
+categories: [social media]
 ---
 
-I've been reading a lot about digital privacy lately. I've been thinking about ways to keep my data more secure from the NSA, from corporations, from my ISP, etc. And then I realized that I use services on my website that aren't privacy-friendly. So I made a couple of updates to this website today. 
+I've been reading a lot about digital privacy lately. I've been thinking about ways to keep my data more secure from the NSA, from corporations, from my ISP, etc. And then I realized that I use services on my website that aren't privacy-friendly. So I made a couple of updates to this website today.
 
 **First, no more Google Analytics.** It's great to see which of my posts are most popular, where my visitors are from geographically, what sites are linking to my site... But I don't really need that information. And I certainly don't need it bad enough to warrant taking information about my site's visitors and sending it off to Google. So no more Google Analytics. If I decide in the future that I need analytics, I'll find a tool that I install on my server and can keep secure from others. But for now at least, I'm simply not going to collect analytics data.
 

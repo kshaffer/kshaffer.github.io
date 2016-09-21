@@ -5,7 +5,7 @@ date: 2011-07-01 14:44:54
 layout: post
 slug: aural-skills-texts
 title: Aural Skills Texts
-categories: blog
+categories: [pedagogy]
 share: true
 wordpress_id: 92
 tags:
@@ -28,5 +28,3 @@ Karpinski points out a number of problems with this approach, and I agree with h
 Karpinski’s approach is to tell the students very little before they hear the music. For example, “the quarter note is the main metric unit, and the tonic is E-flat.” Assuming the students don’t have perfect pitch (something he addresses in other ways), they have to listen and process the melody before they can put pencil to paper. They have to figure out what the tonic is, what the meter is, and what the relationship of the individual notes and contours are to the tonic and the metric grid. The result is a more conscious direction of attention on key, meter, and _function_ (the relationship of individual musical elements to the whole or to global referents). And that is what we want students to be developing most: discerning global referents like tonic and meter, and intra-musical functional relationships.
 
 I’m excited to give these methods a try. The last time I did a melodic dictation, I’m pretty sure more ink was spilled on my notes laying out the “helps” to give the students than notating the actual melody I would be playing from them. Students can certainly grow under such a program, but I’m excited to see how much more effective their training can be when their attention is more focused on the functional relationships than notes in isolation.
- 
-

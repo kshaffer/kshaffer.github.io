@@ -3,7 +3,7 @@ layout: post
 title: "Students and academic freedom"
 date: 2013-06-26 09:34
 comments: true
-categories: blog
+categories: [pedagogy]
 share: true
 tags:
 - academic freedom
@@ -46,7 +46,7 @@ Here are the responses that came in.
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p><a href="https://twitter.com/krisshaffer">@krisshaffer</a>  I would like to add that I consider it a privilege and NOT something to be taken for granted. It&#39;s free from &quot;standardization&quot;</p>&mdash; CorinnaSingsDoReMi (@CorinnaHaughton) <a href="https://twitter.com/CorinnaHaughton/statuses/349706465868660736">June 26, 2013</a></blockquote>
 
-The one thing missing from all of these responses is faculty *research*. Granted, they are all students at a teaching university (and who have experienced at least a year in an "inverted" class). However, I find it significant that after a discussion of whether non-tenured professors (or adjuncts or graduate students) have academic freedom, the students responded with no hint of the idea that academic freedom only applied to faculty. 
+The one thing missing from all of these responses is faculty *research*. Granted, they are all students at a teaching university (and who have experienced at least a year in an "inverted" class). However, I find it significant that after a discussion of whether non-tenured professors (or adjuncts or graduate students) have academic freedom, the students responded with no hint of the idea that academic freedom only applied to faculty.
 
 And why should it? Students need to learn how to promote freedom and use it wisely. Having a degree of ownership over the educational process often leads to better long-term learning (and love of the process). And since *schola* (school) literally means "leisure," shouldn't the academy be a space in which students have the time, freedom, and support to contemplate the true and the good as they grow their intellect as individuals and a community?
 

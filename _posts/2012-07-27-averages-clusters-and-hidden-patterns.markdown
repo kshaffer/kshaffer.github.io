@@ -5,7 +5,7 @@ date: 2012-07-27 13:02:05
 layout: post
 slug: averages-clusters-and-hidden-patterns
 title: Averages, clusters, and hidden patterns
-categories: blog
+categories: [musicology, data science]
 share: true
 wordpress_id: 550
 tags:
@@ -22,9 +22,9 @@ tags:
 
 Important information can be lost in averages. I've [written on this blog][CriterionRef] in the past about how using averages when calculating grades can hide important information about a student's performance. A student may have a passing average, but in a class that covers a number of different topics, a passing average may mask solid performance in some areas and serious failures in others. Likewise, when performing an analysis of a large set of works in a musical corpus, averages calculated from the whole corpus can mask significant differences within the corpus. This is the case for a test corpus I've been playing around with lately, and I think it is necessary for music scholars performing corpus analyses to explore this possibility and rule it out before taking averages as representative of an entire corpus.
 
-In the process of developing [a Python module for corpus analysis][GithubModule] (found on [my new github site][GithubSite]—better documentation and a blog post or two coming soon), I used [a test corpus][GithubCorpus] of 25 Protestant worship songs. (This was a corpus I had laying around, so to speak, already encoded from a previous project. It includes the 25 most used non-public-domain songs in Protestant worship services in late 2011, counted by Christian Copyright Licensing International, CCLI. I will refer to it as the CCLI-2011 corpus.) This corpus exhibits a wide range of variance for most characteristics of harmonic progressions. That variance notwithstanding, I was able to use a standard statistical tool, confidence intervals, to find meaningful harmonic trends that supersede that variance. 
+In the process of developing [a Python module for corpus analysis][GithubModule] (found on [my new github site][GithubSite]—better documentation and a blog post or two coming soon), I used [a test corpus][GithubCorpus] of 25 Protestant worship songs. (This was a corpus I had laying around, so to speak, already encoded from a previous project. It includes the 25 most used non-public-domain songs in Protestant worship services in late 2011, counted by Christian Copyright Licensing International, CCLI. I will refer to it as the CCLI-2011 corpus.) This corpus exhibits a wide range of variance for most characteristics of harmonic progressions. That variance notwithstanding, I was able to use a standard statistical tool, confidence intervals, to find meaningful harmonic trends that supersede that variance.
 
-For instance, consider the transitional probabilities for the IV chord in this corpus. The median transitional probabilities for progression away from the IV chord are as follows: IV–I has a median probability of 0.64; IV–V 0.21; and all other transitions 0.00 (see Table 1). 
+For instance, consider the transitional probabilities for the IV chord in this corpus. The median transitional probabilities for progression away from the IV chord are as follows: IV–I has a median probability of 0.64; IV–V 0.21; and all other transitions 0.00 (see Table 1).
 
 |   IV–I 	|  IV–II 	|  IV–III 	|  IV–IV 	|   IV–V 	|  IV–VI 	| IV–flat-VII 	|
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -33,7 +33,7 @@ For instance, consider the transitional probabilities for the IV chord in this c
 
 **Table 1.** Median transitional probabilities for progressions away from IV in the CCLI-2011 corpus.
 
-Table 2 illustrates the 95%-confidence intervals for each transition. 
+Table 2 illustrates the 95%-confidence intervals for each transition.
 
 |     IV–I 	|     IV–II 	|    IV–III 	|    IV–IV 	|     IV–V 	|     IV–VI 	|    IV–flat-VII 	|
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -72,31 +72,31 @@ It can be tempting, then, to conclude that in this corpus, V chords are equally 
 
 |                               Song 	| V-I 	| V-II 	| V-III 	| V-IV 	| V-V 	| V-VI 	| V-flat-VII 	|
 |------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|               How Great Is Our God 	| 1.00 	| 0.00 	|  0.00 	| 0.00 	| 0.00 	| 0.00 	|  0.00 
-|                     Mighty To Save 	| 0.24 	| 0.00 	|  0.00 	| 0.53 	| 0.00 	| 0.24 	|  0.00 
-|                            Our God 	| 0.00 	| 0.00 	|  0.00 	| 0.00 	| 0.04 	| 0.96 	|  0.00 
-|               Blessed Be Your Name 	| 0.00 	| 0.00 	|  0.00 	| 0.28 	| 0.00 	| 0.72 	|  0.00 
-|               Here I Am To Worship 	| 0.56 	| 0.22 	|  0.00 	| 0.22 	| 0.00 	| 0.00 	|  0.00 
-|                    Revelation Song 	| 0.00 	| 0.00 	|  0.00 	| 0.00 	| 0.00 	| 0.00 	|  1.00 
-|                    Everlasting God 	| 0.50 	| 0.00 	|  0.00 	| 0.00 	| 0.00 	| 0.50 	|  0.00 
-| Amazing Grace (My Chains Are Gone) 	| 1.00 	| 0.00 	|  0.00 	| 0.00 	| 0.00 	| 0.00 	|  0.00 
-|                      Jesus Messiah 	| 0.47 	| 0.07 	|  0.00 	| 0.27 	| 0.20 	| 0.00 	|  0.00 
-|               Your Grace Is Enough 	| 0.15 	| 0.00 	|  0.00 	| 0.30 	| 0.00 	| 0.55 	|  0.00 
-|                            Forever 	| 0.00 	| 0.00 	|  0.00 	| 1.00 	| 0.00 	| 0.00 	|  0.00 
-|          Open The Eyes Of My Heart 	| 0.40 	| 0.00 	|  0.00 	| 0.30 	| 0.10 	| 0.20 	|  0.00 
-|                    In Christ Alone 	| 0.78 	| 0.11 	|  0.00 	| 0.11 	| 0.00 	| 0.00 	|  0.00 
-|                   Holy Is The Lord 	| 0.44 	| 0.08 	|  0.00 	| 0.00 	| 0.00 	| 0.40 	|  0.08 
-|                  Shout To The Lord 	| 0.46 	| 0.00 	|  0.00 	| 0.15 	| 0.00 	| 0.38 	|  0.00 
-|                       How He Loves 	| 0.00 	| 0.00 	|  0.00 	| 1.00 	| 0.00 	| 0.00 	|  0.00 
-|                    You Are My King 	| 0.75 	| 0.00 	|  0.00 	| 0.25 	| 0.00 	| 0.00 	|  0.00 
-|    Come Now Is The Time To Worship 	| 0.25 	| 0.75 	|  0.00 	| 0.00 	| 0.00 	| 0.00 	|  0.00 
-|                From The Inside Out 	| 0.08 	| 0.10 	|  0.00 	| 0.50 	| 0.00 	| 0.33 	|  0.00 
-|                            Hosanna 	| 0.44 	| 0.00 	|  0.00 	| 0.04 	| 0.00 	| 0.52 	|  0.00 
-|               Glory To God Forever 	| 0.17 	| 0.00 	|  0.00 	| 0.42 	| 0.00 	| 0.42 	|  0.00 
-|      Lord I Lift Your Name On High 	| 0.25 	| 0.00 	|  0.00 	| 0.63 	| 0.00 	| 0.13 	|  0.00 
-|         Hosanna (Praise Is Rising) 	| 0.14 	| 0.00 	|  0.00 	| 0.38 	| 0.00 	| 0.48 	|  0.00 
-|                          The Stand 	| 0.00 	| 0.00 	|  0.00 	| 0.09 	| 0.00 	| 0.91 	|  0.00 
-|                       We Fall Down 	| 0.40 	| 0.00 	|  0.00 	| 0.20 	| 0.00 	| 0.40 	|  0.00 
+|               How Great Is Our God 	| 1.00 	| 0.00 	|  0.00 	| 0.00 	| 0.00 	| 0.00 	|  0.00
+|                     Mighty To Save 	| 0.24 	| 0.00 	|  0.00 	| 0.53 	| 0.00 	| 0.24 	|  0.00
+|                            Our God 	| 0.00 	| 0.00 	|  0.00 	| 0.00 	| 0.04 	| 0.96 	|  0.00
+|               Blessed Be Your Name 	| 0.00 	| 0.00 	|  0.00 	| 0.28 	| 0.00 	| 0.72 	|  0.00
+|               Here I Am To Worship 	| 0.56 	| 0.22 	|  0.00 	| 0.22 	| 0.00 	| 0.00 	|  0.00
+|                    Revelation Song 	| 0.00 	| 0.00 	|  0.00 	| 0.00 	| 0.00 	| 0.00 	|  1.00
+|                    Everlasting God 	| 0.50 	| 0.00 	|  0.00 	| 0.00 	| 0.00 	| 0.50 	|  0.00
+| Amazing Grace (My Chains Are Gone) 	| 1.00 	| 0.00 	|  0.00 	| 0.00 	| 0.00 	| 0.00 	|  0.00
+|                      Jesus Messiah 	| 0.47 	| 0.07 	|  0.00 	| 0.27 	| 0.20 	| 0.00 	|  0.00
+|               Your Grace Is Enough 	| 0.15 	| 0.00 	|  0.00 	| 0.30 	| 0.00 	| 0.55 	|  0.00
+|                            Forever 	| 0.00 	| 0.00 	|  0.00 	| 1.00 	| 0.00 	| 0.00 	|  0.00
+|          Open The Eyes Of My Heart 	| 0.40 	| 0.00 	|  0.00 	| 0.30 	| 0.10 	| 0.20 	|  0.00
+|                    In Christ Alone 	| 0.78 	| 0.11 	|  0.00 	| 0.11 	| 0.00 	| 0.00 	|  0.00
+|                   Holy Is The Lord 	| 0.44 	| 0.08 	|  0.00 	| 0.00 	| 0.00 	| 0.40 	|  0.08
+|                  Shout To The Lord 	| 0.46 	| 0.00 	|  0.00 	| 0.15 	| 0.00 	| 0.38 	|  0.00
+|                       How He Loves 	| 0.00 	| 0.00 	|  0.00 	| 1.00 	| 0.00 	| 0.00 	|  0.00
+|                    You Are My King 	| 0.75 	| 0.00 	|  0.00 	| 0.25 	| 0.00 	| 0.00 	|  0.00
+|    Come Now Is The Time To Worship 	| 0.25 	| 0.75 	|  0.00 	| 0.00 	| 0.00 	| 0.00 	|  0.00
+|                From The Inside Out 	| 0.08 	| 0.10 	|  0.00 	| 0.50 	| 0.00 	| 0.33 	|  0.00
+|                            Hosanna 	| 0.44 	| 0.00 	|  0.00 	| 0.04 	| 0.00 	| 0.52 	|  0.00
+|               Glory To God Forever 	| 0.17 	| 0.00 	|  0.00 	| 0.42 	| 0.00 	| 0.42 	|  0.00
+|      Lord I Lift Your Name On High 	| 0.25 	| 0.00 	|  0.00 	| 0.63 	| 0.00 	| 0.13 	|  0.00
+|         Hosanna (Praise Is Rising) 	| 0.14 	| 0.00 	|  0.00 	| 0.38 	| 0.00 	| 0.48 	|  0.00
+|                          The Stand 	| 0.00 	| 0.00 	|  0.00 	| 0.09 	| 0.00 	| 0.91 	|  0.00
+|                       We Fall Down 	| 0.40 	| 0.00 	|  0.00 	| 0.20 	| 0.00 	| 0.40 	|  0.00
 {: rules="groups"}
 
 **Table 5.** Transitional probabilities for progressions away from V in each song of the CCLI-2011 corpus.
@@ -111,31 +111,31 @@ For the CCLI-2011 corpus, I directed it to form five clusters and make 10,000 at
 
 | Song 	| Cluster 	|
 |---:|:------|
-| Here I Am To Worship 	| 0 
-| Jesus Messiah 	| 0 
-| Your Grace Is Enough 	| 0 
-| We Fall Down 	| 0 
-| Revelation Song 	| 1 
-| Mighty To Save 	| 2 
-| Our God 	| 2 
-| Blessed Be Your Name 	| 2 
-| From The Inside Out 	| 2 
-| Glory To God Forever 	| 2 
-| Hosanna (Praise Is Rising) 	| 2 
-| The Stand 	| 2 
-| How Great Is Our God 	| 3 
-| Everlasting God 	| 3 
-| Open The Eyes Of My Heart 	| 3 
-| Holy Is The Lord 	| 3 
-| Shout To The Lord 	| 3 
-| You Are My King 	| 3 
-| Come, Now Is The Time To Worship 	| 3 
-| Hosanna 	| 3 
-| Amazing Grace (My Chains Are Gone) 	| 4 
-| Forever 	| 4 
-| In Christ Alone 	| 4 
-| How He Loves 	| 4 
-| Lord I Lift Your Name On High 	| 4 
+| Here I Am To Worship 	| 0
+| Jesus Messiah 	| 0
+| Your Grace Is Enough 	| 0
+| We Fall Down 	| 0
+| Revelation Song 	| 1
+| Mighty To Save 	| 2
+| Our God 	| 2
+| Blessed Be Your Name 	| 2
+| From The Inside Out 	| 2
+| Glory To God Forever 	| 2
+| Hosanna (Praise Is Rising) 	| 2
+| The Stand 	| 2
+| How Great Is Our God 	| 3
+| Everlasting God 	| 3
+| Open The Eyes Of My Heart 	| 3
+| Holy Is The Lord 	| 3
+| Shout To The Lord 	| 3
+| You Are My King 	| 3
+| Come, Now Is The Time To Worship 	| 3
+| Hosanna 	| 3
+| Amazing Grace (My Chains Are Gone) 	| 4
+| Forever 	| 4
+| In Christ Alone 	| 4
+| How He Loves 	| 4
+| Lord I Lift Your Name On High 	| 4
 {: rules="groups"}
 
 **Table 6.** Five clusters in the CCLI-2011 corpus, based on Euclidean distance and calculated by Michael Eisen's Cluster 3.0 software.
@@ -144,65 +144,65 @@ One interesting thing to note from this clustering arrangement is that "Revelati
 
 | 	|   I 	|  II 	|  III 	|  IV 	|   V 	|  VI 	| flat-VII 	|
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|     I 	|  0.00 	|  0.00 	|  0.00 	|  0.35 	|  0.33 	|  0.00 	|  0.00 
-|    II 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
-|   III 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
-|    IV 	|  0.64 	|  0.00 	|  0.00 	|  0.00 	|  0.21 	|  0.00 	|  0.00 
-|     V 	|  0.25 	|  0.00 	|  0.00 	|  0.22 	|  0.00 	|  0.24 	|  0.00 
-|    VI 	|  0.00 	|  0.00 	|  0.00 	|  0.53 	|  0.00 	|  0.00 	|  0.00 
-| flat-VII 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
+|     I 	|  0.00 	|  0.00 	|  0.00 	|  0.35 	|  0.33 	|  0.00 	|  0.00
+|    II 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00
+|   III 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00
+|    IV 	|  0.64 	|  0.00 	|  0.00 	|  0.00 	|  0.21 	|  0.00 	|  0.00
+|     V 	|  0.25 	|  0.00 	|  0.00 	|  0.22 	|  0.00 	|  0.24 	|  0.00
+|    VI 	|  0.00 	|  0.00 	|  0.00 	|  0.53 	|  0.00 	|  0.00 	|  0.00
+| flat-VII 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00
 {: rules="groups"}
 
 **Table 7.** Median transitional probabilities for the entire CCLI-2011 corpus.
 
 | 	|   I 	|  II 	|  III 	|  IV 	|   V 	|  VI 	| flat-VII 	|
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|     I 	|  0.00 	|  0.09 	|  0.00 	|  0.45 	|  0.37 	|  0.00 	|  0.00 
-|    II 	|  1.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
-|   III 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
-|    IV 	|  0.65 	|  0.05 	|  0.00 	|  0.00 	|  0.19 	|  0.00 	|  0.00 
-|     V 	|  0.43 	|  0.03 	|  0.00 	|  0.24 	|  0.00 	|  0.20 	|  0.00 
-|    VI 	|  0.00 	|  0.00 	|  0.00 	|  0.27 	|  0.10 	|  0.00 	|  0.00 
-| flat-VII 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
+|     I 	|  0.00 	|  0.09 	|  0.00 	|  0.45 	|  0.37 	|  0.00 	|  0.00
+|    II 	|  1.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00
+|   III 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00
+|    IV 	|  0.65 	|  0.05 	|  0.00 	|  0.00 	|  0.19 	|  0.00 	|  0.00
+|     V 	|  0.43 	|  0.03 	|  0.00 	|  0.24 	|  0.00 	|  0.20 	|  0.00
+|    VI 	|  0.00 	|  0.00 	|  0.00 	|  0.27 	|  0.10 	|  0.00 	|  0.00
+| flat-VII 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00
 {: rules="groups"}
 
 **Table 8.** Median transitional probabilities for Cluster 0 of CCLI-2011 corpus.
 
 | 	|   I 	|  II 	|  III 	|  IV 	|   V 	|  VI 	| flat-VII 	|
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|     I 	|  0.00 	|  0.00 	|  0.00 	|  0.10 	|  0.76 	|  0.14 	|  0.00 
-|    II 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
-|   III 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
-|    IV 	|  0.97 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
-|     V 	|  0.08 	|  0.00 	|  0.00 	|  0.38 	|  0.00 	|  0.48 	|  0.00 
-|    VI 	|  0.00 	|  0.00 	|  0.00 	|  0.88 	|  0.00 	|  0.00 	|  0.00 
-| flat-VII 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
+|     I 	|  0.00 	|  0.00 	|  0.00 	|  0.10 	|  0.76 	|  0.14 	|  0.00
+|    II 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00
+|   III 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00
+|    IV 	|  0.97 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00
+|     V 	|  0.08 	|  0.00 	|  0.00 	|  0.38 	|  0.00 	|  0.48 	|  0.00
+|    VI 	|  0.00 	|  0.00 	|  0.00 	|  0.88 	|  0.00 	|  0.00 	|  0.00
+| flat-VII 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00
 {: rules="groups"}
 
 **Table 9.** Median transitional probabilities for Cluster 2 of CCLI-2011 corpus.
 
 | 	|   I 	|  II 	|  III 	|  IV 	|   V 	|  VI 	| flat-VII 	|
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|     I 	|  0.11 	|  0.00 	|  0.00 	|  0.49 	|  0.16 	|  0.00 	|  0.00 
-|    II 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
-|   III 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
-|    IV 	|  0.32 	|  0.00 	|  0.00 	|  0.00 	|  0.68 	|  0.00 	|  0.00 
-|     V 	|  0.45 	|  0.00 	|  0.00 	|  0.02 	|  0.00 	|  0.29 	|  0.00 
-|    VI 	|  0.00 	|  0.00 	|  0.00 	|  0.56 	|  0.00 	|  0.00 	|  0.00 
-| flat-VII 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
+|     I 	|  0.11 	|  0.00 	|  0.00 	|  0.49 	|  0.16 	|  0.00 	|  0.00
+|    II 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00
+|   III 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00
+|    IV 	|  0.32 	|  0.00 	|  0.00 	|  0.00 	|  0.68 	|  0.00 	|  0.00
+|     V 	|  0.45 	|  0.00 	|  0.00 	|  0.02 	|  0.00 	|  0.29 	|  0.00
+|    VI 	|  0.00 	|  0.00 	|  0.00 	|  0.56 	|  0.00 	|  0.00 	|  0.00
+| flat-VII 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00
 {: rules="groups"}
 
 **Table 10.** Median transitional probabilities for Cluster 3 of CCLI-2011 corpus.
 
 | 	|   I 	|  II 	|  III 	|  IV 	|   V 	|  VI 	| flat-VII 	|
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|     I 	|  0.00 	|  0.08 	|  0.00 	|  0.66 	|  0.14 	|  0.00 	|  0.00 
-|    II 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  1.00 	|  0.00 	|  0.00 
-|   III 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
-|    IV 	|  0.64 	|  0.00 	|  0.00 	|  0.00 	|  0.27 	|  0.00 	|  0.00 
-|     V 	|  0.25 	|  0.00 	|  0.00 	|  0.63 	|  0.00 	|  0.00 	|  0.00 
-|    VI 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  1.00 	|  0.00 	|  0.00 
-| flat-VII 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 
+|     I 	|  0.00 	|  0.08 	|  0.00 	|  0.66 	|  0.14 	|  0.00 	|  0.00
+|    II 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  1.00 	|  0.00 	|  0.00
+|   III 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00
+|    IV 	|  0.64 	|  0.00 	|  0.00 	|  0.00 	|  0.27 	|  0.00 	|  0.00
+|     V 	|  0.25 	|  0.00 	|  0.00 	|  0.63 	|  0.00 	|  0.00 	|  0.00
+|    VI 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  1.00 	|  0.00 	|  0.00
+| flat-VII 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00 	|  0.00
 {: rules="groups"}
 
 **Table 11.** Median transitional probabilities for Cluster 4 of CCLI-2011 corpus.
@@ -211,28 +211,28 @@ There are some substantial differences between these five clusters (or four clus
 
 |      V–I 	|     V–II 	|    V–III 	|     V–IV 	|      V–V 	|     V–VI 	|    V–flat-VII 	|
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 0.24 – 0.60 	| –0.07 – 0.13 	|     0.00 	|  0.20 – 0.28 	| –0.10 – 0.10 	| –0.08 – 0.48 	|     0.00 
+| 0.24 – 0.60 	| –0.07 – 0.13 	|     0.00 	|  0.20 – 0.28 	| –0.10 – 0.10 	| –0.08 – 0.48 	|     0.00
 {: rules="groups"}
 
 **Table 12.** 95%-confidence intervals for median transitional probabilities for progressions away from V in the CCLI-2011 corpus, Cluster 0.
 
 |      V–I 	|     V–II 	|    V–III 	|     V–IV 	|      V–V 	|     V–VI 	|    V–flat-VII 	|
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 0.01 – 0.15 	| –0.03 – 0.03 	|     0.00 	|  0.23 – 0.53 	| –0.01 – 0.01 	|  0.27 – 0.69 	|     0.00 
+| 0.01 – 0.15 	| –0.03 – 0.03 	|     0.00 	|  0.23 – 0.53 	| –0.01 – 0.01 	|  0.27 – 0.69 	|     0.00
 {: rules="groups"}
 
 **Table 13.** 95%-confidence intervals for median transitional probabilities for progressions away from V in the CCLI-2011 corpus, Cluster 2.
 
 |      V–I 	|     V–II 	|    V–III 	|     V–IV 	|      V–V 	|     V–VI 	|    V–flat-VII 	|
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 0.29 – 0.61 	| –0.18 – 0.18 	|     0.00 	| –0.07 – 0.11 	| –0.02 – 0.02 	|  0.13 – 0.45 	| –0.02 – 0.02 
+| 0.29 – 0.61 	| –0.18 – 0.18 	|     0.00 	| –0.07 – 0.11 	| –0.02 – 0.02 	|  0.13 – 0.45 	| –0.02 – 0.02
 {: rules="groups"}
 
 **Table 14.** 95%-confidence intervals for median transitional probabilities for progressions away from V in the CCLI-2011 corpus, Cluster 3.
 
 |      V–I 	|     V–II 	|    V–III 	|     V–IV 	|      V–V 	|     V–VI 	|    V–flat-VII 	|
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| –0.15 – 0.65 	| –0.04 – 0.04 	|     0.00 	|  0.21 – 1.05 	|     0.00 	| –0.05 – 0.05 	|     0.00 
+| –0.15 – 0.65 	| –0.04 – 0.04 	|     0.00 	|  0.21 – 1.05 	|     0.00 	| –0.05 – 0.05 	|     0.00
 {: rules="groups"}
 
 **Table 15.** 95%-confidence intervals for median transitional probabilities for progressions away from V in the CCLI-2011 corpus, Cluster 4.

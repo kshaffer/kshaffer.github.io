@@ -3,7 +3,7 @@ layout: post
 title: "Publishing with GitHub pages"
 date: 2013-09-25 14:56
 comments: true
-categories: blog
+categories: [coding]
 share: true
 tags:
 - open-access  
@@ -36,7 +36,7 @@ First, we exported all the Google Docs as HTML files.
 Next, we converted those files to MarkDown, using the following code for each file (you may need to download and install [Pandoc](http://johnmacfarlane.net/pandoc/)):
 
     pandoc -f html -t markdown --no-wrap -o FILENAME.md FILENAME.html
-    
+
 Because of Google's weird stylesheet, some formatting will be lost and will have to be re-added manually: bold, italics, headings, etc. Likewise, if you plan on using LaTeX to make a PDF, you will have to replace some Unicode characters (smart quotes, em dashes, etc.) with regular characters. However, this is a pretty quick process, especially compared to what you have to reconstruct if you export the Google Docs as MS Word files.
 
 The only thing these documents are Missing are the headers that GitHub is expecting in order to build the website. Simply use the headers in the markdown files for the ebook you forked, replacing author and title information. Watch out for colons, though! These headers (called YAML headers) don't play nice with colons in titles. Use HTML code instead. (See [example](https://raw.github.com/flipcamp/engagingstudents/gh-pages/shafferintro.md).)
@@ -165,15 +165,15 @@ To create a PDF with LaTeX, make a new MarkDown file with a proper LaTeX/MarkDow
 Then copy all of the content files into that single new file, and replace the YAML headers with chapter-title headings and an author's byline. (Or, simply copy all the content from the ePub source files, where you already replaced the headers.) Then you have to use [multimarkdown](http://fletcherpenney.net/multimarkdown/) with LaTeX to produce the PDF. Details are included on the multimarkdown site, but I have a helper script that I use. I know it should be a shell script, but I'm better at Python, so that's what I have! It should be good for any Mac OS/Linux distribution, provided you've got a working installation of LaTeX and multimarkdown (both free and open source).
 
     #!/path/to/python
-    
+
     import sys
     import os
-    
+
     mdFileName = sys.argv[1]
 	texFileName = os.path.splitext(mdFileName)[0] + '.tex'
     pdfFileName = os.path.splitext(mdFileName)[0] + '.pdf'
     rootFile = os.path.splitext(mdFileName)[0]
-    
+
     os.system('multimarkdown -t latex ' + mdFileName + ' > ' + texFileName)
     os.system('latexmk -f ' + texFileName)
     os.system('pdflatex ' + texFileName)

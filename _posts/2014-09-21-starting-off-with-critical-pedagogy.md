@@ -8,8 +8,8 @@ image:
   credit: Roberto Vinicius
   creditlink: https://www.flickr.com/photos/robvini/2184671155
 comments: true
-categories: blog
 share: true
+categories: [pedagogy]
 ---
 
 A teacher's first encounter with critical pedagogy can be overwhelming. The ideology is radically (pun intended) different from "traditional" approaches to education, and it can be easy to lose the trees for the forest, so to speak. Critical pedagogues, myself included, like to write sweeping manifestos. And because the movement is heavily ideological and rooted in justice, it can be easy to think that the only way to become a critical pedagogue is to change *absolutely everything* about the way we relate to our students.
@@ -22,7 +22,7 @@ Working out a change from "traditional" (i.e., industrial) pedagogy to critical 
 
 **Don't make students wait in line.** This is another soccer-coaching insight. If most of the kids on the field are waiting behind a line of cones for their chance to play while one or two teammates are active, we're failing the kids. In other words, every kid should have a ball at their feet for most of practice. When there are more than one or two players in the queue at a time, get another line going, and keep them moving. Often our class discussions look like one of these soccer drills: an excellent drill, but it only engages one or two students at a time. The rest are waiting in line, and possibly not even spectating. Critical discussions often happen better in smaller groups than full classes anyway, so why not split the class up, appoint a couple "cone jockeys" (what we call parents or older siblings at practice who don't actively coach, but simply keep things moving), and set them all to work.
 
-**Ask questions that don't have answers (yet).** If class activities are directed towards a single, correct answer, our student-centered pedagogy will be disingenuous. Chris Friend calls this ["lecture in disguise."](http://www.hybridpedagogy.com/journal/learning-let-go-listening-students-discussion/) Teleology kills inquiry, and when the answer is known, our pedagogy is content-centered rather than student-centered. Asking questions that don't have answers can help us break our addiction to answers, and can help students do the same. 
+**Ask questions that don't have answers (yet).** If class activities are directed towards a single, correct answer, our student-centered pedagogy will be disingenuous. Chris Friend calls this ["lecture in disguise."](http://www.hybridpedagogy.com/journal/learning-let-go-listening-students-discussion/) Teleology kills inquiry, and when the answer is known, our pedagogy is content-centered rather than student-centered. Asking questions that don't have answers can help us break our addiction to answers, and can help students do the same.
 
 I should point out, though, that sometimes there are answers that students need to know. But with a little extra thought, we can usually devise a class activity that either uses that information as the springboard for critical inquiry, or that frames pursuit of that answer in a way that has students propose, experiment with, and evaluate methods for finding the answer. For example, students can compare different methods of transcribing music by ear to evaluate which method works better for different music or individuals. Or students could compare "traditional" with "new" methods for doing arithmetic. In such situations, we shift the focus of the class from the answer that is known to questions about things that are not known or that are particular to the individual. They still learn the "facts," but in the process learn more about how to ask and pursue answers to other questions they encounter in the future.
 

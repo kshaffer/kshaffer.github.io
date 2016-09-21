@@ -5,7 +5,7 @@ date: 2013-01-25 21:04:33
 layout: post
 slug: my-musicianship-classroom
 title: My musicianship classroom
-categories: blog
+categories: [pedagogy, personal updates]
 share: true
 wordpress_id: 671
 tags:
@@ -29,7 +29,7 @@ I also have a new office this year, since this classroom is in a different build
 
 [![](/uploads/2013/01/desk-300x225.jpg)](/uploads/2013/01/desk.jpg)
 
-It's an IKEA Galant table with extendable legs. On top is an IKEA Galant table extension, with 6" Capita legs. It just sits on top (the table's extendable legs don't quite get the table high enough for me, so this gives me a few more inches), and I can take it off if I need to. 
+It's an IKEA Galant table with extendable legs. On top is an IKEA Galant table extension, with 6" Capita legs. It just sits on top (the table's extendable legs don't quite get the table high enough for me, so this gives me a few more inches), and I can take it off if I need to.
 
 I really enjoy standing while I work. I work faster, I can drink less coffee without hitting an afternoon slump, and I sleep better (if my four-year-old lets me!). When I'm writing, I like to pace around while working out ideas, so a standing desk is perfect for alternating writing at the computer with pacing around the office while I think out loud. (I don't have any pictures or video of that particular workflow. Sorry!)
 

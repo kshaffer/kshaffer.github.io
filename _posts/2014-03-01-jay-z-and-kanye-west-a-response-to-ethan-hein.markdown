@@ -3,7 +3,8 @@ layout: post
 title: "Jay-Z and Kanye West – a response to Ethan Hein"
 date: 2014-03-01 19:13
 comments: true
-categories: blog
+catcategories: [musicology]
+egories: blog
 share: true
 ---
 

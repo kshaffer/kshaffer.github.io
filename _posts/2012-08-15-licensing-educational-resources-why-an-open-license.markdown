@@ -5,7 +5,7 @@ date: 2012-08-15 09:04:55
 layout: post
 slug: licensing-educational-resources-why-an-open-license
 title: 'Licensing educational resources: why an open license?'
-categories: blog
+categories: [public scholarship]
 share: true
 wordpress_id: 581
 tags:
@@ -51,7 +51,7 @@ So an open license, broadly defined, is one in which an author waives one or mor
 
 Why would an author give away one or more of the rights they own under copyright law? I can think of a few reasons why a scholar or an educator would waive some, most, or even all of their rights to the resources they create, which follow below.
 
-_Ideology._ An author, like me, may simply believe that educational resources and scholarly output should be freely available. Education is the transmission of knowledge, skills, and values from one generation to the next. That knowledge, those skills, and those values belong to the community and should be free. Open licenses seek to ensure that freedom. 
+_Ideology._ An author, like me, may simply believe that educational resources and scholarly output should be freely available. Education is the transmission of knowledge, skills, and values from one generation to the next. That knowledge, those skills, and those values belong to the community and should be free. Open licenses seek to ensure that freedom.
 
 Even if you don't agree with that ideology, though, there are other reasons why it makes sense to use an open license.
 

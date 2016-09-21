@@ -4,7 +4,7 @@ layout: post
 title: "Moving on . . ."
 date: 2013-05-15 08:43
 comments: true
-categories: blog
+categories: [personal news]
 share: true
 tags:
 - CSU

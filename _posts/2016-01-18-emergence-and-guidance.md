@@ -8,20 +8,20 @@ image:
   credit: Will Montague
   creditlink: https://www.flickr.com/photos/willmontague/4718663615/
 share: true
-categories: blog
+categories: [pedagogy]
 ---
 
 Lee Skallerup Bessette published a blog post today, [Teaching and Learning as Paying Attention,](http://readywriting.org/uncategorized/teaching-and-learning-as-paying-attention/) which I very much appreciated. Lee writes:
 
 > I believe very deeply in empowering students to take ownership of their learning. But I also believe in my role as someone who facilitates a space where they are confronted with the limits of their knowledge, of their perspective, of their worldview. This class, then, for me, is an opportunity for all of us to pay attention, notice, and then create and learn.
 
-This point really resonated with me, in large part because of some discussions I've had recently about predetermined learning outcomes, emergent learning, and "content" in higher education (most recently with Sean Michael Morris and Jesse Stommel on Twitter). Typically, an educator who, like me, espouses *critical pedagogy*, is pushing for less emphasis on content and predetermined learning objectives. However, when discussing educational philosophy "in-house" with other critical pedagogues, I've found myself increasingly defending the idea of predetermined content objectives. This is not because I believe that "content is king," or anything of the kind. This is because I believe that the kind of emergent learning we seek is facilitated by the presence of a large, diverse base of knowledge within the learning community, and that, as Lee expresses, the critically minded agency we seek to foster in our students can often be best facilitated by the careful, expert guidance of an instructor. 
+This point really resonated with me, in large part because of some discussions I've had recently about predetermined learning outcomes, emergent learning, and "content" in higher education (most recently with Sean Michael Morris and Jesse Stommel on Twitter). Typically, an educator who, like me, espouses *critical pedagogy*, is pushing for less emphasis on content and predetermined learning objectives. However, when discussing educational philosophy "in-house" with other critical pedagogues, I've found myself increasingly defending the idea of predetermined content objectives. This is not because I believe that "content is king," or anything of the kind. This is because I believe that the kind of emergent learning we seek is facilitated by the presence of a large, diverse base of knowledge within the learning community, and that, as Lee expresses, the critically minded agency we seek to foster in our students can often be best facilitated by the careful, expert guidance of an instructor.
 
 I wrote about my educational goals in my blog post, [Student-centered curriculum:](http://kris.shaffermusic.com//2014/12/student-centered-curriculum/)
 
-> the goal of education is to empower and equip students to be critically minded agents. While instructor guidance may be appropriate, the ultimate goal is for students to be capable of making these decisions. 
+> the goal of education is to empower and equip students to be critically minded agents. While instructor guidance may be appropriate, the ultimate goal is for students to be capable of making these decisions.
 
-And with a bit more detail about "content" (from [Why grade?](http://kris.shaffermusic.com//2014/07/why-grade/)): 
+And with a bit more detail about "content" (from [Why grade?](http://kris.shaffermusic.com//2014/07/why-grade/)):
 
 > [M]y purpose as an educator is largely not to instill content knowledge. My goal is for my students to learn how to learn, and to gain skills that will allow them to continue learning independently once the course is over. Those skills will certainly require content knowledge or, at least, familiarity, but content is important primarily to the extent that it supports students' intellectual growth within the discipline.
 
@@ -39,10 +39,10 @@ So does instructor guidance. In [Designing for Emergence: The Role of the Instru
 
 What Mary describes here is exactly my experience. While I'd love for my classes to immediately take shape as emergent, collaborative learning environments, that often takes time and hard work, from me and from the students. And for profound epiphanies to take place, we need a strong base of content to build on, critique, and at times, reject. But, again, this content ― even the instructor ― is not central.
 
-Ultimately, designing a student-centered, even student-driven, course aimed at emergent, epiphanal learning is really hard. And it's easy to slip into old instructor-centered habits. These kind of learning environments don't "spontaneously spring into existence." This kind of pedagogy takes both nuance in design, and a lot of self-discipline in implementation. And this is the expertise that teachers really need to cultivate, and then bring into the classroom. 
+Ultimately, designing a student-centered, even student-driven, course aimed at emergent, epiphanal learning is really hard. And it's easy to slip into old instructor-centered habits. These kind of learning environments don't "spontaneously spring into existence." This kind of pedagogy takes both nuance in design, and a lot of self-discipline in implementation. And this is the expertise that teachers really need to cultivate, and then bring into the classroom.
 
 
-## Related posts 
+## Related posts
 
 - [Academic freedom is for students, too](http://kris.shaffermusic.com//2015/04/academic-freedom-is-for-students/)  
 - [Lecture in a flipped class](http://kris.shaffermusic.com//2014/12/lecture-in-a-flipped-class/)  

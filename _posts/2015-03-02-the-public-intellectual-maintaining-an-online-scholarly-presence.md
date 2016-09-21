@@ -10,7 +10,7 @@ image:
   creditlink: https://www.flickr.com/photos/mkhmarketing/8470078968/
 comments: true
 share: true
-categories: blog
+categories: [public scholarship, presentations]
 ---
 
 Today I gave a presentation on public scholarship in the Musicology and Music Theory Colloquium series at CU. This was my first time tweeting as I presented. (I used the [Backdraft app](http://www.itap.purdue.edu/studio/backdraft/) to pre-load tweets to launch during the presentation.) Though they didn't mix much, there was good discussion both in person and online about the value of working in public, and about tools and modes of learning how to do it well.

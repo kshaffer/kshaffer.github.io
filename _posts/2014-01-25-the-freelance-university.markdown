@@ -3,11 +3,11 @@ layout: post
 title: "The freelance university?"
 date: 2014-01-25 20:28
 comments: true
-categories: blog
+categories: [higher ed]
 share: true
 ---
 
-I pondered some things out loud on Twitter last week. 
+I pondered some things out loud on Twitter last week.
 
 <blockquote class="twitter-tweet" lang="en"><p>Also pondering what freelance musicians and composers could teach academics about contingency and contract work. <a href="https://twitter.com/search?q=%23digped&amp;src=hash">#digped</a></p>&mdash; Kris Shaffer (@krisshaffer) <a href="https://twitter.com/krisshaffer/statuses/422568302200647680">January 13, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

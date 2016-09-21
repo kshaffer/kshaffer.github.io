@@ -5,7 +5,7 @@ date: 2012-09-01 19:06:25
 layout: post
 slug: first-week-reflections
 title: First week reflections
-categories: blog
+categories: [pedagogy]
 share: true
 wordpress_id: 597
 tags:
@@ -33,7 +33,7 @@ The last big change was the grading system. After trying a version of criterion-
 
 So far, this system has lead to several clear differences when compared with the average-based system I used last fall for more-or-less the same material. First, I am now directly assessing specific things the students are studying. I know exactly who knows their major key signatures or can sing their sequential scale patterns and who does not. Second, the students also know exactly what they have and have not mastered, and some are using that information well as they strategize their studies. Third, because failed quizzes en route to mastery do not bring down the final grade, student morale surrounding the daily fundamentals quizzes are much higher than last year. A failed quiz is not demoralizing, it is information and a benchmark for measuring improvement. And with multiple quizzes most class days (in Musicianship I), most students knock off at least one course objective each meeting.
 
-Lastly, mastery of the course objectives is being achieved more quickly and by more students than last year. Take major key signature recognition, the first objective tackled this and last year in Musicianship I/Music Theory I. Last year, I gave five timed quizzes that included major key signatures. However, each one also included minor key signatures, scales, and on the last two, intervals. Looking at my grade book, I can see that on those five quizzes, 13% of them received passing grades. I also remember how much of a morale killer those timed quizzes were. Many students just gave up on the possibility of ever having a passing quiz average and focused their efforts elsewhere. 
+Lastly, mastery of the course objectives is being achieved more quickly and by more students than last year. Take major key signature recognition, the first objective tackled this and last year in Musicianship I/Music Theory I. Last year, I gave five timed quizzes that included major key signatures. However, each one also included minor key signatures, scales, and on the last two, intervals. Looking at my grade book, I can see that on those five quizzes, 13% of them received passing grades. I also remember how much of a morale killer those timed quizzes were. Many students just gave up on the possibility of ever having a passing quiz average and focused their efforts elsewhere.
 
 This semester has been a completely different story. Two weeks into the semester, 32 out of 35 students have passed the major key signature recognition standard, which means correctly identifying 13 out of 15 major key signatures in 90 seconds on a 15-answer, multiple-choice, computerized quiz. 15 passed on the first attempt, 7 on the second attempt, 5 on the third, 4 on the fourth, and 1 on the fifth. I know for certain that this is much better than last year, but I don't have specific data from last year on key signature mastery, just holistic grades for each quiz. This points to two benefits of this new system: more students learning the material—and _really_ learning, at 13/15 correct in 90 seconds—and direct assessment of the skills required, which both I and the students can use to plan class activities and study strategies.
 

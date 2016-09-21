@@ -10,7 +10,7 @@ image:
   creditlink: https://www.flickr.com/photos/0x0000org/3943696738
 comments: true
 share: true
-categories: blog
+categories: [pedagogy]
 ---
 
 State standardized tests are certainly worthy of the attack that is being launched against them in American educational politics these days. However, they are also a distraction. Less state testing — even the complete elimination of state standardized tests — will not solve the more fundamental problem of industrialization underpinning a wide variety of educational practices. In fact, if we focus too much on state testing, we run the risk of missing many of the more covert, but also more pervasive, industrialist elements in American education.

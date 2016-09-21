@@ -8,7 +8,7 @@ image:
   credit: Iowa Digital Library
   creditlink: https://www.flickr.com/photos/uiowa/8047288890/in/photolist-5B4bGA-dg7rav-dg7r7v-dg7sCb-dg7re2-dg7sKL-dg7oTy-aBjT6g-aBjSdV-aBjSxF-aBny8h-aBjSSr-dg6WY8
 comments: true
-categories: blog
+categories: [pedagogy]
 share: true
 ---
 
@@ -30,6 +30,6 @@ This kind of rigor is exactly what education should be about: intellectual and s
 
 It is important to note that not only does difficulty not guarantee this kind of rigor or "good"ness, but if that unrigorous difficulty consumes time and energy that could have been spent on activities that stimulate the intellect, that difficult class is anti-rigorous, anti-educational.
 
-What most educators usually mean by a "difficult" or "hard" class is not intellectually rigorous. And what most educators usually mean by "rigorous" is not good for our students' intellectual and social development. So the assumption that a difficult class is a rigorous class is a good class is fallacious. 
+What most educators usually mean by a "difficult" or "hard" class is not intellectually rigorous. And what most educators usually mean by "rigorous" is not good for our students' intellectual and social development. So the assumption that a difficult class is a rigorous class is a good class is fallacious.
 
 However, there is a kind of difficulty and a kind of rigor that *does* foster deep engagement and promote the (re)forming of the intellect. That is the kind of difficulty with which we should charge ourselves and our students. That is the kind of rigor we should pursue.

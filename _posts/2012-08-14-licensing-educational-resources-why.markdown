@@ -5,7 +5,7 @@ date: 2012-08-14 09:03:04
 layout: post
 slug: licensing-educational-resources-why
 title: 'Licensing educational resources: why?'
-categories: blog
+categories: [public scholarship]
 share: true
 wordpress_id: 573
 tags:

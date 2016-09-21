@@ -10,7 +10,7 @@ image:
   creditlink: https://www.flickr.com/photos/hfiguiere/8981013119
 comments: true
 share: true
-categories: blog
+categories: [pedagogy]
 ---
 
 *Starting on July 19, I will be leading a 3-week, intensive online course on the "flipped" or "inverted" classroom. This is the first professional development course offered by [Hybrid Pedagogy](http://www.hybridpedagogy.com) as part of its new [Digital Pedagogy Lab](http://www.digitalpedagogylab.com/). What follows is a draft syllabus for the course. I'm still finalizing the reading list, and will post that once it is set.*
@@ -35,11 +35,11 @@ There are no required purchases. All reading materials will be open-access or pr
 
 - **A public blog.** If you do not already have one, or want to use a separate site for this course, I highly recommend the [Known](http://withknown.com) platform, especially for beginners seeking a quick start.  
 - **A public Twitter account.** Pseudonyms are allowed, but please let your course colleagues and me know your pseudonym!  
-- **Other online resources TBA.** We are still exploring what online discussion and file/link-sharing tool(s) will be best for this course's format. 
+- **Other online resources TBA.** We are still exploring what online discussion and file/link-sharing tool(s) will be best for this course's format.
 
 # Schedule and coursework
 
-The course will be divided into three one-week units. 
+The course will be divided into three one-week units.
 
 ## Unit I: July 19–25
 
@@ -106,7 +106,7 @@ Create a complete, detailed syllabus for the course, as well as at least two wee
 
 # Assessment
 
-In general, this is a course with no grades. However, I will provide comments and feedback on all work completed on schedule. Also, participants will be able to obtain a certificate of completion, if so desired. 
+In general, this is a course with no grades. However, I will provide comments and feedback on all work completed on schedule. Also, participants will be able to obtain a certificate of completion, if so desired.
 
 To obtain a certificate of completion, participants complete 85% of the assigned work. To obtain a certification *with distinction*, participants complete 95% of the assigned work, *and* draw on optional readings or other non-required materials in at least 50% of the written blog posts (pre-reading reflections, reading responses, and follow-up reflections).
 

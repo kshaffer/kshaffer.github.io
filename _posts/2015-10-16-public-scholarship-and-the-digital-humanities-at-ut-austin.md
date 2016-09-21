@@ -10,10 +10,10 @@ image:
   creditlink: https://www.flickr.com/photos/nanagyei/5199156473
 comments: true
 share: true
-categories: blog
+categories: [presentations, public scholarship]
 ---
 
-Next week, I will be at the University of Texas at Austin, presenting and leading sessions on music, public scholarship, and the digital humanities. As the title suggests, I will be posting many things before, during, and after the visit — mostly on Twitter with the hashtag #publicscholar. Feel free to follow along, especially during the sessions themselves. 
+Next week, I will be at the University of Texas at Austin, presenting and leading sessions on music, public scholarship, and the digital humanities. As the title suggests, I will be posting many things before, during, and after the visit — mostly on Twitter with the hashtag #publicscholar. Feel free to follow along, especially during the sessions themselves.
 
 Following are abstracts for each of the sessions I'll be leading. If you're in Austin, I hope you can stop by! I'm still waiting to hear back with timings and specific locations for a couple of these, but I'll update this post once I have that info.
 
@@ -44,8 +44,8 @@ Humanities research is usually a solitary affair, but online collaboration opens
 **MRH 2.604**  
 **Association of Graduate Ethnomusicology and Musicology Students (AGEMS) Colloquium series**
 
-How many people read the average scholarly article? What do people find when they Google your name? 
+How many people read the average scholarly article? What do people find when they Google your name?
 
-The internet has opened up new means of communication and publishing that have changed (and are still changing) the way that we find information, engage with texts, and connect with others. These changes pose tremendous opportunities ― and challenges ― to humanities scholars. How do we ensure that would-be readers have access to our work? How do we ensure that our scholarship has the greatest potential to make a positive impact on the world ― or at least our corner of it? 
+The internet has opened up new means of communication and publishing that have changed (and are still changing) the way that we find information, engage with texts, and connect with others. These changes pose tremendous opportunities ― and challenges ― to humanities scholars. How do we ensure that would-be readers have access to our work? How do we ensure that our scholarship has the greatest potential to make a positive impact on the world ― or at least our corner of it?
 
 In this presentation, Kris Shaffer (CU–Boulder & Hybrid Pedagogy Publishing) will lay out some of the ways the scholarly publishing landscape is changing, as well as some of the ways that scholars can use new forms of digital communication to increase the potential impact of our work. Not only can the use of digital and social media increase readership inside and outside the academy, but it can open up new dialogs with those outside our scholarly disciplines, dialogs that can enrich our scholarship and form new communities that themselves have value.

@@ -3,9 +3,9 @@ layout: post
 title: "John Calvin on what it means to be human"
 date: 2013-07-08 14:23
 comments: true
-categories: blog
+categories: [christianity]
 share: true
-tags: 
+tags:
 - Christianity  
 - John Calvin  
 - humanities  

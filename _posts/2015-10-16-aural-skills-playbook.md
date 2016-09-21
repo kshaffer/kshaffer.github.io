@@ -10,7 +10,7 @@ image:
   creditlink: https://www.flickr.com/photos/rhodesj/14381771822/
 comments: true
 share: true
-categories: blog
+categories: [pedagogy]
 ---
 
 I'm currently assembling some materials for the instructional team for Aural Skills III, as we begin a new unit focusing on the transcription and improvisation of standard classical theme types. I'm assembling a "playbook" — a quasi-progressive set of activities — that they can choose from as they prepare for their section meetings and change plans mid-class, if necessary. These are things that I've found helpful working with students who are learning how to transcribe four-part textures, sight-read classical melodies, and improvise in the classical style.

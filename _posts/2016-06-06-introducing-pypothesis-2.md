@@ -8,7 +8,7 @@ image:
   credit: darkday
   creditlink: https://www.flickr.com/photos/drainrat/15783249894/in/faves-131104016@N08/
 share: true
-categories: blog
+categories: [coding]
 ---
 
 Recently I've created two tools to help people make fuller use of hypothes.is in their work as public scholars. This post is the second in a two-part series introducing and explaining those tools, which are based on the hypothes.is API. For Part 1, see [Introducing Pypothesis ― Part 1: hypothes.is to MarkDown](http://kris.shaffermusic.com/2016/06/introducing-pypothesis-1/).

@@ -5,7 +5,7 @@ date: 2011-09-16 20:00:20
 layout: post
 slug: my-life-right-now
 title: My life right now
-categories: blog
+categories: [personal news]
 share: true
 wordpress_id: 154
 ---

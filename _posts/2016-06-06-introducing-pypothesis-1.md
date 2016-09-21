@@ -8,7 +8,7 @@ image:
   credit: darkday
   creditlink: https://www.flickr.com/photos/drainrat/16786733075/
 share: true
-categories: blog
+categories: [coding]
 ---
 
 I've been working and writing a lot lately about using the web annotation tool [hypothes.is](https://hypothes.is) for public scholarship. It has a lot of cool uses ― not only the collaborative annotation of individual web pages, but also the creation of a [public research notebook](http://kris.shaffermusic.com/2016/04/hypothesis-public-research-notebook/), and the possibility of linking hypothes.is with other apps [through the use of their open API](http://kris.shaffermusic.com/2016/05/getting-started-with-the-hypothesis-api/).

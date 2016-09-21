@@ -3,7 +3,7 @@ layout: post
 title: "What is music theory?"
 date: 2014-02-27 20:58
 comments: true
-categories: blog
+categories: [musicology]
 share: true
 tags:
 - music theory
@@ -15,7 +15,7 @@ tags:
 - teaching
 ---
 
-Music theory is making the rounds lately. It seems to have started with Ethan Hein's post on Quora, and subsequently on Slate, ["How Can Traditional Music Theory Mesh With Modern Pop Music?"](http://www.slate.com/blogs/quora/2014/02/17/teaching_music_theory_how_can_modern_music_mix_with_traditional_theory.html). It's not a very flattering piece about the discipline that I call my professional home. Unfortunately, Heim's post, as [Bryn Hughes points out](http://blog.brynhughes.org/2014/02/in-defense-of-music-theory.html), contains straw-man arguments, misinformation, and generalizations, but it's received wide publicity. Of course, there are a number of things—some of them big things—that Anglo-American music theorists need to do better. However, it is clear both from Heim's post and from the ease with which it circulated that most people simply don't know what music theory is and what music theorists do. That, of course, is largely the fault of music theorists. On the whole, we tend to be a fairly insular bunch. Following Bryn's lead, I hope to do my part to correct that a bit by offering as concise a summary I can of what music theory is, and (in light of Heim's specific critiques) what college music theory courses are about. 
+Music theory is making the rounds lately. It seems to have started with Ethan Hein's post on Quora, and subsequently on Slate, ["How Can Traditional Music Theory Mesh With Modern Pop Music?"](http://www.slate.com/blogs/quora/2014/02/17/teaching_music_theory_how_can_modern_music_mix_with_traditional_theory.html). It's not a very flattering piece about the discipline that I call my professional home. Unfortunately, Heim's post, as [Bryn Hughes points out](http://blog.brynhughes.org/2014/02/in-defense-of-music-theory.html), contains straw-man arguments, misinformation, and generalizations, but it's received wide publicity. Of course, there are a number of things—some of them big things—that Anglo-American music theorists need to do better. However, it is clear both from Heim's post and from the ease with which it circulated that most people simply don't know what music theory is and what music theorists do. That, of course, is largely the fault of music theorists. On the whole, we tend to be a fairly insular bunch. Following Bryn's lead, I hope to do my part to correct that a bit by offering as concise a summary I can of what music theory is, and (in light of Heim's specific critiques) what college music theory courses are about.
 
 # What is music theory?
 
@@ -50,4 +50,4 @@ It also does not fairly represent all that the field has to offer to musicians a
 
 Were theory a set of prescriptive rules, and were the most popular textbooks the best representation of those rules, I would wholeheartedly agree. Theory would be irrelevant. And so I unfortunately agree that theory, as many musicians know it, is irrelevant.
 
-But composing "by the book" is not music theory. Explaining what the norms were when Brahms deviated from them, understanding what options he did (and didn't) have at his disposal, helps us better understand why he deviated in the way he did, why it was received the way it was, and why it still has meaning for us today. Likewise, understanding the heavily contextual nature of musical styles helps us understand not only why Bach and Brahms are different, but also why some people who care deeply about music don't give either Bach or Brahms a second thought. Those questions are not all answered in Freshman theory class. (In fact, some of them have answers as fluid as the practices that are being explored.) But these are the kinds of questions music theory equips people to engage. 
+But composing "by the book" is not music theory. Explaining what the norms were when Brahms deviated from them, understanding what options he did (and didn't) have at his disposal, helps us better understand why he deviated in the way he did, why it was received the way it was, and why it still has meaning for us today. Likewise, understanding the heavily contextual nature of musical styles helps us understand not only why Bach and Brahms are different, but also why some people who care deeply about music don't give either Bach or Brahms a second thought. Those questions are not all answered in Freshman theory class. (In fact, some of them have answers as fluid as the practices that are being explored.) But these are the kinds of questions music theory equips people to engage.

@@ -3,7 +3,7 @@ layout: post
 title: "Command-line tools on the iPad"
 date: 2013-12-28 22:55
 comments: true
-categories: blog
+categories: [coding]
 share: true
 tags:
 - command-line  

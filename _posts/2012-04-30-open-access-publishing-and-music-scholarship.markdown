@@ -5,7 +5,7 @@ date: 2012-04-30 08:21:51
 layout: post
 slug: open-access-publishing-and-music-scholarship
 title: Open-access publishing and music scholarship
-categories: blog
+categories: [public scholarship]
 share: true
 wordpress_id: 359
 tags:

@@ -8,7 +8,7 @@ image:
   credit: imacgyv0r
   creditlink: https://flic.kr/p/7WqGGA
 comments: true
-categories: blog
+categories: [pedagogy, musicology]
 share: true
 ---
 
@@ -16,7 +16,7 @@ share: true
 
 ## A brief history of *basso continuo*
 
-*Basso continuo* (It. for "continuous bass" or "thoroughbass") is essentially a chordal version of first-species counterpoint. However, instead of composing a single line above a cantus firmus, one composes a succession of chords (performed in the right hand) above a bass line (performed in the left hand). *Basso continuo* writing, also referred to as *realizing a figured bass*, gives no consideration to melody, only to the use of proper chords and the smoothest voice-leading possible. Thus, *basso continuo* style is a simple place to begin engaging the "fundamental musical problems" that arise when more than two lines are combined. 
+*Basso continuo* (It. for "continuous bass" or "thoroughbass") is essentially a chordal version of first-species counterpoint. However, instead of composing a single line above a cantus firmus, one composes a succession of chords (performed in the right hand) above a bass line (performed in the left hand). *Basso continuo* writing, also referred to as *realizing a figured bass*, gives no consideration to melody, only to the use of proper chords and the smoothest voice-leading possible. Thus, *basso continuo* style is a simple place to begin engaging the "fundamental musical problems" that arise when more than two lines are combined.
 
 ***insert graphic example***
 

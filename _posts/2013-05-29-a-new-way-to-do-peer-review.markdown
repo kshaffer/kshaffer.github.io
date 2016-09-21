@@ -3,10 +3,10 @@ layout: post
 title: "A new way to do peer review"
 date: 2013-05-29 16:50
 comments: true
-categories: blog
+categories: [public scholarship]
 share: true
 author: Kris Shaffer
-tags: 
+tags:
 - peer-review
 - publishing
 - Hybrid Pedagogy
@@ -31,9 +31,9 @@ Two days later, I received an email from one of the editors stating that both of
 
 What followed over the next few days was some back-and-forth in the comments of the Google documents. As I received comments from the reviewers, I responded and/or edited the articles. This was followed by a Google Hangout (video chat) with the two reviewers. The video chat was the most enjoyable part of the process. It involved resolving some remaining issues in the Google document comments, fine tuning the text, and adding hyperlinks to the articles in order to facilitate deeper exploration of the issues from interested readers. We even tossed around some ideas for future articles (one of which being a potential collaboration between myself and one of my reviewers). The last stage involved a final review from Robin Wharton, the production editor, in the Google documents (no video chat), followed by my final revisions in light of those comments.
 
-From submission to publication, the entire process took less than two weeks! It was also entirely transparent—I knew who the reviewers were, they knew me, and we even tweeted publicly about the project during the review process. 
+From submission to publication, the entire process took less than two weeks! It was also entirely transparent—I knew who the reviewers were, they knew me, and we even tweeted publicly about the project during the review process.
 
-I've been involved in the traditional peer-review process only twice before—once as an author, and once as a reviewer. The main differences were time (the traditional process is much slower) and transparency (the traditional review process was either single- or double-blind). I wish that more academic peer review functioned like Hybrid Pedagogy's review process. 
+I've been involved in the traditional peer-review process only twice before—once as an author, and once as a reviewer. The main differences were time (the traditional process is much slower) and transparency (the traditional review process was either single- or double-blind). I wish that more academic peer review functioned like Hybrid Pedagogy's review process.
 
 As I mentioned above, it's not always possible (or desirable) for an academic journal to move this fast. Long-form articles on specialized topics require more time—to write, to find qualified reviewers, to review, and to revise. But do academic journals need to focus so nearly exclusively on long-form articles? We are no longer bound to paper, printing presses, shipping costs and schedules, etc. Perhaps more academic journals could focus on shorter-form articles (or a greater diversity of publication types), in order to speed the publication process—with an added side-benefit that we could address timely issues within the peer-review framework. (Some new journals are doing this, of course. The [Journal of Interactive Technology and Pedagogy](http://jitp.commons.gc.cuny.edu) and the various publications using the [PressForward](http://pressforward.org) platform are good examples.)
 

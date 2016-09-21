@@ -10,18 +10,18 @@ image:
   creditlink: https://www.flickr.com/photos/marittoledo/3955626635
 comments: true
 share: true
-categories: blog
+categories: [pedagogy, christianity]
 ---
 
 > To educate as the practice of freedom . . . comes easiest to those of us who teach who also believe that there is an aspect of our vocation that is sacred; who believe that our work is not merely to share information but to share in the intellectual and spiritual growth of our students. -bell hooks, *Teaching to Transgress: Education as the Practice of Freedom, p. 13*
 
-I first read these words a few weeks ago. That same week, I had a conversation with one of my pastors about the need for Christian scholars to engage both the spiritual and material in their work. Too often, Christians are content to be functional materialists — people who believe in the spiritual, indeed who devote much of their lives to it, but who work as if the spiritual has no part to play in their scholarship or their teaching. 
+I first read these words a few weeks ago. That same week, I had a conversation with one of my pastors about the need for Christian scholars to engage both the spiritual and material in their work. Too often, Christians are content to be functional materialists — people who believe in the spiritual, indeed who devote much of their lives to it, but who work as if the spiritual has no part to play in their scholarship or their teaching.
 
-While talking with my pastor, I admitted to functional materialism myself. For example, when thinking about the relationship of music to human emotion, I'm convinced that there is a spiritual aspect to this relationship. Indeed, it may even be the foundational aspect. But, I told him, *I don't have any theories* upon which I can base my scholarship or teaching of this phenomenon. And so I teach it like a materialist. 
+While talking with my pastor, I admitted to functional materialism myself. For example, when thinking about the relationship of music to human emotion, I'm convinced that there is a spiritual aspect to this relationship. Indeed, it may even be the foundational aspect. But, I told him, *I don't have any theories* upon which I can base my scholarship or teaching of this phenomenon. And so I teach it like a materialist.
 
-Of course, I don't teach my children this way. My six-year-old loves astronomy. And when learning about the universe, I use every moment of wonder to stir in his mind an awe for God and a longing for the spiritual, the eternal. Some use God as a cheap explanation when children ask hard *why?* questions. But that's not the case here. As much as his brain can handle — and usually more than it can handle — I give him the material, mechanical explanation. But, in good Kantian fashion, I use that to stir his sense of divine wonder even more intensely. (See the "mathematical sublime" in Kant's *Critique of the Power of Judgment*.) 
+Of course, I don't teach my children this way. My six-year-old loves astronomy. And when learning about the universe, I use every moment of wonder to stir in his mind an awe for God and a longing for the spiritual, the eternal. Some use God as a cheap explanation when children ask hard *why?* questions. But that's not the case here. As much as his brain can handle — and usually more than it can handle — I give him the material, mechanical explanation. But, in good Kantian fashion, I use that to stir his sense of divine wonder even more intensely. (See the "mathematical sublime" in Kant's *Critique of the Power of Judgment*.)
 
-Many Christian academics do this. In our own minds, with our families, our congregations, we draw on what we know of the universe (or our scholarly corner of it) to inspire an experience of the sublime, and through it to meditate, and lead others to meditate, on the glory of God. But we put that lens down in the academy. This is often out of fear. Yes, fear of what outing ourselves as Christians will do to our credibility, even job security, in the academy. 
+Many Christian academics do this. In our own minds, with our families, our congregations, we draw on what we know of the universe (or our scholarly corner of it) to inspire an experience of the sublime, and through it to meditate, and lead others to meditate, on the glory of God. But we put that lens down in the academy. This is often out of fear. Yes, fear of what outing ourselves as Christians will do to our credibility, even job security, in the academy.
 
 But I think there is a deeper fear. Come with me for a minute . . .
 

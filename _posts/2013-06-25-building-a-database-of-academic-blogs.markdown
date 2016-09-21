@@ -3,7 +3,7 @@ layout: post
 title: "Building a database of academic blogs"
 date: 2013-06-25 14:25
 comments: true
-categories: blog
+categories: [public scholarship]
 share: true
 ---
 

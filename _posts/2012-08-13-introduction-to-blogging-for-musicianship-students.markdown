@@ -5,7 +5,7 @@ date: 2012-08-13 13:46:38
 layout: post
 slug: introduction-to-blogging-for-musicianship-students
 title: Introduction to blogging (for Musicianship students)
-categories: blog
+categories: [pedagogy]
 share: true
 wordpress_id: 570
 tags:
@@ -141,7 +141,7 @@ Though you are not required to follow your classmates, you must keep tabs on the
 
 
 
-I highly recommend using an application that tracks multiple feeds at once, such as [TweetDeck](http://www.tweetdeck.com/) or [HootSuite](http://hootsuite.com/). You can search for the course hashtag, save the search, and then add the saved search as a new feed in your app. (The regular Twitter apps for desktop and mobile allow you one feed at a time, but you can switch to a saved search like the course hashtag feed.) 
+I highly recommend using an application that tracks multiple feeds at once, such as [TweetDeck](http://www.tweetdeck.com/) or [HootSuite](http://hootsuite.com/). You can search for the course hashtag, save the search, and then add the saved search as a new feed in your app. (The regular Twitter apps for desktop and mobile allow you one feed at a time, but you can switch to a saved search like the course hashtag feed.)
 
 
 

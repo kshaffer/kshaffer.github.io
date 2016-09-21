@@ -3,7 +3,7 @@ layout: post
 title: "Harmony and Form in Pop/Rock Music: A Computational Approach"
 date: 2014-02-28 12:46
 comments: true
-categories: blog
+categories: [pedagogy, musicology, data science]
 share: true
 tags:
 - Cathy Davidson
@@ -18,7 +18,7 @@ tags:
 
 I'm excited about a new course that I'm slated to teach this Maymester (pending a final approval from my dean—it's passed all the other bureaucracy and is on the summer course calendar). It is a project-based course that will use computational tools to study how pop/rock music is put together. It will also be a hybrid (in-person and online) course that involves collaborating on a project that lives online—a project that will outlive the class and hopefully involve people from outside CU. It will be cross-listed between music and computer science, and offered to both graduate and undergraduate students.
 
-I'm starting to get inquiries from students interested in the course, so I thought I would describe it here. Those interested in taking it can find more info here than in the catalog. And those interested in joining the project before/after/during the course will also find preliminary information here about the project (with more detail coming in future posts). 
+I'm starting to get inquiries from students interested in the course, so I thought I would describe it here. Those interested in taking it can find more info here than in the catalog. And those interested in joining the project before/after/during the course will also find preliminary information here about the project (with more detail coming in future posts).
 
 *Prospective students, please note that the information below is subject to change as more detailed plans are made in advance of the class.*
 
@@ -62,4 +62,3 @@ Because this course will involve joining an existing research project, the start
 - ["Contract Grading and Peer Review,"](http://www.hastac.org/blogs/cathy-davidson/contract-grading-peer-review-heres-how-it-works) Cathy Davidson  
 - ["No Grading, More Learning,"](http://www.insidehighered.com/news/2010/05/03/grading) Scott Jaschick  
 - ["Embracing the Messiness: Lessons from a 21st-century Classroom,"](http://remixingcollegeenglish.wordpress.com/2013/01/31/embracing-the-messiness-lessons-from-a-21st-century-classroom/) Tanya T. Sasser  
-

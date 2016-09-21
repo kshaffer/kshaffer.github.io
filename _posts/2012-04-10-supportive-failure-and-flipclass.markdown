@@ -5,7 +5,7 @@ date: 2012-04-10 10:52:17
 layout: post
 slug: supportive-failure-and-flipclass
 title: '"Supportive failure" and #flipclass'
-categories: blog
+categories: [pedagogy]
 share: true
 wordpress_id: 302
 tags:
@@ -31,7 +31,7 @@ But the big thing here, I think, is that these students are simply afraid to fai
 
 As I've experimented with the "flipped"/"inverted" class in music theory this semester (information transfer occurs at home via readings, listenings, and videos; practice exercises, projects, and small-group discussion happen in class), I've found the fear of failure finally starting to disappear.
 
-For example, I introduced my students to voice-leading in pop/rock vocal style (making arrangements of a Christian worship song for a small vocal ensemble). There is no textbook that covers this material, so I wrote up five pages of tips and things to keep in mind, made a 25-minute screencast video of me doing an arrangement of a song in the software they will be using (purposefully making and correcting a few mistakes), and then had them come to class having read and watched, ready to try one of their own. I then gave them a song with a few really tricky passages and had them work on it in partners as I wandered the room listening and helping. 
+For example, I introduced my students to voice-leading in pop/rock vocal style (making arrangements of a Christian worship song for a small vocal ensemble). There is no textbook that covers this material, so I wrote up five pages of tips and things to keep in mind, made a 25-minute screencast video of me doing an arrangement of a song in the software they will be using (purposefully making and correcting a few mistakes), and then had them come to class having read and watched, ready to try one of their own. I then gave them a song with a few really tricky passages and had them work on it in partners as I wandered the room listening and helping.
 
 A couple interesting things _didn't_ happen. First, no one did nothing and said, "I didn't get it." They all did something. Second, no one said, "I missed that day in class, so I don't know what to do" (which, of course, they say even when I all but read the book to them in a lecture). Third, _no one freaked out when I looked over their shoulder and saw mistakes_. It was just understood tacitly that they would try something, it wouldn't work, and they would change it. Perhaps my doing so in the demo contributed to that; perhaps the fact that they were using software that allows them to drag notes around instead of erase and rewrite contributed to that; perhaps the fact that they could complete this assignment in partners and have it count toward their assessment requirements contributed to that. But I definitely think the format was a key factor, since this has happened on several occasions: doing a project in class, especially in groups, with the instructor basically doing "office hours" for everyone at once, sends the message (paraphrasing Beckett) _try, fail, try again, fail better_ . . . and eventually succeed.
 

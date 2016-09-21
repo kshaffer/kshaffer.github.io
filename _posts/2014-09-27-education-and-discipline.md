@@ -9,7 +9,7 @@ image:
   creditlink: https://www.flickr.com/photos/kalexanderson/5905710549
 comments: true
 share: true
-categories: blog
+categories: [pedagogy]
 ---
 
 > To the growth of the [student] all studies are subservient; they are instruments valued as they serve the needs of growth. Personality, character, is more than subject-matter.  
@@ -42,9 +42,9 @@ So when I saw Gooblar's exasperated title, and then the following passage early 
 
 This flippant, sarcastic dismissal of his students and their ability to act responsibly really made me angry. It smacks of arrogance—surely the professor's priorities for the students ought to be the students' priorities—and insensitivity—assuming that all students who don't obey the professor do so out of a personal deficiency. If I were one of his students, I would be enraged, and I would feel disrespected at the very least.
 
-Now, Gooblar back-pedals from polemic and quickly moves into practical recommendations that, as one friend put it, are quite "Kris-like." He calls on instructors to ensure that assignments are *actually* important, speaks against punitive assessments, etc. And he does offer helpful advice for something that is a real practical problem. After all, not every student who comes to college comes fully ready for self-directed learning in an environment of purely intrinsic motivation. This is something that must be awakened, fostered, trained in many of them—and in the meantime, we might need to use some extrinsic motivations as we "meet them where they are" in order to help them transcend that mindset. In fact, that's exactly what I (try to) do in most of my courses. 
+Now, Gooblar back-pedals from polemic and quickly moves into practical recommendations that, as one friend put it, are quite "Kris-like." He calls on instructors to ensure that assignments are *actually* important, speaks against punitive assessments, etc. And he does offer helpful advice for something that is a real practical problem. After all, not every student who comes to college comes fully ready for self-directed learning in an environment of purely intrinsic motivation. This is something that must be awakened, fostered, trained in many of them—and in the meantime, we might need to use some extrinsic motivations as we "meet them where they are" in order to help them transcend that mindset. In fact, that's exactly what I (try to) do in most of my courses.
 
-But still, this article really bothered me. 
+But still, this article really bothered me.
 
 Jesse put it well when he tweeted,
 

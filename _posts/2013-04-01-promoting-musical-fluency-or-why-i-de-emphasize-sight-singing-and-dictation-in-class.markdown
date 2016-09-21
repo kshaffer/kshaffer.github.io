@@ -6,7 +6,7 @@ layout: post
 slug: promoting-musical-fluency-or-why-i-de-emphasize-sight-singing-and-dictation-in-class
 title: Promoting musical fluency -or- Why I de-emphasize sight-singing and dictation
   in class
-categories: blog
+categories: [pedagogy]
 share: true
 wordpress_id: 784
 tags:
@@ -68,13 +68,13 @@ Regarding the second question, I think that devoting the bulk of aural instructi
 
 
 
-Let me take a step back and describe in better detail what I think musical fluency looks like by way of an example: compound meter. What does it take for a musician to assimilate the concept of compound meter? 
+Let me take a step back and describe in better detail what I think musical fluency looks like by way of an example: compound meter. What does it take for a musician to assimilate the concept of compound meter?
 
 
 
 
 
-Those of us who teach music theory and/or aural skills know the many strategies employed by music students to skirt the concept of compound meter while performing or dictating it accurately. (Most involve shifting attention to beat divisions instead of beats.) Performing a piece in compound duple meter while attending to the divisions (six per bar) does not constitute assimilation of compound meter, but rather clever employment of a workaround. Compound meter has been assimilated when a student understands that a beat can be divided by two (simple meter) or three (compound meter), and can apply that difference—specifically the three-division variety—in a diversity of musical activities. We only know that a student has successfully assimilated this concept when the student can explain the difference between compound and simple meter, recognize the difference by ear or in a score, can perform a piece in compound meter while attending to the triply divided beat (perhaps indicated by conducting that pulse while singing), etc. 
+Those of us who teach music theory and/or aural skills know the many strategies employed by music students to skirt the concept of compound meter while performing or dictating it accurately. (Most involve shifting attention to beat divisions instead of beats.) Performing a piece in compound duple meter while attending to the divisions (six per bar) does not constitute assimilation of compound meter, but rather clever employment of a workaround. Compound meter has been assimilated when a student understands that a beat can be divided by two (simple meter) or three (compound meter), and can apply that difference—specifically the three-division variety—in a diversity of musical activities. We only know that a student has successfully assimilated this concept when the student can explain the difference between compound and simple meter, recognize the difference by ear or in a score, can perform a piece in compound meter while attending to the triply divided beat (perhaps indicated by conducting that pulse while singing), etc.
 
 
 

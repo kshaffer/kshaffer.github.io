@@ -5,7 +5,7 @@ date: 2012-07-14 19:44:04
 layout: post
 slug: writing-in-musicianship-courses-a-k-a-student-blogs
 title: Writing in musicianship courses (a.k.a., student blogs)
-categories: blog
+categories: [pedagogy]
 share: true
 wordpress_id: 506
 tags:
@@ -25,7 +25,7 @@ The topics of their posts will be up to them, as long as they are about some asp
 
 I've also decided that these blogs will be public, which I know will make some student uncomfortable. But I have a few reasons why I think it's important that they start writing in public (their current Facebook and Twitter activity notwithstanding).
 
-First, musicians are artists, and the act of putting something creative out for public scrutiny is a regular part of every musician's life. The first two years of university is a good time to become comfortable with that, and to learn how to deal with the stresses and criticisms that come with it (in a relatively safe environment). 
+First, musicians are artists, and the act of putting something creative out for public scrutiny is a regular part of every musician's life. The first two years of university is a good time to become comfortable with that, and to learn how to deal with the stresses and criticisms that come with it (in a relatively safe environment).
 
 Second, musicians are humanists, and the act of contributing to human knowledge or critically evaluating some piece of received wisdom is a fundamental part of the humanities. The ability to participate in learned discourse in one's field is part of what it means to be liberally educated in a humanistic discipline; the ability to provide the professor with the information s/he wants is not. Further, as world citizens with music degrees from a liberal arts institution, they will be the "experts" that many of their friends, family members, and colleagues will call on to provide wise responses to at least the musical aspects of our culture. Learning to write as knowledgable people for a specific public audience, then, is an important thing for these musicians to learn, and my class will be, again, a relatively safe place for them to get their feet wet.
 
@@ -55,4 +55,4 @@ There are a number of objectives that students must meet each semester regarding
 
 
 
-These are the skills I want my students to master. And they don't need to master them only (if at all) in reference to a 5–6 page paper, double-spaced, 12-point, etc. They need to master them in reference to writing, generally. They also don't need to learn only how to improve based on a professor's (functionally infallible) comments. They need to learn how to critically evaluate comments that may be good or bad (or some of both) and revise based on the best feedback they can discern. Papers don't do either of these things well, if at all. But a blog just might. 
+These are the skills I want my students to master. And they don't need to master them only (if at all) in reference to a 5–6 page paper, double-spaced, 12-point, etc. They need to master them in reference to writing, generally. They also don't need to learn only how to improve based on a professor's (functionally infallible) comments. They need to learn how to critically evaluate comments that may be good or bad (or some of both) and revise based on the best feedback they can discern. Papers don't do either of these things well, if at all. But a blog just might.

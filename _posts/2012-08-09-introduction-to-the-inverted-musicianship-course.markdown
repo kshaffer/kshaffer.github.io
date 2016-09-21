@@ -5,7 +5,7 @@ date: 2012-08-09 10:52:54
 layout: post
 slug: introduction-to-the-inverted-musicianship-course
 title: Introduction to the inverted musicianship course
-categories: blog
+categories: [pedagogy]
 share: true
 wordpress_id: 555
 tags:
@@ -21,7 +21,7 @@ _The following is a draft of my introduction to the inverted class for my musici
 
 
 
-The Musicianship courses at CSU are _inverted_ or _flipped_ courses. In a nutshell, that means little-to-no lecture in class meetings, but instead a focus on individual, small-group, or whole-class activities. The rationale behind the inverted course model is that class time is too valuable to be spent doing things that can be done easily (and often better) outside of class. Those precious few hours per week in which students are surrounded by their peers and in the presence of their professor should be spent doing the things that make best use of that environment. Transferring information from the instructor's notebook to the students' notebooks (without passing through the brains of either, as Eric Mazur says!) is a relatively poor use of class time; in fact, information transfer can happen _better_ outside of class at the student's own pace. However, engaging in individual and collaborative projects and other activities that facilitate deep understanding of the material and enable students to apply knowledge or skills in new contexts are an excellent use of class time. 
+The Musicianship courses at CSU are _inverted_ or _flipped_ courses. In a nutshell, that means little-to-no lecture in class meetings, but instead a focus on individual, small-group, or whole-class activities. The rationale behind the inverted course model is that class time is too valuable to be spent doing things that can be done easily (and often better) outside of class. Those precious few hours per week in which students are surrounded by their peers and in the presence of their professor should be spent doing the things that make best use of that environment. Transferring information from the instructor's notebook to the students' notebooks (without passing through the brains of either, as Eric Mazur says!) is a relatively poor use of class time; in fact, information transfer can happen _better_ outside of class at the student's own pace. However, engaging in individual and collaborative projects and other activities that facilitate deep understanding of the material and enable students to apply knowledge or skills in new contexts are an excellent use of class time.
 
 
 

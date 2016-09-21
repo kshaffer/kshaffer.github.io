@@ -10,7 +10,7 @@ image:
   creditlink: https://www.flickr.com/photos/jdhancock/6023780563/
 comments: true
 share: true
-categories: blog
+categories: [pedagogy, musicology]
 ---
 
 What does a student-centered music theory curriculum look like?
@@ -38,13 +38,13 @@ Jesse writes that "A Critical Digital Pedagogy demands that open and networked e
 - will not, cannot, be defined by a single voice but must gather together a cacophony of voices;  
 - must have use and application outside traditional institutions of education.
 
-There are a number of things that we can do in the typical music theory core that accomplish these purposes, even without changing the content. 
+There are a number of things that we can do in the typical music theory core that accomplish these purposes, even without changing the content.
 
 For instance, to foster community and collaboration, we can involve ensemble performance, collaborative analysis and writing projects, or even small things like think-pair-share activities. Faculty attending student performances and inviting small groups for coffee can also foster another kind of valuable community. Music is not, should not, be an isolated activity, and community-building can easily be part of our music theory classes if we think beyond the workbook activities that come with standard textbooks. In fact, many music theory instructors already do these kinds of things.
 
 Aside: the more diverse our classes are, the more difficult outside-of-class collaboration can be. Not only do some students prefer (and thrive on) individual work, but a diversity of living situations, ensemble commitments, and work schedules can make major collaborative projects difficult for some, even discriminatory. I tend to focus most collaboration into class time, or assign small or optional out-of-class collaborations. This allows students to reap the advantages of collaboration while still developing their ability to work individually and not hindering the learning of students who live off-campus, work 20 hours per week, and/or have introverted personalities.
 
-Making room for diverse and international voices is more difficult. At the very least, we should be judicious about the kinds of assignments we require of students. For example, requiring a written essay when the learning goal has nothing to do with writing may discriminate against international students who are still building fluency in English, or students with disabilities or differences that affect their writing but not their music. Generally speaking, offering a diversity of "ways in" to the musical material and a diversity of ways to assess knowledge and skills is important for us to serve our diverse students. 
+Making room for diverse and international voices is more difficult. At the very least, we should be judicious about the kinds of assignments we require of students. For example, requiring a written essay when the learning goal has nothing to do with writing may discriminate against international students who are still building fluency in English, or students with disabilities or differences that affect their writing but not their music. Generally speaking, offering a diversity of "ways in" to the musical material and a diversity of ways to assess knowledge and skills is important for us to serve our diverse students.
 
 Giving voice to that diversity is harder. But I have found that there are often situations where different students have unique experiences or expertise that they can use to lead the class through something. For example, a music-English double-major could be asked to lead class exploration of poetry set to music. We could even ask them to help us choose and plan class activities. Asking students to write (text or music) for each other, rather than just for the instructor, also helps give voice to students of different backgrounds. And while it may be uncomfortable, it gives students an opportunity to grow socially, as they respond to each other — and not always in respectful ways, by default.
 

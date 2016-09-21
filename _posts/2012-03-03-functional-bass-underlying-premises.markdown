@@ -5,7 +5,7 @@ date: 2012-03-03 19:23:23
 layout: post
 slug: functional-bass-underlying-premises
 title: Functional Bass – underlying premises
-categories: blog
+categories: [musicology]
 share: true
 wordpress_id: 193
 tags:

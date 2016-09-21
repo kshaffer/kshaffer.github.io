@@ -8,7 +8,7 @@ image:
   credit: Adam Foster
   creditlink: https://www.flickr.com/photos/twosevenoneonenineeightthreesevenatenzerosix/6655759625/
 share: true
-categories: blog
+categories: [musicology, data science]
 ---
 
 Computational musicology is a young, growing field ― one in which I find myself increasingly involved. In addition to [The Lieder Project](http://liederproject.shaffermusic.com/), I will be teaching my course on computational music analysis again this summer, and two students and I will be giving a presentation on it for the College of Music colloquium series later this spring. Since it is a young field, and draws on so many disciplines, I often find myself asked just what computational musicology is. As far as I know, there isn't a public-facing introduction to the field. So with both my upcoming class and these informal interactions in mind, I thought I'd write one. So here goes...

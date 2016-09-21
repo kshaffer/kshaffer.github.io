@@ -8,7 +8,7 @@ image:
   credit: Manel Torralba
   creditlink: https://www.flickr.com/photos/60506610@N08/16235451138/
 share: true
-categories: [musicology, statistics]
+categories: [musicology, data science]
 ---
 
 I created a series of tutorials for my Computational Music Analysis students this summer, introducing them to basic analysis and visualization of musical data in [RStudio](https://rstudio.com). RStudio is a powerful, free tool for statistical analysis, and these tutorials are based on datasets from recent publications in music theory and analysis: the McGill Billboard Dataset, Trevor de Clercq and David Temperley's Rolling Stone corpus, and a subset of the Million Song Dataset (with lyric and genre tags).

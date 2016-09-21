@@ -10,7 +10,7 @@ image:
   creditlink: https://www.flickr.com/photos/3ammo/12490957864
 comments: true
 share: true
-categories: blog
+categories: [musicology]
 ---
 
 <p style="font-size: 0.8em; line-height: 1.25em"><i>In response to a question from a music cognition student, I dug up this old post from "Sound a Mind," a blog on music cognition that Roger Grant and I maintained during graduate school. Original posting date: Sept. 21, 2006.</i></p>

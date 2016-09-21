@@ -10,7 +10,7 @@ image:
   creditlink: https://www.flickr.com/photos/chaparral/1269519283
 comments: true
 share: true
-categories: blog
+categories: [pedagogy]
 ---
 
 Who decides what teachers teach? More importantly, who decides what students learn?

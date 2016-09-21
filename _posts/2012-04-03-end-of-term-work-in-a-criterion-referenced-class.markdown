@@ -5,7 +5,7 @@ date: 2012-04-03 19:15:02
 layout: post
 slug: end-of-term-work-in-a-criterion-referenced-class
 title: End-of-term work in a criterion-referenced class
-categories: blog
+categories: [pedagogy]
 share: true
 wordpress_id: 283
 tags:

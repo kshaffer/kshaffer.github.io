@@ -5,7 +5,7 @@ date: 2012-08-10 09:11:54
 layout: post
 slug: introduction-to-criterion-referenced-grading
 title: Introduction to criterion-referenced grading
-categories: blog
+categories: [pedagogy]
 share: true
 wordpress_id: 560
 tags:
@@ -28,7 +28,7 @@ Musicianship courses at CSU make use of _criterion-referenced grading_ (also cal
 
 
 
-In short, criterion-referenced grading seeks to make final grades line up as much as possible with student mastery of the material and course objectives. The final grade is not an average of grades received throughout the semester, but a measure of how successful the student has been by the end of the semester in reference to the course objectives laid out in the syllabus. 
+In short, criterion-referenced grading seeks to make final grades line up as much as possible with student mastery of the material and course objectives. The final grade is not an average of grades received throughout the semester, but a measure of how successful the student has been by the end of the semester in reference to the course objectives laid out in the syllabus.
 
 
 
@@ -46,7 +46,7 @@ Criterion-referenced grading means that much of your work will not "count" towar
 
 
 
-This system is designed with two things in mind: first, making sure that passing semester grades in one musicianship course reflect readiness for the next course in the sequence as much as possible; and second, giving you feedback throughout the semester that is transparent and helps you along the way to achieving the course objectives. 
+This system is designed with two things in mind: first, making sure that passing semester grades in one musicianship course reflect readiness for the next course in the sequence as much as possible; and second, giving you feedback throughout the semester that is transparent and helps you along the way to achieving the course objectives.
 
 
 
@@ -115,13 +115,13 @@ The main reason that it helps you succeed better is that it directs your efforts
 
 > It helped to understand what I was doing well (I used to think I was doing nothing well in aural skills … which can be a bit defeating) and also helped me to understand where I needed to focus my attention.
 
-In fact, I found that overall, using criterion-referenced grading last year allowed me to set a higher standard for success in the course, and at the same time _more students met that standard_. 
+In fact, I found that overall, using criterion-referenced grading last year allowed me to set a higher standard for success in the course, and at the same time _more students met that standard_.
 
 
 
 
 
-Further, I have found that students are much less likely in a criterion-referenced system to let weak areas stay weak. Instead, they work to knock off one weak area at a time until all reach a level of mastery. Not only does this mean better learning; it also means better preparation for the next course in the sequence. 
+Further, I have found that students are much less likely in a criterion-referenced system to let weak areas stay weak. Instead, they work to knock off one weak area at a time until all reach a level of mastery. Not only does this mean better learning; it also means better preparation for the next course in the sequence.
 
 
 

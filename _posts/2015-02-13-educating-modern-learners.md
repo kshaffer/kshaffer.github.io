@@ -10,10 +10,10 @@ image:
   creditlink: https://www.flickr.com/photos/margottrudell/3088323458
 comments: true
 share: true
-categories: blog
+categories: [pedagogy, publications]
 ---
 
-I've written three pieces recently for the journal *Educating Modern Learners*. The first two are behind a paywall, but the third and most recent can be read with a free subscription. EML requires only a three-month exclusive publication right, so all three of these will be published on this blog (or on another open-access site) in the coming weeks. For now, here are the links on EML: 
+I've written three pieces recently for the journal *Educating Modern Learners*. The first two are behind a paywall, but the third and most recent can be read with a free subscription. EML requires only a three-month exclusive publication right, so all three of these will be published on this blog (or on another open-access site) in the coming weeks. For now, here are the links on EML:
 
 [**Sustainable Pedagogy**](http://modernlearners.com/sustainable-pedagogy/), published December 4, 2014
 

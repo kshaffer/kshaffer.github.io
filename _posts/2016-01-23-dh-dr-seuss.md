@@ -5,23 +5,23 @@ modified: 2016-01-18 20:39:00 -0700
 image:
   feature: synapse.jpg
   teaser: synapse-teaser.jpg
-  credit: 
-  creditlink: 
+  credit:
+  creditlink:
 share: true
-categories: blog
+categories: [coding, data science, pedagogy]
 ---
 
-This morning, my four-year-old was reading *Green Eggs and Ham* to me. I've heard that Dr. Seuss was intentional about using developmental psychology to inform how he wrote his books to help children learn how to read, and it is amazing to watch that process in action. 
+This morning, my four-year-old was reading *Green Eggs and Ham* to me. I've heard that Dr. Seuss was intentional about using developmental psychology to inform how he wrote his books to help children learn how to read, and it is amazing to watch that process in action.
 
-There are several things going on, but one that stood out to me today was the pace at which Seuss introduced new words to young readers. *Green Eggs and Ham* in particular seems to take advantage of the ways the brain forms new long-term memories to help children learn new words effectively. 
+There are several things going on, but one that stood out to me today was the pace at which Seuss introduced new words to young readers. *Green Eggs and Ham* in particular seems to take advantage of the ways the brain forms new long-term memories to help children learn new words effectively.
 
 Research in both cognitive science and in learning theory suggest that the optimal way to form a new, resilient long-term memory is to practice recall *just before you are about to forget.* If you wait longer, the memory will become inaccessible, and you will have to form it again from scratch. Don't wait long enough, and you'll be using short-term memory, not long-term memory, and thus not strengthening the right neural networks.
 
-What does this look like in practice? It looks like introducing a new word with several close repetitions ― using short-term storage as working memory is figuring things out ― and then gradually spacing occurrences of that word further and further apart as the story progresses. This helps the reader move their work from short-term to long-term memory, and accounts for the fact that each time the memory is strengthened it will take longer to (almost) forget. 
+What does this look like in practice? It looks like introducing a new word with several close repetitions ― using short-term storage as working memory is figuring things out ― and then gradually spacing occurrences of that word further and further apart as the story progresses. This helps the reader move their work from short-term to long-term memory, and accounts for the fact that each time the memory is strengthened it will take longer to (almost) forget.
 
 Since my research and upcoming courses have me thinking a lot about coding, statistical modeling, and cognition, naturally I wondered if I could model this process and analyze a few children's books. I didn't create a full-on statistical model, but I did come up with an analytical framework and write a script that would allow me to make some visualizations and compare books. The results were pretty cool.
 
-TL;DR version: Dr. Seuss *does* write (at least some) books consistent with research on memory formation, books that have a good chance of helping kids learn, and remember, new words. But not every book billed as "learn to read" or "step into reading" do the same. 
+TL;DR version: Dr. Seuss *does* write (at least some) books consistent with research on memory formation, books that have a good chance of helping kids learn, and remember, new words. But not every book billed as "learn to read" or "step into reading" do the same.
 
 ## The model
 

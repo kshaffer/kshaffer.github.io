@@ -5,7 +5,7 @@ date: 2012-11-04 16:42:38
 layout: post
 slug: take-away-points-from-conference-meeting-on-flipped-music-theory-pedagogy
 title: Take-away points from conference meeting on flipped music theory pedagogy
-categories: blog
+categories: [pedagogy]
 share: true
 wordpress_id: 623
 tags:
@@ -28,7 +28,7 @@ The first takeaway is that those using flipped techniques (including video conte
 
 Because of this diversity, and because there is such a strong relationship for some of us between the flipped teaching methods and methods of assessment and course objectives, there has been some discussion about finding a better term to encompass these things. For example, for me the flipped methods are related to and grow out of my course objectives and my standards-based grading, and they have become a single package for me. It might, then, be helpful to come up with a name for the broader category of pedagogical philosophy that includes these tools and methods. The difference between instructor-centered or content-centered teaching and student-centered or objective-centered teaching or learning was discussed. (I kind of like the term _objective-oriented_, since course objectives are the foundation for me, and since it puns on object-oriented programming.)
 
-Another takeaway: standard theory curriculum assumes every student has A-level knowledge of preceding material. How would our curriculum change if we assumed every student had C-minus-level knowledge of all preceding material? 
+Another takeaway: standard theory curriculum assumes every student has A-level knowledge of preceding material. How would our curriculum change if we assumed every student had C-minus-level knowledge of all preceding material?
 
 Flipped techniques, especially video content delivery, allow for greater uniformity between instructors teaching the same course. Helpful for universities where TAs or TFs teach courses but aren't on the same page. It also gives a context for individualization of class activities within a standard framework of content.
 

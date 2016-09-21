@@ -5,7 +5,7 @@ date: 2013-01-26 15:28:42
 layout: post
 slug: the-economics-of-the-classroom-or-why-grades-encourage-bad-habits
 title: The economics of the classroom -or- Why grades encourage bad habits
-categories: blog
+categories: [pedagogy]
 share: true
 wordpress_id: 679
 tags:
@@ -16,7 +16,7 @@ tags:
 - teaching
 ---
 
-I recently watched the TED talk by Clay Shirky, "How Cognitive Surplus will Change the World." It's well worth the 20 minutes it takes to watch/listen for many reasons (you can download it to a mobile device for convenient viewing or listening). But what struck me most was his discussion of an economic study about the use of fines to regulate behavior. 
+I recently watched the TED talk by Clay Shirky, "How Cognitive Surplus will Change the World." It's well worth the 20 minutes it takes to watch/listen for many reasons (you can download it to a mobile device for convenient viewing or listening). But what struck me most was his discussion of an economic study about the use of fines to regulate behavior.
 
 <p><iframe src="http://embed.ted.com/talks/clay_shirky_how_cognitive_surplus_will_change_the_world.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
 

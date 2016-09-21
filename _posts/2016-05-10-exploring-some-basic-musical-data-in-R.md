@@ -8,7 +8,7 @@ image:
   credit: darkday
   creditlink: https://www.flickr.com/photos/drainrat/16550835589/
 share: true
-categories: musicology
+categories: [musicology, data science]
 ---
 
 Learning R? Like music?

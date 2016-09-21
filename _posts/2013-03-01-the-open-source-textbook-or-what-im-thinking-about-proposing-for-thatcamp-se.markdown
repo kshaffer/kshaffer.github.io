@@ -6,7 +6,7 @@ layout: post
 slug: the-open-source-textbook-or-what-im-thinking-about-proposing-for-thatcamp-se
 title: The open-source textbook (or, What I'm thinking about proposing for THATCamp
   SE)
-categories: blog
+categories: [pedagogy, presentations]
 share: true
 wordpress_id: 682
 tags:
@@ -36,13 +36,13 @@ _Next weekend is The Humanities and Technology Camp (THATCamp) Southeast at Geor
 
 
 
-Over the past year, I have been building an open-source, online, multimedia [textbook](http://kshaffer.github.com/musicianshipResources) for the four-semester course Musicianship sequence that I teach at Charleston Southern University. I began simply enough by creating materials for my students to supplement their textbook. These materials were at times filling in gaps, covering materials not in the text, and at other times, these materials incorporated newer developments in the field than is found in the standard textbooks. The more I did this, the less my students needed the book—and the more I felt guilty about having them buy it. 
+Over the past year, I have been building an open-source, online, multimedia [textbook](http://kshaffer.github.com/musicianshipResources) for the four-semester course Musicianship sequence that I teach at Charleston Southern University. I began simply enough by creating materials for my students to supplement their textbook. These materials were at times filling in gaps, covering materials not in the text, and at other times, these materials incorporated newer developments in the field than is found in the standard textbooks. The more I did this, the less my students needed the book—and the more I felt guilty about having them buy it.
 
 
 
 
 
-When I switched to standards-based grading, my course objectives became very specific, and I needed more tailored resources for my students. And when I adopted the "inverted" class model, I could no longer just _tell_ my students what they needed to know that is not in the book. So I began converting my old lecture notes to online resources, and creating new materials to help students achieve my much more intentional course objectives. The result is a substantial (but still very much "in progress") website, containing text, graphics, and video, tailored to my students and to my course objectives. 
+When I switched to standards-based grading, my course objectives became very specific, and I needed more tailored resources for my students. And when I adopted the "inverted" class model, I could no longer just _tell_ my students what they needed to know that is not in the book. So I began converting my old lecture notes to online resources, and creating new materials to help students achieve my much more intentional course objectives. The result is a substantial (but still very much "in progress") website, containing text, graphics, and video, tailored to my students and to my course objectives.
 
 
 
@@ -111,5 +111,3 @@ What are the potential drawbacks of an open-source textbook?
   * Instructors must be careful about copyright infringement and fair use (no publishing house legal team)  
   * Contributions may not be considered for tenure and promotion  
   * Initial creation takes a lot of effort
-
-

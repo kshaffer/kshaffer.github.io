@@ -10,7 +10,7 @@ image:
   creditlink: https://www.flickr.com/photos/plastanka/14907712197/
 comments: true
 share: true
-categories: blog
+categories: [presentations, public scholarship, social media]
 ---
 
 *On October 26, I gave a workshop on social media and public scholarship for graduate students in the CU–Boulder College of Music. Following are notes and resources from that workshop, some of which were also part of my presentation at UT–Austin, [The Public Intellectual: Online Scholarship in the Humanities](http://kris.shaffermusic.com/2015/10/public-scholarship-and-the-digital-humanities-at-ut-austin/) (slides for that presentation can be found [here](http://kris.shaffermusic.com/2015/10/public-scholarship-and-the-digital-humanities-at-ut-austin/)). I hope these resources are valuable to others as well!*

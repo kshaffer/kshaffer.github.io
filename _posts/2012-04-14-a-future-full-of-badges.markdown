@@ -5,7 +5,7 @@ date: 2012-04-14 19:09:53
 layout: post
 slug: a-future-full-of-badges
 title: '"A future full of badges"?'
-categories: blog
+categories: [pedagogy, higher ed]
 share: true
 wordpress_id: 328
 tags:
@@ -36,7 +36,7 @@ Rather than jump whole hog into that debate, I want to direct my thoughts toward
 
 This is a real problem. I've had several students this year come in with AP Music Theory credits or transfer credits and were placed into the level where they left off in their previous study. All of them were missing some important skill or piece of knowledge that my class covered the previous semester. Now, some of them rose to the challenge and have done brilliantly. But some have not. And it's not entirely their fault. If CSU had better information about their background (or a better policy for acting on that information), we could place them better. It need not mean taking an extra prerequisite course; it may simply mean knowing ahead of time that they need to read up on _x_ or practice doing _y_ over the semester break, or audit the last few weeks of the previous course, before jumping in. But if we don't know there's a disconnect, they certainly won't.
 
-However, I'm not convinced that badges are the way to solve this problem. Instead, professors and universities can simply be more careful about testing incoming students before placing them, perhaps even granting them credit for courses where they have already mastered the material outside of an accredited course. 
+However, I'm not convinced that badges are the way to solve this problem. Instead, professors and universities can simply be more careful about testing incoming students before placing them, perhaps even granting them credit for courses where they have already mastered the material outside of an accredited course.
 
 That's the change we made at CSU to work around our AP and transfer problem. Starting next year, we will require a placement exam of anyone bringing in music theory/aural skills/musicianship credits. If they demonstrate knowledge and mastery consistent with the course objectives of Musicianship II, they are placed in Musicianship III (whether they took one semester or four prior to transfer). Looking at a letter grade, a course description (which probably isn't up-to-date), and an institution's reputation isn't enough to tell us if a student will succeed at level _x_. So we'll test them ourselves and put them where we think they best belong, regardless of how many credits they have. (Our registrar counts them as general credits until they pass our placement test or take our course in its place.)
 

@@ -10,7 +10,7 @@ image:
   creditlink: https://www.flickr.com/photos/garrettheath/9359575921/in/faves-131104016@N08/
 comments: true
 share: true
-categories: blog
+categories: [social media]
 ---
 
 Since I'm introducing people to Twitter for multiple events this summer (online classes and (un)conferences), I created a couple videos to help those new to Twitter get their bearings. If you're new to Twitter, or just want to know what it's about, check out these videos. In them, I aim particularly at academics that might use them in classes or conferences, but the basic mechanics are the same no matter what.

@@ -8,7 +8,7 @@ image:
   credit: Mohamed Sahnoun
   creditlink: https://www.flickr.com/photos/mohsan/1148848830/in/faves-131104016@N08/
 share: true
-categories: blog
+categories: [coding]
 ---
 
 [As I blogged last week](http://kris.shaffermusic.com/2016/04/hypothesis-public-research-notebook/), I am playing around with the [API](https://h.readthedocs.io/en/latest/api.html) for open-source web annotation tool, [hypothes.is](https://hypothes.is). It makes a lot of cool thing possible, including things that their own browser plugin does not (yet).

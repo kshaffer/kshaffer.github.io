@@ -5,7 +5,7 @@ date: 2012-05-10 11:57:09
 layout: post
 slug: first-semester-with-criterion-referenced-grading-general-recap
 title: First semester with criterion-referenced grading, general recap
-categories: blog
+categories: [pedagogy]
 share: true
 wordpress_id: 407
 tags:
@@ -77,7 +77,7 @@ Lastly, this helped students start to take ownership of their education and thei
 
 First, and most significantly, the system still needs more specificity. Knowing whether one's mastery of voice-leading is passing or failing is more helpful information than a C+ average in the class, or getting Bs or Cs on voice-leading assignments that also include harmonic analysis. However, I can do better in giving them specific guidance through the grades. One mid-semester improvement along these lines was to give a specific list of criteria that would lead to passing grades for the categories that covered our final topical unit (pop/rock music). Next semester, I want to make those specific criteria the new course objectives. I won't have to think "have they demonstrated mastery of law of the shortest way, doublings, chord realization, dissonance resolution, and register on two more more assignments in a row?" before assigning a voice-leading grade. I can simply treat each of those as their own criterion. A good precedent for this kind of system comes from [Andy Rundquist](http://arundquist.wordpress.com/2011/02/20/flipped-sbg-with-voice-so-far/)'s physics courses.
 
-Second, there could be more transparency—or better yet, student ownership—about progress toward the final goal. A few students will read this and think it means "knowing how I'm progressing toward the final grade" or "knowing my current 'average'" (requests from the student survey). This could be clearer, as I was purposefully vague about this early on. However, I really would like to see the students think more in terms of their own musicianship than their grades. This semester moved a lot of them at least a step or two in that direction, but not all the way. I think that a longer list of more specific objectives that they keep track of themselves may help more. 
+Second, there could be more transparency—or better yet, student ownership—about progress toward the final goal. A few students will read this and think it means "knowing how I'm progressing toward the final grade" or "knowing my current 'average'" (requests from the student survey). This could be clearer, as I was purposefully vague about this early on. However, I really would like to see the students think more in terms of their own musicianship than their grades. This semester moved a lot of them at least a step or two in that direction, but not all the way. I think that a longer list of more specific objectives that they keep track of themselves may help more.
 
 Still more helpful along these lines would be making the classes pass/fail—especially for the first course or two in the sequence. If there ceases to be differentiation between grades and a significant pull on the GPA (ever present on the minds of scholarship students who don't get straight As and Bs), perhaps the shift from grade goals to musical goals can be made more profoundly.
 

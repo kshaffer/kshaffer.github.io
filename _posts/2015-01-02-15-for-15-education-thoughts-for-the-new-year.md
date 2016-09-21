@@ -9,7 +9,7 @@ image:
   credit: John (irishwildcat)
   creditlink: https://www.flickr.com/photos/irishwildcat/3020466221
 categories: blog
-comments: true
+categories: [pedagogy]
 share: true
 ---
 

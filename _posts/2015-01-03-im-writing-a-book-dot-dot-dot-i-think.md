@@ -10,7 +10,7 @@ image:
   creditlink: https://www.flickr.com/photos/ollily/408899425
 comments: true
 share: true
-categories: blog
+categories: [pedagogy]
 ---
 
 I want to write a book about education. The focus will primarily be on making a case against a number of industrial-era educational practices that still persist in the U.S. today — things like letter and percentage grades, standardized tests, grade levels, semester schedules, etc. Throughout the course of this critique, I'll layout the implicit ideology that underlies these practices. The end of the book will then layout a different ideology, one centered in student agency and critical pedagogy, and suggest some small and big ways in which we can improve education in light of that ideology.

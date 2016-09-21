@@ -3,7 +3,7 @@ layout: post
 title: "A self-evaluation-driven course"
 date: 2013-06-14 10:46
 comments: true
-categories: blog
+categories: [pedagogy]
 share: true
 tags:
 - pedagogy  
@@ -32,7 +32,7 @@ As an example, here are my materials for Semester 3 Aural Skills at CU:
 - [self-evaluation guide][eval] (same as for Semester 3 Music Theory, which I posted previously)  
 - [coursework guide][cour]
 
-I'm sharing these for two reasons. 
+I'm sharing these for two reasons.
 
 First, there are some very new (to me) things in these materials, and I'd love feedback from other theorists and instructors of aural skills, as well as instructors in other disciplines that have made use of self-evaluations, criterion-referenced assessment, etc. This is also my first semester coordinating a course with TAs teaching the other sections. (There are five sections total, and I'll teach one and coordinate two TAs for the others.) Any feedback from those who have coordinated TAs on how these things might play out in that situation would be most helpful.
 

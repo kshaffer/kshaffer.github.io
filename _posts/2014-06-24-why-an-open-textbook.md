@@ -4,11 +4,11 @@ title: "Why an open textbook?"
 modified: 2014-06-24 20:15:17 -0500
 tags: [pedagogy, textbooks, Hybrid Pedagogy, Trinket, music, music theory]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature:
+  credit:
+  creditlink:
 comments: true
-categories: blog
+categories: [pedagogy]
 share: true
 ---
 

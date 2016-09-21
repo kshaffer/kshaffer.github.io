@@ -5,7 +5,7 @@ date: 2012-03-13 10:07:46
 layout: post
 slug: grading-criteria-for-music-theory-ii
 title: Grading criteria for Music Theory II
-categories: blog
+categories: [pedagogy]
 share: true
 wordpress_id: 218
 tags:
