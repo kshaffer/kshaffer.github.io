@@ -30,7 +30,7 @@ current: home
 <!-- The main content area on the homepage -->
 <main id="content" class="content" role="main" style="max-width: 800px; min-width: 320px; margin: auto;">
 
-  <article class="post" style="width: 300px; display: inline-block;">
+  <article class="post" style="width: 300px; display: inline-block; vertical-align: top;">
       <header class="post-header">
           <h2 class="post-title" style="text-align: center"><a href="{{ site.url }}/datascience/">data science</a></h2>
       </header>
@@ -45,13 +45,43 @@ current: home
       </footer>
   </article>
 
-  <article class="post" style="width: 300px; display: inline-block;">
+  <article class="post" style="width: 300px; display: inline-block; vertical-align: top;">
       <header class="post-header">
           <h2 class="post-title" style="text-align: center"><a href="{{ site.url }}/musicology/">musicology</a></h2>
       </header>
       <section class="post-excerpt">
           <p><a href="{{ site.url }}/musicology/" title="musicology" class="post-teaser"><img src="{{ site.baseurl }}assets/images/imogen-teaser.jpg" alt="teaser" itemprop="image" style="max-width: 300px; margin: 0 0 12px 0px;"></a><br/>
           Music theory, history, and cognition.</a></p>
+      </section>
+      <footer class="post-meta">
+          {% if site.image %}<img class="author-thumb" src="{{ site.url }}{{ site.image }}" alt="Author image" nopin="nopin" />{% endif %}
+          <!-- author -->
+          <a href='{{ site.url }}author/{{ site.nickname }}'>{{ site.author }}</a>
+      </footer>
+  </article>
+
+  <article class="post" style="width: 300px; display: inline-block; vertical-align: top;">
+      <header class="post-header">
+          <h2 class="post-title" style="text-align: center"><a href="{{ site.url }}/coding/">coding</a></h2>
+      </header>
+      <section class="post-excerpt">
+          <p><a href="{{ site.url }}/coding/" title="coding" class="post-teaser"><img src="{{ site.baseurl }}assets/images/bletchley-teaser.jpg" alt="teaser" itemprop="image" style="max-width: 300px; margin: 0 0 12px 0px;"></a><br/>
+          Software projects, hacks, and tricks.</a></p>
+      </section>
+      <footer class="post-meta">
+          {% if site.image %}<img class="author-thumb" src="{{ site.url }}{{ site.image }}" alt="Author image" nopin="nopin" />{% endif %}
+          <!-- author -->
+          <a href='{{ site.url }}author/{{ site.nickname }}'>{{ site.author }}</a>
+      </footer>
+  </article>
+
+  <article class="post" style="width: 300px; display: inline-block; vertical-align: top;">
+      <header class="post-header">
+          <h2 class="post-title" style="text-align: center"><a href="{{ site.url }}/pedagogy/">pedagogy</a></h2>
+      </header>
+      <section class="post-excerpt">
+          <p><a href="{{ site.url }}/pedagogy/" title="pedagogy" class="post-teaser"><img src="{{ site.baseurl }}assets/images/imogen-teaser.jpg" alt="teaser" itemprop="image" style="max-width: 300px; margin: 0 0 12px 0px;"></a><br/>
+          Pedagogy, teaching, education.</a></p>
       </section>
       <footer class="post-meta">
           {% if site.image %}<img class="author-thumb" src="{{ site.url }}{{ site.image }}" alt="Author image" nopin="nopin" />{% endif %}
