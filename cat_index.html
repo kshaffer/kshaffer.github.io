@@ -1,0 +1,48 @@
+---
+layout: default
+title: Kris Shaffer
+cover: 'assets/images/cover-laserNegatives.jpg'
+class: 'home-template'
+navigation: True
+current: home
+---
+<!-- < default -->
+<!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
+
+<!-- The big featured header  -->
+<header class="main-header {% if page.cover %}"
+        style="background-image: url({{ site.baseurl }}{{ page.cover }}) {% else %}no-cover{% endif %}">
+    <nav class="main-nav overlay clearfix">
+        {% if page.logo %}<a class="blog-logo" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}{{ page.logo }}" alt="Blog Logo" /></a>{% endif %}
+        {% if page.navigation %}
+            <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
+        {% endif %}
+    </nav>
+    <div class="vertical">
+        <div class="main-header-content inner">
+            <h1 class="page-title">{{ site.name }}</h1>
+            <h2 class="page-description">{{ site.description }}</h2>
+        </div>
+    </div>
+    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
+</header>
+
+<!-- The main content area on the homepage -->
+<main id="content" class="content" role="main">
+
+  <article class="post">
+      <header class="post-header">
+          <h2 class="post-title"><a href="{{ site.url }}/datascience/">data science</a></h2>
+      </header>
+      <section class="post-excerpt">
+          <p><a href="{{ site.url }}/datascience/" title="data science" class="post-teaser"><img src="{{ site.baseurl }}assets/images/bletchley-teaser.jpg" alt="teaser" itemprop="image" style="max-width: 300px; margin: 0 0 12px 12px;"></a><br/>
+          Using machine learning and statistics to explore musical and textual data.</a></p>
+      </section>
+      <footer class="post-meta">
+          {% if site.image %}<img class="author-thumb" src="{{ site.url }}{{ site.image }}" alt="Author image" nopin="nopin" />{% endif %}
+          <!-- author -->
+          <a href='{{ site.url }}author/{{ site.nickname }}'>{{ site.author }}</a>
+      </footer>
+  </article>
+
+</main>
