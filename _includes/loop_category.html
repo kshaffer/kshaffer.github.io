@@ -14,8 +14,10 @@
     </div>
 
     <!-- This is the post loop - each post will be output using this markup -->
-    {% for post in paginator.posts %}
-      {% if post.category == 'musicology' %}
+    <!--{% for post in paginator.posts %}
+      {% if post.category == 'musicology' %}-->
+      {% assign pages_list = 'musicology' %}
+  		{% for post in pages_list %}
         <article class="post">
             <header class="post-header">
                 <h2 class="post-title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
@@ -44,7 +46,6 @@
                 <time class="post-date" datetime="{{ post.date | date:'%Y-%m-%d' }}">{{ post.date | date_to_string }}</time>
             </footer>
         </article>
-      {% endif %}
     {% endfor %}
 
     <!-- Previous/next page links - displayed on every page -->
