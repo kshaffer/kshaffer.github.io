@@ -35,8 +35,23 @@ current: home
           <h2 class="post-title" style="text-align: center"><a href="{{ site.url }}/datascience/">data science</a></h2>
       </header>
       <section class="post-excerpt">
-          <p><a href="{{ site.url }}/datascience/" title="data science" class="post-teaser"><img src="{{ site.baseurl }}assets/images/bletchley-teaser.jpg" alt="teaser" itemprop="image" style="max-width: 300px; margin: 0 0 12px 12px;"></a><br/>
+          <p><a href="{{ site.url }}/datascience/" title="data science" class="post-teaser"><img src="{{ site.baseurl }}assets/images/bletchley-teaser.jpg" alt="teaser" itemprop="image" style="max-width: 300px; margin: 0 0 12px 0px;"></a><br/>
           Using machine learning and statistics to explore musical and textual data.</a></p>
+      </section>
+      <footer class="post-meta">
+          {% if site.image %}<img class="author-thumb" src="{{ site.url }}{{ site.image }}" alt="Author image" nopin="nopin" />{% endif %}
+          <!-- author -->
+          <a href='{{ site.url }}author/{{ site.nickname }}'>{{ site.author }}</a>
+      </footer>
+  </article>
+
+  <article class="post" style="width: 300px">
+      <header class="post-header">
+          <h2 class="post-title" style="text-align: center"><a href="{{ site.url }}/musicology/">musicology & music theory</a></h2>
+      </header>
+      <section class="post-excerpt">
+          <p><a href="{{ site.url }}/musicology/" title="musicology" class="post-teaser"><img src="{{ site.baseurl }}assets/images/imogen-teaser.jpg" alt="teaser" itemprop="image" style="max-width: 300px; margin: 0 0 12px 0px;"></a><br/>
+          Music theory, history, and cognition.</a></p>
       </section>
       <footer class="post-meta">
           {% if site.image %}<img class="author-thumb" src="{{ site.url }}{{ site.image }}" alt="Author image" nopin="nopin" />{% endif %}
