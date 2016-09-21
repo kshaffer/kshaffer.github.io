@@ -1,13 +1,16 @@
 ---
 layout: default
 title: musicology and music theory
-description: Kris Shaffer, Ph.D.
+description: Kris Shaffer
 cover: 'assets/images/cover-laserNegatives.jpg'
 class: 'home-template'
 navigation: True
 current: home
 category: musicology
 ---
+<!-- < default -->
+<!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
+
 <!-- The big featured header  -->
 <header class="main-header {% if page.cover %}"
         style="background-image: url({{ site.baseurl }}{{ page.cover }}) {% else %}no-cover{% endif %}">
@@ -19,8 +22,8 @@ category: musicology
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
-            <h1 class="page-title">{{ page.title }}</h1>
-            <h2 class="page-description">{{ page.description }}</h2>
+            <h1 class="page-title">{{ page.category }}</h1>
+            <h2 class="page-description">{{ site.name }}</h2>
         </div>
     </div>
     <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
@@ -29,36 +32,7 @@ category: musicology
 <!-- The main content area on the homepage -->
 <main id="content" class="content" role="main">
 
-  <!-- This is the post loop - each post will be output using this markup -->
-  {% for post in site.categories[page.category] %}
-      <article class="post">
-          <header class="post-header">
-              <h2 class="post-title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
-          </header>
-          <section class="post-excerpt">
-              <p><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">{% if post.image.teaser %}<img src="{{ site.baseurl }}assets/images/{{ post.image.teaser }}" alt="teaser" itemprop="image" style="float: right; max-width: 300px; margin: 0 0 12px 12px;">{% endif %}</a>
-                  {{ post.content | strip_html | truncatewords: 26 }} <a class="read-more" href="{{ site.url }}{{ post.url | remove: '/' }}">&raquo;</a></i></b></em></strong></p>
-          </section>
-          <footer class="post-meta">
-              {% if site.image %}<img class="author-thumb" src="{{ site.url }}{{ site.image }}" alt="Author image" nopin="nopin" />{% endif %}
-              <!-- author -->
-              <a href='{{ site.url }}author/{{ site.nickname }}'>{{ site.author }}</a>
-              <!-- [[tags prefix=" on "]] -->
-              <!--
-              {% if post.tags.size > 0 %}
-                  on
-                  {% for tag in post.tags %}
-                      {% if forloop.index == post.tags.size %}
-                         <a href='{{ site.url }}tag/{{ tag }}'>{{ tag | capitalize }}</a>
-                      {% else %}
-                         <a href='{{ site.url }}tag/{{ tag }}'>{{ tag | capitalize }}</a>,
-                      {% endif %}
-                  {% endfor %}
-              {% endif %}
-          -->
-              <time class="post-date" datetime="{{ post.date | date:'%Y-%m-%d' }}">{{ post.date | date_to_string }}</time>
-          </footer>
-      </article>
-  {% endfor %}
+    <!-- The tag below includes the post loop - partials/loop.hbs -->
+    {% include loop_category.html %}
 
 </main>
