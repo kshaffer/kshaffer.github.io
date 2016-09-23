@@ -5,7 +5,7 @@ date: 2012-07-27 13:02:05
 layout: post
 slug: averages-clusters-and-hidden-patterns
 title: Averages, clusters, and hidden patterns
-categories: [musicology, data science]
+categories: []
 share: true
 wordpress_id: 550
 tags:
