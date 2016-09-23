@@ -4,7 +4,7 @@
         <header class="post-header">
             <h2 class="post-title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
         </header>
-        <section class="post-excerpt" style="max-width: 360px; display: inline-block; vertical-align: top; margin: 0px 0px 0px 10px;">
+        <section class="post-excerpt" style="max-width: 380px; display: inline-block; vertical-align: top; margin: 0px 0px 0px 0px;">
             <p>{{ post.content | strip_html | truncatewords: 26 }} <a class="read-more" href="{{ site.url }}{{ post.url | remove: '/' }}">&raquo;</a></i></b></em></strong></p>
             <footer class="post-meta">
                 {% if site.image %}<img class="author-thumb" src="{{ site.url }}{{ site.image }}" alt="Author image" nopin="nopin" />{% endif %}
@@ -13,7 +13,7 @@
                 <time class="post-date" datetime="{{ post.date | date:'%Y-%m-%d' }}">{{ post.date | date_to_string }}</time>
             </footer>
         </section>
-        <section class="post-excerpt" style="max-width: 320px; display: inline-block; vertical-align: top; margin: 0px 10px 0px 10px;">
+        <section class="post-excerpt" style="max-width: 300px; display: inline-block; vertical-align: top; margin: 0px 0px 0px 10px;">
             <p><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">{% if post.image.teaser %}<img src="{{ site.baseurl }}assets/images/{{ post.image.teaser }}" alt="teaser" itemprop="image" style="float: right; max-width: 300px; display: inline-block; vertical-align: top; margin: 0 10px 0px 10px;">{% endif %}</a>
                 </p>
         </section>
