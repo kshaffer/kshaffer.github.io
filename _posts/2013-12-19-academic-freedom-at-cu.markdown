@@ -3,7 +3,7 @@ layout: post
 title: "Academic freedom at CU"
 date: 2013-12-19 23:40
 comments: true
-categories: [higher ed]
+categories: []
 share: true
 ---
 

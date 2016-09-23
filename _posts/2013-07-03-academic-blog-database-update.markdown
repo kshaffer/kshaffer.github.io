@@ -3,7 +3,7 @@ layout: post
 title: "Academic blog database update"
 date: 2013-07-03 20:19
 comments: true
-categories: [public scholarship]
+categories: []
 share: true
 ---
 
