@@ -8,7 +8,7 @@ image:
   credit:
   creditlink:
 comments: true
-categories: [pedagogy]
+categories: []
 share: true
 ---
 

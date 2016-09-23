@@ -5,7 +5,7 @@ date: 2013-01-09 20:38:02
 layout: post
 slug: species-counterpoint-twitter-inquiry-based-learning-and-the-inverted-class
 title: Species counterpoint, Twitter, inquiry-based learning, and the inverted class
-categories: [pedagogy, social media]
+categories: []
 share: true
 wordpress_id: 651
 tags:

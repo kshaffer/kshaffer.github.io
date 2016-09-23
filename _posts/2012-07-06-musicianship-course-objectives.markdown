@@ -5,7 +5,7 @@ date: 2012-07-06 11:10:55
 layout: post
 slug: musicianship-course-objectives
 title: Musicianship course objectives
-categories: [pedagogy]
+categories: []
 share: true
 wordpress_id: 490
 tags:

@@ -5,7 +5,7 @@ date: 2012-11-04 16:42:38
 layout: post
 slug: take-away-points-from-conference-meeting-on-flipped-music-theory-pedagogy
 title: Take-away points from conference meeting on flipped music theory pedagogy
-categories: [pedagogy]
+categories: []
 share: true
 wordpress_id: 623
 tags:

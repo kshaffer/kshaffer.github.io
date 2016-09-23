@@ -5,7 +5,7 @@ date: 2012-04-10 10:52:17
 layout: post
 slug: supportive-failure-and-flipclass
 title: '"Supportive failure" and #flipclass'
-categories: [pedagogy]
+categories: []
 share: true
 wordpress_id: 302
 tags:

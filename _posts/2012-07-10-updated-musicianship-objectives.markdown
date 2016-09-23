@@ -5,7 +5,7 @@ date: 2012-07-10 12:24:39
 layout: post
 slug: updated-musicianship-objectives
 title: Updated musicianship objectives
-categories: [pedagogy]
+categories: []
 share: true
 wordpress_id: 495
 tags:

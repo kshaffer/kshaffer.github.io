@@ -3,7 +3,7 @@ layout: post
 title: "Materials for Semester 3 Theory"
 date: 2013-06-11 10:49
 comments: true
-categories: [pedagogy]
+categories: []
 share: true
 tags:
 - pedagogy

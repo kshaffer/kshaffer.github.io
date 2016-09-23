@@ -6,7 +6,7 @@ layout: post
 slug: the-open-source-textbook-or-what-im-thinking-about-proposing-for-thatcamp-se
 title: The open-source textbook (or, What I'm thinking about proposing for THATCamp
   SE)
-categories: [pedagogy, presentations]
+categories: [presentations]
 share: true
 wordpress_id: 682
 tags:

@@ -5,7 +5,7 @@ date: 2012-07-16 14:51:01
 layout: post
 slug: fail-better
 title: Fail better
-categories: [pedagogy]
+categories: []
 share: true
 wordpress_id: 511
 tags:

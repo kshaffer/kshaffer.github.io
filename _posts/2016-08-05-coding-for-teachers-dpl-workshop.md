@@ -7,7 +7,7 @@ image:
   teaser: pw2-teaser.jpg
   credit: Christiaan Colen
   creditlink: https://www.flickr.com/photos/132889348@N07/20971563620/
-  categories: [coding, pedagogy]
+categories: [coding, pedagogy, presentations]
 ---
 
 Following is the outline and resources for my workshop "Coding for Teachers" at Digital Pedagogy Lab's 2016 Institute. If you've been thinking about possibly learning to code, but don't know if it's worth it, or don't know where to start, take a stab at these activities. While they're designed with an in-person group in mind, I think they'll work for (motivated) individuals as well. :)

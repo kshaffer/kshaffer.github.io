@@ -3,7 +3,7 @@ layout: post
 title: "A self-evaluation-driven course"
 date: 2013-06-14 10:46
 comments: true
-categories: [pedagogy]
+categories: []
 share: true
 tags:
 - pedagogy  

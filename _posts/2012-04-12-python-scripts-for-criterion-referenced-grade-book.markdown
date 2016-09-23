@@ -5,7 +5,7 @@ date: 2012-04-12 13:43:29
 layout: post
 slug: python-scripts-for-criterion-referenced-grade-book
 title: Python scripts for a criterion-referenced grade book
-categories: [pedagogy, coding]
+categories: [coding]
 share: true
 wordpress_id: 322
 tags:

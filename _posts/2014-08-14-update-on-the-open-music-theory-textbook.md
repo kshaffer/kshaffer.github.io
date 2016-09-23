@@ -9,7 +9,7 @@ image:
   credit: muffin9101985
   creditlink: https://flic.kr/p/5Rv9vo
 comments: true
-categories: [pedagogy]
+categories: []
 share: true
 ---
 
