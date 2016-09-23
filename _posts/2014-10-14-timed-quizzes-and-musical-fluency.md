@@ -11,7 +11,7 @@ image:
   creditlink: https://www.flickr.com/photos/darrentunnicliff/4469318003/
 comments: true
 share: true
-categories: [pedagogy, musicology]
+categories: [pedagogy]
 ---
 
 Academic assessments always test more than we think.
