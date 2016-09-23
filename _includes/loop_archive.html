@@ -1,0 +1,50 @@
+    <!-- Previous/next page links - only displayed on page 2+ -->
+    <div class="extra-pagination inner">
+        {% if page.class == 'home-template' %}
+            {% include post_pagination.html %}
+        {% elsif page.class == 'page-template' %}
+            {% include post_pagination.html %}
+        {% elsif page.class == 'author-template' %}
+            {% include author_pagination.html %}
+        {% elsif page.class == 'tag-template' %}
+            {% include tag_pagination.html %}
+        {% else %}
+            {% include post_pagination.html %}
+        {% endif %}
+    </div>
+
+    <!-- This is the post loop - each post will be output using this markup -->
+    {% for post in paginator.posts %}
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+        </header>
+        <section class="post-excerpt" style="max-width: 380px; display: inline-block; vertical-align: top; margin: 0px 10px 0px 0px;">
+            <p>{{ post.content | strip_html | truncatewords: 26 }} <a class="read-more" href="{{ site.url }}{{ post.url | remove: '/' }}">&raquo;</a></i></b></em></strong></p>
+            <footer class="post-meta" style="margin-bottom: 20px">
+                {% if site.image %}<img class="author-thumb" src="{{ site.url }}{{ site.image }}" alt="Author image" nopin="nopin" />{% endif %}
+                <!-- author -->
+                <a href='{{ site.url }}author/{{ site.nickname }}'>{{ site.author }}</a>
+                <time class="post-date" datetime="{{ post.date | date:'%Y-%m-%d' }}">{{ post.date | date_to_string }}</time>
+            </footer>
+        </section>
+        <section class="post-excerpt" style="max-width: 300px; display: inline-block; vertical-align: top; margin: 0px 0px 0px 10px;">
+            <p><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser"><img src="{{ site.baseurl }}assets/images/{% if post.image.teaser %}{{ post.image.teaser }}{% else %}type-teaser.jpg{% endif %}" alt="teaser" itemprop="image" style="float: right; max-width: 300px; display: inline-block; vertical-align: top; margin: 0 10px 0px 10px;"></a>
+                </p>
+        </section>
+
+    </article>
+    {% endfor %}
+
+    <!-- Previous/next page links - displayed on every page -->
+    {% if page.class == 'home-template' %}
+        {% include post_pagination.html %}
+    {% elsif page.class == 'page-template' %}
+        {% include post_pagination.html %}
+    {% elsif page.class == 'author-template' %}
+        {% include author_pagination.html %}
+    {% elsif page.class == 'tag-template' %}
+        {% include tag_pagination.html %}
+    {% else %}
+        {% include post_pagination.html %}
+    {% endif %}
