@@ -4,7 +4,7 @@
         <header class="post-header">
             <h2 class="post-title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
         </header>
-        <section class="post-excerpt" style="max-width: 380px; display: inline-block; vertical-align: top; margin: 0px 0px 0px 0px;">
+        <section class="post-excerpt" style="max-width: 380px; display: inline-block; vertical-align: top; margin: 0px 10px 0px 0px;">
             <p>{{ post.content | strip_html | truncatewords: 26 }} <a class="read-more" href="{{ site.url }}{{ post.url | remove: '/' }}">&raquo;</a></i></b></em></strong></p>
             <footer class="post-meta" style="margin-bottom: 20px">
                 {% if site.image %}<img class="author-thumb" src="{{ site.url }}{{ site.image }}" alt="Author image" nopin="nopin" />{% endif %}
