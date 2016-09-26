@@ -8,7 +8,7 @@ image:
   credit: r2hox
   creditlink: https://www.flickr.com/photos/rh2ox/
 share: true
-categories: [musicology, data science]
+categories: [coding]
 ---
 
 An API is one of the most powerful and essential tools for web programming today. And yet, as I’ve been building my skills as a web developer lately, I’ve had a hard time finding a decent tutorial on how to use APIs, especially when authentication is involved. After a lot of digging ― and banging my head against various metaphorical walls! ― I’ve got a handle on basic API programming. I even built [a WordPress plugin](http://umwdtlt.com/hypothesis-aggregator-wordpress-plugin/) that makes use of [an external API](https://h.readthedocs.io/en/latest/api/) to collect its content.
