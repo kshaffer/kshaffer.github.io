@@ -11,8 +11,6 @@ share: true
 categories: [coding, public scholarship]
 ---
 
-## Getting data out of Medium
-
 Controlling my data is important to me. It’s also important that my students (and the faculty that I support) have the ability to control their own data, as well. That doesn’t mean that *everything* needs to live on a Domain of One’s Own. But it does mean that I want my data to be as flexible as possible, and as easy to move around as possible.
 
 It’s really easy to [download an archive](https://help.medium.com/hc/en-us/articles/214043918-Export-content-from-Medium) of your Medium posts. Like your Twitter archive, you can just unzip the archive and upload it to your domain, and you’ve got it up and running. 
