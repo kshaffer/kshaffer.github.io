@@ -36,6 +36,6 @@ However, if I write a *program* that I want to interact with my data on Medium, 
 
 That’s pretty much it. At least on a conceptual level. All the details about how APIs work just come out of a desire to help apps on different computers/servers talk to each other efficiently. Writing code that makes use of APIs simply requires figuring out how to use an API to connect your app with another that already exists.
 
-Next up, … [**Why APIs?**]()
+Next up, … [**Why APIs?**](http://kris.shaffermusic.com/2016/08/journey-through-api-programming-2/)
 
 *Header photo by* [*r2hox*](https://www.flickr.com/photos/rh2ox/) *(CC BY–SA).*
