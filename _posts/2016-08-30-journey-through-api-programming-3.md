@@ -56,7 +56,7 @@ To incorporate such a request into your code, you need a function that will make
 
 Here’s the code that will do that in Python (assuming you have installed the requests and json modules):
 
-~~~python3
+~~~python
 import requests
 import json
 raw_data = requests.get('https://hypothes.is/api/search?limit=1000&user=gluejar@hypothes.is')
@@ -73,7 +73,7 @@ For these reasons, many developers of popular APIs create software development k
 
 Here’s example code for Pypothesis (assuming the module has been installed, or pasted into the Python script above what follows):
 
-~~~python3
+~~~python
 s = searchurl(user = 'kris.shaffer@hypothes.is', tag = 'JavaScript')
 l = retrievelist(s)
 for entry in l:
@@ -93,12 +93,12 @@ The first step is to [register a new Medium application](https://medium.com/me/a
 
 Then you can run the following code in Python (replacing the X’s with your client ID and client secret, and replacing ‘https://pushpullfork.com/callback’ with the callback URL you provided when you made the app). Because we’re doing this in two parts, I recommend calling Python from the command line or using iPython, which will keep the session open, rather than running code from within a text editor.
 
-~~~python3
+~~~python
 from medium import Client
 import requests
 ~~~
 
-~~~python3
+~~~python
 client = Client(application_id="xxxxxxxxxxx", application_secret="xxxxxxxxxxxxxxxxxxxxxxxxx")
 auth_url = client.get_authorization_url(“secretstate”, “https://pushpullfork.com/callback", [“basicProfile”, “publishPost”])
 print(auth_url)
@@ -112,7 +112,7 @@ If, like me, you used a fake URL for your callback, you’ll get a 404 Page Not 
 
 Now run the following Python code (replacing the X’s with the code you just received, and replacing my callback URL with yours):
 
-~~~python3
+~~~python
 auth = client.exchange_authorization_code(“XXXXXXXX”, “https://pushpullfork.com/callback")
 client.access_token = auth[“access_token”]
 user = client.get_current_user()
@@ -121,7 +121,7 @@ print(user)
 
 If it works, you’ll see a small Python dictionary that contains basic data for your Medium user. You can access its internal elements like usual. To get the username, simply enter:
 
-~~~
+~~~python
 user['username']
 ~~~
 
