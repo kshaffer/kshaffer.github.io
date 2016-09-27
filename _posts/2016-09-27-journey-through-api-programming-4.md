@@ -86,3 +86,5 @@ post = client.create_post(user_id=user["id"], title="Title", content="<h2>Test t
 <p>Whatever you want to do with the Medium API, it's really easy to get content into Medium. After authenticating, it's just one line of code!</p>
 
 <p>If you're using the Medium API, especially in conjunction with a Domain of One's Own, please get in touch. I'd love to hear about what you're doing!</p>
+
+*Featured image by [paul bica](https://www.flickr.com/photos/dexxus/5791228117/).*
