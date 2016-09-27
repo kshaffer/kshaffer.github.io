@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A journey through API programming ― Part 3: Retrieving data?"
+title: "A journey through API programming ― Part 3: Retrieving data"
 modified: 2016-08-30 15:01:00 -0400
 image:
   feature: apiHeader3.jpg
