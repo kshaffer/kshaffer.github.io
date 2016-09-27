@@ -51,7 +51,7 @@ user = client.get_current_user()
 <p>Authenticating is the hard part, as I'm finding is often the case with APIs. Posting is a piece of cake by comparison. In fact, with the Python SDK, it's only a single line of code.</p>
 
 ~~~ python
-post = client.create_post(user_id=user["id"], title="Title", content="&lt;h2&gt;Test title&lt;/h2&gt;&lt;p&gt;Trying to post with the Medium API.&lt;/p&gt;", content_format="html", publish_status="draft")
+post = client.create_post(user_id=user["id"], title="Title", content="<h2>Test title</h2><p>Trying to post with the Medium API.</p>", content_format="html", publish_status="draft")
 ~~~
 
 <p>This line of code will create a draft post that looks a bit like the following:</p>
@@ -65,7 +65,7 @@ post = client.create_post(user_id=user["id"], title="Title", content="&lt;h2&gt;
 <p>You can also add tags in the API call. Here's a bit more substantive call that includes an image (from one of my blog posts) and sample tags:</p>
 
 ~~~ python
-post = client.create_post(user_id=user["id"], title="Title", content="&lt;h2&gt;Test title&lt;/h2&gt;&lt;p&gt;Trying to post with the Medium API.&lt;/p&gt;&lt;p&gt;And testing out an image...&lt;br/&gt;&lt;img src=\"http://kris.shaffermusic.com/assets/images/scaffold.jpg\" /&gt;", tags=['tag1', 'tag2'], content_format="html", publish_status="draft")
+post = client.create_post(user_id=user["id"], title="Title", content="<h2>Test title</h2><p>Trying to post with the Medium API.</p><p>And testing out an image...<br/><img src=\"http://kris.shaffermusic.com/assets/images/scaffold.jpg\" />", tags=['tag1', 'tag2'], content_format="html", publish_status="draft")
 ~~~
 
 <p>If you sent this call while authenticated to your own account, you'd see the post in your list of drafts. And if you opened the draft, you could inspect the photo element to see that it indeed has been retrieved from my server and is being served up by Medium's CDN. Click on "Publish" to see (and edit) the list of tags. tag1 and tag2 should already be in the list.
