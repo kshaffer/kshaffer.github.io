@@ -15,11 +15,11 @@ author: 'Kris Shaffer'
 nickname: kris
 bio: 'Kris Shaffer, Ph.D. (Yale University, 2011), is an Instructional Technology Specialist at the <a href="https://academics.umw.edu/dtlt/">University of Mary Washington</a> and Editor for <a href="http://hybrid.pub">Hybrid Pedagogy Publishing</a>. He is also the lead author of <a href="http://openmusictheory.com"><i>Open Music Theory</i></a>.'
 location: 'Fredericksburg, Va.'
-url: 'http://kris.shaffermusic.com'
-root_url: 'http://kris.shaffermusic.com'
+url: 'http://pushpullfork.com'
+root_url: 'http://pushpullfork.com'
 image: '/assets/images/krishead.jpg'
 
-short_url: 'kris.shaffermusic.com'
+short_url: 'pushpullfork.com'
 google_analytics:
 disqus:
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -61,7 +61,7 @@ repo: jasper
 branch: master
 relative_source: ../
 destination: ../
-production_url:  http://kris.shaffermusic.com
+production_url:  http://pushpullfork.com
 source_url:      https://github.com/kshaffer/
 
 exclude:
