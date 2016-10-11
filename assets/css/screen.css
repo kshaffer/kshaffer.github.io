@@ -101,6 +101,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 .post-card {
   background: #fff;
+  padding: 10px;
   box-shadow: 0 1px 4px rgba(0,0,0,.04);
   border: 1px solid rgba(0,0,0,.09);
   border-radius: 3px;
