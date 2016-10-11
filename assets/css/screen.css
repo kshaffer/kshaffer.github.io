@@ -99,6 +99,12 @@ input::-moz-focus-inner { border: 0; padding: 0; }
 textarea { overflow: auto; vertical-align: top; }
 table { border-collapse: collapse; border-spacing: 0; }
 
+.post-card {
+  background: #fff;
+  box-shadow: 0 1px 4px rgba(0,0,0,.04);
+  border: 1px solid rgba(0,0,0,.09);
+  border-radius: 3px;
+}
 
 .webmentions img{
     max-width: 60px;
@@ -123,7 +129,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 .webmentions a{
     color:#EE8E3F;
-    text-decoration:none    
+    text-decoration:none
 }
 
 .webmentions {
@@ -132,7 +138,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 }
 
 .webmention-mention {
-    margin: 0px 0 12px 0;   
+    margin: 0px 0 12px 0;
     display: inline-block;
     width: 100%;
     min-height: 60px;
@@ -160,7 +166,7 @@ a.webmention-published {
     text-align: left;
     position: relative;
     left: 24px;
-    
+
 }
 
 .webmention-summary:after {
