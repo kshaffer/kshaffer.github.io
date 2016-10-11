@@ -101,7 +101,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 .post-card {
   background: #fff;
-  padding: 10px 10px 10px 10px;
+  padding: 12px 12px 12px 12px;
   box-shadow: 0 1px 4px rgba(0,0,0,.04);
   border: 1px solid rgba(0,0,0,.09);
   border-radius: 3px;
@@ -997,7 +997,7 @@ body.nav-opened .nav {
     width: 80%;
     max-width: 710px;
     margin: 4rem auto;
-    padding-bottom: 4rem;
+    /*padding-bottom: 4rem;*/
     /*border-bottom: #EBF2F6 1px solid;*/
     word-wrap: break-word;
 }
