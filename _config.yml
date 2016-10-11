@@ -6,8 +6,8 @@ language: 'en-us'
 paginate_path: "/blog-archive/page:num/"
 
 # Website info
-name: 'Push. Pull. Fork.'
-description: "Kris Shaffer, Ph.D.: Computational musicologist, digital media specialist, coder."
+name: 'Kris Shaffer'
+description: "Computational musicologist. Digital media specialist. Data scientist. Coder."
 
 # Author's info
 author: 'Kris Shaffer'
