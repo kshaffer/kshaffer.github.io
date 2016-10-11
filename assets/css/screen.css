@@ -107,10 +107,6 @@ table { border-collapse: collapse; border-spacing: 0; }
   border-radius: 3px;
 }
 
-.cards-wrapper {
-  background: #fafafa;
-}
-
 .webmentions img{
     max-width: 60px;
     max-height: 60px;
@@ -564,6 +560,24 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 body.nav-opened .site-wrapper {
+    overflow-x: hidden;
+    -webkit-transform: translate3D(-240px, 0, 0);
+    -ms-transform: translate3D(-240px, 0, 0);
+    transform: translate3D(-240px, 0, 0);
+    -webkit-transition: -webkit-transform 0.3s ease;
+    transition: transform 0.3s ease;
+}
+
+.cards-wrapper {
+    position: relative;
+    z-index: 10;
+    min-height: 100%;
+    background: #fafafa;
+    -webkit-transition: -webkit-transform 0.5s ease;
+    transition: transform 0.5s ease;
+}
+
+body.nav-opened .cards-wrapper {
     overflow-x: hidden;
     -webkit-transform: translate3D(-240px, 0, 0);
     -ms-transform: translate3D(-240px, 0, 0);
