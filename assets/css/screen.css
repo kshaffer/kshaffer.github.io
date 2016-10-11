@@ -107,6 +107,10 @@ table { border-collapse: collapse; border-spacing: 0; }
   border-radius: 3px;
 }
 
+.cards-wrapper {
+  background: #fafafa;
+}
+
 .webmentions img{
     max-width: 60px;
     max-height: 60px;

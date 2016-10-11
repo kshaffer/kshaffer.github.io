@@ -28,8 +28,8 @@
                 <time class="post-date" datetime="{{ post.date | date:'%Y-%m-%d' }}">{{ post.date | date_to_string }}</time>
             </footer>
         </section>
-        <section class="post-excerpt" style="max-width: 300px; display: inline-block; vertical-align: top; margin: 0px 0px 0px 10px;">
-            <p><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser"><img src="{{ site.baseurl }}assets/images/{% if post.image.teaser %}{{ post.image.teaser }}{% else %}type-teaser.jpg{% endif %}" alt="teaser" itemprop="image" style="float: right; max-width: 300px; display: inline-block; vertical-align: top; margin: 0 10px 0px 10px;"></a>
+        <section class="post-excerpt" style="max-width: 300px; display: inline-block; vertical-align: top; margin: 0px 0px 0px 12px;">
+            <p><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser"><img src="{{ site.baseurl }}assets/images/{% if post.image.teaser %}{{ post.image.teaser }}{% else %}type-teaser.jpg{% endif %}" alt="teaser" itemprop="image" style="float: right; max-width: 300px; display: inline-block; vertical-align: top; margin: 0;"></a>
                 </p>
         </section>
 
