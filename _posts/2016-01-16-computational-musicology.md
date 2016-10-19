@@ -51,4 +51,6 @@ Yim, Gary. 2012. ["Affordant Harmony in Popular Music: Do Physical Attributes of
 
 [The Million Song Dataset](http://labrosa.ee.columbia.edu/millionsong/) ― "a freely-available collection of audio features and metadata for a million contemporary popular music tracks" (Columbia Univ.).  
 
+[Reference Annotations: The Beatles (and others)](http://isophonics.net/content/reference-annotations-beatles) ― a substantial collection of annotations for The Beatles catalogue, including chords, beats, keys, and large-scale structure.  
+
 [*Empirical Musicology Review*](http://emusicology.org/).
