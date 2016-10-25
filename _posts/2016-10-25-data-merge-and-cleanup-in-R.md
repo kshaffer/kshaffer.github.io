@@ -19,4 +19,4 @@ I've been pleasantly surprised by one feature in R that is proving far superior 
 
 Now maybe Python has a corresponding feature that I just don't know about! Regardless, R does this really well, and as a result it integrates the data cleanup process with the merging of multiple databases in a way that is relatively simple, self-contained, and super-fast. And that's just what I need right now!
 
-*Feature photo by ][NATS Press Office](https://www.flickr.com/photos/natspressoffice/13085091395/).*
+*Feature photo by [NATS Press Office](https://www.flickr.com/photos/natspressoffice/13085091395/).*
