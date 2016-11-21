@@ -50,13 +50,13 @@ And that's the key here. Why did I learn cursive as a young student? Why was it 
 To sum up, this story about my struggles with cursive illustrates two pedagogical problems that can easily emerge when choosing a technology to adopt:
 
 - Choosing a technology based on its affordances *for members of the dominant class* (or simply whatever class the developers belong to) *leaves people out*.  
-- >If we don't constantly re-evaluate our educational purposes and our technological choices, we'll end up wine-wineskin mismatch ― tools and technologies lined up with someone else's educational goals rather than our own.
+- If we don't constantly re-evaluate our educational purposes and our technological choices, we'll end up wine-wineskin mismatch ― tools and technologies lined up with someone else's educational goals rather than our own.
 
 Let me illustrate with one more (shorter!) story, one that shows the opposite side of the coin: when old pedagogical practices aren't up to new challenges.
 
 <img src="/assets/images/sm-propaganda.jpg" alt="social media propaganda poster" />
 
-<span style="font-weight: italic; text-align: center">Social media propaganda posters, by <a href="https://www.etsy.com/shop/Justonescarf">Aaron Wood</a>.</span>
+<p style="font-weight: italic; text-align: center">Social media propaganda posters, by <a href="https://www.etsy.com/shop/Justonescarf">Aaron Wood</a>.</p>
 
 Misinformation abounds. This has always been the case, but the problem has become acute in the age of digital communication. As Mike Caulfield has been showing in the week following the 2016 US presidential election, <a href="https://hapgood.us/2016/11/13/fake-news-does-better-on-facebook-than-real-news/">Facebook is particularly susceptible to this problem</a>. Of course, Facebook is not alone. The ease with which we can share "news" on social media platforms makes it increasingly easy to contribute to the virality of falsehoods.
 
