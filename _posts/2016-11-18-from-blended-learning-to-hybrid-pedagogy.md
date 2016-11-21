@@ -19,7 +19,7 @@ It was years later when I realized that not only were the desks leftovers from a
 
 Recently I've become something of a fountain pen geek. I say geek rather than connoisseur because I haven't spent ― and in fact I don't have ― enough money to consider myself even an armchair expert in fine writing implements. However, I have several inexpensive fountain pens, each with a different nib. And on my standing desk at work, alongside my Microsoft Surface tablet and my 4K display, I have three wells of ink.
 
-<img src="assets/images/dip-pen.jpg" alt="writing with a fountain pen" />
+<img src="/assets/images/dip-pen.jpg" alt="writing with a fountain pen" />
 
 Over the past two years, I've discovered the enjoyment, and at times the zen, of writing with fountain pens. It's taught me several things. It's taught me the value of good paper. Pencils and ball points can write on just about anything, but a fountain pen just doesn't work right on cheap, scratchy paper. It's taught me how to write more neatly. Not only do I try a little harder when I have a nice pen and nice paper, but *the pen works better* when I use proper form. As a left-hander, I've always struggled with neat handwriting (and with incompetent or not-so-understanding penmanship teachers), so it feels good to write something by hand and like the way it looks.
 
