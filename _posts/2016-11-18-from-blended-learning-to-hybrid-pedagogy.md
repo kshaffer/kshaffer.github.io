@@ -9,6 +9,7 @@ image:
   creditlink:
 share: true
 categories: [pedagogy, presentations]
+short_description: "How do we design a blended learning environment for the liberal arts? The philosophy of hybrid pedagogy can help."
 ---
 
 *The following is a talk I gave at Moravian College to humanities faculty as they work through issues of blended learning in a liberal arts context. The original title of the talk was "Digital affordances, digital limitations: blended learning in liberal arts education."*
