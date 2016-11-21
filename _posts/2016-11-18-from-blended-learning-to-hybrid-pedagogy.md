@@ -12,7 +12,7 @@ categories: [pedagogy, presentations]
 short_description: "How do we design a blended learning environment for the liberal arts? The philosophy of hybrid pedagogy can help."
 ---
 
-*The following is a talk I gave at Moravian College to humanities faculty as they work through issues of blended learning in a liberal arts context. The original title of the talk was "Digital affordances, digital limitations: blended learning in liberal arts education."*
+*The following is a talk I shared at Moravian College to humanities faculty as they work through issues of blended learning in a liberal arts context. The original title of the talk was "Digital affordances, digital limitations: blended learning in liberal arts education."*
 
 When I was in elementary school, I had a wooden desk with cutout sections at the top. The long skinny sections, I assumed, were pencil holders, and I used them as such. But the square in the corner I didn't quite understand. My classmates and I used them for erasers, paperclips, and (if I remember correctly) spitballs and other contraband. But none of us really knew what they were for.
 
