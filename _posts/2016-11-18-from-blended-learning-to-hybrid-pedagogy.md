@@ -33,41 +33,37 @@ For several years in elementary school, I was required to write every school ass
 
 I learned why only last year. I mentioned before that writing with a nice pen on nice paper makes me want to write especially neatly. As a left-handed writer, this is difficult, especially with fountain-pen ink. To make the ink move smoothly through the feed and down the nib, the ink must be wet. If it dries to quickly, it will clog the pen, and the pen will alternate scratches and blobs. But as a left-hander, my hand follows what I write, and if I'm not careful, it smudges the ink.
 
-**[slide - da Vinci notebook]**
+<img src="/assets/images/davinci.jpg" alt="da Vinci's notebook" />
 
 So I took a page out of Leonardo da Vinci's book, and I tried mirror writing (where you write right-to-left with reversed letters). It only took me a little while to get the hang of it, and almost instantaneously I was able to write as quickly as left-to-write, and *much more neatly*. No smudges, prettier letters, more even spacing... Everything just worked. I eventually abandoned mirror writing, though, when I realized that I couldn't *read* it nearly as readily as left-to-right letters. But the lesson stuck with me. Being able to see the letters as I write and not worrying about smudging the ink after I write meant a more natural hand position, and better handwriting overall. *This is what it's like to be right-handed!*, I thought. And that's when I realized that the limitations of my own penmanship were directly related to the affordances of pen, paper, and ink for *right-handed* writers.
 
 I noticed something else, too. Remember those struggles with cursive? As soon as my teachers let me, I abandoned it for printing. For a while, I was only writing in all capital letters. But the fluidity of the fountain pen made me want to try cursive again. It was a mess. The lack of practice, plus all the old problems, made it pretty much a fool's errand. But then I tried it in mirror writing. The strokes were unfamiliar, so it wasn't easy, but after just a little practice, like printing, it was better in mirror writing than in left-to-right. Not only was it neater, though. I learned through experience why cursive developed the way it did.
 
-Allow me to demonstrate.
-
-**[slide - cursive chart again]**
-
 Have you ever wondered why the capital letters all seem to start with a little uptick? (Which, if I'm honest, looks goofy and always struck me as silly.) When I try to write cursive, left-handed, with an italic nib, look what happens. Those upticks are very awkward, and they look strange. I'll tell you that if I were using a dip pen, or especially a quill pen, I would make a complete mess of the page, as the pen would get stuck, then skip and splatter ink everywhere. This is why many left-handers "hook" their hand when they write, or turn the page sometimes a full 90 degrees. It's the only way to make it work. Now let me demonstrate mirror writing, where the motions are the same as a right-handed writer. The uptick actually starts with the pen going down and then sideways. This is an ideal motion to get ink flowing at the start of a word: the downward motion gets the ink started, and the sideways motion gets it moving at a steady, but not too torrential, flow.
 
 If we look back at the chart of cursive letters, we can see that this angle of motion begins many of the letters, both upper- and lower-case. This motion is, for a left-handed writer, awkward at best, prohibitive at worst (especially with a quill). But for a right-handed writer with a quill or dip pen, they are absolutely essential to legible writing.
 
-And that's the key here. Why did I learn cursive as a young student? Why was it the required mode of written discourse for several (painful) years of my childhood? **[slide - archaic image of writing]** Because for past generations, *it was the mode of writing that best lined up with the affordances and limitations of the dominant writing technologies for the dominant class of writers.* Because of that, this medium became not just a form of discourse, but educational content in its own right. And when new writing technologies emerged that were more practical and less expensive, *the content of cursive penmanship was preserved until there was competition for that pedagogical space*. For at least three generations, content was taught not because of its own intrinsic value, but because of its technological expediency for past generations. New wine in old skins. Or, rather, old wine in new skins. Only now that digital technologies are competing for that space are we discussing the relative merits of teaching cursive to our children in American elementary schools.
+<img src="/assets/images/german-cursive.jpg" alt="cursive writing" />
 
-To sum up, this story about my struggles with cursive illustrates two pedagogical problems that can easily emerge when choosing a technology to adopt: **[slide]**
+And that's the key here. Why did I learn cursive as a young student? Why was it the required mode of written discourse for several (painful) years of my childhood Because for past generations, *it was the mode of writing that best lined up with the affordances and limitations of the dominant writing technologies for the dominant class of writers.* Because of that, this medium became not just a form of discourse, but educational content in its own right. And when new writing technologies emerged that were more practical and less expensive, *the content of cursive penmanship was preserved until there was competition for that pedagogical space*. For at least three generations, content was taught not because of its own intrinsic value, but because of its technological expediency for past generations. New wine in old skins. Or, rather, old wine in new skins. Only now that digital technologies are competing for that space are we discussing the relative merits of teaching cursive to our children in American elementary schools.
 
+To sum up, this story about my struggles with cursive illustrates two pedagogical problems that can easily emerge when choosing a technology to adopt:
 
-<ul><li>Choosing a technology based on its affordances *for members of the dominant class* (or simply whatever class the developers belong to) *leaves people out*.<br></li><li>If we don't constantly re-evaluate our educational purposes and our technological choices, we'll end up wine-wineskin mismatch ― tools and technologies lined up with someone else's educational goals rather than our own.</li></ul>
+- Choosing a technology based on its affordances *for members of the dominant class* (or simply whatever class the developers belong to) *leaves people out*.  
+- >If we don't constantly re-evaluate our educational purposes and our technological choices, we'll end up wine-wineskin mismatch ― tools and technologies lined up with someone else's educational goals rather than our own.
+
 Let me illustrate with one more (shorter!) story, one that shows the opposite side of the coin: when old pedagogical practices aren't up to new challenges.
 
-**[slide - fake news]**
+<img src="/assets/images/sm-propaganda.jpg" alt="social media propaganda poster" />
+
+<span style="font-weight: italic; text-align: center">Social media propaganda posters, by <a href="https://www.etsy.com/shop/Justonescarf">Aaron Wood</a>.</span>
 
 Misinformation abounds. This has always been the case, but the problem has become acute in the age of digital communication. As Mike Caulfield has been showing in the week following the 2016 US presidential election, <a href="https://hapgood.us/2016/11/13/fake-news-does-better-on-facebook-than-real-news/">Facebook is particularly susceptible to this problem</a>. Of course, Facebook is not alone. The ease with which we can share "news" on social media platforms makes it increasingly easy to contribute to the virality of falsehoods.
 
-I was tweeting about this phenomenon last week. Amid a stream of comments I posted to Twitter about deceptive media practices, I received this two part response from someone I don't know: **[slide - tweets]**
+I was tweeting about this phenomenon last week. Amid a stream of comments I posted to Twitter about deceptive media practices, I received this two part response from someone I don't know:
 
-
-
-
-> And that does not count the obvious foreign influence of people like Soros.<br>I'll throw RT and Putin in there just to keep the balance of the narrative, but the point stands.
-
-
-
+> And that does not count the obvious foreign influence of people like Soros.  
+I'll throw RT and Putin in there just to keep the balance of the narrative, but the point stands.
 
 This is subtle, and rather artful when I think about it, deception. Let's unpack it.
 
