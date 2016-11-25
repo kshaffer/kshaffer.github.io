@@ -133,7 +133,7 @@ class: 'post-template'
 
     <!-- [[! next_post ]] -->{{ post.url | remove: '/' }}
     {% if page.next %}
-        <a class="read-next-story {% if page.next.image.feature %}" style="background-image: url({{ site.url }}/assets/images/{{ page.next.image.feature }}){% else %}no-cover{% endif %}" href="{{ site.url }}{{ page.next.url }}">
+        <a class="read-next-story prev" style="background-image: url({{ site.url }}/assets/images/{% if page.next.image.feature %}{{ page.next.image.feature }}{% else %}oldtype.jpg{% endif %})" href="{{ site.url }}{{ page.next.url }}">
             <section class="post">
                 <h2>{{ page.next.title }}</h2>
                 <p>{{ page.next.content | strip_html | truncatewords:15 }}</p>
@@ -143,7 +143,7 @@ class: 'post-template'
     <!-- [[! /next_post ]] -->
     <!-- [[! prev_post ]] -->
     {% if page.previous %}
-        <a class="read-next-story prev {% if page.previous.image.feature %}" style="background-image: url({{ site.url }}/assets/images/{{ page.previous.image.feature }}){% else %}no-cover{% endif %}" href="{{ site.url }}{{ page.previous.url }}">
+        <a class="read-next-story prev" style="background-image: url({{ site.url }}/assets/images/{% if page.previous.image.feature %}{{ page.previous.image.feature }}{% else %}oldtype.jpg{% endif %})" href="{{ site.url }}{{ page.previous.url }}">
             <section class="post">
                 <h2>{{ page.previous.title }}</h2>
                 <p>{{ page.previous.content | strip_html | truncatewords:15 }}</p>
