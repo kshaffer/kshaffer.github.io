@@ -23,7 +23,7 @@ Let's see what the data has to say...
 To determine if a third-party candidate played spoiler, we need to start by finding **in which states that candidate's votes exceed the winner's margin of victory.** I imported my <a href="https://github.com/kshaffer/election2016" target="_blank">2016 election results dataset</a> into <a href="https://www.r-project.org/" target="_blank">R</a> to do this analysis. Assuming the dataset is imported into a data frame called electionAnalysis (as it is in my <a href="https://github.com/kshaffer/election2016/blob/master/2016Election.R" target="_blank">sample R script</a>), a single line of code will tell you the states in which the amount of votes cast for third-party candidates exceeds the margin of victory for that state:
 
 ~~~R
-electionAnalysis[electionAnalysis$thirdParty
+electionAnalysis[electionAnalysis$thirdParty >
   electionAnalysis$marginOfVictory,]$state
 ~~~
 
@@ -38,7 +38,8 @@ Could a swing in these three states be enough to change the election results?
 ~~~R
 sum(electionAnalysis[election$state %in%
   c('Michigan', 'Pennsylvania', 'Wisconsin'),]$electors2016)*2 >
-  sum(electionAnalysis$trumpElectors) - sum(electionAnalysis$clintonElectors)
+  sum(electionAnalysis$trumpElectors) -
+  sum(electionAnalysis$clintonElectors)
 ~~~
 
 Yes, if Trump's 306 electors were diminshed by the 46 electors from these three states, and Clinton's 232 increased by 46, the electoral votes would favor Clinton. So, it's hypothetically possible. But is it likely?
