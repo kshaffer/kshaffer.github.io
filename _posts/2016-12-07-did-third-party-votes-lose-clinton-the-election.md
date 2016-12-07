@@ -9,7 +9,7 @@ image:
   creditlink: https://www.flickr.com/photos/wolfgangfoto/2496017650
 share: true
 categories: [data science, public scholarship]
-short_description: ""
+short_description: "In which states did Jill Stein win more votes than the margin of victory? Could a swing in these states be enough to change the election results?"
 ---
 
 <i>Official results are not yet in from every state, but we have good enough numbers to start to tackle some of the statistical questions surrounding last month's presidential election. <a href="https://en.wikipedia.org/wiki/United_States_presidential_election,_2016" target="_blank">Wikipedia has curated</a> the latest official and unofficial numbers from the <a href="https://interactives.ap.org/2016/general-election/?SITE=NEWSHOURELN" target="_blank">Associated Press</a> in a nice table, which I have cleaned up and assembled into an easy-to-wrangle (even in Excel!) <a href="https://github.com/kshaffer/election2016" target="_blank">dataset</a> for your analytical pleasures. <a href="https://en.wikipedia.org/wiki/Electoral_College_(United_States)" target="_blank">Electoral college</a> and <a href="https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population" target="_blank">population</a> data was also taken from Wikipedia.</i>
@@ -23,12 +23,13 @@ Let's see what the data has to say...
 To determine if a third-party candidate played spoiler, we need to start by finding **in which states that candidate's votes exceed the winner's margin of victory.** I imported my <a href="https://github.com/kshaffer/election2016" target="_blank">2016 election results dataset</a> into <a href="https://www.r-project.org/" target="_blank">R</a> to do this analysis. Assuming the dataset is imported into a data frame called electionAnalysis (as it is in my <a href="https://github.com/kshaffer/election2016/blob/master/2016Election.R" target="_blank">sample R script</a>), a single line of code will tell you the states in which the amount of votes cast for third-party candidates exceeds the margin of victory for that state:
 
 ~~~R
-electionAnalysis[electionAnalysis$thirdParty > electionAnalysis$marginOfVictory,]$state
+electionAnalysis[electionAnalysis$thirdParty
+  electionAnalysis$marginOfVictory,]$state
 ~~~
 
 This tells us that 14 states could conceivably have been swung by third-party voting: Arizona, Colorado, Florida, Maine, Michigan, Minnesota, Nevada, New Hampshire, New Mexico, North Carolina, Pennsylvania, Utah, Virginia, and Wisconsin.
 
-However, the majority of third-party votes in this election went to right-leaning candidates. In fact, Gary Johnson himself brought in more than all other third-party candidates combined. So the real question is: **in what states did Jill Stein win more votes than the margin of victory?**
+However, the majority of third-party votes in this election went to right-leaning candidates. In fact, Gary Johnson himself brought in more than all other third-party candidates combined. So the real question is: **in which states did Jill Stein win more votes than the margin of victory?**
 
 There were just four: Michigan, New Hampshire, Pennsylvania, and Wisconsin. Since New Hampshire went for Clinton, the question of Jill Stein spoiling the election for Clinton comes down to just three (now very familiar) states: **Michigan, Pennsylvania, and Wisconsin.**
 
@@ -36,7 +37,8 @@ Could a swing in these three states be enough to change the election results?
 
 ~~~R
 sum(electionAnalysis[election$state %in%
-                       c('Michigan', 'Pennsylvania', 'Wisconsin'),]$electors2016)*2 > sum(electionAnalysis$trumpElectors) - sum(electionAnalysis$clintonElectors)
+  c('Michigan', 'Pennsylvania', 'Wisconsin'),]$electors2016)*2 >
+  sum(electionAnalysis$trumpElectors) - sum(electionAnalysis$clintonElectors)
 ~~~
 
 Yes, if Trump's 306 electors were diminshed by the 46 electors from these three states, and Clinton's 232 increased by 46, the electoral votes would favor Clinton. So, it's hypothetically possible. But is it likely?
