@@ -17,7 +17,7 @@ The New York Philharmonic has a public dataset containing <a href="https://githu
 
 First, here are the R libraries that I use in the code that follows. If you're going to run the code, you'll need these libraries.
 
-~~~
+~~~r
 library(jsonlite)  
 library(tidyverse)  
 library(tidytext)  
@@ -31,11 +31,11 @@ library(broom)
 
 To load the NYPhil performance data into R, you can download it from GitHub and load it locally, or just load it directly into R from GitHub. (I chose the latter.)
 
-~~~
+~~~r
 nyp <- fromJSON('https://raw.githubusercontent.com/nyphilarchive/PerformanceHistory/master/Programs/json/complete.json')
 ~~~
 
-Now their entire performance history is in a data frame called **nyp**!
+Now their entire performance history is in a data frame called ```nyp```!
 
 ## Tidying the data
 
@@ -43,7 +43,7 @@ The performance history is organized in a hierarchical format ― more-or-less l
 
 Getting from the hierarchical structure to a tidy data frame was something of a challenge. There are a number of different kinds of lists embedded in the JSON structure, not all of which I wanted to worry about. So I poked around for a while and then created some functions to extract the info I wanted and assign a single row to each piece on a particular program, which would include all of the pertinent details. Here are the custom functions for expanding the list of work info for a work, and then reproducing the general program information for each work on that program. (Note that I left the soloist field included, but still as a list. I'm not planning on using it, but I left it in for future possibilities.)
 
-~~~
+~~~r
 work_to_data_frame <- function(work) {  
   workID <- work['ID']  
   composer <- work['composerName']  
@@ -62,11 +62,11 @@ work_to_data_frame <- function(work) {
 expand_works <- function(record) {  
   if (is_empty(record)) {  
     works_db <- as.data.frame(cbind(workID = NA,  
-                                 composer = NA,  
-                                 title = NA,  
-                                 movement = NA,  
-                                 conductor = NA,  
-                                 soloist = NA))  
+                                    composer = NA,  
+                                    title = NA,  
+                                    movement = NA,  
+                                    conductor = NA,  
+                                    soloist = NA))  
     } else {  
       total <- length(record)  
       works_db <- t(sapply(record[1:total], work_to_data_frame))  
@@ -99,7 +99,7 @@ expand_program <- function(record_number) {
 
 Then I used a loop to iterate these functions over the entire dataset (13771 records through the end of 2016 when I downloaded it, but this is a dynamic dataset that expands as new programs are performed), then save it to CSV and make it into a tibble (TidyVerse-friendly).
 
-~~~
+~~~r
 db <- data.frame()  
 for (i in 1:13771) {  
   db <- rbind(db, cbind(i, expand_program(i)))  
@@ -129,7 +129,7 @@ With this tidy tibble, we can really easily find and visualize basic descriptive
 
 This is produced by running the following code.
 
-~~~
+~~~r
 tidy_nyp %>%  
   filter(!composer %in% c('NULL', 'Traditional,', 'Anthem,')) %>%  
   count(composer, sort=TRUE) %>%  
@@ -149,7 +149,7 @@ Before looking at trends over time, let's see if looking at specific works can s
 
 <img src="/assets/images/nyphil_pieces.png" />
 
-~~~
+~~~r
 tidy_nyp %>%  
   filter(!title %in% c('NULL')) %>%  
   mutate(composer_work = paste(composer, '-', title)) %>%  
@@ -178,21 +178,19 @@ Pre-1930:
 
 And post-1929:
 
-<img src="/assets/images/nyphil_composerspost1929.png" />
+<img src="/assets/images/nyphil_composers_post1929.png" />
 
 To do this, I simply added another filter to tidy_nyp:
 
-~~~
+~~~r
 filter(as.integer(substr(as.character(date),1,4)) < 1930) %>%
 ~~~
-
-(And the corresponding " target="blank_">= 1930" for the other visualization.)
 
 Here we see Beethoven, Tchaikovsky, and Mozart all ahead of Wagner in more recent history, with Wagner dominating (and Mozart missing from) the earlier history.
 
 But we can model this with more nuance. Let's make a new tibble that contains just the information we need on composer frequency year-by-year.
 
-~~~
+~~~r
 comp_counts <- tidy_nyp %>%  
   filter(!composer %in% c('NULL', 'Traditional,', 'Anthem,')) %>%  
   mutate(year = as.integer(substr(as.character(date),1,4))) %>%  
@@ -228,7 +226,7 @@ However, comparing a composer's share of the programming year by year isn't alwa
 
 <img src="/assets/images/nyphil_composers_per_year.png" />
 
-~~~
+~~~r
 comp_counts %>%  
   group_by(year) %>%  
   summarize(comp_per_year = n()) %>%  
