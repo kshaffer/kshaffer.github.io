@@ -8,7 +8,7 @@ image:
   credit:
   creditlink:
 share: true
-categories: [music, data science, coding]
+categories: [musicology, data science, coding]
 ---
 
 The New York Philharmonic has a public dataset containing <a href="https://github.com/nyphilarchive/PerformanceHistory/" target="blank_">metadata for their entire performance history</a>. I recently discovered this, and of course downloaded it and started to geek out over it. (On what was supposed to be a day off, of course!) I only explored the data for a few hours, but was able to find some really interesting things. I'm sharing them here, along with the code I used to do them (in <a href="https://www.r-project.org/" target="blank_">R</a>, using <a href="http://tidyverse.org/" target="blank_">TidyVerse</a> tools), so you can reproduce them, or dive further into other questions. (If you just want to see the results, feel free to skip over the code and just check out the visualizations and discussion below.)
