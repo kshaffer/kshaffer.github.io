@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Data mining the New York Philharmonic performance history"
 modified: 2017-01-19 17:02:00 -0500
 image:
