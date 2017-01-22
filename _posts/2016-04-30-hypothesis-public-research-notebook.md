@@ -13,7 +13,7 @@ categories: [coding]
 
 Can we do scholarly work in public without relying on for-profit "social" platforms?
 
-This is a big question I've been mulling over lately, especially as my [new position](http://kris.shaffermusic.com/2016/03/slac-ing-off-to-virginia/) at the University of Mary Washington will involve significant work on the [Domain of One's Own](http://umw.domains/) project. I won't tackle all the implications of that question in a single blog post, but I do want to address one aspect of it: can we share things of value we discover ― and our thoughts about them ― without providing free labor or content to for-profit tech corporations? Even better, can we do so without everyone becoming a coder, web designer, and server administrator?
+This is a big question I've been mulling over lately, especially as my new position at the University of Mary Washington will involve significant work on the [Domain of One's Own](http://umw.domains/) project. I won't tackle all the implications of that question in a single blog post, but I do want to address one aspect of it: can we share things of value we discover ― and our thoughts about them ― without providing free labor or content to for-profit tech corporations? Even better, can we do so without everyone becoming a coder, web designer, and server administrator?
 
 ## hypothes.is
 

@@ -44,8 +44,6 @@ Ultimately, designing a student-centered, even student-driven, course aimed at e
 
 ## Related posts
 
-- [Academic freedom is for students, too](http://kris.shaffermusic.com//2015/04/academic-freedom-is-for-students/)  
-- [Lecture in a flipped class](http://kris.shaffermusic.com//2014/12/lecture-in-a-flipped-class/)  
-- [Starting off with critical pedagogy](http://kris.shaffermusic.com//2014/09/starting-off-with-critical-pedagogy/)  
-- [More humanity in the humanities](http://kris.shaffermusic.com//2014/11/more-humanity-in-the-humanities/)  
-- [Charles Dickens, critical pedagogue](http://kris.shaffermusic.com//2015/03/charles-dickens/)  
+- [Academic freedom is for students, too](/2015/04/academic-freedom-is-for-students/)  
+- [Starting off with critical pedagogy](/2014/09/starting-off-with-critical-pedagogy/)  
+- [More humanity in the humanities](/2014/11/more-humanity-in-the-humanities/)  
