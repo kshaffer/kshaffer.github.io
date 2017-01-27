@@ -33,7 +33,7 @@ Assistant Professor of Music Theory, Charleston Southern University, 2011–13
 
 ## Publications – peer-reviewed articles
 
-["Truthy Lies, Surreal Truths: A Plea for Critical Digital Literacies."](http://www.digitalpedagogylab.com/hybridped/truthy-lies-surreal-truths/) In *Hybrid Pedagogy*. December 8, 2016.
+["Truthy Lies, Surreal Truths: A Plea for Critical Digital Literacies."](http://www.digitalpedagogylab.com/hybridped/truthy-lies-surreal-truths/) In [*Hybrid Pedagogy*](http://www.hybridpedagogy.com). December 8, 2016.
 
 ["Hacking the Music Theory Classroom: Standards-Based Grading, Just-in-Time Teaching, and the Inverted Class."](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html) In [*Music Theory Online*](http://www.mtosmt.org) 21.1 (2015).  Co-authors: Philip Duker, Anna Gawboy, Bryn Hughes.
 
