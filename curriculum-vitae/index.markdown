@@ -21,7 +21,7 @@ B.Mus. in horn performance, *summa cum laude*, Lawrence University (Appleton, Wi
 
 ## Academic employment
 
-Instructional Technology Specialist & Adjunct Instructor of Computer Science, University of Mary Washington, 2016–present
+Instructional Technology Specialist & Adjunct Instructor of Computer Science and Digital Studies, University of Mary Washington, 2016–present
 
 Instructor of Music Theory & Adjunct Instructor of Computer Science and Psychology, University of Colorado–Boulder, 2013–16
 
@@ -33,7 +33,9 @@ Assistant Professor of Music Theory, Charleston Southern University, 2011–13
 
 ## Publications – peer-reviewed articles
 
-["Hacking the Music Theory Classroom: Standards-Based Grading, Just-in-Time Teaching, and the Inverted Class."](www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html) In [*Music Theory Online*](http://www.mtosmt.org) 21.1 (2015).  Co-authors: Philip Duker, Anna Gawboy, Bryn Hughes.
+["Truthy Lies, Surreal Truths: A Plea for Critical Digital Literacies."](http://www.digitalpedagogylab.com/hybridped/truthy-lies-surreal-truths/) In *Hybrid Pedagogy*. December 8, 2016.
+
+["Hacking the Music Theory Classroom: Standards-Based Grading, Just-in-Time Teaching, and the Inverted Class."](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html) In [*Music Theory Online*](http://www.mtosmt.org) 21.1 (2015).  Co-authors: Philip Duker, Anna Gawboy, Bryn Hughes.
 
 ["Love in the Time of Peer Review."](http://www.hybridpedagogy.com/journal/love-time-peer-review/) In [*Hybrid Pedagogy*](http://www.hybridpedagogy.com), November 22, 2014.
 
