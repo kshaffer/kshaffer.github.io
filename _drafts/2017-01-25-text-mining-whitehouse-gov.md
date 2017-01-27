@@ -1,264 +1,63 @@
 ---
 layout: post
-title: "Data mining the New York Philharmonic performance history"
-modified: 2017-01-19 17:02:00 -0500
+title: "Text mining the new whitehouse.gov"
+modified: 2017-01-25 11:35:00 -0500
 image:
-  feature: stoneStacks.jpg
-  teaser: stoneStacks-teaser.jpg
+  feature:
+  teaser:
   credit:
   creditlink:
 share: true
-categories: [musicology, data science, coding]
-short_description: "How does war affect the music an orchestra plays?"
+categories: [data science, coding]
+short_description: "What is (and isn't) on the new whitehouse.gov?"
 ---
 
-The New York Philharmonic has a public dataset containing <a href="https://github.com/nyphilarchive/PerformanceHistory/" target="blank_">metadata for their entire performance history</a>. I recently discovered this, and of course downloaded it and started to geek out over it. (On what was supposed to be a day off, of course!) I only explored the data for a few hours, but was able to find some really interesting things. I'm sharing them here, along with the code I used to do them (in <a href="https://www.r-project.org/" target="blank_">R</a>, using <a href="http://tidyverse.org/" target="blank_">TidyVerse</a> tools), so you can reproduce them, or dive further into other questions. (If you just want to see the results, feel free to skip over the code and just check out the visualizations and discussion below.)
+[Whitehouse.gov](https://whitehouse.gov) has changed a lot since the inauguration. Many have noted specific things that have disappeared recently, such as pages on climate change, Spanish-language content, etc. I thought I'd put my web-scraping and text-mining skills to work and investigate it more thoroughly.
 
-<i>All scripts, extracted data, and visualizations in this blog post can also be found in the <a href="https://github.com/kshaffer/nyphil" target="blank_">GitHub repository</a> for this project.</i>
+## What I've found so far
 
-## Downloading the data
+The first, and most staggering, thing I've found so far is the vast difference in the amount of data contained in Trump's and Obama's whitehouse.gov sites. As of January 25, 2017, Trump's whitehouse.gov contains **44 megabytes** of data. After several hours of downloading, the January 20, 2017, snapshot of Obama's whitehouse.gov is **9.6 *giga*bytes** and counting. While I can understand a new administration wanting to rebuild the website from scratch, that's a lot of content to delete and not replace immediately, and it's not all information specific to the Obama administration. I'll write more about the details of the content that was deleted when the scrape finishes, but for now, I want to point out just how much was deleted by the new administration. Over 9 gigabytes of data, and most of the files are plain text. That's a lot of data.
 
-First, here are the R libraries that I use in the code that follows. If you're going to run the code, you'll need these libraries.
+Since so little is on the current site, and I don't have a full download of the Obama site yet, there's not much to mine and analyze just yet. But at least one important insight emerges. Take a look at the most common (non-stop) words in Trump's site.
 
-~~~r
-library(jsonlite)  
-library(tidyverse)  
-library(tidytext)  
-library(stringr)  
-library(scales)  
-library(tidyjson)  
-library(purrr)  
-library(lubridate)  
-library(broom)
+<img src="/assets/images/trump_whitehouse_words.png" alt="Most common non-stop words in Trump's whitehouse.gov site as of Jan 25, 2017" />
+
+We'd expect white, house, president, etc. to be at the top of the list, but hardly anything on this list is indicative of any specific policies or positions. They are the boilerplate words we would expect from the site skeleton.
+
+The same is true for the most common bigrams (two-word phrases) and trigrams (three-word phrases).
+
+<img src="/assets/images/trump_whitehouse_bigrams.png" alt="Most common bigrams in Trump's whitehouse.gov site as of Jan 25, 2017" />
+
+<img src="/assets/images/trump_whitehouse_trigrams.png" alt="Most common trigrams in Trump's whitehouse.gov site as of Jan 25, 2017" />
+
+In fact, these tables seem even more boilerplate than the top single words. What that means to me, in conjunction with the large drop in total amount of data on the site from January 20 to January 25, is that the site is more-or-less empty. While there are some policy pages and information releases, a large amount of the content is boilerplate and site-architectural (even after removing as many of the page headers and footers as I could), rather than providing specifics about how the administration is governing and plans to govern going forward.
+
+I'm hopeful that going forward, we'll get a lot more information. But the way things have gone this week, I'm not sure *transparency* is this administration's watchword.
+
+
+
+*If you're interested in how I scraped the content and/or want to download my script to do it yourself, keep reading. Otherwise, feel free to stop here, but stay tuned for updates as I get more data and do more analysis!*
+
+## Scraping and pre-processing
+
+To start, I wanted to download the current whitehouse.gov site, as well as the last version of whitehouse.gov from the Obama administration. Then I could extract text content and make some comparisons. Downloading the current version is really easy. Assuming you have wget installed (if not, I highly recommend [homebrew](http://brew.sh/) for Mac), you can download the entire website in just a few seconds with a single line of code pasted into the command line.
+
+~~~bash
+wget -r -e robots=off --convert-links -nd https://www.whitehouse.gov
 ~~~
 
-To load the NYPhil performance data into R, you can download it from GitHub and load it locally, or just load it directly into R from GitHub. (I chose the latter.)
+This will tell whitehouse.gov that your computer isn't a script (\*wink\*), follow the links on the homepage to other pages on the domain, follow those pages' links, and so on..., download all content from whitehouse.gov that it finds, put them in a single folder on your computer, and convert the links in those files to refer to the newly downloaded files on your computer (so you can click on the links in the site you downloaded and navigate the site locally).
 
-~~~r
-nyp <- fromJSON('https://raw.githubusercontent.com/nyphilarchive/PerformanceHistory/master/Programs/json/complete.json')
+Next, I created a bunch of folders for different file types: ```css```, ```docs```, ```fonts```, ```html```, ```images```, and ```scripts```. I moved all the downloaded files to the respective folders for those file types. (```mv *.png ./images/``` to move all ```png``` files to the ```images``` folder, for example.) Now all the text is in one folder, making it easier to analyze, and leaving images, PDFs, etc. in easily findable for future analyses.
+
+I created a [Python script](https://github.com/kshaffer/whitehouse/blob/master/make_the_soup.py) that uses the [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) package to take all the files in a single folder and extract their titles and their main page content (following the back-end formatting used by whitehouse.gov). If you are going to use this script, make sure to edit the ```source_folder``` and ```output_file``` variables at the beginning of the script to point to the input and output you want to analyze. Then just run ```python make_the_soup.py``` to run the script and convert the folder full of html pages into a single CSV file that can be used for data analysis.
+
+Things are a bit more tricky for archives of whitehouse.gov than for the current version, for two reasons. First, you have to download it from the [Internet Archive's Wayback Machine](https://archive.org/web/), which is slower and a bit more complex on the backend than whitehouse.gov. Second, and more importantly, the latter versions of the Obama administration's website contained a *lot* more information than the Trump administration includes in their website to date. After several hours, wget is still downloading content! When it's finished, I'll have more to report, but for now, here's the wget code for downloading an Internet Archive snapshot (the timestamp of the snapshot will change depending on which snapshot you want to download):
+
+~~~bash
+wget -r -e robots=off --convert-links -nd http://web.archive.org/web/201701200112330/https://www.whitehouse.gov
 ~~~
 
-Now their entire performance history is in a data frame called ```nyp```!
+## Mining and analyzing
 
-## Tidying the data
-
-The performance history is organized in a hierarchical format ― more-or-less lists of lists of lists. (See the <a href="https://github.com/nyphilarchive/PerformanceHistory/" target="blank_">README file</a> on GitHub for an explanation.) It's an intuitive way to organize the data, but it makes it difficult to do exploratory data analysis. So I spent more time than I care to admit unpacking the hierarchical structure into a flat, two-dimensional "tidy" structure, where each row is an *observation* (in this case, a piece of music that appears on a particular program) and each column is a *variable* or *measurement* (in this case, things like title, composer, date of program, performance season, conductor, soloist(s), performance venue, etc.).
-
-Getting from the hierarchical structure to a tidy data frame was something of a challenge. There are a number of different kinds of lists embedded in the JSON structure, not all of which I wanted to worry about. So I poked around for a while and then created some functions to extract the info I wanted and assign a single row to each piece on a particular program, which would include all of the pertinent details. Here are the custom functions for expanding the list of metadata for a musical work, and then reproducing the general program information for each work on that program. (Note that I left the soloist field included, but still as a list. I'm not planning on using it, but I left it in for future possibilities.)
-
-~~~r
-work_to_data_frame <- function(work) {  
-  workID <- work['ID']  
-  composer <- work['composerName']  
-  title <- work['workTitle']  
-  movement <- work['movement']  
-  conductor <- work['conductorName']  
-  soloist <- work['soloists']  
-  return(c(workID = workID,  
-           composer = composer,  
-           title = title,  
-           movement = movement,  
-           conductor = conductor,  
-           soloist = soloist))  
-}  
-
-expand_works <- function(record) {  
-  if (is_empty(record)) {  
-    works_db <- as.data.frame(cbind(workID = NA,  
-                                    composer = NA,  
-                                    title = NA,  
-                                    movement = NA,  
-                                    conductor = NA,  
-                                    soloist = NA))  
-    } else {  
-      total <- length(record)  
-      works_db <- t(sapply(record[1:total], work_to_data_frame))  
-      colnames(works_db) <- c('workID',  
-                              'composer',  
-                              'title',  
-                              'movement',  
-                              'conductor',  
-                              'soloist')  
-    }  
-  return(works_db)  
-}  
-
-expand_program <- function(record_number) {  
-  record <- nyp$programs[[record_number]]  
-  total <- length(record)  
-  program <- as.data.frame(cbind(id = record$id,  
-                                 programID = record$programID,  
-                                 orchestra = record$orchestra,  
-                                 season = record$season,  
-                                 eventType = record$concerts[[1]]$eventType,  
-                                 location = record$concerts[[1]]$Location,  
-                                 venue = record$concerts[[1]]$Venue,  
-                                 date = record$concerts[[1]]$Date,  
-                                 time = record$concerts[[1]]$Time))  
-  works <- expand_works(record$works)  
-  return(cbind(program, works))  
-}
-~~~
-
-Then I used a loop to iterate these functions over the entire dataset (13771 records through the end of 2016 when I downloaded it, but this is a dynamic dataset that expands as new programs are performed), then save it to CSV and make it into a tibble (a TidyVerse-friendly data frame).
-
-~~~r
-db <- data.frame()  
-for (i in 1:13771) {  
-  db <- rbind(db, cbind(i, expand_program(i)))  
-}  
-
-tidy_nyp <- db %>%
-  as_tibble() %>%
-  mutate(workID = as.character(workID),
-         composer = as.character(composer),
-         title = as.character(title),
-         movement = as.character(movement),
-         conductor = as.character(conductor),
-         soloist = as.character(soloist))
-
-tidy_nyp %>%
-  write.csv('ny_phil_programs.csv')
-~~~
-
-This takes a *looooooong* time to process on a dual-core PC, which is why I was sure to save the results immediately for reloading in the future. Normally I would write a function that could be vectorized (processed on each value in parallel), which takes advantage of R's (well, really C's) high-efficiency matrix multiplication capabilities. However, because the input (one record per concert program) and output (one record per piece per program) were necessarily different lengths, I couldn't make that work. *If you know how to do that, please drop me an email or tweet and I'll be eternally grateful!*
-
-After a cup of coffee, or maybe two!, I have a handy tibble of almost 82,000 performance records from the entire history of the NY Philharmonic!
-
-## Most common composers and works
-
-With this tidy tibble, we can really easily find and visualize basic descriptive statistics about the dataset. For example, what composers have the most works in the corpus? Here are all the composers with 400 or more works performed, in order of frequency.  
-
-<img src="/assets/images/nyphil_composers.png" />
-
-This is produced by running the following code.
-
-~~~r
-tidy_nyp %>%  
-  filter(!composer %in% c('NULL', 'Traditional,', 'Anthem,')) %>%  
-  count(composer, sort=TRUE) %>%  
-  filter(n > 400) %>%  
-  mutate(composer = reorder(composer, n)) %>%  
-  ggplot(aes(composer, n, fill = composer)) +  
-  geom_bar(stat = 'identity') +  
-  xlab('Composer') +  
-  ylab('Number of works performed') +  
-  theme(legend.position="none") +  
-  coord_flip()
-~~~
-
-I was surprised to see Wagner on top, even ahead of Beethoven. Tchaikovsky was also a big surprise to me. He's popular, but I've ushered or attended over 200 performances of the Chicago Symphony Orchestra, and Beethoven and Mozart are definitely performed more recently than Wagner and Tchaikovsky by the CSO today. So is this a NYP/CSO difference? Many of my music theory & history friends on Twitter were also surprised to see this ordering, so maybe not. In that case, have things changed over time?
-
-Before looking at trends over time, let's see if looking at specific works can shed any light. Here are the most performed works (and the code to produce the visualization), correcting for multiple movements listed from the same piece on the same program.
-
-<img src="/assets/images/nyphil_pieces.png" />
-
-~~~r
-tidy_nyp %>%  
-  filter(!title %in% c('NULL')) %>%  
-  mutate(composer_work = paste(composer, '-', title)) %>%  
-  group_by(composer_work, programID) %>%  
-  summarize(times_on_program = n()) %>%  
-  count(composer_work, sort=TRUE) %>%  
-  filter(n > 220) %>%  
-  mutate(composer_work = reorder(composer_work, n)) %>%  
-  ggplot(aes(composer_work, n, fill = composer_work)) +  
-  geom_bar(stat = 'identity') +  
-  xlab('Composer and work') +  
-  ylab('Number of times performed') +  
-  theme(legend.position="none") +  
-  coord_flip()
-~~~
-
-There are a lot of Wagner operas at the top! (Though it's worth noting that only a few instances of each are full performances. Instead, most are just the overture or prelude, a common way of opening out a symphony concert.) While many of Wagner's most performed works are very short (10-minute overtures compared to 30-to-60-minute Beethoven and Tchaikovsky symphonies), and thus Beethoven probably occupies more *time* on the program than Wagner, the high number of Wagner, and even Tchaikovsky, pieces on NY Phil programs is still surprising to me.
-
-## Changes over time
-
-Let's see how things have changed over time. We can start simply by comparing their early history to their late history. Here are composer counts from 1842 to 1929 and 1930 to 2016 (roughly equal timespans, though not equal numbers of pieces).
-
-Pre-1930:
-
-<img src="/assets/images/nyphil_composers_pre1930.png" />
-
-And post-1929:
-
-<img src="/assets/images/nyphil_composers_post1929.png" />
-
-To do this, I simply added another filter to tidy_nyp:
-
-~~~r
-filter(as.integer(substr(as.character(date),1,4)) < 1930) %>%
-~~~
-
-Here we see Beethoven, Tchaikovsky, and Mozart all ahead of Wagner in more recent history, with Wagner dominating (and Mozart missing from) the earlier history.
-
-But we can model this with more nuance. Let's make a new tibble that contains just the information we need on composer frequency year-by-year.
-
-~~~r
-comp_counts <- tidy_nyp %>%  
-  filter(!composer %in% c('NULL', 'Traditional,', 'Anthem,')) %>%  
-  mutate(year = as.integer(substr(as.character(date),1,4))) %>%  
-  group_by(year) %>%  
-  mutate(year_total = n()) %>%  
-  group_by(composer, year) %>%  
-  mutate(comp_total_by_year = n()) %>%  
-  ungroup() %>%  
-  group_by(composer, year, comp_total_by_year, year_total) %>%  
-  summarize() %>%  
-  mutate(share = comp_total_by_year/year_total) %>%  
-  group_by(year) %>%  
-  mutate(average_share = mean(share))
-~~~
-
-This produces a tibble that contains a record for each composer-year combination, with fields for:  
-- composer name    
-- year    
-- number of pieces by that composer in that year    
-- total number of pieces for the year    
-- composer's share of pieces for the year    
-- average composer share for the year (total / number of composers)    
-
-
-With this information, we can then plot the changing frequency of each composer. Here are the top four on a single plot.
-
-<img src="/assets/images/nyphil_top4.png" />
-
-We can very clearly see the change in these composers' frequency of occurrence on the NY Phil's program over time, with Wagner's decline very pronounced, and Mozart's rise (in the twentieth century) clearly evident as well.
-
-However, comparing a composer's share of the programming year by year isn't always apples-to-apples. Early on in the Philharmonic's history, seasons contained far fewer pieces, and thus far fewer composers, than recent years. This has the potential to provide artificially high numbers for composers in sparser years, as seen in the following visualization (and accompanying code).
-
-<img src="/assets/images/nyphil_composers_per_year.png" />
-
-~~~r
-comp_counts %>%  
-  group_by(year) %>%  
-  summarize(comp_per_year = n()) %>%  
-  ggplot(aes(year, comp_per_year)) +  
-  geom_line() +  
-  xlab('Year') +  
-  ylab('Composers appearing on a program')
-~~~
-
-To account for this, we can normalize a composer's share of the repertoire in a given year by dividing it by the average repertoire share for composers in the year. So here is the changing normalized frequency for each of the top four composers on a year-by-year basis.
-
-<img src="/assets/images/nyphil_top4_normalized.png" />
-
-The same trends can be seen here ― Mozart's gentle rise and Wagner's drastic decline ― perhaps even more starkly. In particular, Wagner's decline from a peak in 1921 to a trough in the 1960s stands out quite strikingly. The decline is the most precipitous in the late 1940s and early 1950s.
-
-And now an explanation begins to emerge.
-
-A number of musicians began to boycott or avoid performing the music of Richard Wagner in the late 1930s, <a href="https://www.theguardian.com/music/2002/sep/06/classicalmusicandopera.artsfeatures" target="blank_">as recounted by conductor Daniel Barenboim</a>. Wagner was known as "Hitler's favorite composer," and his music was used prominently in the Reich. The Israel Philharmonic stopped performing his music in 1938, Arturo Toscanini (who occupies a not insignificant share of this dataset as a conductor) stopped performing at Wagner festivals in Bayreuth, etc. Looking at the NY Philharmonic data, it seems like this may be a broader trend.
-
-In addition to Wagner's decline between WWI and the early Cold War, we can see another significant wartime change, this time an increase. From 1939 to 1946, Tchaikovsky's share of the NY Philharmonic's repertoire rose precipitously to his highest (normalized) share in the entire corpus. Could this be due to Russia's role in the Grand Alliance? I don't know. I *do* know that during World War II, then-living Russian composer Dmitri Shostakovich was widely performed in the US as part of a pro-Russia, anti-Nazi wartime propaganda effort (see below). Could Tchaikovsky have been part of that? I don't know the history of it. But I wouldn't be surprised. I also wouldn't be surprised if Tchaikovsky simply filled the role of popular, grand, Romantic composer ... who wasn't German. (Any Tchaikovsky scholars have a perspective to add?)
-
-<img src="/assets/images/nyphil_russians_wartime.png" />
-
-## Conclusion
-
-This is just a start, but I think they're interesting findings. As a music student and scholar, I never studied performance trends like this. My studies were mostly focused on musical structures and the evolution of compositional styles. But it's cool to take a different kind of empirical look at musical evolution.
-
-If this code helps you find other insights in the corpus, please drop me a line. I'm sure there's much more to be mined out of this fascinating corpus.
-
-And thanks to the archivists of the New York Philharmonic for putting this together! Hopefully more major orchestras will release their programming history publicly, so we can start mapping larger trends and make comparisons between them.
-
-<i>Banner image by <a href="https://www.flickr.com/photos/downthetrack/7871525476/" target="blank_">Tim Hynes</a>.</i>
+Because there is very little data to mine (until the Obama website is downloaded), the [text mining script](https://github.com/kshaffer/whitehouse/blob/master/mine_the_text.R) is still fairly sparse. Like in my [New York Philharmonic study](/2017/01/data-mining-the-new-york-philharmonic-performance-history/), I use TidyVerse tools in R to do the mining and analysis. So far what's included is code to unnest the CSV file created above by word, bigram, and trigram, and then to plot the most common words, bigrams, and trigrams (with stop words removed) from the website's text. This file will grow as I get more data and do more with it.
