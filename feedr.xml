@@ -14,7 +14,7 @@ sitemap: false
   <uri>{{ site.url }}/</uri>
   {% if site.owner.email %}<email>{{ site.owner.email }}</email>{% endif %}
 </author>
-{% for post in site.categories['data science'] limit:20 %}
+{% for post in site.categories['R'] limit:20 %}
 {% if post.author %}
   {% assign author = site.data.authors[post.author] %}
 {% else %}

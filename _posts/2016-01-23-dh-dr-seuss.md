@@ -8,7 +8,7 @@ image:
   credit:
   creditlink:
 share: true
-categories: [coding, data science, pedagogy]
+categories: [R, data science, pedagogy]
 ---
 
 This morning, my four-year-old was reading *Green Eggs and Ham* to me. I've heard that Dr. Seuss was intentional about using developmental psychology to inform how he wrote his books to help children learn how to read, and it is amazing to watch that process in action.

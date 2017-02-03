@@ -8,7 +8,7 @@ image:
   credit: W H
   creditlink: https://www.flickr.com/photos/wolfgangfoto/2496017650
 share: true
-categories: [data science, public scholarship]
+categories: [data science, R]
 short_description: "In which states did Jill Stein win more votes than the margin of victory? Could a swing in these states be enough to change the election results?"
 ---
 

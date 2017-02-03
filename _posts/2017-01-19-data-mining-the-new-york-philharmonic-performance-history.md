@@ -8,7 +8,7 @@ image:
   credit:
   creditlink:
 share: true
-categories: [musicology, data science, coding]
+categories: [musicology, data science, R]
 short_description: "How does war affect the music an orchestra plays?"
 ---
 
