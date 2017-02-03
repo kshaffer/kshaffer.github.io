@@ -13,7 +13,7 @@ description: "Data scientist. Digital media specialist. Developer. Author."
 author: 'Kris Shaffer'
 # edit 'categories' in the front matter of every post to match this username
 nickname: kris
-bio: 'Kris Shaffer, Ph.D. (Yale University, 2011), is an Instructional Technology Specialist and adjunct instructor in Computer Science and Digital Studies at the <a href="https://academics.umw.edu/dtlt/">University of Mary Washington</a> and Contributing Editor for <a href="http://digitalpedagogylab.com/hybridped">Hybrid Pedagogy</a>. He is also the lead author of <a href="http://openmusictheory.com"><i>Open Music Theory</i></a>.'
+bio: 'Kris Shaffer, Ph.D. (Yale University, 2011), is an Instructional Technology Specialist and adjunct instructor in Computer Science and Digital Studies at the <a href="http://umwdtlt.com/"  target="blank_">University of Mary Washington</a> and Contributing Editor for <a href="http://digitalpedagogylab.com/hybridped" target="blank_">Hybrid Pedagogy</a>. He is also the lead author of <a href="http://openmusictheory.com" target="blank_"><i>Open Music Theory</i></a> and contributor to <a href="https://r-bloggers.com" target="blank_">R-Bloggers</a>.'
 location: 'Fredericksburg, Va.'
 url: 'http://pushpullfork.com'
 root_url: 'http://pushpullfork.com'
