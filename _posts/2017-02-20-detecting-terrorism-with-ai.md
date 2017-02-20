@@ -9,6 +9,7 @@ image:
   creditlink: https://www.flickr.com/photos/nnova/4060530995/
 share: true
 categories: [data science]
+short_description: "Can artificial intelligence identify potential terrorist activity on Facebook?"
 ---
 
 Can artificial intelligence identify potential terrorist activity?
