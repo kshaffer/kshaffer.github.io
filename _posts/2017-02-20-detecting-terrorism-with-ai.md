@@ -39,6 +39,8 @@ In each of these cases, the output categories are known: letters, numbers, and s
 </li><li>Lather, rinse, repeat.
 </li></ul>
 
+<img src="/assets/images/mnistExamples.png" alt="Handwriting recognition examples"/>
+
 To build a successful classification algorithm, you need *a lot* of data. For example, the famous <a href="http://yann.lecun.com/exdb/mnist/" target="blank_">MNIST dataset of handwritten digits</a> contains 70,000 images of handwritten digits (0–9). That's 70,000 images (60,000 to train, 10,000 to test) of just ten potential output categories! (And let's say you develop an algorithm that performs at a very high 99% accuracy level. That still means that you misclassified 100 images!)
 
 Let's apply this to gang crime. In a simplified version of the algorithm, the output would be *crime committed (true/false)*, and the input would be the amount and kind of social media activity from known members of a gang. The input dataset would come from mining the social media activity of known gang members, and it would be cross-referenced with police reports, charges filed, and/or convictions won against gang members. Split the data into training and testing data, train the algorithm to recognize patterns in social media activity that strongly associates with the presence/absence of criminal activity, test those patterns on the remaining data, and determine the accuracy of the crime-predicting algorithm.
