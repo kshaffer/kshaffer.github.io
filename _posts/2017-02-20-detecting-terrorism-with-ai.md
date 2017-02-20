@@ -40,7 +40,6 @@ In each of these cases, the output categories are known: letters, numbers, and s
 </li></ul>
 
 <img src="/assets/images/mnistExamples.png" alt="Handwriting recognition examples"/>
-
 <p style="text-align:center;"><i>Example handwritten digits from the MNIST dataset.</i></p>
 
 To build a successful classification algorithm, you need *a lot* of data. For example, the famous <a href="http://yann.lecun.com/exdb/mnist/" target="blank_">MNIST dataset of handwritten digits</a> contains 70,000 images of handwritten digits (0–9). That's 70,000 images (60,000 to train, 10,000 to test) of just ten potential output categories! (And let's say you develop an algorithm that performs at a very high 99% accuracy level. That still means that you misclassified 100 images!)
