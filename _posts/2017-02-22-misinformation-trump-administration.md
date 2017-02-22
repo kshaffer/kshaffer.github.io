@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "(Mis)information and the Trump administration"
-modified: 2017-02-22 11:26:00 -0500
+title: "Detecting terrorism with AI"
+modified: 2017-02-20 13:31:00 -0500
 image:
-  feature: newspaper.jpg
-  teaser: newspaper-teaser.jpg
-  credit: Kaboompics
-  creditlink: https://www.pexels.com/photo/man-reading-newspaper-6053/
+  feature: panopticon.jpg
+  teaser: panopticon-teaser.jpg
+  credit: Nicolas Nova
+  creditlink: https://www.flickr.com/photos/nnova/4060530995/
 share: true
 categories: [data science]
-short_description: "The Trump administration has made major changes to federal agency websites. Just how major?"
+short_description: "Can artificial intelligence identify potential terrorist activity on Facebook?"
 ---
 
 Almost immediately after the election, people started noticing pages disappearing from federal government websites. Some of this is par for the course in a new administration. Of course the Trump administration cleaned out the Obama-specific pages on <a href="https://whitehouse.gov" target="blank_">whitehouse.gov</a> and started with a clean slate. <a href="https://web.archive.org/web/20090122232821/http://www.whitehouse.gov/blog/change_has_come_to_whitehouse-gov/" target="blank_">So did Obama</a>.
