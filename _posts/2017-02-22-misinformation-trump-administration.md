@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "(Mis)information and the Trump administration"
 modified: 2017-02-22 11:26:00 -0500
 image:
