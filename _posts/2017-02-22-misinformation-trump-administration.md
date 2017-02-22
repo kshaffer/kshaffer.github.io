@@ -34,7 +34,7 @@ With that caveat in mind, I wrote <a href="https://github.com/kshaffer/websitewa
 
 The first thing I did with this data was plot out the changes over time. The following image shows the number of page changes/additions per month for each of the six federal websites I analyzed. Notice anything?
 
-<img src="/assets/images/gov_by_month.png" alt="changes and additions to .gov websites over time, by month" />
+<a href="/assets/images/gov_by_month.png" target="blank_"><img src="/assets/images/gov_by_month.png" alt="changes and additions to .gov websites over time, by month" /></a>
 
 That spike at the end? That's January 2017. Wow.
 
@@ -44,7 +44,7 @@ So I thought there might be a change in how the Wayback Machine takes its snapsh
 
 The simplest way to test that was to examine change histories for non-government websites. So I queried the change history of seven retail, non-profit, and journalistic websites that update at a variety of frequencies ― <a href="https://washingtonpost.com" target="blank_">washingtonpost.com</a>, <a href="https://theguardian.com" target="blank_">theguardian.com</a>, <a href="https://npr.org" target="blank_">npr.org</a>, <a href="https://www.aspca.org/" target="blank_">aspca.org</a>, <a href="https://societymusictheory.org/" target="blank_">societymusictheory.org</a>, <a href="https://www.psychologytoday.com/" target="blank_">psychologytoday.com</a>, and <a href="https://target.com" target="blank_">target.com</a>. Here are their change histories:
 
-<img src="/assets/images/non_gov_by_month.png" alt="changes and additions to commercial and non-profit websites over time, by month" />
+<a href="/assets/images/non_gov_by_month.png" target="blank_"><img src="/assets/images/non_gov_by_month.png" alt="changes and additions to commercial and non-profit websites over time, by month" /></a>
 
 These sites actually reflect something more like the general trend of increasing snapshots over time than the .gov websites do (as well as an apparently major site overhaul on Target.com last summer!). But with the exception of *Washington Post* and *The Guardian* (which spend much of their time covering government activity), there is no major spike in early 2017.
 
@@ -52,11 +52,11 @@ So as far as I can tell, the increase in .gov site changes in early 2017 is not 
 
 Here's a day-by-day breakdown of changes from January 1 to February 15, 2017. It's pretty clear that the bulk of the changes come after the inauguration.
 
-<img src="/assets/images/gov_by_day.png" alt="changes and additions to .gov websites Jan 1-Feb 15, by day" />
+<a href="/assets/images/gov_by_day.png" target="blank_"><img src="/assets/images/gov_by_day.png" alt="changes and additions to .gov websites Jan 1-Feb 15, by day" /></a>
 
 The non-government websites do not show such a change, even the journalistic ones.
 
-<img src="/assets/images/non_gov_by_day.png" alt="changes and additions to commercial and non-profit websites Jan 1-Feb 15, by day" />
+<a href="/assets/images/non_gov_by_day.png" target="blank_"><img src="/assets/images/non_gov_by_day.png" alt="changes and additions to commercial and non-profit websites Jan 1-Feb 15, by day" /></a>
 
 So the best explanation I can come up with so far is that the Trump administration is making major additions and changes to federal agency websites. There's still the possibility that these are many *small* changes, rather than large changes. To explore that requires a more detailed study of larger downloads of data from those websites. (And <a href="/2017/02/data-mining-whitehouse-gov/" target="blank_">I'm working on that</a>, too!) But **something has definitely changed about how the federal government communicates information to the public digitally.** And taken together with the gag orders, <a href="https://www.nytimes.com/2017/02/07/us/politics/the-white-house-list-of-terror-attacks-underreported-by-media.html" target="blank_">the misdirection from the press secretary</a>, and the page deletions already documented, this is major. Our federal government is changing the way it communicates with us, it is not being transparent about those changes, and it becomes more likely with each passing day that important information is being withheld.
 
@@ -68,7 +68,7 @@ In addition to adding, deleting, and changing content, the Trump administration 
 
 Not surprisingly, the past few weeks have seen a significant change in file type. Here is a change history of these six .gov websites, separated by file type instead of by site.
 
-<img src="/assets/images/gov_file_types.png" alt="changes and additions to .gov websites over time, by file type" />
+<a href="/assets/images/gov_file_types.png" target="blank_"><img src="/assets/images/gov_file_types.png" alt="changes and additions to .gov websites over time, by file type" /></a>
 
 While HTML files go up in January 2017, they are far outstripped by PDFs, and their rate of increase is outstripped by Word docs. In fact, January 2017 brought 134,733 of the 185,468 PDFs in the history of these websites (73%!) and 17,149 of the 26,772 Word docs in the sites' history (64%). On the other hand, January 2017 saw 38,881 new or changed HTML pages, just 5% of the 725,119 in the whole dataset.
 
