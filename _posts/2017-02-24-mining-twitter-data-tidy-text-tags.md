@@ -30,7 +30,7 @@ To set it up, <a href="https://tags.hawksey.info/get-tags/">make a copy of Marti
 
 If you're just planning on doing a one-time analysis of the tweets you archived, you can simply export your Google sheet as a CSV file (specifically, the Archive page), and read it into R with ```read.csv``` or ```read_csv```. However, if you want to keep the archive updating over time and check on it regularly with R (or maybe even build a Shiny App that automatically updates analyses and visualizations for you!), you'll need to publish your sheet to the web. Go to ```File >> Publish to the web...``` and publish the Archive page to the web as a CSV file. Be sure to check the box to automatically republish when changes are made. That way, when your Google sheet downloads new Twitter content each hour, it will also update the public CSV file.
 
-<a href="assets/images/tags_publish.png" target="blank_"><img src="assets/images/tags_publish.png" alt="publishing a Google sheet to the web as a CSV file"/></a>
+<a href="/assets/images/tags_publish.png" target="blank_"><img src="/assets/images/tags_publish.png" alt="publishing a Google sheet to the web as a CSV file"/></a>
 
 When you click ```Publish```, it will give you a URL. Simply copy that URL and paste it into R:
 
@@ -167,7 +167,7 @@ tidy_tweets %>%
   coord_flip()
 ~~~
 
-<a href="assets/images/af_words.png" target="blank_"><img src="assets/images/af_words.png" alt="plot of most common words in #americafirst Twitter corpus"/></a>
+<a href="/assets/images/af_words.png" target="blank_"><img src="/assets/images/af_words.png" alt="plot of most common words in #americafirst Twitter corpus"/></a>
 
 Often times, looking for the most common bigrams (two-word phrases) is more instructive than individual words. Using TidyText to do this with Twitter data is a bit more complicated, as you need to parse by regex, rather than use the built-in n-gram option. Julia and David don't give an example in their ebook, but it's not too hard. We simply tokenize by regex like before, use dplyr's ```lead()``` function to append the following word to each record, and then ```unite()``` the two into a single bigram (assuming they both belong to the same tweet). Here's how to do that, as well as to remove bigrams containing hashtags, Twitter handles, raw numbers, stop words.
 
@@ -235,7 +235,7 @@ tidy_bigrams %>%
   coord_flip()
 ~~~
 
-<a href="assets/images/af_bigrams.png" target="blank_"><img src="assets/images/af_bigrams.png" alt="plot of most common bigrams in #americafirst Twitter corpus"/></a>
+<a href="/assets/images/af_bigrams.png" target="blank_"><img src="/assets/images/af_bigrams.png" alt="plot of most common bigrams in #americafirst Twitter corpus"/></a>
 
 We can do a lot with this word and bigram data, as Julia and David's book demonstrate. We can produce a network analysis of words (essentially a 2D visualization of a Markov model; we could also do this with user data), we can compare word or bigram frequency with another Twitter corpus, and we could search for the most common hashtags and handles in the corpus to find other terms to add to the search that generates the TAGS archive.
 
@@ -338,7 +338,7 @@ domain_list %>%
   coord_flip()
 ~~~
 
-<a href="assets/images/af_domains.png" target="blank_"><img src="assets/images/af_domains.png" alt="plot of most common domains linked in #americafirst Twitter corpus"/></a>
+<a href="/assets/images/af_domains.png" target="blank_"><img src="/assets/images/af_domains.png" alt="plot of most common domains linked in #americafirst Twitter corpus"/></a>
 
 And if you follow further redirects for root domains, guess what you find! Those sites supposedly from Mali and Vanuatu? They redirect to adf.ly, whose motto is "Get paid to share your links on the Internet!" Add them together, and they're the second-highest frequency of the domains in this corpus. I smell something fishy. But that comes later...
 
