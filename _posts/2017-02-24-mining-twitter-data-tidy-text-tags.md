@@ -14,28 +14,29 @@ short_description: "Use TAGS archive, Google Drive, and TidyVerse tools in R to 
 
 One of the best places to get your feet wet with text mining is Twitter data. Though not as open as it used to be for developers, the Twitter API makes it incredibly easy to download large swaths of text from its public users, accompanied by substantial metadata. A treasure trove for data miners that is relatively easy to parse.
 
-It's also a great source of data for those studying the distribution of (mis)information via digital media. This is something I've been working on lot lately, both in independent projects and in preparation for my courses on Digital Storytelling, Digital Studies, and The Internet. It's amazing how much data you can get, and how detailed a picture it can paint about how citizens, voters, and activists find and disseminate information. Most recently, <a href="https://twitter.com/funnymonkey">Bill Fitzgerald</a> and I have embarked on a project analyzing the distribution of (mis)information in extremist, so-called "alt-right" circles on Twitter.
+It's also a great source of data for those studying the distribution of (mis)information via digital media. This is something I've been working on a lot lately, both in independent projects and in preparation for my courses on Digital Storytelling, Digital Studies, and The Internet. It's amazing how much data you can get, and how detailed a picture it can paint about how citizens, voters, and activists find and disseminate information. Most recently, <a href="https://twitter.com/funnymonkey">Bill Fitzgerald</a> and I have embarked on a project analyzing the distribution of (mis)information in extremist, so-called "alt-right" circles on Twitter.
 
 It turns out this is a really straightforward thing to do, thanks to Martin Hawksey's <a href="https://tags.hawksey.info/">TAGS (Twitter Archiving Google Sheet)</a> and Julia Silge's and David Robinson's <a href="http://tidytextmining.com/">TidyText</a> package for R. In what follows, I'll walk through the process of setting up a TAGS archive, linking it to R, and mining it with TidyText (and other tools from the TidyVerse).
 
 ## Setting up a TAGS archive
 
-There are some excellent tools for interacting with the Twitter API directly, but if what you want is a regularly updating archive of tweets that you can mine and analyze, TAGS is definitely the way to go. All you need is a Google account, a Twitter account, and a copy of Martin Hawksey's Google Sheet, and you're good to go. You don't even need your own API key!
+There are some excellent tools for interacting with the Twitter API directly, but if what you want is a regularly updating archive of tweets that you can repeatedly mine and analyze, TAGS is definitely the way to go. All you need is a Google account, a Twitter account, and a copy of Martin Hawksey's Google Sheet, and you're good to go. You don't even need your own API key!
 
-To set it up, <a href="https://tags.hawksey.info/get-tags/">make a copy of Martin's TAGS sheet</a> in your Google account. Then follow the instructions on the setup page, and you're good to go! After entering your search terms, I recommend setting it up to update every hour *and* making a one-off collection to start ("Run now!"). For more information on setting it up, check out Martin's video:
+To set it up, <a href="https://tags.hawksey.info/get-tags/">make a copy of Martin's TAGS sheet</a> in your Google account. Then follow the instructions on the setup page to get up and running. After entering your search terms, I recommend setting it up to update every hour *and* making a one-off collection to start ("Run now!"). For more information on setting it up, check out Martin's video:
 
 <iframe src="https://www.youtube.com/embed/Vm0kjAvH5HM?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe>
 
 ## Connecting your Google sheet with R
 
-If you're just planning on doing a one-time analysis of the tweets you archived, you can simply export your Google sheet as a CSV file (specifically, the Archive page), and read it into R with ```read.csv``` or ```read_csv```. However, if you want to keep the archive updating over time and check on it regularly with R (or maybe even build a Shiny App that automatically updates analyses and visualizations for you!), you'll need to publish your sheet to the web. Simply go to ```File >> Publish to the web...``` and publish the Archive page to the web as a CSV file. Be sure to check the box to automatically republish when changes are made. That way, when your Google sheet downloads new Twitter content each hour, it will also update the public CSV file.
+If you're just planning on doing a one-time analysis of the tweets you archived, you can simply export your Google sheet as a CSV file (specifically, the Archive page), and read it into R with ```read.csv``` or ```read_csv```. However, if you want to keep the archive updating over time and check on it regularly with R (or maybe even build a Shiny App that automatically updates analyses and visualizations for you!), you'll need to publish your sheet to the web. Go to ```File >> Publish to the web...``` and publish the Archive page to the web as a CSV file. Be sure to check the box to automatically republish when changes are made. That way, when your Google sheet downloads new Twitter content each hour, it will also update the public CSV file.
 
-***image***
+<a href="assets/images/tags_publish.png" target="blank_"><img src="assets/images/tags_publish.png" alt="publishing a Google sheet to the web as a CSV file"/></a>
 
 When you click ```Publish```, it will give you a URL. Simply copy that URL and paste it into R:
 
 ~~~r
-tweets <- read_csv('https://docs.google.com/spreadsheets/d/your-archive-page-id-here',</div><div>col_types = 'ccccccccccccciiccc')
+tweets <- read_csv('https://docs.google.com/spreadsheets/d/your-archive-page-id-here',
+                   col_types = 'ccccccccccccciiccc')
 ~~~
 
 The ```col_types``` will ensure that the long, numeric ID numbers import as characters, rather than convert to (rounded) scientific notation.
@@ -44,11 +45,11 @@ Now you have your data, updated every hour, accessible to your R script!
 
 ## Mining the tweets with TidyText (and dplyr and tidyr)
 
-One of my favorite tools for text mining in R is TidyText. It was developed by a friend from grad school, Julia Silge, in collaboration with her (now) Stack Overflow colleague, David Robinson. It's a great extension to the TidyVerse data wrangling suite. (Also, you should pre-order their new book, *<a href="https://www.amazon.com/Text-Mining-R-tidy-approach/dp/1491981652/ref=sr_1_fkmr0_1?ie=UTF8&amp;qid=1487958523&amp;sr=8-1-fkmr0&amp;keywords=text+mining+the+tidy+way">Text Mining with R: A Tidy Approach</a>*.)
+One of my favorite tools for text mining in R is <a href="http://tidytextmining.com/" target="blank_">TidyText</a>. It was developed by a friend from grad school, Julia Silge, in collaboration with her (now) Stack Overflow colleague, David Robinson. It's a great extension to the TidyVerse data wrangling suite. (Also, you should pre-order their new book, *<a href="https://www.amazon.com/Text-Mining-R-tidy-approach/dp/1491981652/ref=sr_1_fkmr0_1?ie=UTF8&amp;qid=1487958523&amp;sr=8-1-fkmr0&amp;keywords=text+mining+the+tidy+way">Text Mining with R: A Tidy Approach</a>*.)
 
 Let's walk through some of the things you can do with your Twitter archive using TidyText (and the TidyVerse in general). As an example, I'll reference my growing collection of tweets with the hashtag ```#americafirst```. (Note that because this is something of an antagonistic study, I want to be careful not to dox anyone via this project. So while the tweets are public, and you could reproduce the study with the code (with a later batch of tweets, of course), I won't be linking to my Google sheet here or providing anything other than aggregate results.)
 
-First, load the necessary libraries, import the data from your Google sheet, and append a R-friendly date column.
+First, load the necessary libraries, import the data from your Google sheet, and append an R-friendly date column.
 
 ~~~r
 library(tidyverse)
@@ -80,7 +81,7 @@ tidy_tweets <- tweets %>%
          str_detect(word, "[a-z]"))
 ~~~
 
-This snipped of code filters out any tweets whose text begin with ```RT``` (retweets; delete or comment out that line to keep retweets in), removes URLs and certain characters that signal something other than natural language text from the tweets, and *tokenizes* the tweets into words. That means splitting the text by spaces, removing punctuation, converting all letters to lower-case, etc., and then applying all of the metadata for the tweet to each individual word. A tweet with 10 words is a single record in the ```tweets``` data frame, but after tokenizing will result in 10 records in the new ```tidy_tweets``` data frame, each with a different word, but identical metadata. After tokenizing, we filter out any records where the word is contained in a list of stop words (a, an, the, of, etc.) or where the "word" contains no letters (i.e., raw numbers).
+This snippet of code filters out any tweets whose text begins with ```RT``` (retweets; delete or comment out that line to keep retweets in), removes URLs and certain characters that signal something other than natural language text from the tweets, and *tokenizes* the tweets into words. That means splitting the text by spaces, removing punctuation, converting all letters to lower-case, etc., and then applying all of the metadata for the tweet to each individual word. A tweet with 10 words is a single record in the ```tweets``` data frame, but after tokenizing will result in 10 records in the new ```tidy_tweets``` data frame, each with a different word, but identical metadata. After tokenizing, we filter out any records where the word is contained in a list of stop words (a, an, the, of, etc.) or where the "word" contains no letters (i.e., raw numbers).
 
 What's unique about the way TidyText is tokenizing the Twitter data here is that it uses a regular expression to parse data in a Twitter-specific way. This regular expression includes all alphanumeric characters and the hash ```#``` and at-reply ```@``` symbols. (Julia and David drop those in their ebook analyses, but I want to filter out all Twitter handles for privacy, as well as apply special analysis to hashtags, so I'm leaving them in.) It doesn't always do this. For natural language, you can usually just tokenize by a pre-defined "word" concept, or n-gram. But this approach is necessary when parsing text that contains a lot of URLs and special symbols, as tweets do.
 
