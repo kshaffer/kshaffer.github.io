@@ -332,7 +332,9 @@ domain_list %>%
   ggplot(aes(domain, domain_count, fill = domain)) +
   geom_bar(stat = 'identity') +
   xlab(NULL) +
-  ylab('URL occurrences (since 2017-02-12)') +
+  ylab(paste('domain count (since ',
+             min_date,
+             ')', sep = '')) +
   ggtitle(paste('Most common domains in tweets containing', source_text)) +
   theme(legend.position="none") +
   coord_flip()
