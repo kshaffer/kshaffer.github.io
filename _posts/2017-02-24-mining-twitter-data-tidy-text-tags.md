@@ -14,7 +14,7 @@ short_description: "Use TAGS archive, Google Drive, and TidyVerse tools in R to 
 
 One of the best places to get your feet wet with text mining is Twitter data. Though not as open as it used to be for developers, the Twitter API makes it incredibly easy to download large swaths of text from its public users, accompanied by substantial metadata. A treasure trove for data miners that is relatively easy to parse.
 
-It's also a great source of data for those studying the distribution of (mis)information via digital media. This is something I've been working on a lot lately, both in independent projects and in preparation for my courses on Digital Storytelling, Digital Studies, and The Internet. It's amazing how much data you can get, and how detailed a picture it can paint about how citizens, voters, and activists find and disseminate information. Most recently, <a href="https://twitter.com/funnymonkey">Bill Fitzgerald</a> and I have embarked on a project analyzing the distribution of (mis)information in extremist, so-called "alt-right" circles on Twitter.
+It's also a great source of data for those studying the distribution of (mis)information via digital media. This is something I've been working on a lot lately, both in independent projects and in preparation for my courses on Digital Storytelling, Digital Studies, and The Internet. It's amazing how much data you can get, and how detailed a picture it can paint about how citizens, voters, and activists find and disseminate information. Most recently, <a href="https://twitter.com/funnymonkey">Bill Fitzgerald</a> and I have begun discussing a project analyzing the distribution of (mis)information in extremist, so-called "alt-right" circles on Twitter, and comparing the language and information sources of left- and right-leaning communities on Twiter.
 
 It turns out this is a really straightforward thing to do, thanks to Martin Hawksey's <a href="https://tags.hawksey.info/">TAGS (Twitter Archiving Google Sheet)</a> and Julia Silge's and David Robinson's <a href="http://tidytextmining.com/">TidyText</a> package for R. In what follows, I'll walk through the process of setting up a TAGS archive, linking it to R, and mining it with TidyText (and other tools from the TidyVerse).
 
@@ -47,7 +47,7 @@ Now you have your data, updated every hour, accessible to your R script!
 
 One of my favorite tools for text mining in R is <a href="http://tidytextmining.com/" target="blank_">TidyText</a>. It was developed by a friend from grad school, Julia Silge, in collaboration with her (now) Stack Overflow colleague, David Robinson. It's a great extension to the TidyVerse data wrangling suite. (Also, you should pre-order their new book, *<a href="https://www.amazon.com/Text-Mining-R-tidy-approach/dp/1491981652/ref=sr_1_fkmr0_1?ie=UTF8&amp;qid=1487958523&amp;sr=8-1-fkmr0&amp;keywords=text+mining+the+tidy+way">Text Mining with R: A Tidy Approach</a>*.)
 
-Let's walk through some of the things you can do with your Twitter archive using TidyText (and the TidyVerse in general). As an example, I'll reference my growing collection of tweets with the hashtag ```#americafirst```. (Note that because this is something of an antagonistic study, I want to be careful not to dox anyone via this project. So while the tweets are public, and you could reproduce the study with the code (with a later batch of tweets, of course), I won't be linking to my Google sheet here or providing anything other than aggregate results.)
+Let's walk through some of the things you can do with your Twitter archive using TidyText (and the TidyVerse in general). As an example, I'll reference my growing collection of tweets with the hashtag ```#americafirst```. (Note that though the tweets are technically public, I want to protect user privacy, so I won't be linking to my Google sheet here or providing anything other than aggregate results. If you want, you can reproduce the study with the code, though it will return a later batch of tweets.)
 
 First, load the necessary libraries, import the data from your Google sheet, and append an R-friendly date column.
 
@@ -342,7 +342,7 @@ domain_list %>%
 
 <a href="/assets/images/af_domains.png" target="blank_"><img src="/assets/images/af_domains.png" alt="plot of most common domains linked in #americafirst Twitter corpus"/></a>
 
-And if you follow further redirects for root domains, guess what you find! Those sites supposedly from Mali and Vanuatu? They redirect to adf.ly, whose motto is "Get paid to share your links on the Internet!" Add them together, and they're the second-highest frequency of the domains in this corpus. I smell something fishy. But that comes later...
+And if you follow further redirects for root domains, guess what you find! Those sites supposedly from Mali and Vanuatu? They redirect to adf.ly, whose motto is "Get paid to share your links on the Internet!" Add them together, and they're the second-highest frequency of the domains in this corpus. I smell something fishy. But that's for another day...
 
 ## On GitHub
 
