@@ -14,13 +14,13 @@ short_description: "Use Python and the Twitter API do curate your public digital
 
 <i>This post is Part 2 in my series on digital minimalism. Check out my first post in this series, <a href="/2016/12/digital-minimalism-being-deliberate-about-digital-identity/">Digital minimalism ― being deliberate about digital identity</a>.</i>
 
-I tweet a lot. Since joining six years ago, I've posted approximately 50,000 tweets, retweets, and replies. Some of it is really good stuff. I've used Twitter to share my thoughts-in-progress about a variety of things ― teaching, music, coding, data ― as well as to connect with friends, students, and other scholars, particularly those from fields other than my own. I joke around that my blog got me my job in Colorado and Twitter got me my job at UMW, but those statements aren't far from the truth. My work as a public scholar online has been instrumental in gaining me a lot of opportunities to work, write, speak, meet collaborators, and even make friends.
+I tweet a lot. Since joining six years ago, I've posted approximately 50,000 tweets, retweets, and replies. Some of it is good stuff. I've used Twitter to share my thoughts-in-progress about a variety of things ― teaching, music, coding, data ― as well as to connect with friends, students, and other scholars, particularly those from fields other than my own. I joke that my blog got me my job in Colorado and Twitter got me my job at UMW, but those statements aren't far from the truth. My work as a public scholar online has been instrumental in gaining me a lot of opportunities to work, write, speak, meet collaborators, and even make friends.
 
-But as I think about curating my public materials, <a href="/2016/12/digital-minimalism-being-deliberate-about-digital-identity/">being deliberate about my digital identity</a>, and keeping myself safe from would-be trolls and harassers, Twitter stands out as a big problem. It's a very useful tool, but it's really easy to get lost in the weeds of old posts, retweets, replies, making it hard to find the good stuff. In fact, most have resigned themselves to the idea that Twitter is ephemeral. The good content is going to quickly flow downstream. While it may be retweeted and brought back into view again, eventually it will go away, and our attention will move on to what's next.
+But as I think about curating my public materials, <a href="/2016/12/digital-minimalism-being-deliberate-about-digital-identity/">being deliberate about my digital identity</a>, and keeping myself safe from would-be trolls and harassers, Twitter stands out as a big problem. It's a very useful tool, but it's really easy to get lost in the weeds of old posts, retweets, replies, making it hard to find the good stuff. In fact, most people I know have resigned themselves to the idea that Twitter is ephemeral. The good content is going to quickly flow downstream. While it may be retweeted and brought back into view again, eventually it will go away, and our attention will move on to what's next.
 
 Except it doesn't go away.
 
-In 2013, Twitter introduced a major change to its service, allowing users to search for tweets from the entirety of Twitter's history. Those of us using the service at the time had grown accustomed to tweets disappearing from search results after five days, becoming inaccessible to all but the most tenacious of swipers. But when Twitter made their entire history searchable, all of those old tweets we thought had dissipated into the ether were now instantly findable.
+In 2013, Twitter introduced a major change to its service, allowing users to search for tweets from the entirety of Twitter's history. Those of us using the service at the time had grown accustomed to tweets disappearing from search results after five days, becoming inaccessible to all but the most tenacious of scrollers and swipers. But when Twitter made their entire history searchable, all of those old tweets we thought had dissipated into the ether were now instantly findable.
 
 I'm not particularly worried about overly embarrassing tweets resurfacing. However, I have changed a lot as a person since I started tweeting. As I remarked to a friend while discussing my purging of Twitter content,
 
@@ -30,7 +30,7 @@ There are a lot of implications in that tweet, but it really boils down to the i
 
 My use of Twitter has also changed. Some of that stems from my own personal changes, but also from ways in which the Twitter service has changed, and from the ways that others use it. Because of the rise of online abuse and harassment, I post less personal and family information on Twitter than I used to. And partly because of the potential for online abuse, or at least <a href="https://en.wikipedia.org/wiki/Parasocial_interaction">parasocial behavior</a>, and partly because of the change in search capabilities, the kinds of conversations I had openly on Twitter in 2011 or 2012 are often the kinds of conversations that I would have on Slack or in private messages in 2016 and 2017.
 
-Ultimately, though, as I think about ― and teach ― being deliberate about public digital identity, I realize the need to pull some weeds, so to speak. Yes, I want to be more deliberate about what I post, don't post, keep, delete, retweet, etc. But I also want to make it so if someone searched for something from me, they'd be more likely to find my good stuff. I don't want people to get bogged down in old retweets, conversations with friends, and comments about teaching classes I don't teach anymore, or political positions I don't (fully) embrace anymore. And as I increase in visibility and follower count, I don't want to bring potentially unwanted attention to others, particularly former students with whom I conversed back under the old search rules.
+Ultimately, though, as I think about being deliberate about public digital identity, and as I teach that to my digital studies students, I realize the need to pull some weeds, so to speak. Yes, I want to be more deliberate about what I post, don't post, keep, delete, retweet, etc. But I also want to make it so if someone searched for something from me, they'd be more likely to find my good stuff. I don't want people to get bogged down in old retweets, conversations with friends, and comments about teaching classes I don't teach anymore, or political positions I don't (fully) embrace anymore. And as I increase in visibility and follower count, I don't want to bring potentially unwanted attention to others, particularly former students with whom I conversed back under the old search rules.
 
 So I decided a couple weeks ago to embark on a big tweet-delete campaign. Specifically, I decided to delete the following:
 
@@ -46,7 +46,7 @@ I still have about 10,000 tweets left! And I probably want to go back and cull m
 
 ## Delete some tweets
 
-Because I'm a nerd, and because I don't want to give full control over my Twitter account to a service I don't know or trust, I wrote code in Python using the Twitter API to do the work. Even if you're not much of a coder, if you have some experience writing code, I think you should be able to follow the code and make the tweaks that you need. So let's get started!
+Because I'm a nerd, and because I don't want to give full control over my Twitter account to a service I don't know or trust, I wrote code in Python using the Twitter API to do the work. Even if you're not much of a coder, if you have *some* experience writing code, I think you should be able to follow the code and make the tweaks that you need. So let's get started!
 
 <b>The first thing to do is <a href="https://support.twitter.com/articles/20170160?lang=en#" style="font-weight: bold;">download your Twitter archive</a></b> and extract the zip file. This not only gives you a copy of all your old tweets ― for posterity sake, and which you can even post on your own independent domain if you want to! ― but we'll use the archive in the deletion process.
 
@@ -60,7 +60,7 @@ Now it's time to start that Python script. I use Python 3, and to interact simpl
 
 (If you're new to Python, pip, and tweepy, check out the <a href="https://www.continuum.io/downloads">Anaconda bundle</a> for scientific computing.)
 
-Let's start scripting! First import tweepy and csv, and declare those API keys (I left mine out).
+Let's start scripting! First import ```tweepy``` and ```csv```, and declare those API keys (I left mine out).
 
 ~~~python
 import tweepy
@@ -211,4 +211,4 @@ As I tell my students, when you write, *deleting words is just as much progress 
 
 <i>This post is Part 2 in my series on digital minimalism. Check out my first post in this series, <a href="/2016/12/digital-minimalism-being-deliberate-about-digital-identity/">Digital minimalism ― being deliberate about digital identity</a>.</i>
 
-<i>Header image by <a href="https://www.flickr.com/photos/mathiasappel/16255827151/" target="blank_">Mathias Appel</a> (CC0).</i>
+<i>Some of the code in this post was based on a Gist in GitHub by <a href="https://gist.github.com/davej/113241">Dave Jeffrey</a>. Header image by <a href="https://www.flickr.com/photos/mathiasappel/16255827151/" target="blank_">Mathias Appel</a> (CC0).</i>
