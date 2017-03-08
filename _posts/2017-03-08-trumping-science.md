@@ -26,13 +26,13 @@ I started by searching my archives for mentions of the words *science* and *clim
 
 This is embarrassing.
 
-But raw word counts only tell us so much. *How* do Obama's and Trump's sites talk about science in the speeches, press briefings, executive orders, and other documents they contain? Here are the most phrases containing "science" that are most characteristic of each of the administrations' sites. These are not all the two-word phrases, only those with the strongest difference in relative frequency between the two sites (based on a <a href="https://en.wikipedia.org/wiki/Odds_ratio" target="blank_">log odds ratio</a>).
+But raw word counts only tell us so much. *How* do Obama's and Trump's sites talk about science in the speeches, press briefings, executive orders, and other documents they contain? Here are the phrases containing "science" that are most characteristic of each of the administrations' sites. These are not all the two-word phrases, only those with the strongest difference in relative frequency between the two sites (based on a <a href="https://en.wikipedia.org/wiki/Odds_ratio" target="blank_">log odds ratio</a>).
 
 <a href="/assets/images/science_mar1.png" target="blank_"><img src="/assets/images/science_mar1.png" alt="Top terms containing 'science' on whitehouse.gov, Trump vs. Obama, log odds ratio." /></a>
 
-The terms don't seem all that different until we realize that many of the terms on Trump's list (which occur far less often than the terms on Obama's list) are largely those associated with bios of former presidents, vice presidents, their spouses, and other individuals featured on the site. "Library science", for example, exclusively occurs on Laura Bush's biography (which also occurs on Obama's site). While these bios occur on both sites, the terms in them show up as the science terms most characteristic of Trump's site *because there is so little about science on his site to begin with.* Science policy is clearly not a priority for the beginning of the Trump administration.
+The terms don't seem all that different until we realize that many of the terms on Trump's list (which occur far less often than the terms on Obama's list) are largely those associated with bios of former presidents, vice presidents, their spouses, and other individuals featured on the site. "Library science", for example, exclusively occurs on Laura Bush's biography (which also occurs on Obama's site). While these bios occur on both sites, the terms in them show up as the science terms most characteristic of Trump's site *because there is so little about science on his site to begin with.*
 
-*Climate* is a term less frequently occurring on bios, or even historical pages about science, as Americans recently moved from talking about *global warming* to *climate change*. Here are the most common phrases for Trump's and Obama's sites containing the word "climate".
+Similarly, here are the most common phrases for Trump's and Obama's sites containing the word "climate".
 
 <a href="/assets/images/climate_mar1.png" target="blank_"><img src="/assets/images/climate_mar1.png" alt="Top terms containing 'climate' on whitehouse.gov, Trump vs. Obama, log odds ratio." /></a>
 
@@ -44,7 +44,7 @@ Here are the most characteristic phrases containing *climate* on each site, with
 
 *Note: "milder climate" is from Mamie Eisenhower's bio.*
 
-Obama uses *climate* to talk about the environment. Trump uses *climate* to talk about money.
+Obama uses *climate* to talk about the environment. Trump uses *climate* to talk about money. Science policy is clearly not a priority for the beginning of the Trump administration.
 
 Again, this is embarrassing. Not surprising, but embarrassing. And coupled with the cuts being proposed to NOAA, the EPA, and other agencies conducting climate and other scientific research, it's downright dangerous.
 
