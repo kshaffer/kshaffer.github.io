@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The Presidency Project"
+title: "The American Presidency Project"
 modified: 2017-03-17 14:39:00 -0500
 image:
   feature: .jpg
@@ -45,17 +45,6 @@ $(document).ready(function () {
 
 
 
-
-
-<div class="fluid-row" id="header">
-
-
-
-<h1 class="title toc-ignore">The American Presidency Project</h1>
-<h4 class="author"><em>Kris Shaffer</em></h4>
-<h4 class="date"><em>March 16, 2017</em></h4>
-
-</div>
 
 
 <p>This notebook details how to extract data from <a href="http://www.presidency.ucsb.edu/">The American Presidency Project</a>, a great website curating current and historical data from presidents and presidential campaigns.</p>
