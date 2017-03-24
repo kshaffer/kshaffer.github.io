@@ -9,7 +9,7 @@ image:
   creditlink: https://www.pexels.com/photo/timelapse-photography-of-vehicle-on-concrete-road-near-in-high-rise-building-during-nighttime-169677/
 share: true
 categories: [data science, propagandalytics]
-short_description: "Just stopping by our favorite news site to read one or two articles could potentially expose information about us to dozens of different companies, most of which we know nothing about."
+short_description: "Just stopping by our favorite news site could expose information about us to dozens of different companies, most of which we know nothing about."
 ---
 
 
