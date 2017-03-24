@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visualizing the network that connects mainstream and extremist \"news\""
+title: "Visualizing the network that connects mainstream and extremist news"
 modified: 2017-03-24 16:01:00 -0400
 image:
   feature: nightstreet.jpg
@@ -9,7 +9,7 @@ image:
   creditlink: https://www.pexels.com/photo/timelapse-photography-of-vehicle-on-concrete-road-near-in-high-rise-building-during-nighttime-169677/
 share: true
 categories: [data science, propagandalytics]
-short_description: "Just stopping by our favorite news site could expose information about us to dozens of different companies, most of which we know nothing about."
+short_description: "Just stopping by our favorite news site could expose informationc about us to dozens of different companies, most of which we know nothing about."
 ---
 
 
