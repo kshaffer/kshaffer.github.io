@@ -9,6 +9,7 @@ image:
   creditlink: https://www.pexels.com/photo/timelapse-photography-of-vehicle-on-concrete-road-near-in-high-rise-building-during-nighttime-169677/
 share: true
 categories: [data science, propagandalytics]
+short_description: "Just stopping by our favorite news site to read one or two articles could potentially expose information about us to dozens of different companies, most of which we know nothing about."
 ---
 
 
@@ -26,7 +27,7 @@ Here's what it looks like...
 
 <a href="/assets/images/ad_network.png" target="blank_"><img src="/assets/images/ad_network.png" alt="a network graph of 25 different news websites and the adtech services they call in the background when visiting pages" /></a>
 
-This network graph takes <a href="https://gist.github.com/billfitzgerald/5965a6009a9b939f4155cffea2fe8170" target="blank_">the data from Bill's analysis</a> and arranges it spatially. Each node (dot) in this network represents a domain on the web. The arrows tell you what happens to your data when you visit one of those domains. (For the sake of clarity, we only included connections made at least ten times in the course of visiting three pages on a site.)
+This network graph (click the image to enlarge) takes <a href="https://gist.github.com/billfitzgerald/5965a6009a9b939f4155cffea2fe8170" target="blank_">the data from Bill's analysis</a> and arranges it spatially. Each node (dot) in this network represents a domain on the web. The arrows tell you what happens to your data when you visit one of those domains. Darker arrows signify more data requests. (For the sake of clarity, we only included connections made at least ten times in the course of visiting three pages on a site.)
 
 For example, when you visit the New York Times, it sends requests for data from its own network of servers, as well as Google (both Google Syndication and Doubleclick.net), 2mdn.net, and a variety of other ad servers. When you visit a page on RT, it makes requests from even more sites. And while most of these requests are requests *for* data, most of them also involve *sending* data. Data about your location, your browser, your window size, the network you're accessing their website from, the page that you're on, what you clicked on, if you're logged into Google or Facebook, if you have a cookie from one of their partners installed, etc. This is all in the service of providing you a more "personalized" experience (without, or so they claim, using your truly "personal" data). It's also in the service of providing themselves revenue in the form of advertising, and in some cases, data collection with the purpose of trading or selling that data.
 
