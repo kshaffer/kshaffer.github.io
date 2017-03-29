@@ -59,12 +59,12 @@ Comparing top-10 lists can provide interesting results, but there are statistica
 
 <a href="/assets/images/migra_Mar1.png" target="blank_"><img src="/assets/images/migra_Mar1.png" alt="Log odds ratio: most distinctive two-word phrases containing 'migra' in Trump and Obama administration websites" /></a>
 
-Comparing the most distinctive immigration-related phrases on these two websites reveals several important trends. First, **the Trump administration is more heavily focused on the enactment and enforcement of immigration law** ― in other words, keeping (and kicking) immigrants out. Second, **the Trump administration is more likely to label immigrants as illegal.** On the other side, we see that **the Obama administration is more focused on speaking to immigrants,** with significant Spanish-language content on the site. Also, **the Obama administration is more focused on reforming a broken system through "commonsense" and "comprehensive" means,** presumably legislative.
+Comparing the most distinctive immigration-related phrases on these two websites reveals several important trends. First, **the Trump administration is more heavily focused on the enactment and enforcement of immigration law** ― in other words, keeping (and kicking) immigrants out. Second, **the Trump administration is more likely to label immigrants as illegal.** On the other side, we see that **the Obama administration is more focused on speaking *to* immigrants,** with significant Spanish-language content on the site. Also, **the Obama administration is more focused on reforming a broken system through "commonsense" and "comprehensive" means,** presumably legislation.
 
 This distills into two main realizations:
 
-- The Obama administration saw immigration law as the problem in need of fixing.  
-- The Trump administration sees immigrants as the problem that needs fixing.  
+- The Obama administration saw *immigration law* as the problem in need of fixing.  
+- The Trump administration sees *immigrants* as the problem that needs fixing.  
 
 The result is a greater emphasis of the Obama administration on the need for changes in the law that help immigrants join American society in meaningful, "commonsense" ways, using legislation as the vehicle for this change, and an emphasis of the Trump administration on getting and keeping certain people out of the country, using various law enforcement agencies to accomplish this.
 
