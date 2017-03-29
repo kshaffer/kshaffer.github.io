@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trump on immigration"
+title: "Trump's immigration language"
 modified: 2017-03-29 12:12:00 -0500
 image:
   feature: policeLine.jpeg
