@@ -71,3 +71,7 @@ The result is a greater emphasis of the Obama administration on the need for cha
 As with all "distant readings", this is a generalization, and there are a lot of important nuances about the two administrations and their specific actions that cannot be glazed over. However, in this time of non-stop, head-spinning news, I find it incredibly valuable to take a step back and get a broad view of what's going on.
 
 As with science, I find this broad view of Trump's approach to immigration disturbing, even more so when compared with the Obama administration. While I agree with Obama that *immigration policy* is an issue in need of both scrutiny and reform, I find Trump's view reprehensible ― the idea that *immigrants themselves* are the problem that needs to be solved. And as long as Trump keeps talking up immigrants as the problem in need of a solution, people will continue to get hurt, no matter how many laws are passed or court cases are tried.
+
+*All data and code for this analysis can be downloaded from my <a href="https://github.com/kshaffer/whitehouse" target="blank_">whitehouse GitHub repository</a>.*
+
+*Header image by <a href="https://unsplash.com/photos/jS09rLLu-kM" target="blank_">Nico Beard</a>.*
