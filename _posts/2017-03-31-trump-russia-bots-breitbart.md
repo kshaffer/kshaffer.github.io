@@ -8,6 +8,7 @@ image:
   credit:
 share: true
 categories: [data science, propagandalytics]
+short_description: "There are multiple, powerful forces waging a psychological information war against the American people."
 ---
 
 I've been researching and publishing a lot lately on misinformation, disinformation, ad-tech, sockpuppets, bots, media literacy, election hacking, and the Trump administration. There's a lot there. And it's scary stuff. But in the midst of the current head-spinning, scandal-a-minute news cycle, I can understand how this stuff can quickly get overwhelming.
