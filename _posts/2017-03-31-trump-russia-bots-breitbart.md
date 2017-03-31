@@ -1,9 +1,10 @@
----layout: post
+---
+layout: post
 title: "Trump, Russia, bots, and Brietbart: tl;dr edition"
 modified: 2017-03-31 14:11:00 -0400
 image:  
-feature: .jpg  
-teaser: -teaser.jpg  
+feature: keyboardOld.jpg  
+teaser: keyboardOld-teaser.jpg  
 credit:
 share: true
 categories: [data science, propagandalytics]
