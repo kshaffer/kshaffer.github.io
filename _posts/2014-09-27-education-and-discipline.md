@@ -30,7 +30,7 @@ In the article Jesse links to, he argues:
 
 > As a teacher, I try to encourage students to be honest about how much they read, what that reading looks like, when they stop reading, when they start again, etc. Most importantly, I ask why. It’s often as interesting to know why we put a book down, as it is to know why we pick one up—to examine our looking away and to examine our compulsion to avoid thinking about or theorizing that looking away. I don’t actively discourage students from reading, but I also do not police their reading. If they’re having trouble, I talk to them about reading strategies (which often involve skimming or thoughtful skipping). I never assume students aren’t reading because of laziness. I always assume their reasons are as complex as my own. And I never work to fill the gaps of their not reading with shame. Like teaching and learning, reading cannot be compulsory.
 
-Also framing my reading of Gooblar's post is [a blog post published by Sean Michael Morris](http://learning.instructure.com/2014/09/digital-pedagogy-a-case-of-open-or-shut/) the previous day, in which he writes...
+Also framing my reading of Gooblar's post is [a blog post published by Sean Michael Morris](http://seanmichaelmorris.com/digital-pedagogy-a-case-of-open-or-shut/) the previous day, in which he writes...
 
 > If you can't trust students, you shouldn't be teaching.
 
