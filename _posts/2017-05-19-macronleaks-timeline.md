@@ -7,7 +7,7 @@ image:
   teaser: disinfo-teaser.jpg
 share: true
 categories: [data science, propagandalytics]
-short_description: "It's the combination of catalyst accounts and an army of *signal boosters* ― a number of which are bots ― that allows disinformation to spread quickly."
+short_description: "It's the combination of catalyst accounts and an army of signal boosters ― a number of which are bots ― that allows disinformation to spread quickly."
 ---
 
 A lot happened online on May 5, 2017. Ben Starling, CE Carey, and I found evidence of <a href="https://medium.com/data-for-democracy/democracy-hacked-a46c04d9e6d1" target="blank_">a massive disinformation campaign taking place on Twitter and 4chan</a>, in an attempt to swing the French presidential election in favor of Marine Le Pen. As we were putting the finishing touches on our article about this campaign, we saw <a href="https://twitter.com/wikileaks/status/860577607670276096" target="blank_">the tweet from WikiLeaks</a>, announcing that a 9GB dump of documents from the Macron campaign (dubbed #MacronLeaks) had been posted online. Then the Macron campaign confirmed that they had been the target of hackers, <a href="http://www.reuters.com/article/us-france-election-macron-leaks-idUSKBN1812AZ?utm_source=twitter&amp;utm_medium=Social" target="blank_">possibly with Russian connections</a>.
