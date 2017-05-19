@@ -21,7 +21,7 @@ We continued to collect tweets related to the French election until two days aft
 
 Here is a <a href="https://timeline.knightlab.com/" target="blank_">timeline</a> of how the MacronLeaks campaign progressed, beginning with early signs that a data dump might be coming, through the Macron campaign's announcement confirming a hack.
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16WSJUwmVstsjH6R6l1mdext1P9vnXeHu-J88fCWeONs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16WSJUwmVstsjH6R6l1mdext1P9vnXeHu-J88fCWeONs&font=Default&lang=en&initial_zoom=2&height=650' width='150%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 There are a few key takeaways from this timeline:
 
