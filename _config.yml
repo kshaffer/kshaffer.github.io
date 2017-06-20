@@ -7,7 +7,7 @@ paginate_path: "/blog-archive/page:num/"
 
 # Website info
 name: 'Kris Shaffer'
-description: "Data scientist. Digital media specialist. Developer. Author."
+description: "Data scientist. Digital media specialist. Developer. Author.<br/>pushpullfork.com"
 
 # Author's info
 author: 'Kris Shaffer'
