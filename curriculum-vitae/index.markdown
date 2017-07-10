@@ -33,6 +33,8 @@ Assistant Professor of Music Theory, Charleston Southern University, 2011–13
 
 ## Publications – peer-reviewed articles
 
+["Indie, Open, Free: The Fraught Ideologies of Ed-Tech."](http://www.digitalpedagogylab.com/hybridped/indie-open-free/) In [*Hybrid Pedagogy*](http://www.hybridpedagogy.com). June 6, 2017.
+
 ["Truthy Lies, Surreal Truths: A Plea for Critical Digital Literacies."](http://www.digitalpedagogylab.com/hybridped/truthy-lies-surreal-truths/) In [*Hybrid Pedagogy*](http://www.hybridpedagogy.com). December 8, 2016.
 
 ["Hacking the Music Theory Classroom: Standards-Based Grading, Just-in-Time Teaching, and the Inverted Class."](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html) In [*Music Theory Online*](http://www.mtosmt.org) 21.1 (2015).  Co-authors: Philip Duker, Anna Gawboy, Bryn Hughes.
@@ -58,6 +60,16 @@ Assistant Professor of Music Theory, Charleston Southern University, 2011–13
 ["Open-source scholarship."](http://www.hybridpedagogy.com/Journal/files/Open_Source_Scholarship.html) In [*Hybrid Pedagogy*](http://hybridpedagogy.com), May 22, 2013.
 
 ## Publications – editor-reviewed articles
+
+["Spot a Bot: Identifying Automation and Disinformation on Social Media."](https://medium.com/data-for-democracy/spot-a-bot-identifying-automation-and-disinformation-on-social-media-2966ad93a203) In [*Data for Democracy*](https://medium.com/data-for-democracy), June 5, 2017. Co-author: Bill Fitzgerald.
+
+["#MacronLeaks — how disinformation spreads."](https://medium.com/data-for-democracy/macronleaks-how-disinformation-spreads-d1efe9d3dd18?source=collection_home---6------3-----------) In [*Data for Democracy*](https://medium.com/data-for-democracy), May 22, 2017.
+
+["Democracy Hacked: A Massive, Pro-Le Pen Disinformation Campaign Hits Twitter, 4chan, and the Mainstream Media."](https://medium.com/data-for-democracy/democracy-hacked-a46c04d9e6d1) In [*Data for Democracy*](https://medium.com/data-for-democracy), May 5, 2017. Co-authors: Ben Starling and C.E. Carey.
+
+["The Business of Hate Media: How Google and Facebook make online harassment and disinformation both possible and profitable."](https://medium.com/data-for-democracy/the-business-of-hate-media-47603a5de5f4) In [*Data for Democracy*](https://medium.com/data-for-democracy), April 24, 2017.
+
+["Sockpuppets, Secessionists, and Breitbart: How Russia May Have Orchestrated a Massive Social Media Influence Campaign."](https://medium.com/data-for-democracy/sockpuppets-secessionists-and-breitbart-7171b1134cd5) In [*Data for Democracy*](https://medium.com/data-for-democracy), March 31, 2017. Co-author: Jonathon Morgan.
 
 ["Statistical Variance and Transpositional Analysis: A Commentary on Plazak (2016)."](http://emusicology.org/article/view/5299/4404) In [*Empirical Musicology Review*](http://emusicology.org) 11/1, 2016.
 
@@ -92,6 +104,10 @@ John F. Enders Fellowship (Yale University Graduate School), 2010
 > for short-term study in the Ligeti Collection
 
 ## Presentations
+
+["From blended learning to hybrid pedagogy"](http://pushpullfork.com/2016/11/from-blended-learning-to-hybrid-pedagogy/)
+
+> Presentation given at Moravian College (November 18, 2016) and Bates College (March 10, 2017).
 
 "Demystifying Ed-tech algorithms"
 
