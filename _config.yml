@@ -23,7 +23,7 @@ short_url: 'pushpullfork.com'
 google_analytics:
 disqus:
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: http://pushpullfork.com/
 
 # Permalinks
 permalink:   /:year/:month/:title/
