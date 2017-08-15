@@ -19,13 +19,17 @@ As more and more people take to Twitter to keep up on fast-developing events, it
 High-volume Twitter accounts ― such as bots ― play <a href="https://medium.com/data-for-democracy/spot-a-bot-identifying-automation-and-disinformation-on-social-media-2966ad93a203" target="blank_">a significant role in the spread of disinformation online</a>. We have seen the same pattern in a number of disinformation campaigns: *catalyst* accounts seed a kernel of disinformation, and a large network of *signal boosters* amplify the signal, in the hopes that it will reach a wide audience that spills over into mainstream consciousness.
 
 This was certainly the case in the <a href="https://medium.com/data-for-democracy/democracy-hacked-a46c04d9e6d1" target="blank_">lead-up to the French presidential election</a> this spring, and <a href="https://medium.com/data-for-democracy" target="blank_">my Data for Democracy colleagues and I</a> have found Twitter bots, sockpuppets, and other high-volume accounts played a significant role in a number of (mostly far-right) disinformation campaigns in the past couple years.
+
 But this weekend's #unitetheright protests and terrorist attack presented a new problem. **Misinformation thrives during terror attacks and other breaking stories.** Many witnesses are sharing their perspective from their own up-close, but limited, vantage point; others are trying to spin (and omit) details into a narrative that favors their preconceived ideology; and no one ― not even the most seasoned journalists ― has the time to fact-check every claim at the pace of media consumption.
+
 Given how easy it is for incorrect and incomplete information to spread, breaking stories like Friday's rally and Saturday's terror attack seem like the ideal environment in which to seed disinformation, misinformation, and heavily biased narratives. But it's not simple to manage such a campaign when the story develops rapidly, and the usual catalysts (and even many of the bot/sockpuppet operators) are *physically present at the event*. While bots and sockpuppets are at work during events like #unitetheright, their role is different than in traditional disinformation campaigns, and it's not always obvious from looking at an account which side they are on.
 
 ## The tweets
 
 I collected just under 700,000 tweets from 6:24 UTC (2:24am Charlottesville local time) on Saturday, August 12, to 22:29 UTC (6:29pm Charlottesville local time) on Sunday, August 13. As far as I could tell, this collection included the vast majority of (if not all of) the public tweets from that time period containing the hashtag #unitetheright.
 The bulk of these tweets were posted in the immediate aftermath of the car crash that killed one civil rights activist and injured at least 19 other individuals.
+
+<i>(For all images, click to view full-size.)</i>
 
 <a href="/assets/images/frequency_all.png" target="blank_"><img src="/assets/images/frequency_all.png" alt="#unitetheright tweets per hour" /></a>
 
@@ -78,9 +82,9 @@ It's interesting to see here how the typical perception of these sites' politics
 
 Applying the same analysis to the text of the #unitetheright tweets, we can see the same kinds of patterns emerge. Here are the bigrams (two-word phrases) most distinctive of high- and low-volume accounts, as well as a two-dimensional map of the 50 most common bigrams.
 
-<a href="/assets/images/bigram_logodds_10.png" target="blank_"><img src="/assets/images/bigram_logodds_10.png" alt="Most distinctive bigrams shared on #unitetheright by low- and high-volume accounts" /></a>
+<a href="/assets/images/bigrams_logodds_10.png" target="blank_"><img src="/assets/images/bigrams_logodds_10.png" alt="Most distinctive bigrams shared on #unitetheright by low- and high-volume accounts" /></a>
 
-<a href="/assets/images/bigram_2d_no_rt.png" target="blank_"><img src="/assets/images/bigram_2d_no_rt.png" alt="Most distinctive bigrams shared on #unitetheright by low- and high-volume accounts" /></a>
+<a href="/assets/images/bigrams_2d_no_rt.png" target="blank_"><img src="/assets/images/bigrams_2d_no_rt.png" alt="Most distinctive bigrams shared on #unitetheright by low- and high-volume accounts" /></a>
 
 The phrases most distinctive of high-volume accounts are those talking about the identity of the attacker, and those pushing a narrative that sees the media, the antifa (anti-fascist) movement, and Black Lives Matter as the enemies. The phrases appearing in similar proportion across all accounts are those that describe the details of the incident ("car attack", "counter protest", "Richard Spencer", etc.). And the phrases most distinctive of low-volume accounts are those that describe (usually in less than flattering terms) the far-right marchers: "white supremacist", "white nationalist", "neo nazis", and (poking fun at the very non-white-American choice of light source on Friday night) "tiki torches".
 It's heartening to see that the bulk of Twitter users are in opposition to the white nationalist extremists who marched on Saturday, one of whom killed an activist. But you wouldn't know that from looking at the tweets overall. Three-fourths of the *users* are in the low-volume, largely anti-white-nationalist category here, but roughly three-fourths of the *tweets* are in the high-volume, largely pro-white-nationalist category. And while Twitter does make meager attempts to keep botnets from gaming their "trending" algorithm, it was impossible to follow the weekend's events without being flooded with pro-white-nationalist content, on both the hashtags and Twitter Moments.
