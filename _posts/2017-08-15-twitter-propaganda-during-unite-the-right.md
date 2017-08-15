@@ -9,6 +9,7 @@ image:
   creditlink: linktosource
 share: true
 categories: [data science, propagandalytics]
+short_description: "This isn't just disinformation. It's also censorship. And it's terrorism. It's time to fight back."
 ---
 
 As more and more people take to Twitter to keep up on fast-developing events, it's more important than ever important to understand how their platform facilitates the spread of misinformation, disinformation, and hate, as well as up-to-the-minute accounts of fact. While news and live video content was indeed shared widely and rapidly on Twitter during this weekend's #unitetheright rally, high-volume accounts highjacked the trending hashtags to push a pro-white-nationalist agenda and share disparaging disinformation about antifa, Black Lives Matter, other activists, and the mainstream media, with the intent (and effect) of flooding out the good information with propaganda.
@@ -90,6 +91,7 @@ As my colleagues and I have written before, these disinformation campaigns are a
 It turns out that while things look very different than in the #macronleaks campaign, high-volume accounts played an important part in the spread of (mis/dis)information during and after the #unitetheright rally. The high-volume accounts using the #unitetheright hashtag tended to share far-right propaganda more than the low-volume accounts, and the high-volume accounts maintained peak activity far longer after the terrorist attack than average accounts. In general, these high-volume accounts did not serve as signal boosters for specific catalysts like we've seen in the past. Instead, they capitalized on the media attention brought by the terror attack and used it to push several standard far-right propaganda narratives. While few of these narratives made it into the mainstream news media, they were echoed by Donald Trump's initial response to the events in Charlottesville, and any Twitter user who clicked on the #unitetheright trending moment would have seen a significant number of tweets pushing that narrative mixed in with actual news and eyewitness reporting.
 
 In her recent book <a href="https://www.twitterandteargas.org/" target="blank_"><i>Twitter and Tear Gas</i></a>, Zeynep Tufekci redefines censorship for the digital age. Censorship is no longer a silencing of a voice by force, but a flooding of the information landscape with so much disinformation that the truth is covered. It seems that the extremists of #unitetheright are not only trying to push a false narrative about the media and identity groups other than young, white, straight men, but they are also trying to flood our news feeds with so much filth that the truth becomes harder to find ― and so stained by the filth around it that we don't believe it when we do find it.
+
 This isn't just disinformation. It's also censorship. And it's terrorism.
 It's time <a href="http://www.digitalpedagogylab.com/hybridped/truthy-lies-surreal-truths/" target="blank_">to fight back</a>.
 
