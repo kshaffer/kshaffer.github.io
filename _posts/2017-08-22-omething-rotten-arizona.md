@@ -61,4 +61,4 @@ Or put more starkly, ***white nationalist propaganda seems to exert a significan
 
 And that's truly frightening.
 
-<i>Header image by <a href="https://www.pexels.com/photo/brown-cardboard-robot-artwork-176842/" target="blank_">InstaWalli.</i>
+<i>Header image by <a href="https://www.pexels.com/photo/brown-cardboard-robot-artwork-176842/" target="blank_">InstaWalli</a>.</i>
