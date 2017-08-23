@@ -9,6 +9,7 @@ image:
   creditlink: linktosource
 share: true
 categories: [data science, propagandalytics]
+short_description: "White nationalist propaganda seems to exert a significant influence on President Trump's values and rhetoric."
 ---
 
 Last night, President Trump gave a speech in Phoenix that sounded a lot like his campaign speeches in 2016. *Build a wall... Radical Islamic terrorism... Crooked media...*
