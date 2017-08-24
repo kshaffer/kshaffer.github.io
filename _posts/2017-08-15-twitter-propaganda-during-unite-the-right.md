@@ -99,4 +99,6 @@ In her recent book <a href="https://www.twitterandteargas.org/" target="blank_">
 This isn't just disinformation. It's also censorship. And it's terrorism.
 It's time <a href="http://www.digitalpedagogylab.com/hybridped/truthy-lies-surreal-truths/" target="blank_">to fight back</a>.
 
+<i>Note: the Twitter scrape and analysis were conducted with an extension of my <a href="https://github.com/kshaffer/tweetmineR" target="blank_">tweetmineR</a> utility for Python and R.</i>
+
 <i>Featured image by <a href="https://www.flickr.com/photos/ginz/6816885427/" target="blank_">Gwendolen Tee</a>.</i>

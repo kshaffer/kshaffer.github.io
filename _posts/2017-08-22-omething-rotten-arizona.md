@@ -61,4 +61,6 @@ Or put more starkly, ***white nationalist propaganda seems to exert a significan
 
 And that's truly frightening.
 
+<i>Note: the Twitter scrape and analysis were conducted with an extension of my <a href="https://github.com/kshaffer/tweetmineR" target="blank_">tweetmineR</a> utility for Python and R. Trump's speeches and statements were downloaded and analyzed with my <a href="https://github.com/kshaffer/presidencyproject" target="blank_">presidencyproject</a> scripts for R.</i>
+
 <i>Header image by <a href="https://www.pexels.com/photo/brown-cardboard-robot-artwork-176842/" target="blank_">InstaWalli</a>.</i>
