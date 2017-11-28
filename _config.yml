@@ -15,15 +15,15 @@ author: 'Kris Shaffer'
 nickname: kris
 bio: 'Kris Shaffer, Ph.D. (Yale University, 2011), is an Instructional Technology Specialist and adjunct instructor in Computer Science and Digital Studies at the <a href="http://umwdtlt.com/"  target="blank_">University of Mary Washington</a> and Contributing Editor for <a href="http://digitalpedagogylab.com/hybridped" target="blank_">Hybrid Pedagogy</a>. He is also the lead author of <a href="http://openmusictheory.com" target="blank_"><i>Open Music Theory</i></a> and contributor to <a href="https://r-bloggers.com" target="blank_">R-Bloggers</a>.'
 location: 'Fredericksburg, Va.'
-url: 'http://pushpullfork.com'
-root_url: 'http://pushpullfork.com'
+url: 'https://kshaffer.github.io'
+root_url: 'https://kshaffer.github.io'
 image: '/assets/images/krishead.jpg'
 
-short_url: 'pushpullfork.com'
+short_url: 'kshaffer.github.io'
 google_analytics:
 disqus:
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: http://pushpullfork.com/
+baseurl: https://kshaffer.github.io/
 
 # Permalinks
 permalink:   /:year/:month/:title/
@@ -61,7 +61,7 @@ repo: jasper
 branch: master
 relative_source: ../
 destination: ../
-production_url:  http://pushpullfork.com
+production_url:  https://kshaffer.github.io
 source_url:      https://github.com/kshaffer/
 
 exclude:
